@@ -1,0 +1,534 @@
+digraph D {
+	graph [rankdir=LR nodesep=0.1 ranksep=0.3];
+	node [shape=box fontsize=9 margin=0.05 penwidth=0.5 height=0 fillcolor=lightcyan color=darkgrey style=filled];
+	edge [arrowsize=0.5 color=darkgrey penwidth=0.5];
+	subgraph cluster_pooled_rep {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = oldlace;
+		labeljust = "l";
+		label = "Pooled replicate";
+		"-6791208532212101080";
+		"772008643445066325";
+		"-6984154966059410357";
+		"4417803931353776958";
+		"7338515908954283876";
+		"3198895919352359340";
+		"-1453544426365499645";
+		"2497234751638756308";
+	}
+	subgraph cluster_rep1 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Replicate 1";
+		"5302158530461648010";
+		"5415304203922663045";
+		"-422029430993837440";
+		"194469718558914770";
+		"4463295902573977183";
+		"-5893331297581804200";
+		"7078024874918700112";
+		"552709417447928099";
+		"-8571702431294862393";
+		"8041236536508879811";
+		"-7687703746494625097";
+		"-966222396014774609";
+		"5651329519434981168";
+		"-3230502146963533719";
+		"-8304472859755047951";
+		"-1439466110916169618";
+		"837334085546285376";
+		"3969581309175489900";
+	}
+	subgraph cluster_rep2 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Replicate 2";
+		"2127870121283772756";
+		"-7274819941770455986";
+		"1510955892261810850";
+		"-3731552099571007975";
+		"5471486328133664464";
+		"1666558705720006112";
+		"-169120174206547831";
+		"-7922357765320719826";
+		"436532554733248580";
+		"-6556260836160431455";
+		"8204893592174097506";
+		"424133714356904776";
+		"4820388577740287962";
+		"3435212956505976417";
+		"2903417105039607523";
+		"-8365532074394379431";
+		"-1886972730777967038";
+		"-1489939604549077447";
+	}
+	subgraph cluster_rep3 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Replicate 3";
+	}
+	subgraph cluster_rep4 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Replicate 4";
+	}
+	subgraph cluster_rep5 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Replicate 5";
+	}
+	subgraph cluster_rep6 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Replicate 6";
+	}
+	subgraph cluster_rep7 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Replicate 7";
+	}
+	subgraph cluster_rep8 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Replicate 8";
+	}
+	subgraph cluster_rep9 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Replicate 9";
+	}
+	subgraph cluster_rep10 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Replicate 10";
+	}
+	subgraph cluster_pooled_ctl {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = oldlace;
+		labeljust = "l";
+		label = "Pooled control";
+		"-7494375252731733212";
+		"4701358028869948434";
+	}
+	subgraph cluster_ctl1 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Control 1";
+		"157456248337065665";
+		"6286429611924732730";
+		"-4953157400166850393";
+		"-946462629804873350";
+		"8921585390301953937";
+		"-4118055348176115279";
+		"3918396094910268417";
+		"5906638818835125952";
+		"-3291475527655340007";
+		"-556478763123174961";
+	}
+	subgraph cluster_ctl2 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Control 2";
+		"-1149107282376375207";
+		"-9016481185123167010";
+		"-2240190763445443958";
+		"2785969301159745598";
+		"961750528034655918";
+		"-927560556850316013";
+		"602259220148467291";
+		"1026307990729862709";
+		"-871675606738697039";
+		"-1064953719694955053";
+	}
+	subgraph cluster_ctl3 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Control 3";
+	}
+	subgraph cluster_ctl4 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Control 4";
+	}
+	subgraph cluster_ctl5 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Control 5";
+	}
+	subgraph cluster_ctl6 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Control 6";
+	}
+	subgraph cluster_ctl7 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Control 7";
+	}
+	subgraph cluster_ctl8 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Control 8";
+	}
+	subgraph cluster_ctl9 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Control 9";
+	}
+	subgraph cluster_ctl10 {
+		style = "filled, dashed";
+		fontsize = 9;
+		color = darkgrey;
+		penwidth = 0.5;
+		fillcolor = honeydew;
+		labeljust = "l";
+		label = "Control 10";
+	}
+	"7399720742609296115" [label="chip.idr_ppr"];
+	"8342736366106190706" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="IDR Plot
+ppr" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-idr_ppr/execution/glob-8da83e7748d9e54f3e082eb4aa171757/pooled-pr1_vs_pooled-pr2.idr0.05.unthresholded-peaks.txt.png" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-idr_ppr/execution/glob-8da83e7748d9e54f3e082eb4aa171757/pooled-pr1_vs_pooled-pr2.idr0.05.unthresholded-peaks.txt.png"];
+	"4308018196021954457" [shape=box style="filled, rounded" fillcolor=lightyellow label="IDR Peak
+ppr" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-idr_ppr/execution/glob-dab68893df43168f2b301266b4498136/pooled-pr1_vs_pooled-pr2.idr0.05.bfilt.regionPeak.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-idr_ppr/execution/glob-dab68893df43168f2b301266b4498136/pooled-pr1_vs_pooled-pr2.idr0.05.bfilt.regionPeak.gz"];
+	"-8899502548364630817" [label="chip.idr"];
+	"7790054909935987490" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="IDR Plot
+rep1_vs_rep2" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-idr/shard-0/execution/glob-8da83e7748d9e54f3e082eb4aa171757/rep1_vs_rep2.idr0.05.unthresholded-peaks.txt.png" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-idr/shard-0/execution/glob-8da83e7748d9e54f3e082eb4aa171757/rep1_vs_rep2.idr0.05.unthresholded-peaks.txt.png"];
+	"7395337535931953618" [shape=box style="filled, rounded" fillcolor=lightyellow label="IDR NPeak
+rep1_vs_rep2" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-idr/shard-0/execution/glob-dab68893df43168f2b301266b4498136/rep1_vs_rep2.idr0.05.bfilt.regionPeak.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-idr/shard-0/execution/glob-dab68893df43168f2b301266b4498136/rep1_vs_rep2.idr0.05.bfilt.regionPeak.gz"];
+	"-8138565283271957147" [label="chip.overlap"];
+	"-7125602342234209768" [shape=box style="filled, rounded" fillcolor=lightyellow label="Overlap Peak
+rep1_vs_rep2" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-overlap/shard-0/execution/glob-dab68893df43168f2b301266b4498136/rep1_vs_rep2.overlap.bfilt.regionPeak.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-overlap/shard-0/execution/glob-dab68893df43168f2b301266b4498136/rep1_vs_rep2.overlap.bfilt.regionPeak.gz"];
+	"5302158530461648010" [label="chip.call_peak"];
+	"5415304203922663045" [shape=box style="filled, rounded" fillcolor=lightyellow label="Peak
+(bfilt)" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-call_peak/shard-0/execution/glob-dab68893df43168f2b301266b4498136/rep1.subsampled.25.merged.nodup_x_ctl_for_rep1.300K.bfilt.regionPeak.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-call_peak/shard-0/execution/glob-dab68893df43168f2b301266b4498136/rep1.subsampled.25.merged.nodup_x_ctl_for_rep1.300K.bfilt.regionPeak.gz"];
+	"-422029430993837440" [shape=box style="filled, rounded" fillcolor=lightyellow label="Peak" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-call_peak/shard-0/execution/glob-3c17d82667de5da0b56a7c17d88175d2/rep1.subsampled.25.merged.nodup_x_ctl_for_rep1.300K.regionPeak.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-call_peak/shard-0/execution/glob-3c17d82667de5da0b56a7c17d88175d2/rep1.subsampled.25.merged.nodup_x_ctl_for_rep1.300K.regionPeak.gz"];
+	"2127870121283772756" [label="chip.call_peak"];
+	"-7274819941770455986" [shape=box style="filled, rounded" fillcolor=lightyellow label="Peak
+(bfilt)" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-call_peak/shard-1/execution/glob-dab68893df43168f2b301266b4498136/rep2.subsampled.20.merged.nodup_x_ctl_for_rep2.300K.bfilt.regionPeak.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-call_peak/shard-1/execution/glob-dab68893df43168f2b301266b4498136/rep2.subsampled.20.merged.nodup_x_ctl_for_rep2.300K.bfilt.regionPeak.gz"];
+	"1510955892261810850" [shape=box style="filled, rounded" fillcolor=lightyellow label="Peak" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-call_peak/shard-1/execution/glob-3c17d82667de5da0b56a7c17d88175d2/rep2.subsampled.20.merged.nodup_x_ctl_for_rep2.300K.regionPeak.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-call_peak/shard-1/execution/glob-3c17d82667de5da0b56a7c17d88175d2/rep2.subsampled.20.merged.nodup_x_ctl_for_rep2.300K.regionPeak.gz"];
+	"-6791208532212101080" [label="chip.macs2_signal_track_pooled"];
+	"772008643445066325" [shape=box style="filled, rounded" fillcolor=lightyellow label="BW
+p-val" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-macs2_signal_track_pooled/execution/glob-7ab0340dfeb10ca109917cbdcc568548/rep1.subsampled.25.merged.nodup.pooled_x_ctl1.subsampled.25.merged.nodup.pooled.pval.signal.bigwig" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-macs2_signal_track_pooled/execution/glob-7ab0340dfeb10ca109917cbdcc568548/rep1.subsampled.25.merged.nodup.pooled_x_ctl1.subsampled.25.merged.nodup.pooled.pval.signal.bigwig"];
+	"-6984154966059410357" [shape=box style="filled, rounded" fillcolor=lightyellow label="BW
+FC" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-macs2_signal_track_pooled/execution/glob-8876d8ced974dc46a0c7a4fac20a3a95/rep1.subsampled.25.merged.nodup.pooled_x_ctl1.subsampled.25.merged.nodup.pooled.fc.signal.bigwig" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-macs2_signal_track_pooled/execution/glob-8876d8ced974dc46a0c7a4fac20a3a95/rep1.subsampled.25.merged.nodup.pooled_x_ctl1.subsampled.25.merged.nodup.pooled.fc.signal.bigwig"];
+	"-2639767338362642740" [label="chip.reproducibility_overlap"];
+	"3065639584611360684" [shape=box style="filled, rounded" fillcolor=lightyellow label="Overlap Peak
+optimal" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-reproducibility_overlap/execution/glob-1b1244d5baf1a7d98d4b7b76d79e43bf/overlap.optimal_peak.regionPeak.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-reproducibility_overlap/execution/glob-1b1244d5baf1a7d98d4b7b76d79e43bf/overlap.optimal_peak.regionPeak.gz"];
+	"-2850491260819583831" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="Overlap
+reproducibility" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-reproducibility_overlap/execution/glob-2e0755477c7b64fb4cd35cd75c0b0f2a/overlap.reproducibility.qc" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-reproducibility_overlap/execution/glob-2e0755477c7b64fb4cd35cd75c0b0f2a/overlap.reproducibility.qc"];
+	"194469718558914770" [label="chip.bam2ta"];
+	"4463295902573977183" [shape=box style="filled, rounded" fillcolor=lightyellow label="TAG-ALIGN" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-bam2ta/shard-0/execution/glob-199637d3015dccbe277f621a18be9eb4/rep1.subsampled.25.merged.nodup.tagAlign.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-bam2ta/shard-0/execution/glob-199637d3015dccbe277f621a18be9eb4/rep1.subsampled.25.merged.nodup.tagAlign.gz"];
+	"-3731552099571007975" [label="chip.bam2ta"];
+	"5471486328133664464" [shape=box style="filled, rounded" fillcolor=lightyellow label="TAG-ALIGN" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-bam2ta/shard-1/execution/glob-199637d3015dccbe277f621a18be9eb4/rep2.subsampled.20.merged.nodup.tagAlign.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-bam2ta/shard-1/execution/glob-199637d3015dccbe277f621a18be9eb4/rep2.subsampled.20.merged.nodup.tagAlign.gz"];
+	"-1891024241833646589" [label="chip.reproducibility_idr"];
+	"5227377378226387087" [shape=box style="filled, rounded" fillcolor=lightyellow label="IDR Peak
+optimal" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-reproducibility_idr/execution/glob-1b1244d5baf1a7d98d4b7b76d79e43bf/idr.optimal_peak.regionPeak.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-reproducibility_idr/execution/glob-1b1244d5baf1a7d98d4b7b76d79e43bf/idr.optimal_peak.regionPeak.gz"];
+	"8682006834655662321" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="IDR
+reproducibility" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-reproducibility_idr/execution/glob-2e0755477c7b64fb4cd35cd75c0b0f2a/idr.reproducibility.qc" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-reproducibility_idr/execution/glob-2e0755477c7b64fb4cd35cd75c0b0f2a/idr.reproducibility.qc"];
+	"4417803931353776958" [label="chip.call_peak_pooled"];
+	"7338515908954283876" [shape=box style="filled, rounded" fillcolor=lightyellow label="Peak
+(bfilt)" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-call_peak_pooled/execution/glob-dab68893df43168f2b301266b4498136/rep1.subsampled.25.merged.nodup.pooled_x_ctl1.subsampled.25.merged.nodup.pooled.300K.bfilt.regionPeak.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-call_peak_pooled/execution/glob-dab68893df43168f2b301266b4498136/rep1.subsampled.25.merged.nodup.pooled_x_ctl1.subsampled.25.merged.nodup.pooled.300K.bfilt.regionPeak.gz"];
+	"3198895919352359340" [shape=box style="filled, rounded" fillcolor=lightyellow label="Peak" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-call_peak_pooled/execution/glob-3c17d82667de5da0b56a7c17d88175d2/rep1.subsampled.25.merged.nodup.pooled_x_ctl1.subsampled.25.merged.nodup.pooled.300K.regionPeak.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-call_peak_pooled/execution/glob-3c17d82667de5da0b56a7c17d88175d2/rep1.subsampled.25.merged.nodup.pooled_x_ctl1.subsampled.25.merged.nodup.pooled.300K.regionPeak.gz"];
+	"3657840672823500696" [label="chip.overlap_ppr"];
+	"-8027927558658280219" [shape=box style="filled, rounded" fillcolor=lightyellow label="Overlap Peak
+ppr" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-overlap_ppr/execution/glob-dab68893df43168f2b301266b4498136/pooled-pr1_vs_pooled-pr2.overlap.bfilt.regionPeak.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-overlap_ppr/execution/glob-dab68893df43168f2b301266b4498136/pooled-pr1_vs_pooled-pr2.overlap.bfilt.regionPeak.gz"];
+	"-7494375252731733212" [label="chip.pool_ta_ctl"];
+	"4701358028869948434" [shape=box style="filled, rounded" fillcolor=lightyellow label="TAG-ALIGN" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-pool_ta_ctl/execution/glob-199637d3015dccbe277f621a18be9eb4/ctl1.subsampled.25.merged.nodup.pooled.tagAlign.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-pool_ta_ctl/execution/glob-199637d3015dccbe277f621a18be9eb4/ctl1.subsampled.25.merged.nodup.pooled.tagAlign.gz"];
+	"-1453544426365499645" [label="chip.pool_ta"];
+	"2497234751638756308" [shape=box style="filled, rounded" fillcolor=lightyellow label="TAG-ALIGN" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-pool_ta/execution/glob-199637d3015dccbe277f621a18be9eb4/rep1.subsampled.25.merged.nodup.pooled.tagAlign.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-pool_ta/execution/glob-199637d3015dccbe277f621a18be9eb4/rep1.subsampled.25.merged.nodup.pooled.tagAlign.gz"];
+	"-5893331297581804200" [label="chip.filter"];
+	"7078024874918700112" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="SAMstats
+QC" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter/shard-0/execution/glob-7b38d9959cf6f3deb83ac2bd156d8317/rep1.subsampled.25.merged.nodup.samstats.qc" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter/shard-0/execution/glob-7b38d9959cf6f3deb83ac2bd156d8317/rep1.subsampled.25.merged.nodup.samstats.qc"];
+	"552709417447928099" [shape=box style="filled, rounded" fillcolor=lightyellow label="Filt/deduped
+BAM" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter/shard-0/execution/glob-3bcbe4e7489c90f75e0523ac6f3a9385/rep1.subsampled.25.merged.nodup.bam" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter/shard-0/execution/glob-3bcbe4e7489c90f75e0523ac6f3a9385/rep1.subsampled.25.merged.nodup.bam"];
+	"-8571702431294862393" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="LibCmplx
+QC" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter/shard-0/execution/glob-57d0acc485690c2359d57a5a21e0aedb/rep1.subsampled.25.merged.lib_complexity.qc" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter/shard-0/execution/glob-57d0acc485690c2359d57a5a21e0aedb/rep1.subsampled.25.merged.lib_complexity.qc"];
+	"1666558705720006112" [label="chip.filter"];
+	"-169120174206547831" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="SAMstats
+QC" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter/shard-1/execution/glob-7b38d9959cf6f3deb83ac2bd156d8317/rep2.subsampled.20.merged.nodup.samstats.qc" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter/shard-1/execution/glob-7b38d9959cf6f3deb83ac2bd156d8317/rep2.subsampled.20.merged.nodup.samstats.qc"];
+	"-7922357765320719826" [shape=box style="filled, rounded" fillcolor=lightyellow label="Filt/deduped
+BAM" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter/shard-1/execution/glob-3bcbe4e7489c90f75e0523ac6f3a9385/rep2.subsampled.20.merged.nodup.bam" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter/shard-1/execution/glob-3bcbe4e7489c90f75e0523ac6f3a9385/rep2.subsampled.20.merged.nodup.bam"];
+	"436532554733248580" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="LibCmplx
+QC" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter/shard-1/execution/glob-57d0acc485690c2359d57a5a21e0aedb/rep2.subsampled.20.merged.lib_complexity.qc" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter/shard-1/execution/glob-57d0acc485690c2359d57a5a21e0aedb/rep2.subsampled.20.merged.lib_complexity.qc"];
+	"157456248337065665" [label="chip.bam2ta_ctl"];
+	"6286429611924732730" [shape=box style="filled, rounded" fillcolor=lightyellow label="TAG-ALIGN" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-bam2ta_ctl/shard-0/execution/glob-199637d3015dccbe277f621a18be9eb4/ctl1.subsampled.25.merged.nodup.tagAlign.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-bam2ta_ctl/shard-0/execution/glob-199637d3015dccbe277f621a18be9eb4/ctl1.subsampled.25.merged.nodup.tagAlign.gz"];
+	"-1149107282376375207" [label="chip.bam2ta_ctl"];
+	"-9016481185123167010" [shape=box style="filled, rounded" fillcolor=lightyellow label="TAG-ALIGN" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-bam2ta_ctl/shard-1/execution/glob-199637d3015dccbe277f621a18be9eb4/ctl2.subsampled.25.merged.nodup.tagAlign.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-bam2ta_ctl/shard-1/execution/glob-199637d3015dccbe277f621a18be9eb4/ctl2.subsampled.25.merged.nodup.tagAlign.gz"];
+	"8041236536508879811" [label="chip.align"];
+	"-7687703746494625097" [shape=box style="filled, rounded" fillcolor=lightyellow label="BAM" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-align/shard-0/execution/glob-3bcbe4e7489c90f75e0523ac6f3a9385/rep1.subsampled.25.merged.bam" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-align/shard-0/execution/glob-3bcbe4e7489c90f75e0523ac6f3a9385/rep1.subsampled.25.merged.bam"];
+	"-966222396014774609" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="SAMstats
+QC" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-align/shard-0/execution/glob-7b38d9959cf6f3deb83ac2bd156d8317/rep1.subsampled.25.merged.samstats.qc" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-align/shard-0/execution/glob-7b38d9959cf6f3deb83ac2bd156d8317/rep1.subsampled.25.merged.samstats.qc"];
+	"-6556260836160431455" [label="chip.align"];
+	"8204893592174097506" [shape=box style="filled, rounded" fillcolor=lightyellow label="BAM" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-align/shard-1/execution/glob-3bcbe4e7489c90f75e0523ac6f3a9385/rep2.subsampled.20.merged.bam" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-align/shard-1/execution/glob-3bcbe4e7489c90f75e0523ac6f3a9385/rep2.subsampled.20.merged.bam"];
+	"424133714356904776" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="SAMstats
+QC" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-align/shard-1/execution/glob-7b38d9959cf6f3deb83ac2bd156d8317/rep2.subsampled.20.merged.samstats.qc" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-align/shard-1/execution/glob-7b38d9959cf6f3deb83ac2bd156d8317/rep2.subsampled.20.merged.samstats.qc"];
+	"-4953157400166850393" [label="chip.filter_ctl"];
+	"-946462629804873350" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="SAMstats
+QC" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter_ctl/shard-0/execution/glob-7b38d9959cf6f3deb83ac2bd156d8317/ctl1.subsampled.25.merged.nodup.samstats.qc" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter_ctl/shard-0/execution/glob-7b38d9959cf6f3deb83ac2bd156d8317/ctl1.subsampled.25.merged.nodup.samstats.qc"];
+	"8921585390301953937" [shape=box style="filled, rounded" fillcolor=lightyellow label="Filt/deduped
+BAM" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter_ctl/shard-0/execution/glob-3bcbe4e7489c90f75e0523ac6f3a9385/ctl1.subsampled.25.merged.nodup.bam" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter_ctl/shard-0/execution/glob-3bcbe4e7489c90f75e0523ac6f3a9385/ctl1.subsampled.25.merged.nodup.bam"];
+	"-4118055348176115279" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="LibCmplx
+QC" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter_ctl/shard-0/execution/glob-57d0acc485690c2359d57a5a21e0aedb/ctl1.subsampled.25.merged.lib_complexity.qc" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter_ctl/shard-0/execution/glob-57d0acc485690c2359d57a5a21e0aedb/ctl1.subsampled.25.merged.lib_complexity.qc"];
+	"-2240190763445443958" [label="chip.filter_ctl"];
+	"2785969301159745598" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="SAMstats
+QC" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter_ctl/shard-1/execution/glob-7b38d9959cf6f3deb83ac2bd156d8317/ctl2.subsampled.25.merged.nodup.samstats.qc" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter_ctl/shard-1/execution/glob-7b38d9959cf6f3deb83ac2bd156d8317/ctl2.subsampled.25.merged.nodup.samstats.qc"];
+	"961750528034655918" [shape=box style="filled, rounded" fillcolor=lightyellow label="Filt/deduped
+BAM" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter_ctl/shard-1/execution/glob-3bcbe4e7489c90f75e0523ac6f3a9385/ctl2.subsampled.25.merged.nodup.bam" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter_ctl/shard-1/execution/glob-3bcbe4e7489c90f75e0523ac6f3a9385/ctl2.subsampled.25.merged.nodup.bam"];
+	"-927560556850316013" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="LibCmplx
+QC" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter_ctl/shard-1/execution/glob-57d0acc485690c2359d57a5a21e0aedb/ctl2.subsampled.25.merged.lib_complexity.qc" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-filter_ctl/shard-1/execution/glob-57d0acc485690c2359d57a5a21e0aedb/ctl2.subsampled.25.merged.lib_complexity.qc"];
+	"3918396094910268417" [label="chip.align_ctl"];
+	"5906638818835125952" [shape=box style="filled, rounded" fillcolor=lightyellow label="BAM" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-align_ctl/shard-0/execution/glob-3bcbe4e7489c90f75e0523ac6f3a9385/ctl1.subsampled.25.merged.bam" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-align_ctl/shard-0/execution/glob-3bcbe4e7489c90f75e0523ac6f3a9385/ctl1.subsampled.25.merged.bam"];
+	"-3291475527655340007" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="SAMstats
+QC" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-align_ctl/shard-0/execution/glob-7b38d9959cf6f3deb83ac2bd156d8317/ctl1.subsampled.25.merged.samstats.qc" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-align_ctl/shard-0/execution/glob-7b38d9959cf6f3deb83ac2bd156d8317/ctl1.subsampled.25.merged.samstats.qc"];
+	"602259220148467291" [label="chip.align_ctl"];
+	"1026307990729862709" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="SAMstats
+QC" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-align_ctl/shard-1/execution/glob-7b38d9959cf6f3deb83ac2bd156d8317/ctl2.subsampled.25.merged.samstats.qc" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-align_ctl/shard-1/execution/glob-7b38d9959cf6f3deb83ac2bd156d8317/ctl2.subsampled.25.merged.samstats.qc"];
+	"-871675606738697039" [shape=box style="filled, rounded" fillcolor=lightyellow label="BAM" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-align_ctl/shard-1/execution/glob-3bcbe4e7489c90f75e0523ac6f3a9385/ctl2.subsampled.25.merged.bam" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-align_ctl/shard-1/execution/glob-3bcbe4e7489c90f75e0523ac6f3a9385/ctl2.subsampled.25.merged.bam"];
+	"5651329519434981168" [label="chip.xcor"];
+	"-3230502146963533719" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="XCOR
+Plot" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-xcor/shard-0/execution/glob-c0eba07eee633b4055d7d9d85813fdf5/rep1.subsampled.25.merged.trim_50bp.filt.no_chrM.15M.cc.plot.png" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-xcor/shard-0/execution/glob-c0eba07eee633b4055d7d9d85813fdf5/rep1.subsampled.25.merged.trim_50bp.filt.no_chrM.15M.cc.plot.png"];
+	"4820388577740287962" [label="chip.xcor"];
+	"3435212956505976417" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="XCOR
+Plot" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-xcor/shard-1/execution/glob-c0eba07eee633b4055d7d9d85813fdf5/rep2.subsampled.20.merged.trim_50bp.filt.no_chrM.15M.cc.plot.png" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-xcor/shard-1/execution/glob-c0eba07eee633b4055d7d9d85813fdf5/rep2.subsampled.20.merged.trim_50bp.filt.no_chrM.15M.cc.plot.png"];
+	"-8304472859755047951" [label="chip.macs2_signal_track"];
+	"-1439466110916169618" [shape=box style="filled, rounded" fillcolor=lightyellow label="BW
+p-val" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-macs2_signal_track/shard-0/execution/glob-7ab0340dfeb10ca109917cbdcc568548/rep1.subsampled.25.merged.nodup_x_ctl_for_rep1.pval.signal.bigwig" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-macs2_signal_track/shard-0/execution/glob-7ab0340dfeb10ca109917cbdcc568548/rep1.subsampled.25.merged.nodup_x_ctl_for_rep1.pval.signal.bigwig"];
+	"837334085546285376" [shape=box style="filled, rounded" fillcolor=lightyellow label="BW
+FC" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-macs2_signal_track/shard-0/execution/glob-8876d8ced974dc46a0c7a4fac20a3a95/rep1.subsampled.25.merged.nodup_x_ctl_for_rep1.fc.signal.bigwig" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-macs2_signal_track/shard-0/execution/glob-8876d8ced974dc46a0c7a4fac20a3a95/rep1.subsampled.25.merged.nodup_x_ctl_for_rep1.fc.signal.bigwig"];
+	"2903417105039607523" [label="chip.macs2_signal_track"];
+	"-8365532074394379431" [shape=box style="filled, rounded" fillcolor=lightyellow label="BW
+p-val" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-macs2_signal_track/shard-1/execution/glob-7ab0340dfeb10ca109917cbdcc568548/rep2.subsampled.20.merged.nodup_x_ctl_for_rep2.pval.signal.bigwig" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-macs2_signal_track/shard-1/execution/glob-7ab0340dfeb10ca109917cbdcc568548/rep2.subsampled.20.merged.nodup_x_ctl_for_rep2.pval.signal.bigwig"];
+	"-1886972730777967038" [shape=box style="filled, rounded" fillcolor=lightyellow label="BW
+FC" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-macs2_signal_track/shard-1/execution/glob-8876d8ced974dc46a0c7a4fac20a3a95/rep2.subsampled.20.merged.nodup_x_ctl_for_rep2.fc.signal.bigwig" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-macs2_signal_track/shard-1/execution/glob-8876d8ced974dc46a0c7a4fac20a3a95/rep2.subsampled.20.merged.nodup_x_ctl_for_rep2.fc.signal.bigwig"];
+	"1622103786768407439" [label="chip.jsd"];
+	"7907333537345015542" [shape=oval style="filled" fillcolor=gainsboro fontsize=6 margin=0 label="JSD
+Plot" href="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-jsd/execution/glob-fc36854b6867c1581ab159b09dd7e2f4/rep1.subsampled.25.merged.nodup.jsd_plot.png" target="blank" tooltip="/home/festo/Documents/MARStool/try2/chip/33f2a043-862a-4dc5-bf9a-418685787b6b/call-jsd/execution/glob-fc36854b6867c1581ab159b09dd7e2f4/rep1.subsampled.25.merged.nodup.jsd_plot.png"];
+	"3969581309175489900" [shape=box style="filled, rounded" fillcolor=pink label="FASTQ
+R1 (1)" href="/home/festo/Documents/MARStool/try2/"/home/festo/Documents/MARStool/caper_tmp"/41d3a8658bf4f565c08290e386fddccf/rep1.subsampled.25.fastq.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/"/home/festo/Documents/MARStool/caper_tmp"/41d3a8658bf4f565c08290e386fddccf/rep1.subsampled.25.fastq.gz"];
+	"-1489939604549077447" [shape=box style="filled, rounded" fillcolor=pink label="FASTQ
+R1 (1)" href="/home/festo/Documents/MARStool/try2/"/home/festo/Documents/MARStool/caper_tmp"/0d5b102d7f21dd009798ae9b2c318b65/rep2.subsampled.20.fastq.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/"/home/festo/Documents/MARStool/caper_tmp"/0d5b102d7f21dd009798ae9b2c318b65/rep2.subsampled.20.fastq.gz"];
+	"-556478763123174961" [shape=box style="filled, rounded" fillcolor=pink label="FASTQ
+R1 (1)" href="/home/festo/Documents/MARStool/try2/"/home/festo/Documents/MARStool/caper_tmp"/f4dba75d4430f4702a75554c44265119/ctl1.subsampled.25.fastq.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/"/home/festo/Documents/MARStool/caper_tmp"/f4dba75d4430f4702a75554c44265119/ctl1.subsampled.25.fastq.gz"];
+	"-1064953719694955053" [shape=box style="filled, rounded" fillcolor=pink label="FASTQ
+R1 (1)" href="/home/festo/Documents/MARStool/try2/"/home/festo/Documents/MARStool/caper_tmp"/7a610dd5397c45a806678efaad824abf/ctl2.subsampled.25.fastq.gz" target="blank" tooltip="/home/festo/Documents/MARStool/try2/"/home/festo/Documents/MARStool/caper_tmp"/7a610dd5397c45a806678efaad824abf/ctl2.subsampled.25.fastq.gz"];
+	"7399720742609296115" -> "8342736366106190706";
+	"7399720742609296115" -> "4308018196021954457";
+	"4308018196021954457" -> "-1891024241833646589";
+	"-8899502548364630817" -> "7790054909935987490";
+	"-8899502548364630817" -> "7395337535931953618";
+	"7395337535931953618" -> "-1891024241833646589";
+	"-8138565283271957147" -> "-7125602342234209768";
+	"-7125602342234209768" -> "-2639767338362642740";
+	"5302158530461648010" -> "-422029430993837440";
+	"5302158530461648010" -> "5415304203922663045";
+	"-422029430993837440" -> "-2639767338362642740";
+	"-422029430993837440" -> "-8138565283271957147";
+	"-422029430993837440" -> "-1891024241833646589";
+	"-422029430993837440" -> "-8899502548364630817";
+	"2127870121283772756" -> "1510955892261810850";
+	"2127870121283772756" -> "-7274819941770455986";
+	"1510955892261810850" -> "-1891024241833646589";
+	"1510955892261810850" -> "-8138565283271957147";
+	"1510955892261810850" -> "-8899502548364630817";
+	"1510955892261810850" -> "-2639767338362642740";
+	"-6791208532212101080" -> "-6984154966059410357";
+	"-6791208532212101080" -> "772008643445066325";
+	"-2639767338362642740" -> "-2850491260819583831";
+	"-2639767338362642740" -> "3065639584611360684";
+	"194469718558914770" -> "4463295902573977183";
+	"4463295902573977183" -> "-1453544426365499645";
+	"4463295902573977183" -> "-2639767338362642740";
+	"4463295902573977183" -> "-1891024241833646589";
+	"4463295902573977183" -> "3657840672823500696";
+	"4463295902573977183" -> "7399720742609296115";
+	"4463295902573977183" -> "5302158530461648010";
+	"4463295902573977183" -> "-8304472859755047951";
+	"4463295902573977183" -> "2903417105039607523";
+	"4463295902573977183" -> "2127870121283772756";
+	"-3731552099571007975" -> "5471486328133664464";
+	"5471486328133664464" -> "-1453544426365499645";
+	"5471486328133664464" -> "2903417105039607523";
+	"5471486328133664464" -> "-1891024241833646589";
+	"5471486328133664464" -> "2127870121283772756";
+	"5471486328133664464" -> "-2639767338362642740";
+	"5471486328133664464" -> "3657840672823500696";
+	"5471486328133664464" -> "7399720742609296115";
+	"5471486328133664464" -> "-8304472859755047951";
+	"5471486328133664464" -> "5302158530461648010";
+	"-1891024241833646589" -> "5227377378226387087";
+	"-1891024241833646589" -> "8682006834655662321";
+	"4417803931353776958" -> "7338515908954283876";
+	"4417803931353776958" -> "3198895919352359340";
+	"3198895919352359340" -> "3657840672823500696";
+	"3198895919352359340" -> "-8138565283271957147";
+	"3198895919352359340" -> "-8899502548364630817";
+	"3198895919352359340" -> "7399720742609296115";
+	"3657840672823500696" -> "-8027927558658280219";
+	"-8027927558658280219" -> "-2639767338362642740";
+	"-7494375252731733212" -> "4701358028869948434";
+	"4701358028869948434" -> "3657840672823500696";
+	"4701358028869948434" -> "7399720742609296115";
+	"4701358028869948434" -> "-6791208532212101080";
+	"4701358028869948434" -> "2903417105039607523";
+	"4701358028869948434" -> "-1891024241833646589";
+	"4701358028869948434" -> "-2639767338362642740";
+	"4701358028869948434" -> "2127870121283772756";
+	"4701358028869948434" -> "-8304472859755047951";
+	"4701358028869948434" -> "5302158530461648010";
+	"4701358028869948434" -> "4417803931353776958";
+	"-1453544426365499645" -> "2497234751638756308";
+	"2497234751638756308" -> "-8138565283271957147";
+	"2497234751638756308" -> "-6791208532212101080";
+	"2497234751638756308" -> "7399720742609296115";
+	"2497234751638756308" -> "3657840672823500696";
+	"2497234751638756308" -> "-8899502548364630817";
+	"2497234751638756308" -> "2903417105039607523";
+	"2497234751638756308" -> "-1891024241833646589";
+	"2497234751638756308" -> "-2639767338362642740";
+	"2497234751638756308" -> "2127870121283772756";
+	"2497234751638756308" -> "-8304472859755047951";
+	"2497234751638756308" -> "5302158530461648010";
+	"2497234751638756308" -> "4417803931353776958";
+	"-5893331297581804200" -> "552709417447928099";
+	"-5893331297581804200" -> "-8571702431294862393";
+	"-5893331297581804200" -> "7078024874918700112";
+	"552709417447928099" -> "194469718558914770";
+	"552709417447928099" -> "1622103786768407439";
+	"1666558705720006112" -> "436532554733248580";
+	"1666558705720006112" -> "-169120174206547831";
+	"1666558705720006112" -> "-7922357765320719826";
+	"-7922357765320719826" -> "-3731552099571007975";
+	"-7922357765320719826" -> "1622103786768407439";
+	"157456248337065665" -> "6286429611924732730";
+	"6286429611924732730" -> "-7494375252731733212";
+	"6286429611924732730" -> "2903417105039607523";
+	"6286429611924732730" -> "-1891024241833646589";
+	"6286429611924732730" -> "-2639767338362642740";
+	"6286429611924732730" -> "2127870121283772756";
+	"6286429611924732730" -> "-8304472859755047951";
+	"6286429611924732730" -> "5302158530461648010";
+	"-1149107282376375207" -> "-9016481185123167010";
+	"-9016481185123167010" -> "-7494375252731733212";
+	"-9016481185123167010" -> "2903417105039607523";
+	"-9016481185123167010" -> "-1891024241833646589";
+	"-9016481185123167010" -> "-2639767338362642740";
+	"-9016481185123167010" -> "2127870121283772756";
+	"-9016481185123167010" -> "-8304472859755047951";
+	"-9016481185123167010" -> "5302158530461648010";
+	"8041236536508879811" -> "-7687703746494625097";
+	"8041236536508879811" -> "-966222396014774609";
+	"-7687703746494625097" -> "-5893331297581804200";
+	"-6556260836160431455" -> "424133714356904776";
+	"-6556260836160431455" -> "8204893592174097506";
+	"8204893592174097506" -> "1666558705720006112";
+	"-4953157400166850393" -> "-4118055348176115279";
+	"-4953157400166850393" -> "8921585390301953937";
+	"-4953157400166850393" -> "-946462629804873350";
+	"8921585390301953937" -> "157456248337065665";
+	"8921585390301953937" -> "1622103786768407439";
+	"-2240190763445443958" -> "961750528034655918";
+	"-2240190763445443958" -> "-927560556850316013";
+	"-2240190763445443958" -> "2785969301159745598";
+	"961750528034655918" -> "-1149107282376375207";
+	"961750528034655918" -> "1622103786768407439";
+	"3918396094910268417" -> "-3291475527655340007";
+	"3918396094910268417" -> "5906638818835125952";
+	"5906638818835125952" -> "-4953157400166850393";
+	"602259220148467291" -> "-871675606738697039";
+	"602259220148467291" -> "1026307990729862709";
+	"-871675606738697039" -> "-2240190763445443958";
+	"5651329519434981168" -> "-3230502146963533719";
+	"4820388577740287962" -> "3435212956505976417";
+	"-8304472859755047951" -> "837334085546285376";
+	"-8304472859755047951" -> "-1439466110916169618";
+	"2903417105039607523" -> "-1886972730777967038";
+	"2903417105039607523" -> "-8365532074394379431";
+	"1622103786768407439" -> "7907333537345015542";
+	"3969581309175489900" -> "5651329519434981168";
+	"3969581309175489900" -> "8041236536508879811";
+	"-1489939604549077447" -> "4820388577740287962";
+	"-1489939604549077447" -> "-6556260836160431455";
+	"-556478763123174961" -> "3918396094910268417";
+	"-1064953719694955053" -> "602259220148467291";
+}
