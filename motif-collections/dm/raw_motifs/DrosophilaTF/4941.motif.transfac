@@ -1,0 +1,32 @@
+AC  4941|Kr(DrosophilaTF 1.1)
+XX
+NA  Kr
+XX
+DE  Kr
+XX
+OS  Drosophila melanogaster
+XX
+BF  7468;
+XX
+P0      A      C      G      T
+01      1      0      0      0      A
+02      1      0      0      0      A
+03      0      1      0      0      C
+04      0      0      1      0      G
+05      0      0      1      0      G
+06      0      0      1      0      G
+07      0      0      0      1      T
+08      0      0      0      1      T
+09      1      0      0      0      A
+10      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=d02f3de412b4fc28401517769ce9f667
+XX
+RN  [1];
+RX  PUBMED: 2507923
+RL  Stanojevic D., Hoey T., Levine M. Sequence-specific DNA-binding activities of the gap proteins encoded by hunchback and Krueppel in Drosophila. Nature 341:331-335 (1989).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

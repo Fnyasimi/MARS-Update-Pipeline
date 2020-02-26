@@ -1,0 +1,28 @@
+AC  4934|Aef1(DrosophilaTF 1.1)
+XX
+NA  Aef1
+XX
+DE  Aef1
+XX
+OS  Drosophila melanogaster
+XX
+BF  7464;
+XX
+P0      A      C      G      T
+01      0      1      0      0      C
+02      1      0      0      0      A
+03      1      0      0      0      A
+04      0      1      0      0      C
+05      1      0      0      0      A
+06      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=156ba22a6bf33f0e58b585941d5fa971
+XX
+RN  [1];
+RX  PUBMED: 9463385
+RL  Ren B, Maniatis T. Regulation of Drosophila Adh promoter switching by an initiator-targeted repression mechanism. The EMBO journal 17:1076-86 (1998).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

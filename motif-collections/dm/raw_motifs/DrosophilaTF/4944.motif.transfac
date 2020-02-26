@@ -1,0 +1,29 @@
+AC  4944|Su(H)(DrosophilaTF 1.1)
+XX
+NA  Su(H)
+XX
+DE  Su(H)
+XX
+OS  Drosophila melanogaster
+XX
+BF  771;
+XX
+P0      A      C      G      T
+01    0.5      0    0.5      0      r
+02      0      0      0      1      T
+03      0      0      1      0      G
+04    0.5      0    0.5      0      r
+05      0      0      1      0      G
+06      1      0      0      0      A
+07    0.5      0    0.5      0      r
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=e0a4f6c43417edcf72e5201efb7060b1
+XX
+RN  [1];
+RX  PUBMED: 10452845
+RL  Nellesen D.T, Lai E.C, Posakony J.W. Discrete enhancer elements mediate selective responsiveness of enhancer of split complex genes to common transcriptional activators. Developmental biology 213:33-53 (1999).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

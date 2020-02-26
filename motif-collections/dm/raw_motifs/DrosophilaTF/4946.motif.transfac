@@ -1,0 +1,128 @@
+AC  4946|Ubx(DrosophilaTF 1.1)
+XX
+NA  Ubx
+XX
+DE  Ubx
+XX
+OS  Drosophila melanogaster
+XX
+BF  404;
+XX
+P0      A      C      G      T
+01 0.1481 0.1481 0.4444 0.2593      k
+02    0.3 0.1667 0.2667 0.2667      d
+03 0.2647 0.2059 0.4118 0.1176      r
+04 0.1707 0.1707 0.4878 0.1707      g
+05 0.2667    0.2    0.4 0.1333      r
+06 0.1636 0.3273 0.2909 0.2182      s
+07 0.1452 0.2097  0.129 0.5161      t
+08  0.038      0      0  0.962      T
+09 0.8605 0.0349 0.0349 0.0698      A
+10 0.9659      0 0.0227 0.0114      A
+11      0 0.0341 0.0341 0.9318      T
+12 0.1081 0.0541 0.5541 0.2838      k
+13 0.2203 0.0508 0.6949 0.0339      G
+14 0.1579 0.4035 0.2982 0.1404      s
+15 0.1111 0.3148 0.2037 0.3704      y
+16 0.2292 0.2292 0.0833 0.4583      t
+17 0.2195 0.3415 0.1707 0.2683      y
+18    0.2 0.1667    0.5 0.1333      g
+19 0.1667  0.125 0.2917 0.4167      k
+XX
+BS  1728;
+BS  1731;
+BS  1732;
+BS  1733;
+BS  20604;
+BS  20605;
+BS  20606;
+BS  1734;
+BS  20607;
+BS  20608;
+BS  20609;
+BS  1729;
+BS  1735;
+BS  20610;
+BS  20611;
+BS  20612;
+BS  1736;
+BS  20613;
+BS  20614;
+BS  1737;
+BS  1738;
+BS  20615;
+BS  20616;
+BS  20617;
+BS  1739;
+BS  20618;
+BS  1740;
+BS  20619;
+BS  20620;
+BS  1741;
+BS  20621;
+BS  20622;
+BS  1742;
+BS  20623;
+BS  1743;
+BS  20624;
+BS  20625;
+BS  20626;
+BS  1744;
+BS  20627;
+BS  20628;
+BS  20629;
+BS  20630;
+BS  1745;
+BS  1730;
+BS  20631;
+BS  20632;
+BS  20633;
+BS  20634;
+BS  20635;
+BS  20636;
+BS  1746;
+BS  20637;
+BS  1747;
+BS  20638;
+BS  20639;
+BS  20640;
+BS  20641;
+BS  20642;
+BS  20643;
+BS  1748;
+BS  20644;
+BS  20645;
+BS  20646;
+BS  20647;
+BS  20648;
+BS  1749;
+BS  1750;
+BS  20649;
+BS  20650;
+BS  1751;
+BS  20651;
+BS  20652;
+BS  20653;
+BS  20654;
+BS  20655;
+BS  20656;
+BS  1752;
+BS  20657;
+BS  20658;
+BS  20659;
+BS  20660;
+BS  1753;
+BS  20661;
+BS  1754;
+BS  20662;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=3e34a7aa4a607c2b0d495e7bd928c359
+XX
+RN  [1];
+RX  PUBMED: 1673656
+RL  Ekker S. C., Young K. E., von Kessler D. P., Beachy P. A. Optimal DNA sequence recognition by the Ultrabithorax homeodomain of Drosophila. EMBO J. 10:1179-1186 (1991).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

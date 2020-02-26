@@ -1,0 +1,61 @@
+AC  4936|Dip3(DrosophilaTF 1.1)
+XX
+NA  Dip3
+XX
+DE  Dip3
+XX
+OS  Drosophila melanogaster
+XX
+BF  7465;
+XX
+P0      A      C      G      T
+01   0.04   0.64   0.08   0.24      c
+02 0.0385 0.7308 0.0385 0.1923      C
+03 0.4615 0.1154 0.1154 0.3077      w
+04 0.1923 0.4231 0.3077 0.0769      s
+05 0.3462 0.1923 0.2692 0.1923      r
+06 0.0769 0.5769 0.0385 0.3077      y
+07 0.1154 0.6538 0.0385 0.1923      c
+08 0.3462 0.1154 0.1538 0.3846      w
+09 0.1923 0.0769 0.2692 0.4615      k
+10 0.2692 0.1923 0.3077 0.2308      r
+11 0.0769 0.6538 0.0385 0.2308      c
+12 0.0476 0.6667 0.1905 0.0952      c
+XX
+BS  20505;
+BS  20506;
+BS  20507;
+BS  20508;
+BS  20509;
+BS  20510;
+BS  20511;
+BS  20512;
+BS  20513;
+BS  20514;
+BS  20515;
+BS  20516;
+BS  20517;
+BS  20518;
+BS  20519;
+BS  20520;
+BS  20521;
+BS  20522;
+BS  20523;
+BS  20524;
+BS  20525;
+BS  20526;
+BS  20527;
+BS  20528;
+BS  20529;
+BS  20530;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=a68329ef52e282333c4ce249cf9ab46a
+XX
+RN  [1];
+RX  PUBMED: 12459265
+RL  Bhaskar V, Courey A.J. The MADF-BESS domain factor Dip3 potentiates synergistic activation by Dorsal and Twist. Gene 299:173-84 (2002).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

@@ -1,0 +1,127 @@
+AC  4964|en(DrosophilaTF 1.1)
+XX
+NA  en
+XX
+DE  en
+XX
+OS  Drosophila melanogaster
+XX
+BF  5644;
+XX
+P0      A      C      G      T
+01 0.0388 0.0291      0  0.932      T
+02      1      0      0      0      A
+03      1      0      0      0      A
+04 0.0189      0      0 0.9811      T
+05 0.0288 0.0192 0.0673 0.8846      T
+06 0.6477      0 0.2386 0.1136      a
+XX
+BS  20785;
+BS  20786;
+BS  20787;
+BS  20788;
+BS  20789;
+BS  20790;
+BS  20791;
+BS  20792;
+BS  20793;
+BS  20794;
+BS  20795;
+BS  20796;
+BS  20797;
+BS  19397;
+BS  20798;
+BS  20799;
+BS  20800;
+BS  20801;
+BS  20802;
+BS  17339;
+BS  20803;
+BS  20804;
+BS  20805;
+BS  20806;
+BS  20807;
+BS  20808;
+BS  20809;
+BS  20810;
+BS  20811;
+BS  20812;
+BS  20813;
+BS  20814;
+BS  20815;
+BS  20816;
+BS  20817;
+BS  20818;
+BS  20819;
+BS  20820;
+BS  6226;
+BS  6227;
+BS  19394;
+BS  20821;
+BS  20822;
+BS  20823;
+BS  20824;
+BS  20825;
+BS  20826;
+BS  20827;
+BS  17338;
+BS  20828;
+BS  20829;
+BS  20830;
+BS  20831;
+BS  20832;
+BS  20833;
+BS  20834;
+BS  20835;
+BS  20836;
+BS  20837;
+BS  20838;
+BS  20839;
+BS  20840;
+BS  20841;
+BS  20842;
+BS  20843;
+BS  20844;
+BS  20845;
+BS  20846;
+BS  20847;
+BS  20848;
+BS  20849;
+BS  20850;
+BS  20851;
+BS  20852;
+BS  20853;
+BS  20854;
+BS  20855;
+BS  20856;
+BS  20857;
+BS  20858;
+BS  20859;
+BS  20860;
+BS  20861;
+BS  20862;
+BS  20863;
+BS  20864;
+BS  20865;
+BS  20866;
+BS  20867;
+BS  20868;
+BS  20869;
+BS  20870;
+BS  20871;
+BS  20872;
+BS  20873;
+BS  20874;
+BS  20875;
+BS  20876;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=f7fa2863a94743a5946350212af38049
+XX
+RN  [1];
+RX  PUBMED: 8049221
+RL  Ades S.E, Sauer R.T. Differential DNA-binding specificity of the engrailed homeodomain: the role of residue 50. Biochemistry 33:9187-94 (1994).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

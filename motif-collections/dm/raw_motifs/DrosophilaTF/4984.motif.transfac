@@ -1,0 +1,34 @@
+AC  4984|shn-ZFP1(DrosophilaTF 1.1)
+XX
+NA  shn-ZFP1
+XX
+DE  shn-ZFP1
+XX
+OS  Drosophila melanogaster
+XX
+BF  7486;
+XX
+P0      A      C      G      T
+01      0      0      1      0      G
+02      0      0      1      0      G
+03      0      0    0.8    0.2      G
+04      1      0      0      0      A
+05   0.47   0.13      0    0.4      w
+06      0   0.93      0   0.07      C
+07      0      0      1      0      G
+08      0      0   0.07   0.93      T
+09      0   0.07      0   0.93      T
+10      0      1      0      0      C
+11      0      1      0      0      C
+12   0.07    0.8      0   0.13      C
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=7fc0972cce8c38abda3eabe0023864d6
+XX
+RN  [1];
+RX  PUBMED: 11071761
+RL  Dai H., Hogan C., Gopalakrishnan B., Torres-Vazquez J., Nguyen M., Park S., Raftery L. A., Warrior R., Arora K. The zinc finger protein schnurri acts as a Smad partner in mediating the transcriptional response to decapentaplegic.. Dev. Biol. 227:373-387 (2000).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

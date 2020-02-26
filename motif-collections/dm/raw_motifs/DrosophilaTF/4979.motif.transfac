@@ -1,0 +1,72 @@
+AC  4979|prd-HD(DrosophilaTF 1.1)
+XX
+NA  prd-HD
+XX
+DE  prd-HD
+XX
+OS  Drosophila melanogaster
+XX
+BF  333;
+XX
+P0      A      C      G      T
+01      0 0.2414 0.6897  0.069      G
+02 0.4483 0.2414 0.1724 0.1379      a
+03      0      0      0      1      T
+04  0.931      0  0.069      0      A
+05      1      0      0      0      A
+06      0      0      0      1      T
+07      0 0.5172      0 0.4828      y
+08      0      0      1      0      G
+09      1      0      0      0      A
+10      0      0      0      1      T
+11      0 0.0345      0 0.9655      T
+12  0.931      0      0  0.069      A
+13 0.1724 0.1724 0.2759 0.3793      k
+14 0.1034 0.4483 0.3103 0.1379      s
+XX
+BS  21000;
+BS  21001;
+BS  21002;
+BS  21003;
+BS  21004;
+BS  21005;
+BS  21006;
+BS  21007;
+BS  21008;
+BS  21009;
+BS  21010;
+BS  21011;
+BS  21012;
+BS  21013;
+BS  21014;
+BS  21015;
+BS  21016;
+BS  21017;
+BS  21018;
+BS  21019;
+BS  21020;
+BS  21021;
+BS  21022;
+BS  21023;
+BS  21024;
+BS  21025;
+BS  21026;
+BS  21027;
+BS  21028;
+BS  21029;
+BS  21030;
+BS  21031;
+BS  21032;
+BS  21033;
+BS  21034;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=1248ad980da10f00e86fd31b67b81f5e
+XX
+RN  [1];
+RX  PUBMED: 7901121
+RL  Wilson D, Sheng G, Lecuit T, Dostatni N, Desplan C. Cooperative dimerization of paired class homeo domains on DNA. Genes & development 7:2120-34 (1993).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

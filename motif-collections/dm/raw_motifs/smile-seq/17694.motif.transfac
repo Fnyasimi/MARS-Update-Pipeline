@@ -1,0 +1,35 @@
+AC  17694|Sna(SMILE-seq 1.0)
+XX
+NA  Sna
+XX
+DE  Sna
+XX
+OS  Drosophila melanogaster
+XX
+BF  12953;
+XX
+P0      A      C      G      T
+01  0.241    0.2  0.309   0.25      k
+02  0.128  0.324  0.264  0.284      b
+03  0.454  0.057  0.387  0.102      r
+04  0.835  0.007  0.114  0.044      A
+05  0.005  0.984  0.006  0.005      C
+06  0.984  0.004  0.007  0.005      A
+07  0.087  0.004  0.903  0.006      G
+08  0.005  0.004  0.986  0.005      G
+09  0.005  0.004  0.007  0.984      T
+10   0.01  0.005  0.976   0.01      G
+11  0.042  0.455  0.184  0.319      y
+12  0.535  0.139  0.147  0.179      a
+13   0.29  0.244   0.23  0.236      a
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=0870815f3d30c34e0164456ff6eb96e6
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

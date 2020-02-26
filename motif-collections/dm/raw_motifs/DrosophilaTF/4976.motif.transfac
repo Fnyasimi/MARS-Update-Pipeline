@@ -1,0 +1,33 @@
+AC  4976|pan(DrosophilaTF 1.1)
+XX
+NA  pan
+XX
+DE  pan
+XX
+OS  Drosophila melanogaster
+XX
+BF  1383;
+XX
+P0      A      C      G      T
+01      0      1      0      0      C
+02      0      1      0      0      C
+03      0      0      0      1      T
+04      0      0      0      1      T
+05      0      0      0      1      T
+06      0      0      1      0      G
+07      1      0      0      0      A
+08      0      0      0      1      T
+09      0      1      0      0      C
+10      0      0      0      1      T
+11      0      0      0      1      T
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=508addc9f3e8972216285e1f2d36d1fc
+XX
+RN  [1];
+RX  PUBMED: 9118222
+RL  van der Wetering M., Cavallo R., Dooijes D., van Beest M., van Es J., Loureiro J., Ypma A., Hursh D., Jones T., Bejsovec A., Peifer M., Mortin M., Clevers H. Armadillo coactivates transcription driven by the product of the drosophila segment polarity gene dTCF. Cell 88:789-799 (1997).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

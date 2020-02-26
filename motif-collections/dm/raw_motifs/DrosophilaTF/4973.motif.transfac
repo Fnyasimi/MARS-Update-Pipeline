@@ -1,0 +1,35 @@
+AC  4973|mirr(DrosophilaTF 1.1)
+XX
+NA  mirr
+XX
+DE  mirr
+XX
+BF  7481;
+XX
+P0      A      C      G      T
+01 0.3636 0.1429 0.3636 0.1299      r
+02 0.4935 0.1169 0.0779 0.3117      w
+03 0.5065      0      0 0.4935      w
+04 0.5584 0.0519 0.1169 0.2727      w
+05 0.6364 0.0779 0.1429 0.1429      a
+06  0.013 0.8052 0.1818      0      C
+07 0.5844 0.0519  0.039 0.3247      w
+08  0.039 0.3896 0.2468 0.3247      y
+09 0.2468      0 0.5584 0.1948      g
+10 0.1039 0.2208 0.0909 0.5844      t
+11 0.1299 0.2987 0.5714      0      s
+12 0.1429 0.0779 0.1688 0.6104      t
+13 0.3117 0.1688 0.1818 0.3377      w
+14 0.4286 0.3377 0.1299 0.1039      m
+15 0.5065 0.1429 0.1169 0.2338      a
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=19956cf6e99fd09611d826446c1e514e
+XX
+RN  [1];
+RX  PUBMED: 16203991
+RL  Bilioni A, Craig G, Hill C, McNeill H. Iroquois transcription factors recognize a unique motif to mediate transcriptional repression in vivo. Proceedings of the National Academy of Sciences of the United States of America 102:14671-6 (2005).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

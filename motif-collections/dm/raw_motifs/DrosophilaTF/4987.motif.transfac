@@ -1,0 +1,76 @@
+AC  4987|sna(DrosophilaTF 1.1)
+XX
+NA  sna
+XX
+DE  sna
+XX
+OS  Drosophila melanogaster
+XX
+BF  5652;
+XX
+P0      A      C      G      T
+01 0.3182 0.2727 0.3182 0.0909      v
+02   0.36    0.2   0.16   0.28      w
+03 0.4483  0.069 0.4483 0.0345      r
+04 0.7105      0 0.2105 0.0789      A
+05      0  0.975  0.025      0      C
+06  0.975      0      0  0.025      A
+07  0.075      0  0.925      0      G
+08   0.05      0   0.95      0      G
+09      0      0      0      1      T
+10      0      0  0.925  0.075      G
+11 0.0811 0.5135 0.0811 0.3243      y
+12 0.5625   0.25 0.0625  0.125      m
+13 0.2333 0.3667 0.2333 0.1667      c
+XX
+BS  21050;
+BS  21051;
+BS  21052;
+BS  21053;
+BS  21054;
+BS  21055;
+BS  21056;
+BS  21057;
+BS  21058;
+BS  21059;
+BS  21060;
+BS  21061;
+BS  21062;
+BS  21063;
+BS  21064;
+BS  21065;
+BS  21066;
+BS  21067;
+BS  21068;
+BS  21069;
+BS  21070;
+BS  21071;
+BS  21072;
+BS  21073;
+BS  21074;
+BS  21075;
+BS  21076;
+BS  21077;
+BS  21078;
+BS  21079;
+BS  21080;
+BS  21081;
+BS  21082;
+BS  21083;
+BS  21084;
+BS  21085;
+BS  21086;
+BS  21087;
+BS  21088;
+BS  21089;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=dcbab56a741ee5dcba45733fba213682
+XX
+RN  [1];
+RX  PUBMED: 8371971
+RL  Mauhin V., Lutz Y., Dennefeld C., Alberga A. Definition of the DNA-binding site repertoire for the Drosophila transcription factor SNAIL. Nucleic Acids Res. 21:3951-3957 (1993).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

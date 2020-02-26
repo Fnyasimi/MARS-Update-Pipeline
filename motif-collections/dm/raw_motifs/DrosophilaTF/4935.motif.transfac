@@ -1,0 +1,112 @@
+AC  4935|Cf2(DrosophilaTF 1.1)
+XX
+NA  Cf2
+XX
+DE  Cf2
+XX
+OS  Drosophila melanogaster
+XX
+BF  5681;
+XX
+P0      A      C      G      T
+01   0.33   0.15   0.51   0.01      r
+02      0   0.06      0   0.94      T
+03   0.94      0   0.06      0      A
+04      0   0.08   0.04   0.88      T
+05   0.94   0.02   0.04      0      A
+06   0.01   0.04      0   0.95      T
+07   0.51   0.03   0.41   0.05      r
+08   0.02   0.13   0.02   0.83      T
+09   0.63   0.06   0.26   0.05      r
+XX
+BS  20425;
+BS  20426;
+BS  20427;
+BS  20428;
+BS  20429;
+BS  20430;
+BS  20431;
+BS  20432;
+BS  20433;
+BS  20434;
+BS  20435;
+BS  20436;
+BS  20437;
+BS  20438;
+BS  20439;
+BS  20440;
+BS  20441;
+BS  20442;
+BS  20443;
+BS  20444;
+BS  20445;
+BS  20446;
+BS  20447;
+BS  20448;
+BS  20449;
+BS  20450;
+BS  20451;
+BS  20452;
+BS  20453;
+BS  20454;
+BS  20455;
+BS  20456;
+BS  20457;
+BS  20458;
+BS  20459;
+BS  20460;
+BS  20461;
+BS  20462;
+BS  20463;
+BS  20464;
+BS  20465;
+BS  20466;
+BS  20467;
+BS  20468;
+BS  20469;
+BS  20470;
+BS  20471;
+BS  20472;
+BS  20473;
+BS  20474;
+BS  20475;
+BS  20476;
+BS  20477;
+BS  20478;
+BS  20479;
+BS  20480;
+BS  20481;
+BS  20482;
+BS  20483;
+BS  20484;
+BS  20485;
+BS  20486;
+BS  20487;
+BS  20488;
+BS  20489;
+BS  20490;
+BS  20491;
+BS  20492;
+BS  20493;
+BS  20494;
+BS  20495;
+BS  20496;
+BS  20497;
+BS  20498;
+BS  20499;
+BS  20500;
+BS  20501;
+BS  20502;
+BS  20503;
+BS  20504;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=eb72b3b726f44200c6541303afb8dd6b
+XX
+RN  [1];
+RX  PUBMED: 1290524
+RL  Gogos J. A., Hsu T., Bolton J., Kafatos F. C. Sequence discrimination by alternatively spliced isoforms of a DNA binding Zinc finger domain. Science 257:1951-1955 (1992).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

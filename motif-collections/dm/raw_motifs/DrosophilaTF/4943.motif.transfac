@@ -1,0 +1,74 @@
+AC  4943|Stat92E(DrosophilaTF 1.1)
+XX
+NA  Stat92E
+XX
+DE  Stat92E
+XX
+OS  Drosophila melanogaster
+XX
+BF  988;
+XX
+P0      A      C      G      T
+01   0.25 0.1786 0.3214   0.25      d
+02   0.25   0.25 0.2857 0.2143      v
+03    0.4    0.2 0.1667 0.2333      a
+04 0.1667 0.2333    0.3    0.3      k
+05    0.3 0.1667    0.2 0.3333      w
+06 0.0667      0      0 0.9333      T
+07      0      0      0      1      T
+08      0      0      0      1      T
+09      0      1      0      0      C
+10 0.0667    0.7 0.1333    0.1      C
+11 0.1333 0.4667 0.3667 0.0333      s
+12    0.1 0.1333 0.6667    0.1      g
+13      0      0      1      0      G
+14      1      0      0      0      A
+15      1      0      0      0      A
+16      1      0      0      0      A
+17 0.1379 0.2759 0.1724 0.4138      y
+18   0.25 0.2143 0.3214 0.2143      r
+19 0.1923 0.3077 0.3077 0.1923      s
+20 0.2308 0.3077 0.0769 0.3846      y
+21 0.3462 0.1154 0.2692 0.2692      d
+XX
+BS  20565;
+BS  20566;
+BS  20567;
+BS  20568;
+BS  20569;
+BS  20570;
+BS  20571;
+BS  20572;
+BS  20573;
+BS  20574;
+BS  20575;
+BS  20576;
+BS  20577;
+BS  20578;
+BS  20579;
+BS  20580;
+BS  20581;
+BS  20582;
+BS  20583;
+BS  20584;
+BS  20585;
+BS  20586;
+BS  20587;
+BS  20588;
+BS  20589;
+BS  20590;
+BS  20591;
+BS  20592;
+BS  20593;
+BS  20594;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=dde2b5d28cc0abbe662672caab7f6136
+XX
+RN  [1];
+RX  PUBMED: 8608596
+RL  Yan R., Small S., Desplan C., Dearolf C. R., Darnell jr J. E. Identification of a STAT gene that functions in Drosophila development. Cell 84:421-430 (1996).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

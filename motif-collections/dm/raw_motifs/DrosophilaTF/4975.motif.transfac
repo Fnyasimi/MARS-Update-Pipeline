@@ -1,0 +1,53 @@
+AC  4975|ovo(DrosophilaTF 1.1)
+XX
+NA  ovo
+XX
+DE  ovo
+XX
+OS  Drosophila melanogaster
+XX
+BF  5728;
+XX
+P0      A      C      G      T
+01 0.5238 0.1905      0 0.2857      w
+02 0.0476 0.1905 0.6667 0.0952      g
+03 0.1905 0.0952 0.0952  0.619      t
+04      1      0      0      0      A
+05      1      0      0      0      A
+06      0      1      0      0      C
+07  0.381 0.2381 0.1429 0.2381      a
+08      0      0      1      0      G
+09   0.25    0.2    0.1   0.45      w
+XX
+BS  20951;
+BS  20952;
+BS  20953;
+BS  20954;
+BS  20955;
+BS  20956;
+BS  20957;
+BS  20958;
+BS  20959;
+BS  20960;
+BS  20961;
+BS  20962;
+BS  20963;
+BS  20964;
+BS  20965;
+BS  20966;
+BS  20967;
+BS  20968;
+BS  20969;
+BS  20970;
+BS  20971;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=d567eaac1a180be25bc1183af09736a8
+XX
+RN  [1];
+RX  PUBMED: 10637336
+RL  Lee S., Garfinkel M. D. Characterization of Drosophila OVO protein DNA binding specificity using random DNA oligomer selection suggests zinc finger degeneration.. Nucleic Acids Res. 28:826-834 (2000).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

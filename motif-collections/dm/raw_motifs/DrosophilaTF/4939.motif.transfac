@@ -1,0 +1,57 @@
+AC  4939|Eip74EF(DrosophilaTF 1.1)
+XX
+NA  Eip74EF
+XX
+DE  Eip74EF
+XX
+OS  Drosophila melanogaster
+XX
+BF  5680;
+XX
+P0      A      C      G      T
+01 0.2857 0.3571 0.1429 0.2143      m
+02 0.2143 0.2143 0.4286 0.1429      g
+03 0.7333 0.0667 0.1333 0.0667      A
+04 0.6875      0  0.125 0.1875      A
+05 0.1176 0.4118 0.1176 0.3529      y
+06 0.1176 0.7059 0.1176 0.0588      C
+07 0.2941 0.7059      0      0      M
+08      0      0      1      0      G
+09      0      0      1      0      G
+10      1      0      0      0      A
+11      1      0      0      0      A
+12 0.2941 0.0588 0.5882 0.0588      r
+13 0.0667 0.1333 0.0667 0.7333      T
+14    0.2 0.1333 0.4667    0.2      g
+15 0.3333    0.2 0.2667    0.2      r
+16 0.1429 0.0714 0.4286 0.3571      k
+17 0.1667   0.25    0.5 0.0833      s
+XX
+BS  1691;
+BS  20531;
+BS  1700;
+BS  1701;
+BS  1702;
+BS  20532;
+BS  1703;
+BS  1704;
+BS  20533;
+BS  1692;
+BS  1693;
+BS  1694;
+BS  1695;
+BS  1696;
+BS  1697;
+BS  1698;
+BS  1699;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=01f22c85a6ba94c822f6398d79254cd8
+XX
+RN  [1];
+RX  PUBMED: 2208281
+RL  Urness L. D., Thummel C. S. Molecular interactions within the ecdysone regulatory hierarchy: DNA binding properties of the Drosophila ecdysone-inducible E74A protein. Cell 63:47-61 (1990).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

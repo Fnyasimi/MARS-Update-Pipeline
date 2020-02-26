@@ -1,0 +1,34 @@
+AC  4956|byn(DrosophilaTF 1.1)
+XX
+NA  byn
+XX
+DE  byn
+XX
+OS  Drosophila melanogaster
+XX
+BF  7474;
+XX
+P0      A      C      G      T
+01    0.5      0    0.5      0      r
+02    0.5      0      0    0.5      w
+03    0.5      0      0    0.5      w
+04   0.25   0.25   0.25   0.25      n
+05      0      0      0      1      T
+06   0.25   0.25   0.25   0.25      n
+07    0.5      0    0.5      0      r
+08      0      1      0      0      C
+09      1      0      0      0      A
+10      0      1      0      0      C
+11      0    0.5      0    0.5      y
+12      0      0      0      1      T
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=79128db42b4b763c4f6ec00137bf5d66
+XX
+RN  [1];
+RX  PUBMED: 11850413
+RL  Kusch Thomas, Storck Tobias, Walldorf Uwe, Reuter Rolf. Brachyury proteins regulate target genes through modular binding sites in a cooperative fashion.. Genes Dev. 16:518-529 (2002).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

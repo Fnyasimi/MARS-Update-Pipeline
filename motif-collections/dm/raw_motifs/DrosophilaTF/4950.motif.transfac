@@ -1,0 +1,29 @@
+AC  4950|bin(DrosophilaTF 1.1)
+XX
+NA  bin
+XX
+DE  bin
+XX
+OS  Drosophila melanogaster
+XX
+BF  7471;
+XX
+P0      A      C      G      T
+01    0.5      0    0.5      0      r
+02      0      0      0      1      T
+03      1      0      0      0      A
+04      1      0      0      0      A
+05      1      0      0      0      A
+06      0      0      0      1      T
+07      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=fba1bbfd9ead0666cbcbd7b34aefa6a8
+XX
+RN  [1];
+RX  PUBMED: 11691840
+RL  Zaffran S, Küchler A, Lee H.H, Frasch M. biniou (FoxF), a central component in a regulatory network controlling visceral mesoderm development and midgut morphogenesis in Drosophila. Genes & development 15:2900-15 (2001).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

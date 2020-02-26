@@ -1,0 +1,118 @@
+AC  4992|vnd(DrosophilaTF 1.1)
+XX
+NA  vnd
+XX
+DE  vnd
+XX
+OS  Drosophila melanogaster
+XX
+BF  5685;
+XX
+P0      A      C      G      T
+01 0.2574 0.2277 0.2574 0.2574      d
+02   0.28   0.16   0.16    0.4      w
+03   0.17   0.16    0.4   0.27      k
+04   0.17   0.02    0.1   0.71      T
+05 0.0777 0.3592 0.1845 0.3786      y
+06 0.8614 0.0149 0.1089 0.0149      A
+07      1      0      0      0      A
+08      0  0.025   0.96  0.015      G
+09  0.025   0.04  0.025   0.91      T
+10   0.18   0.02    0.7    0.1      G
+11      0 0.2626  0.596 0.1414      s
+12   0.11   0.33   0.23   0.33      y
+13  0.198  0.198 0.2574 0.3465      k
+14 0.1584  0.198 0.3762 0.2673      k
+XX
+BS  21160;
+BS  21161;
+BS  21162;
+BS  21163;
+BS  21164;
+BS  21165;
+BS  21166;
+BS  21167;
+BS  21168;
+BS  21169;
+BS  21170;
+BS  21171;
+BS  21172;
+BS  21173;
+BS  21174;
+BS  21175;
+BS  21176;
+BS  21177;
+BS  21178;
+BS  21179;
+BS  21180;
+BS  21181;
+BS  21182;
+BS  21183;
+BS  21184;
+BS  21185;
+BS  21186;
+BS  21187;
+BS  21188;
+BS  21189;
+BS  21190;
+BS  21191;
+BS  21192;
+BS  21193;
+BS  21194;
+BS  21195;
+BS  21196;
+BS  21197;
+BS  21198;
+BS  21199;
+BS  21200;
+BS  21201;
+BS  21202;
+BS  21203;
+BS  21204;
+BS  21205;
+BS  21206;
+BS  21207;
+BS  21208;
+BS  21209;
+BS  21210;
+BS  21211;
+BS  21212;
+BS  21213;
+BS  21214;
+BS  21215;
+BS  21216;
+BS  21217;
+BS  21218;
+BS  21219;
+BS  21220;
+BS  21221;
+BS  21222;
+BS  21223;
+BS  21224;
+BS  21225;
+BS  21226;
+BS  21227;
+BS  21228;
+BS  21229;
+BS  21230;
+BS  21231;
+BS  21232;
+BS  21233;
+BS  21234;
+BS  21235;
+BS  21236;
+BS  21237;
+BS  21238;
+BS  21239;
+BS  21240;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=bb516e5ae8ce1054954f3d9626a25693
+XX
+RN  [1];
+RX  PUBMED: 12232052
+RL  Wang L.H, Chmelik R, Nirenberg M. Sequence-specific DNA binding by the vnd/NK-2 homeodomain of Drosophila. Proceedings of the National Academy of Sciences of the United States of America 99:12721-6 (2002).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

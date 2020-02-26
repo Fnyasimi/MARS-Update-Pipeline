@@ -1,0 +1,32 @@
+AC  4982|retn(DrosophilaTF 1.1)
+XX
+NA  retn
+XX
+DE  retn
+XX
+OS  Drosophila melanogaster
+XX
+BF  7485;
+XX
+P0      A      C      G      T
+01 0.2143 0.1667 0.1667 0.4524      t
+02 0.2143 0.3571 0.1667 0.2619      y
+03    0.5      0    0.5      0      r
+04      1      0      0      0      A
+05 0.0238      0      0 0.9762      T
+06 0.0238      0      0 0.9762      T
+07  0.881      0  0.119      0      A
+08 0.6667  0.119 0.1429 0.0714      a
+09 0.2143  0.119 0.1429 0.5238      t
+10 0.2857 0.2619 0.2381 0.2143      m
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=0b55224ba426583e731cecf506bcb863
+XX
+RN  [1];
+RX  PUBMED: 8622680
+RL  Gregory S. L., Kortschak R. D., Kalionis B., Staint R. Characterization of the dead ringer gene identifies a novel, highly conserved family of sequence-specific DNA-binding proteins. Mol. Cell. Biol. 16:792-799 (1996).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

@@ -1,0 +1,34 @@
+AC  4951|br-Z1(DrosophilaTF 1.1)
+XX
+NA  br-Z1
+XX
+DE  br-Z1
+XX
+OS  Drosophila melanogaster
+XX
+BF  681;
+XX
+P0      A      C      G      T
+01      0      0      0      1      T
+02      1      0      0      0      A
+03      1      0      0      0      A
+04    0.5      0      0    0.5      w
+05    0.5      0      0    0.5      w
+06    0.5      0    0.5      0      r
+07      1      0      0      0      A
+08      0      1      0      0      C
+09      1      0      0      0      A
+10      1      0      0      0      A
+11    0.5      0    0.5      0      r
+12    0.5      0      0    0.5      w
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=9cd144ff313313cc6f16aed3fe5fc385
+XX
+RN  [1];
+RX  PUBMED: 8062827
+RL  von Kalm L., Crossgrove K., Von Seggern D., Guild G. M., Beckendorf S. K. The Broad-Complex directly controls a tissue-specific response to the steroid hormone ecdysone at the onset of Drosophila metamorphosis. EMBO J. 13:3505-3516 (1994).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

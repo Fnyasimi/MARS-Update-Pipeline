@@ -1,0 +1,35 @@
+AC  4968|ftz(DrosophilaTF 1.1)
+XX
+NA  ftz
+XX
+DE  ftz
+XX
+OS  Drosophila melanogaster
+XX
+BF  5643;
+XX
+P0      A      C      G      T
+01 0.2857 0.1905  0.381 0.1429      r
+02 0.2381 0.3333 0.2381 0.1905      c
+03 0.2857 0.1429 0.5238 0.0476      r
+04 0.0952 0.3333 0.1429 0.4286      y
+05      0      0      0      1      T
+06      1      0      0      0      A
+07      1      0      0      0      A
+08      0 0.0476      0 0.9524      T
+09      0 0.0952 0.7619 0.1429      G
+10 0.4762 0.0476 0.3333 0.1429      r
+11 0.1429 0.4286 0.2381 0.1905      c
+12 0.3333 0.4286 0.0952 0.1429      m
+13 0.1905 0.1905 0.2381  0.381      t
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=9367317ce62e5d0140086fa8a0ac5408
+XX
+RN  [1];
+RX  PUBMED: 8692913
+RL  Wilson D.S, Sheng G, Jun S, Desplan C. Conservation and diversification in homeodomain-DNA interactions: a comparative genetic analysis. Proceedings of the National Academy of Sciences of the United States of America 93:6886-91 (1996).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

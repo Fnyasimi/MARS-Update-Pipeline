@@ -1,0 +1,36 @@
+AC  4932|Abd-B(DrosophilaTF 1.1)
+XX
+NA  Abd-B
+XX
+DE  Abd-B
+XX
+OS  Drosophila melanogaster
+XX
+BF  5661;
+XX
+P0      A      C      G      T
+01 0.3333 0.2083 0.3333  0.125      r
+02 0.1034 0.4138 0.3793 0.1034      s
+03 0.2647 0.2647 0.2647 0.2059      v
+04      0 0.0278 0.1944 0.7778      T
+05 0.1026 0.0513 0.1026 0.7436      T
+06 0.2444 0.0444 0.1778 0.5333      t
+07    0.8 0.0444      0 0.1556      A
+08 0.1333 0.1556 0.0222 0.6889      T
+09 0.0465 0.0465 0.6977 0.2093      G
+10 0.2381 0.0952 0.5714 0.0952      g
+11  0.025    0.8   0.15  0.025      C
+12 0.2222 0.2778 0.3056 0.1944      s
+13 0.3548 0.2581 0.2581  0.129      v
+14 0.1852 0.3333 0.2593 0.2222      s
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=d5fb00ba6ca8c9f6d2f2b8d5160cf473
+XX
+RN  [1];
+RX  PUBMED: 7914870
+RL  Ekker S. C., Jackson D. G., von Kessler D. P., Sun B. I., Young K. E., Beachy P. A. The degree of variation in DNA sequence recognition among four Drosophila homeotic proteins. EMBO J. 13:3551-3560 (1994).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

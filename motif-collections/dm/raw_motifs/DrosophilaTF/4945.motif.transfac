@@ -1,0 +1,37 @@
+AC  4945|TFAM(DrosophilaTF 1.1)
+XX
+NA  TFAM
+XX
+DE  TFAM
+XX
+OS  Drosophila melanogaster
+XX
+BF  2026;
+XX
+P0      A      C      G      T
+01      0      0      0      1      T
+02      0      0      0      1      T
+03      1      0      0      0      A
+04      0      0      0      1      T
+05      0 0.8182 0.1818      0      C
+XX
+BS  20595;
+BS  20596;
+BS  20597;
+BS  20598;
+BS  20599;
+BS  20600;
+BS  20601;
+BS  20602;
+BS  20603;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=75103665dc6c99641a2551151ab6f609
+XX
+RN  [1];
+RX  PUBMED: 11554753
+RL  Takata K.-I., Yoshida H., Hirose F., Yamaguchi M., Kai M., Oshige M., Sakimoto I., Koiwai O., Sakaguchi K. Drosophila Mitochondrial Transcription Factor A: Characterization of Its cDNA and Expression Pattern during Development.. Biochem. Biophys. Res. Commun. 287:474-483 (2001).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

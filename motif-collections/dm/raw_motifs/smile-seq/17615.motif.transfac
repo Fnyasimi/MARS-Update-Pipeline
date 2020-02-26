@@ -1,0 +1,29 @@
+AC  17615|Bcd(SMILE-seq 1.0)
+XX
+NA  Bcd
+XX
+DE  Bcd
+XX
+OS  Drosophila melanogaster
+XX
+BF  12900;
+XX
+P0      A      C      G      T
+01   0.21   0.27   0.10   0.43      y
+02      0      0      0      1      T
+03      1      0      0      0      A
+04      1      0      0      0      A
+05      0      0      0      1      T
+06      0      1      0      0      C
+07      0   0.72      0   0.28      Y
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=621274ed2df4342d4a4a8da8eace86c2
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

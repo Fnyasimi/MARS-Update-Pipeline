@@ -1,0 +1,62 @@
+AC  4948|bab1(DrosophilaTF 1.1)
+XX
+NA  bab1
+XX
+DE  bab1
+XX
+OS  Drosophila melanogaster
+XX
+BF  7470;
+XX
+P0      A      C      G      T
+01 0.2727      0 0.0909 0.6364      w
+02    0.5    0.2    0.1    0.2      a
+03 0.6667      0      0 0.3333      w
+04    0.6      0      0    0.4      w
+05 0.3333 0.1111      0 0.5556      w
+06    0.7      0      0    0.3      W
+07 0.2222      0      0 0.7778      T
+08    0.6      0      0    0.4      w
+09 0.5556      0      0 0.4444      w
+10    0.2    0.1    0.1    0.6      t
+11 0.1111 0.1111 0.3333 0.4444      k
+12      0      0 0.6667 0.3333      k
+XX
+BS  20663;
+BS  20664;
+BS  20665;
+BS  20666;
+BS  20667;
+BS  20668;
+BS  20669;
+BS  20670;
+BS  20671;
+BS  20672;
+BS  20673;
+BS  20674;
+BS  20675;
+BS  20676;
+BS  20677;
+BS  20678;
+BS  20679;
+BS  20680;
+BS  20681;
+BS  20682;
+BS  20683;
+BS  20684;
+BS  20685;
+BS  20686;
+BS  20687;
+BS  20688;
+BS  20689;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=40332dda96102ff355f02fc3fa808729
+XX
+RN  [1];
+RX  PUBMED: 12954775
+RL  Lours C, Bardot O, Godt D, Laski F.A, Couderc J.L. The Drosophila melanogaster BTB proteins bric à brac bind DNA through a composite DNA binding domain containing a pipsqueak and an AT-Hook motif. Nucleic acids research 31:5389-98 (2003).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

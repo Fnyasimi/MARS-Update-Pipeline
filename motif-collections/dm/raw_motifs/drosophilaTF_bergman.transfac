@@ -1,0 +1,2862 @@
+AC  4932|Abd-B(DrosophilaTF 1.1)
+XX
+NA  Abd-B
+XX
+DE  Abd-B
+XX
+OS  Drosophila melanogaster
+XX
+BF  5661;
+XX
+P0      A      C      G      T
+01 0.3333 0.2083 0.3333  0.125      r
+02 0.1034 0.4138 0.3793 0.1034      s
+03 0.2647 0.2647 0.2647 0.2059      v
+04      0 0.0278 0.1944 0.7778      T
+05 0.1026 0.0513 0.1026 0.7436      T
+06 0.2444 0.0444 0.1778 0.5333      t
+07    0.8 0.0444      0 0.1556      A
+08 0.1333 0.1556 0.0222 0.6889      T
+09 0.0465 0.0465 0.6977 0.2093      G
+10 0.2381 0.0952 0.5714 0.0952      g
+11  0.025    0.8   0.15  0.025      C
+12 0.2222 0.2778 0.3056 0.1944      s
+13 0.3548 0.2581 0.2581  0.129      v
+14 0.1852 0.3333 0.2593 0.2222      s
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=d5fb00ba6ca8c9f6d2f2b8d5160cf473
+XX
+RN  [1];
+RX  PUBMED: 7914870
+RL  Ekker S. C., Jackson D. G., von Kessler D. P., Sun B. I., Young K. E., Beachy P. A. The degree of variation in DNA sequence recognition among four Drosophila homeotic proteins. EMBO J. 13:3551-3560 (1994).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4933|Adf1(DrosophilaTF 1.1)
+XX
+NA  Adf1
+XX
+DE  Adf1
+XX
+OS  Drosophila melanogaster
+XX
+BF  7463;
+XX
+P0      A      C      G      T
+01      0      0      1      0      G
+02      0      1      0      0      C
+03      0      0      0      1      T
+04      0    0.5    0.5      0      s
+05      0      1      0      0      C
+06      0    0.5      0    0.5      y
+07      0      0    0.5    0.5      k
+08      0      1      0      0      C
+09      0    0.5      0    0.5      y
+10      0      0      1      0      G
+11      0    0.5      0    0.5      y
+12 0.3333 0.3333      0 0.3333      h
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=f5dc989e2221f3fbcb84758ebe3fdf3e
+XX
+RN  [1];
+RX  PUBMED: 2318884
+RL  England B. P., Heberlein U., Tjian R. Purified Drosophila Transcription Factor, Adh Distal Factor-1 (Adf-1), Binds to Sites in Several Drosophila Promoters and Activates Transcription. J. Biol. Chem. 265:5086-5094 (1990).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4934|Aef1(DrosophilaTF 1.1)
+XX
+NA  Aef1
+XX
+DE  Aef1
+XX
+OS  Drosophila melanogaster
+XX
+BF  7464;
+XX
+P0      A      C      G      T
+01      0      1      0      0      C
+02      1      0      0      0      A
+03      1      0      0      0      A
+04      0      1      0      0      C
+05      1      0      0      0      A
+06      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=156ba22a6bf33f0e58b585941d5fa971
+XX
+RN  [1];
+RX  PUBMED: 9463385
+RL  Ren B, Maniatis T. Regulation of Drosophila Adh promoter switching by an initiator-targeted repression mechanism. The EMBO journal 17:1076-86 (1998).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4935|Cf2(DrosophilaTF 1.1)
+XX
+NA  Cf2
+XX
+DE  Cf2
+XX
+OS  Drosophila melanogaster
+XX
+BF  5681;
+XX
+P0      A      C      G      T
+01   0.33   0.15   0.51   0.01      r
+02      0   0.06      0   0.94      T
+03   0.94      0   0.06      0      A
+04      0   0.08   0.04   0.88      T
+05   0.94   0.02   0.04      0      A
+06   0.01   0.04      0   0.95      T
+07   0.51   0.03   0.41   0.05      r
+08   0.02   0.13   0.02   0.83      T
+09   0.63   0.06   0.26   0.05      r
+XX
+BS  20425;
+BS  20426;
+BS  20427;
+BS  20428;
+BS  20429;
+BS  20430;
+BS  20431;
+BS  20432;
+BS  20433;
+BS  20434;
+BS  20435;
+BS  20436;
+BS  20437;
+BS  20438;
+BS  20439;
+BS  20440;
+BS  20441;
+BS  20442;
+BS  20443;
+BS  20444;
+BS  20445;
+BS  20446;
+BS  20447;
+BS  20448;
+BS  20449;
+BS  20450;
+BS  20451;
+BS  20452;
+BS  20453;
+BS  20454;
+BS  20455;
+BS  20456;
+BS  20457;
+BS  20458;
+BS  20459;
+BS  20460;
+BS  20461;
+BS  20462;
+BS  20463;
+BS  20464;
+BS  20465;
+BS  20466;
+BS  20467;
+BS  20468;
+BS  20469;
+BS  20470;
+BS  20471;
+BS  20472;
+BS  20473;
+BS  20474;
+BS  20475;
+BS  20476;
+BS  20477;
+BS  20478;
+BS  20479;
+BS  20480;
+BS  20481;
+BS  20482;
+BS  20483;
+BS  20484;
+BS  20485;
+BS  20486;
+BS  20487;
+BS  20488;
+BS  20489;
+BS  20490;
+BS  20491;
+BS  20492;
+BS  20493;
+BS  20494;
+BS  20495;
+BS  20496;
+BS  20497;
+BS  20498;
+BS  20499;
+BS  20500;
+BS  20501;
+BS  20502;
+BS  20503;
+BS  20504;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=eb72b3b726f44200c6541303afb8dd6b
+XX
+RN  [1];
+RX  PUBMED: 1290524
+RL  Gogos J. A., Hsu T., Bolton J., Kafatos F. C. Sequence discrimination by alternatively spliced isoforms of a DNA binding Zinc finger domain. Science 257:1951-1955 (1992).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4936|Dip3(DrosophilaTF 1.1)
+XX
+NA  Dip3
+XX
+DE  Dip3
+XX
+OS  Drosophila melanogaster
+XX
+BF  7465;
+XX
+P0      A      C      G      T
+01   0.04   0.64   0.08   0.24      c
+02 0.0385 0.7308 0.0385 0.1923      C
+03 0.4615 0.1154 0.1154 0.3077      w
+04 0.1923 0.4231 0.3077 0.0769      s
+05 0.3462 0.1923 0.2692 0.1923      r
+06 0.0769 0.5769 0.0385 0.3077      y
+07 0.1154 0.6538 0.0385 0.1923      c
+08 0.3462 0.1154 0.1538 0.3846      w
+09 0.1923 0.0769 0.2692 0.4615      k
+10 0.2692 0.1923 0.3077 0.2308      r
+11 0.0769 0.6538 0.0385 0.2308      c
+12 0.0476 0.6667 0.1905 0.0952      c
+XX
+BS  20505;
+BS  20506;
+BS  20507;
+BS  20508;
+BS  20509;
+BS  20510;
+BS  20511;
+BS  20512;
+BS  20513;
+BS  20514;
+BS  20515;
+BS  20516;
+BS  20517;
+BS  20518;
+BS  20519;
+BS  20520;
+BS  20521;
+BS  20522;
+BS  20523;
+BS  20524;
+BS  20525;
+BS  20526;
+BS  20527;
+BS  20528;
+BS  20529;
+BS  20530;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=a68329ef52e282333c4ce249cf9ab46a
+XX
+RN  [1];
+RX  PUBMED: 12459265
+RL  Bhaskar V, Courey A.J. The MADF-BESS domain factor Dip3 potentiates synergistic activation by Dorsal and Twist. Gene 299:173-84 (2002).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4937|Dref(DrosophilaTF 1.1)
+XX
+NA  Dref
+XX
+DE  Dref
+XX
+OS  Drosophila melanogaster
+XX
+BF  4222;
+XX
+P0      A      C      G      T
+01      0      0      0      1      T
+02      1      0      0      0      A
+03      0      0      0      1      T
+04      0      1      0      0      C
+05      0      0      1      0      G
+06      1      0      0      0      A
+07      0      0      0      1      T
+08      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=092f8738acb2a3364e1ae9aefe320d15
+XX
+RN  [1];
+RX  PUBMED: 8093616
+RL  Hirose F., Yamaguchi M., Handa H., Inomata Y., Matsukage A. Novel 8-base pair sequence (Drosophila DNA replication-related element) and specific binding factor involved in the expression of Drosophila genes for DNA polymerase alpha and proliferating cell nuclear antigen. J. Biol. Chem. 268:2092-2099 (1993).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4938|EcR/usp(DrosophilaTF 1.1)
+XX
+NA  EcR/usp
+XX
+DE  EcR/usp
+XX
+OS  Drosophila melanogaster
+XX
+BF  7466;
+XX
+P0      A      C      G      T
+01   0.25   0.17   0.58      0      r
+02   0.67   0.04   0.29      0      r
+03      0      0      1      0      G
+04      0      0   0.83   0.17      G
+05      0      0      0      1      T
+06      0   0.79      0   0.21      C
+07      1      0      0      0      A
+08   0.63   0.08   0.08   0.21      a
+09      0   0.08   0.04   0.88      T
+10   0.04      0   0.96      0      G
+11    0.7   0.13   0.13   0.04      A
+12   0.21   0.79      0      0      C
+13   0.21   0.75      0   0.04      C
+14   0.04   0.38   0.04   0.54      y
+15   0.04   0.75   0.04   0.17      C
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=ce3ed4d39ebae692e6b5d4efaca6719f
+XX
+RN  [1];
+RX  PUBMED: 9580693
+RL  Vögtli M, Elke C, Imhof M.O, Lezzi M. High level transactivation by the ecdysone receptor complex at the core recognition motif. Nucleic acids research 26:2407-14 (1998).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4939|Eip74EF(DrosophilaTF 1.1)
+XX
+NA  Eip74EF
+XX
+DE  Eip74EF
+XX
+OS  Drosophila melanogaster
+XX
+BF  5680;
+XX
+P0      A      C      G      T
+01 0.2857 0.3571 0.1429 0.2143      m
+02 0.2143 0.2143 0.4286 0.1429      g
+03 0.7333 0.0667 0.1333 0.0667      A
+04 0.6875      0  0.125 0.1875      A
+05 0.1176 0.4118 0.1176 0.3529      y
+06 0.1176 0.7059 0.1176 0.0588      C
+07 0.2941 0.7059      0      0      M
+08      0      0      1      0      G
+09      0      0      1      0      G
+10      1      0      0      0      A
+11      1      0      0      0      A
+12 0.2941 0.0588 0.5882 0.0588      r
+13 0.0667 0.1333 0.0667 0.7333      T
+14    0.2 0.1333 0.4667    0.2      g
+15 0.3333    0.2 0.2667    0.2      r
+16 0.1429 0.0714 0.4286 0.3571      k
+17 0.1667   0.25    0.5 0.0833      s
+XX
+BS  1691;
+BS  20531;
+BS  1700;
+BS  1701;
+BS  1702;
+BS  20532;
+BS  1703;
+BS  1704;
+BS  20533;
+BS  1692;
+BS  1693;
+BS  1694;
+BS  1695;
+BS  1696;
+BS  1697;
+BS  1698;
+BS  1699;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=01f22c85a6ba94c822f6398d79254cd8
+XX
+RN  [1];
+RX  PUBMED: 2208281
+RL  Urness L. D., Thummel C. S. Molecular interactions within the ecdysone regulatory hierarchy: DNA binding properties of the Drosophila ecdysone-inducible E74A protein. Cell 63:47-61 (1990).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4940|Hr46(DrosophilaTF 1.1)
+XX
+NA  Hr46
+XX
+DE  Hr46
+XX
+OS  Drosophila melanogaster
+XX
+BF  7467;
+XX
+P0      A      C      G      T
+01      0      0      1      0      G
+02      0      0      1      0      G
+03      0      0      1      0      G
+04      0      0      0      1      T
+05      0      1      0      0      C
+06      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=ab199ef3f178cb4507633ff1f0974d94
+XX
+RN  [1];
+RX  PUBMED: 9165123
+RL  Lam G.T, Jiang C, Thummel C.S. Coordination of larval and prepupal gene expression by the DHR3 orphan receptor during Drosophila metamorphosis. Development (Cambridge, England) 124:1757-69 (1997).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4941|Kr(DrosophilaTF 1.1)
+XX
+NA  Kr
+XX
+DE  Kr
+XX
+OS  Drosophila melanogaster
+XX
+BF  7468;
+XX
+P0      A      C      G      T
+01      1      0      0      0      A
+02      1      0      0      0      A
+03      0      1      0      0      C
+04      0      0      1      0      G
+05      0      0      1      0      G
+06      0      0      1      0      G
+07      0      0      0      1      T
+08      0      0      0      1      T
+09      1      0      0      0      A
+10      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=d02f3de412b4fc28401517769ce9f667
+XX
+RN  [1];
+RX  PUBMED: 2507923
+RL  Stanojevic D., Hoey T., Levine M. Sequence-specific DNA-binding activities of the gap proteins encoded by hunchback and Krueppel in Drosophila. Nature 341:331-335 (1989).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4942|Rel(DrosophilaTF 1.1)
+XX
+NA  Rel
+XX
+DE  Rel
+XX
+OS  Drosophila melanogaster
+XX
+BF  7469;
+XX
+P0      A      C      G      T
+01   0.06   0.13   0.71    0.1      G
+02      0      0      1      0      G
+03      0      0      1      0      G
+04      0      0      1      0      G
+05      1      0      0      0      A
+06   0.55    0.1   0.03   0.32      w
+07   0.06    0.2   0.16   0.58      t
+08   0.03   0.81      0   0.16      C
+09   0.48   0.52      0      0      m
+10      0   0.94      0   0.06      C
+11   0.19   0.39   0.23   0.19      c
+XX
+BS  20534;
+BS  20535;
+BS  20536;
+BS  20537;
+BS  20538;
+BS  20539;
+BS  20540;
+BS  20541;
+BS  20542;
+BS  20543;
+BS  20544;
+BS  20545;
+BS  20546;
+BS  20547;
+BS  20548;
+BS  20549;
+BS  20550;
+BS  20551;
+BS  20552;
+BS  20553;
+BS  20554;
+BS  20555;
+BS  20556;
+BS  20557;
+BS  20558;
+BS  20559;
+BS  20560;
+BS  20561;
+BS  20562;
+BS  20563;
+BS  20564;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=b165f4842cb2a1900f442a70e1d31935
+XX
+RN  [1];
+RX  PUBMED: 14731391
+RL  Senger K, Armstrong G.W, Rowell W.J, Kwan J.M, Markstein M, Levine M. Immunity regulatory DNAs share common organizational features in Drosophila. Molecular cell 13:19-32 (2004).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4943|Stat92E(DrosophilaTF 1.1)
+XX
+NA  Stat92E
+XX
+DE  Stat92E
+XX
+OS  Drosophila melanogaster
+XX
+BF  988;
+XX
+P0      A      C      G      T
+01   0.25 0.1786 0.3214   0.25      d
+02   0.25   0.25 0.2857 0.2143      v
+03    0.4    0.2 0.1667 0.2333      a
+04 0.1667 0.2333    0.3    0.3      k
+05    0.3 0.1667    0.2 0.3333      w
+06 0.0667      0      0 0.9333      T
+07      0      0      0      1      T
+08      0      0      0      1      T
+09      0      1      0      0      C
+10 0.0667    0.7 0.1333    0.1      C
+11 0.1333 0.4667 0.3667 0.0333      s
+12    0.1 0.1333 0.6667    0.1      g
+13      0      0      1      0      G
+14      1      0      0      0      A
+15      1      0      0      0      A
+16      1      0      0      0      A
+17 0.1379 0.2759 0.1724 0.4138      y
+18   0.25 0.2143 0.3214 0.2143      r
+19 0.1923 0.3077 0.3077 0.1923      s
+20 0.2308 0.3077 0.0769 0.3846      y
+21 0.3462 0.1154 0.2692 0.2692      d
+XX
+BS  20565;
+BS  20566;
+BS  20567;
+BS  20568;
+BS  20569;
+BS  20570;
+BS  20571;
+BS  20572;
+BS  20573;
+BS  20574;
+BS  20575;
+BS  20576;
+BS  20577;
+BS  20578;
+BS  20579;
+BS  20580;
+BS  20581;
+BS  20582;
+BS  20583;
+BS  20584;
+BS  20585;
+BS  20586;
+BS  20587;
+BS  20588;
+BS  20589;
+BS  20590;
+BS  20591;
+BS  20592;
+BS  20593;
+BS  20594;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=dde2b5d28cc0abbe662672caab7f6136
+XX
+RN  [1];
+RX  PUBMED: 8608596
+RL  Yan R., Small S., Desplan C., Dearolf C. R., Darnell jr J. E. Identification of a STAT gene that functions in Drosophila development. Cell 84:421-430 (1996).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4944|Su(H)(DrosophilaTF 1.1)
+XX
+NA  Su(H)
+XX
+DE  Su(H)
+XX
+OS  Drosophila melanogaster
+XX
+BF  771;
+XX
+P0      A      C      G      T
+01    0.5      0    0.5      0      r
+02      0      0      0      1      T
+03      0      0      1      0      G
+04    0.5      0    0.5      0      r
+05      0      0      1      0      G
+06      1      0      0      0      A
+07    0.5      0    0.5      0      r
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=e0a4f6c43417edcf72e5201efb7060b1
+XX
+RN  [1];
+RX  PUBMED: 10452845
+RL  Nellesen D.T, Lai E.C, Posakony J.W. Discrete enhancer elements mediate selective responsiveness of enhancer of split complex genes to common transcriptional activators. Developmental biology 213:33-53 (1999).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4945|TFAM(DrosophilaTF 1.1)
+XX
+NA  TFAM
+XX
+DE  TFAM
+XX
+OS  Drosophila melanogaster
+XX
+BF  2026;
+XX
+P0      A      C      G      T
+01      0      0      0      1      T
+02      0      0      0      1      T
+03      1      0      0      0      A
+04      0      0      0      1      T
+05      0 0.8182 0.1818      0      C
+XX
+BS  20595;
+BS  20596;
+BS  20597;
+BS  20598;
+BS  20599;
+BS  20600;
+BS  20601;
+BS  20602;
+BS  20603;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=75103665dc6c99641a2551151ab6f609
+XX
+RN  [1];
+RX  PUBMED: 11554753
+RL  Takata K.-I., Yoshida H., Hirose F., Yamaguchi M., Kai M., Oshige M., Sakimoto I., Koiwai O., Sakaguchi K. Drosophila Mitochondrial Transcription Factor A: Characterization of Its cDNA and Expression Pattern during Development.. Biochem. Biophys. Res. Commun. 287:474-483 (2001).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4946|Ubx(DrosophilaTF 1.1)
+XX
+NA  Ubx
+XX
+DE  Ubx
+XX
+OS  Drosophila melanogaster
+XX
+BF  404;
+XX
+P0      A      C      G      T
+01 0.1481 0.1481 0.4444 0.2593      k
+02    0.3 0.1667 0.2667 0.2667      d
+03 0.2647 0.2059 0.4118 0.1176      r
+04 0.1707 0.1707 0.4878 0.1707      g
+05 0.2667    0.2    0.4 0.1333      r
+06 0.1636 0.3273 0.2909 0.2182      s
+07 0.1452 0.2097  0.129 0.5161      t
+08  0.038      0      0  0.962      T
+09 0.8605 0.0349 0.0349 0.0698      A
+10 0.9659      0 0.0227 0.0114      A
+11      0 0.0341 0.0341 0.9318      T
+12 0.1081 0.0541 0.5541 0.2838      k
+13 0.2203 0.0508 0.6949 0.0339      G
+14 0.1579 0.4035 0.2982 0.1404      s
+15 0.1111 0.3148 0.2037 0.3704      y
+16 0.2292 0.2292 0.0833 0.4583      t
+17 0.2195 0.3415 0.1707 0.2683      y
+18    0.2 0.1667    0.5 0.1333      g
+19 0.1667  0.125 0.2917 0.4167      k
+XX
+BS  1728;
+BS  1731;
+BS  1732;
+BS  1733;
+BS  20604;
+BS  20605;
+BS  20606;
+BS  1734;
+BS  20607;
+BS  20608;
+BS  20609;
+BS  1729;
+BS  1735;
+BS  20610;
+BS  20611;
+BS  20612;
+BS  1736;
+BS  20613;
+BS  20614;
+BS  1737;
+BS  1738;
+BS  20615;
+BS  20616;
+BS  20617;
+BS  1739;
+BS  20618;
+BS  1740;
+BS  20619;
+BS  20620;
+BS  1741;
+BS  20621;
+BS  20622;
+BS  1742;
+BS  20623;
+BS  1743;
+BS  20624;
+BS  20625;
+BS  20626;
+BS  1744;
+BS  20627;
+BS  20628;
+BS  20629;
+BS  20630;
+BS  1745;
+BS  1730;
+BS  20631;
+BS  20632;
+BS  20633;
+BS  20634;
+BS  20635;
+BS  20636;
+BS  1746;
+BS  20637;
+BS  1747;
+BS  20638;
+BS  20639;
+BS  20640;
+BS  20641;
+BS  20642;
+BS  20643;
+BS  1748;
+BS  20644;
+BS  20645;
+BS  20646;
+BS  20647;
+BS  20648;
+BS  1749;
+BS  1750;
+BS  20649;
+BS  20650;
+BS  1751;
+BS  20651;
+BS  20652;
+BS  20653;
+BS  20654;
+BS  20655;
+BS  20656;
+BS  1752;
+BS  20657;
+BS  20658;
+BS  20659;
+BS  20660;
+BS  1753;
+BS  20661;
+BS  1754;
+BS  20662;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=3e34a7aa4a607c2b0d495e7bd928c359
+XX
+RN  [1];
+RX  PUBMED: 1673656
+RL  Ekker S. C., Young K. E., von Kessler D. P., Beachy P. A. Optimal DNA sequence recognition by the Ultrabithorax homeodomain of Drosophila. EMBO J. 10:1179-1186 (1991).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4947|ap(DrosophilaTF 1.1)
+XX
+NA  ap
+XX
+DE  ap
+XX
+OS  Drosophila melanogaster
+XX
+BF  494;
+XX
+P0      A      C      G      T
+01      0      0      0      1      T
+02      1      0      0      0      A
+03      1      0      0      0      A
+04      0      0      0      1      T
+05   0.25   0.25   0.25   0.25      n
+06   0.25   0.25   0.25   0.25      n
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=bc87c8b17789aa0880db769c927a50e6
+XX
+RN  [1];
+RX  PUBMED: 14701680
+RL  Yan Shian-Jang, Gu Yi, Li Willis X., Fleming Robert J. Multiple signaling pathways and a selector protein sequentially regulate Drosophila wing development.. Development 131:285-298 (2004).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4948|bab1(DrosophilaTF 1.1)
+XX
+NA  bab1
+XX
+DE  bab1
+XX
+OS  Drosophila melanogaster
+XX
+BF  7470;
+XX
+P0      A      C      G      T
+01 0.2727      0 0.0909 0.6364      w
+02    0.5    0.2    0.1    0.2      a
+03 0.6667      0      0 0.3333      w
+04    0.6      0      0    0.4      w
+05 0.3333 0.1111      0 0.5556      w
+06    0.7      0      0    0.3      W
+07 0.2222      0      0 0.7778      T
+08    0.6      0      0    0.4      w
+09 0.5556      0      0 0.4444      w
+10    0.2    0.1    0.1    0.6      t
+11 0.1111 0.1111 0.3333 0.4444      k
+12      0      0 0.6667 0.3333      k
+XX
+BS  20663;
+BS  20664;
+BS  20665;
+BS  20666;
+BS  20667;
+BS  20668;
+BS  20669;
+BS  20670;
+BS  20671;
+BS  20672;
+BS  20673;
+BS  20674;
+BS  20675;
+BS  20676;
+BS  20677;
+BS  20678;
+BS  20679;
+BS  20680;
+BS  20681;
+BS  20682;
+BS  20683;
+BS  20684;
+BS  20685;
+BS  20686;
+BS  20687;
+BS  20688;
+BS  20689;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=40332dda96102ff355f02fc3fa808729
+XX
+RN  [1];
+RX  PUBMED: 12954775
+RL  Lours C, Bardot O, Godt D, Laski F.A, Couderc J.L. The Drosophila melanogaster BTB proteins bric à brac bind DNA through a composite DNA binding domain containing a pipsqueak and an AT-Hook motif. Nucleic acids research 31:5389-98 (2003).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4949|bcd(DrosophilaTF 1.1)
+XX
+NA  bcd
+XX
+DE  bcd
+XX
+OS  Drosophila melanogaster
+XX
+BF  5659;
+XX
+P0      A      C      G      T
+01 0.2083 0.4583 0.2917 0.0417      s
+02 0.2083 0.4167 0.2917 0.0833      s
+03   0.25 0.3333 0.2917  0.125      v
+04 0.0833 0.5417 0.2083 0.1667      c
+05 0.0417 0.0833      0  0.875      T
+06      1      0      0      0      A
+07      1      0      0      0      A
+08 0.0833      0  0.125 0.7917      T
+09 0.0417 0.8333 0.0417 0.0833      C
+10 0.0417 0.8333 0.0417 0.0833      C
+11 0.2083 0.2917   0.25   0.25      b
+XX
+BS  20690;
+BS  20691;
+BS  20692;
+BS  20693;
+BS  20694;
+BS  20695;
+BS  20696;
+BS  20697;
+BS  20698;
+BS  20699;
+BS  20700;
+BS  20701;
+BS  20702;
+BS  20703;
+BS  20704;
+BS  20705;
+BS  20706;
+BS  20707;
+BS  20708;
+BS  20709;
+BS  20710;
+BS  20711;
+BS  20712;
+BS  20713;
+BS  20714;
+BS  20715;
+BS  20716;
+BS  20717;
+BS  20718;
+BS  20719;
+BS  20720;
+BS  20721;
+BS  20722;
+BS  20723;
+BS  20724;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=51eea8d585f6b505ec641738bdcc23e0
+XX
+RN  [1];
+RX  PUBMED: 8692913
+RL  Wilson D.S, Sheng G, Jun S, Desplan C. Conservation and diversification in homeodomain-DNA interactions: a comparative genetic analysis. Proceedings of the National Academy of Sciences of the United States of America 93:6886-91 (1996).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4950|bin(DrosophilaTF 1.1)
+XX
+NA  bin
+XX
+DE  bin
+XX
+OS  Drosophila melanogaster
+XX
+BF  7471;
+XX
+P0      A      C      G      T
+01    0.5      0    0.5      0      r
+02      0      0      0      1      T
+03      1      0      0      0      A
+04      1      0      0      0      A
+05      1      0      0      0      A
+06      0      0      0      1      T
+07      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=fba1bbfd9ead0666cbcbd7b34aefa6a8
+XX
+RN  [1];
+RX  PUBMED: 11691840
+RL  Zaffran S, Küchler A, Lee H.H, Frasch M. biniou (FoxF), a central component in a regulatory network controlling visceral mesoderm development and midgut morphogenesis in Drosophila. Genes & development 15:2900-15 (2001).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4951|br-Z1(DrosophilaTF 1.1)
+XX
+NA  br-Z1
+XX
+DE  br-Z1
+XX
+OS  Drosophila melanogaster
+XX
+BF  681;
+XX
+P0      A      C      G      T
+01      0      0      0      1      T
+02      1      0      0      0      A
+03      1      0      0      0      A
+04    0.5      0      0    0.5      w
+05    0.5      0      0    0.5      w
+06    0.5      0    0.5      0      r
+07      1      0      0      0      A
+08      0      1      0      0      C
+09      1      0      0      0      A
+10      1      0      0      0      A
+11    0.5      0    0.5      0      r
+12    0.5      0      0    0.5      w
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=9cd144ff313313cc6f16aed3fe5fc385
+XX
+RN  [1];
+RX  PUBMED: 8062827
+RL  von Kalm L., Crossgrove K., Von Seggern D., Guild G. M., Beckendorf S. K. The Broad-Complex directly controls a tissue-specific response to the steroid hormone ecdysone at the onset of Drosophila metamorphosis. EMBO J. 13:3505-3516 (1994).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4952|br-Z2(DrosophilaTF 1.1)
+XX
+NA  br-Z2
+XX
+DE  br-Z2
+XX
+OS  Drosophila melanogaster
+XX
+BF  7472;
+XX
+P0      A      C      G      T
+01      0      0      0      1      T
+02      0      0      0      1      T
+03    0.5      0      0    0.5      w
+04    0.5      0      0    0.5      w
+05      0      1      0      0      C
+06      0      0      0      1      T
+07      1      0      0      0      A
+08      0      0      0      1      T
+09      0      0      0      1      T
+10      0      0      0      1      T
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=1f97cca8c0f5bd5f3f548c45aaebf642
+XX
+RN  [1];
+RX  PUBMED: 8062827
+RL  von Kalm L., Crossgrove K., Von Seggern D., Guild G. M., Beckendorf S. K. The Broad-Complex directly controls a tissue-specific response to the steroid hormone ecdysone at the onset of Drosophila metamorphosis. EMBO J. 13:3505-3516 (1994).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4953|br-Z3(DrosophilaTF 1.1)
+XX
+NA  br-Z3
+XX
+DE  br-Z3
+XX
+OS  Drosophila melanogaster
+XX
+BF  7473;
+XX
+P0      A      C      G      T
+01    0.5      0      0    0.5      w
+02      1      0      0      0      A
+03      1      0      0      0      A
+04      1      0      0      0      A
+05      0      1      0      0      C
+06    0.5      0      0    0.5      w
+07    0.5      0      0    0.5      w
+08    0.5      0    0.5      0      r
+09    0.5      0      0    0.5      w
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=e51b64a0b192cd34e218d4a774c611ca
+XX
+RN  [1];
+RX  PUBMED: 8062827
+RL  von Kalm L., Crossgrove K., Von Seggern D., Guild G. M., Beckendorf S. K. The Broad-Complex directly controls a tissue-specific response to the steroid hormone ecdysone at the onset of Drosophila metamorphosis. EMBO J. 13:3505-3516 (1994).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4954|br-Z4(DrosophilaTF 1.1)
+XX
+NA  br-Z4
+XX
+DE  br-Z4
+XX
+OS  Drosophila melanogaster
+XX
+BF  682;
+XX
+P0      A      C      G      T
+01    0.5      0    0.5      0      r
+02      0      0    0.5    0.5      k
+03      1      0      0      0      A
+04      1      0      0      0      A
+05      1      0      0      0      A
+06      0    0.5    0.5      0      s
+07      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=9333162ab0b2162d5b76ae3c2faec122
+XX
+RN  [1];
+RX  PUBMED: 8062827
+RL  von Kalm L., Crossgrove K., Von Seggern D., Guild G. M., Beckendorf S. K. The Broad-Complex directly controls a tissue-specific response to the steroid hormone ecdysone at the onset of Drosophila metamorphosis. EMBO J. 13:3505-3516 (1994).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4955|brk(DrosophilaTF 1.1)
+XX
+NA  brk
+XX
+DE  brk
+XX
+OS  Drosophila melanogaster
+XX
+BF  5883;
+XX
+P0      A      C      G      T
+01      0      0 0.0833 0.9167      T
+02      0      0      1      0      G
+03      0      0      1      0      G
+04      0      1      0      0      C
+05      0      0      1      0      G
+06      0 0.5833      0 0.4167      y
+07      0   0.25      0   0.75      Y
+XX
+BS  20725;
+BS  20726;
+BS  20727;
+BS  20728;
+BS  20729;
+BS  20730;
+BS  20731;
+BS  20732;
+BS  20733;
+BS  20734;
+BS  20735;
+BS  20736;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=7b83c71fa7eb63ffbaedb7e7b5e6069c
+XX
+RN  [1];
+RX  PUBMED: 11159907
+RL  Zhang H, Levine M, Ashe H.L. Brinker is a sequence-specific transcriptional repressor in the Drosophila embryo. Genes & development 15:261-6 (2001).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4956|byn(DrosophilaTF 1.1)
+XX
+NA  byn
+XX
+DE  byn
+XX
+OS  Drosophila melanogaster
+XX
+BF  7474;
+XX
+P0      A      C      G      T
+01    0.5      0    0.5      0      r
+02    0.5      0      0    0.5      w
+03    0.5      0      0    0.5      w
+04   0.25   0.25   0.25   0.25      n
+05      0      0      0      1      T
+06   0.25   0.25   0.25   0.25      n
+07    0.5      0    0.5      0      r
+08      0      1      0      0      C
+09      1      0      0      0      A
+10      0      1      0      0      C
+11      0    0.5      0    0.5      y
+12      0      0      0      1      T
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=79128db42b4b763c4f6ec00137bf5d66
+XX
+RN  [1];
+RX  PUBMED: 11850413
+RL  Kusch Thomas, Storck Tobias, Walldorf Uwe, Reuter Rolf. Brachyury proteins regulate target genes through modular binding sites in a cooperative fashion.. Genes Dev. 16:518-529 (2002).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4957|cad(DrosophilaTF 1.1)
+XX
+NA  cad
+XX
+DE  cad
+XX
+OS  Drosophila melanogaster
+XX
+BF  5660;
+XX
+P0      A      C      G      T
+01      0      0      0      1      T
+02      0      0      0      1      T
+03      0      0      0      1      T
+04      1      0      0      0      A
+05      0      0      0      1      T
+06      0      0      1      0      G
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=abe5fe30c8b528e21a29af8ef32966a3
+XX
+RN  [1];
+RX  PUBMED: 2571934
+RL  Dearolf C. R., Topol J., Parker C. S. The caudal gene product is a direct activator of fushi tarazu transcription during Drosophila embryogenesis. Nature 341:340 (1989).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4958|croc(DrosophilaTF 1.1)
+XX
+NA  croc
+XX
+DE  croc
+XX
+OS  Drosophila melanogaster
+XX
+BF  1126;
+XX
+P0      A      C      G      T
+01 0.6667      0 0.3333      0      r
+02      0      0      0      1      T
+03      1      0      0      0      A
+04      1      0      0      0      A
+05    0.8    0.2      0      0      A
+06      1      0      0      0      A
+XX
+BS  20737;
+BS  20738;
+BS  20739;
+BS  20740;
+BS  20741;
+BS  20742;
+BS  20743;
+BS  20744;
+BS  20745;
+BS  20746;
+BS  20747;
+BS  20748;
+BS  20749;
+BS  20750;
+BS  20751;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=329845f0eaad4cb6fb29e4b94f2572c5
+XX
+RN  [1];
+RX  PUBMED: 7489720
+RL  Haecker U., Kaufmann E., Hartmann C., Juergens G., Knoechel W., Jaeckle H. The Drosophila fork head domain protein crocodile is required for the establishment of head structures. EMBO J. 14:5306-5317 (1995).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4959|dif/Rel(DrosophilaTF 1.1)
+XX
+NA  dif/Rel
+XX
+DE  dif/Rel
+XX
+OS  Drosophila melanogaster
+XX
+BF  7475;
+XX
+P0      A      C      G      T
+01   0.09      0   0.88   0.03      G
+02      0      0      1      0      G
+03      0      0      1      0      G
+04      0      0      1      0      G
+05      1      0      0      0      A
+06   0.56      0      0   0.44      w
+07      0   0.03      0   0.97      T
+08      0      1      0      0      C
+09   0.16   0.84      0      0      C
+10   0.03   0.94      0   0.03      C
+11   0.16    0.5   0.09   0.25      y
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=2d3d2dbe1e5a241c154c88d3a29e9f5b
+XX
+RN  [1];
+RX  PUBMED: 14731391
+RL  Senger K, Armstrong G.W, Rowell W.J, Kwan J.M, Markstein M, Levine M. Immunity regulatory DNAs share common organizational features in Drosophila. Molecular cell 13:19-32 (2004).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4960|dl-A(DrosophilaTF 1.1)
+XX
+NA  dl-A
+XX
+DE  dl-A
+XX
+OS  Drosophila melanogaster
+XX
+BF  5672;
+XX
+P0      A      C      G      T
+01      0 0.0909 0.8182 0.0909      G
+02      0      0      1      0      G
+03      0      0      1      0      G
+04 0.1818 0.0909      0 0.7273      T
+05 0.1818 0.0455      0 0.7727      T
+06 0.0769      0      0 0.9231      T
+07      0      0      0      1      T
+08      0      0      0      1      T
+09 0.0455 0.9545      0      0      C
+10      0      1      0      0      C
+11 0.2273 0.3636 0.3182 0.0909      s
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=91b7077f15d3c2b60ee58cb62473998f
+XX
+RN  [1];
+RX  PUBMED: 1582412
+RL  Pan D., Courey A. J. The same dorsal binding site mediates both activation and repression in a context-dependent manner. EMBO J. 11:1837-1842 (1992).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4961|dl-B(DrosophilaTF 1.1)
+XX
+NA  dl-B
+XX
+DE  dl-B
+XX
+OS  Drosophila melanogaster
+XX
+BF  5672;
+XX
+P0      A      C      G      T
+01   0.13   0.04    0.6   0.23      g
+02      0   0.03   0.97      0      G
+03      0      0      1      0      G
+04      0      0      1      0      G
+05   0.83      0      0   0.17      A
+06    0.7   0.03      0   0.27      W
+07   0.27      0      0   0.73      W
+08    0.2   0.27      0   0.53      y
+09   0.03   0.94      0   0.03      C
+10      0   0.56   0.07   0.37      y
+11   0.17   0.47    0.3   0.06      s
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=8387dd80c2d4c7794f5ca551b29e0d9d
+XX
+RN  [1];
+RX  PUBMED: 14731391
+RL  Senger K, Armstrong G.W, Rowell W.J, Kwan J.M, Markstein M, Levine M. Immunity regulatory DNAs share common organizational features in Drosophila. Molecular cell 13:19-32 (2004).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4962|dsx(DrosophilaTF 1.1)
+XX
+NA  dsx
+XX
+DE  dsx
+XX
+OS  Drosophila melanogaster
+XX
+BF  7476;
+XX
+P0      A      C      G      T
+01  0.087 0.2609 0.3913 0.2609      b
+02 0.1304 0.2609 0.1304 0.4783      y
+03   0.48   0.08   0.44      0      r
+04 0.4231 0.2692 0.1154 0.1923      m
+05 0.1481 0.3333 0.2222 0.2963      y
+06      1      0      0      0      A
+07 0.0303 0.8788 0.0303 0.0606      C
+08 0.8788      0      0 0.1212      A
+09      1      0      0      0      A
+10 0.1818      0 0.0303 0.7879      T
+11 0.0303 0.0606 0.8485 0.0606      G
+12      0 0.0312      0 0.9688      T
+13 0.4516 0.0968 0.1935 0.2581      w
+14 0.2667    0.1 0.2667 0.3667      d
+15      0 0.5185 0.2222 0.2593      y
+16 0.2692 0.1923 0.2308 0.3077      w
+17 0.1923 0.2692 0.2308 0.3077      y
+XX
+BS  20752;
+BS  20753;
+BS  20754;
+BS  20755;
+BS  20756;
+BS  20757;
+BS  20758;
+BS  20759;
+BS  20760;
+BS  20761;
+BS  20762;
+BS  20763;
+BS  20764;
+BS  20765;
+BS  20766;
+BS  20767;
+BS  20768;
+BS  20769;
+BS  20770;
+BS  20771;
+BS  20772;
+BS  20773;
+BS  20774;
+BS  20775;
+BS  20776;
+BS  20777;
+BS  20778;
+BS  20779;
+BS  20780;
+BS  20781;
+BS  20782;
+BS  20783;
+BS  20784;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=c1160761d2d14b55579d803759ae0199
+XX
+RN  [1];
+RX  PUBMED: 8978051
+RL  Erdman S.E, Chen H.J, Burtis K.C. Functional and genetic characterization of the oligomerization and DNA binding properties of the Drosophila doublesex proteins. Genetics 144:1639-52 (1996).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4963|ems(DrosophilaTF 1.1)
+XX
+NA  ems
+XX
+DE  ems
+XX
+OS  Drosophila melanogaster
+XX
+BF  1003;
+XX
+P0      A      C      G      T
+01      1      0      0      0      A
+02      1      0      0      0      A
+03   0.25   0.25   0.25   0.25      n
+04      0      0      0      1      T
+05   0.25   0.25   0.25   0.25      n
+06      0      0      0      1      T
+07      1      0      0      0      A
+08      1      0      0      0      A
+09      0      0      0      1      T
+10      0      0      1      0      G
+11      1      0      0      0      A
+12      0      1      0      0      C
+13      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=4667b0a23a2ce95188c880ef45aea9ea
+XX
+RN  [1];
+RX  PUBMED: 9491376
+RL  Taylor H. S. A regulatory element of the  spiracles homeobox gene is composed of three distinct conserved regions that bind regulatory proteins.. Mol. Reprod. Dev. 49:246-253 (1998).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4964|en(DrosophilaTF 1.1)
+XX
+NA  en
+XX
+DE  en
+XX
+OS  Drosophila melanogaster
+XX
+BF  5644;
+XX
+P0      A      C      G      T
+01 0.0388 0.0291      0  0.932      T
+02      1      0      0      0      A
+03      1      0      0      0      A
+04 0.0189      0      0 0.9811      T
+05 0.0288 0.0192 0.0673 0.8846      T
+06 0.6477      0 0.2386 0.1136      a
+XX
+BS  20785;
+BS  20786;
+BS  20787;
+BS  20788;
+BS  20789;
+BS  20790;
+BS  20791;
+BS  20792;
+BS  20793;
+BS  20794;
+BS  20795;
+BS  20796;
+BS  20797;
+BS  19397;
+BS  20798;
+BS  20799;
+BS  20800;
+BS  20801;
+BS  20802;
+BS  17339;
+BS  20803;
+BS  20804;
+BS  20805;
+BS  20806;
+BS  20807;
+BS  20808;
+BS  20809;
+BS  20810;
+BS  20811;
+BS  20812;
+BS  20813;
+BS  20814;
+BS  20815;
+BS  20816;
+BS  20817;
+BS  20818;
+BS  20819;
+BS  20820;
+BS  6226;
+BS  6227;
+BS  19394;
+BS  20821;
+BS  20822;
+BS  20823;
+BS  20824;
+BS  20825;
+BS  20826;
+BS  20827;
+BS  17338;
+BS  20828;
+BS  20829;
+BS  20830;
+BS  20831;
+BS  20832;
+BS  20833;
+BS  20834;
+BS  20835;
+BS  20836;
+BS  20837;
+BS  20838;
+BS  20839;
+BS  20840;
+BS  20841;
+BS  20842;
+BS  20843;
+BS  20844;
+BS  20845;
+BS  20846;
+BS  20847;
+BS  20848;
+BS  20849;
+BS  20850;
+BS  20851;
+BS  20852;
+BS  20853;
+BS  20854;
+BS  20855;
+BS  20856;
+BS  20857;
+BS  20858;
+BS  20859;
+BS  20860;
+BS  20861;
+BS  20862;
+BS  20863;
+BS  20864;
+BS  20865;
+BS  20866;
+BS  20867;
+BS  20868;
+BS  20869;
+BS  20870;
+BS  20871;
+BS  20872;
+BS  20873;
+BS  20874;
+BS  20875;
+BS  20876;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=f7fa2863a94743a5946350212af38049
+XX
+RN  [1];
+RX  PUBMED: 8049221
+RL  Ades S.E, Sauer R.T. Differential DNA-binding specificity of the engrailed homeodomain: the role of residue 50. Biochemistry 33:9187-94 (1994).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4965|esg(DrosophilaTF 1.1)
+XX
+NA  esg
+XX
+DE  esg
+XX
+OS  Drosophila melanogaster
+XX
+BF  7477;
+XX
+P0      A      C      G      T
+01 0.2626 0.2626 0.2121 0.2626      h
+02   0.35   0.15   0.35   0.15      r
+03   0.47   0.08   0.34   0.11      r
+04 0.0202 0.9596      0 0.0202      C
+05      1      0      0      0      A
+06   0.07      0   0.91   0.02      G
+07      0      0      1      0      G
+08      0      0      0      1      T
+09   0.03   0.05   0.92      0      G
+10   0.09   0.44   0.22   0.25      y
+11 0.3333  0.202 0.2323 0.2323      a
+12    0.2   0.28   0.32    0.2      s
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=2f7c5a440ef59a3bf3dc07ad2826cf7b
+XX
+RN  [1];
+RX  PUBMED: 7958894
+RL  Fuse N, Hirose S, Hayashi S. Diploidy of Drosophila imaginal cells is maintained by a transcriptional repressor encoded by escargot. Genes & development 8:2270-81 (1994).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4966|eve(DrosophilaTF 1.1)|zen(DrosophilaTF 1.1)
+XX
+NA  eve
+XX
+DE  eve
+XX
+OS  Drosophila melanogaster
+XX
+BF  5648;
+BF  428;
+XX
+P0      A      C      G      T
+01      0      0      0      1      T
+02      0      1      0      0      C
+03      1      0      0      0      A
+04    0.5      0      0    0.5      w
+05      0      0      0      1      T
+06      0      0      0      1      T
+07      1      0      0      0      A
+08      1      0      0      0      A
+09    0.5    0.5      0      0      m
+10      0      0      0      1      T
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=d77fc8fb950b925ebe8a92eca04e21d2
+XX
+RN  [1];
+RX  PUBMED: 2895896
+RL  Hoey T., Levine M. Divergent homeo box proteins recognize similar DNA sequences in Drosophila. Nature 332:858-861 (1988).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4967|eyg(DrosophilaTF 1.1)
+XX
+NA  eyg
+XX
+DE  eyg
+XX
+BF  7478;
+XX
+P0      A      C      G      T
+01   0.15   0.15   0.42   0.28      k
+02   0.42   0.29   0.26   0.03      v
+03   0.33   0.07   0.45   0.15      r
+04   0.08   0.11   0.21    0.6      t
+05   0.45   0.05   0.43   0.07      r
+06   0.23    0.3   0.18   0.29      y
+07      0   0.12   0.05   0.83      T
+08      0   0.87   0.03    0.1      C
+09      1      0      0      0      A
+10   0.02   0.98      0      0      C
+11      0      0      0      1      T
+12   0.01   0.26   0.73      0      S
+13   0.73   0.03   0.24      0      A
+14    0.2   0.18   0.42    0.2      g
+15   0.14   0.15   0.16   0.55      t
+16   0.38   0.27    0.3   0.05      v
+17   0.21   0.37   0.15   0.27      y
+18   0.23   0.04   0.43    0.3      k
+19   0.16   0.37   0.18   0.29      y
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=7c8b769f5bfc068faabbc91be153f77c
+XX
+RN  [1];
+RX  PUBMED: 9811867
+RL  Jun S, Wallen R.V, Goriely A, Kalionis B, Desplan C. Lune/eye gone, a Pax-like protein, uses a partial paired domain and a homeodomain for DNA recognition. Proceedings of the National Academy of Sciences of the United States of America 95:13720-5 (1998).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4968|ftz(DrosophilaTF 1.1)
+XX
+NA  ftz
+XX
+DE  ftz
+XX
+OS  Drosophila melanogaster
+XX
+BF  5643;
+XX
+P0      A      C      G      T
+01 0.2857 0.1905  0.381 0.1429      r
+02 0.2381 0.3333 0.2381 0.1905      c
+03 0.2857 0.1429 0.5238 0.0476      r
+04 0.0952 0.3333 0.1429 0.4286      y
+05      0      0      0      1      T
+06      1      0      0      0      A
+07      1      0      0      0      A
+08      0 0.0476      0 0.9524      T
+09      0 0.0952 0.7619 0.1429      G
+10 0.4762 0.0476 0.3333 0.1429      r
+11 0.1429 0.4286 0.2381 0.1905      c
+12 0.3333 0.4286 0.0952 0.1429      m
+13 0.1905 0.1905 0.2381  0.381      t
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=9367317ce62e5d0140086fa8a0ac5408
+XX
+RN  [1];
+RX  PUBMED: 8692913
+RL  Wilson D.S, Sheng G, Jun S, Desplan C. Conservation and diversification in homeodomain-DNA interactions: a comparative genetic analysis. Proceedings of the National Academy of Sciences of the United States of America 93:6886-91 (1996).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4969|gcm(DrosophilaTF 1.1)
+XX
+NA  gcm
+XX
+DE  gcm
+XX
+OS  Drosophila melanogaster
+XX
+BF  7479;
+XX
+P0      A      C      G      T
+01 0.8667 0.0222 0.0889 0.0222      A
+02      0      0      0      1      T
+03 0.0625      0 0.9167 0.0208      G
+04      0 0.9792 0.0208      0      C
+05 0.0208      0  0.875 0.1042      G
+06      0      0      1      0      G
+07 0.0208      0 0.9792      0      G
+08      0 0.3226      0 0.6774      y
+XX
+BS  20877;
+BS  20878;
+BS  20879;
+BS  20880;
+BS  20881;
+BS  20882;
+BS  20883;
+BS  20884;
+BS  20885;
+BS  20886;
+BS  20887;
+BS  20888;
+BS  20889;
+BS  20890;
+BS  20891;
+BS  20892;
+BS  20893;
+BS  20894;
+BS  20895;
+BS  20896;
+BS  20897;
+BS  20898;
+BS  20899;
+BS  20900;
+BS  20901;
+BS  20902;
+BS  20903;
+BS  20904;
+BS  20905;
+BS  20906;
+BS  20907;
+BS  20908;
+BS  20909;
+BS  20910;
+BS  20911;
+BS  20912;
+BS  20913;
+BS  20914;
+BS  20915;
+BS  20916;
+BS  20917;
+BS  20918;
+BS  20919;
+BS  20920;
+BS  20921;
+BS  20922;
+BS  20923;
+BS  20924;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=6332b847720f16518ecc3af3748964c8
+XX
+RN  [1];
+RX  PUBMED: 8962155
+RL  Akiyama Y., Hosoya T., Poole A. M., Hotta Y. The gcm-motif: a novel DNA-binding motif conserved in Drosophila and mammals. Proc. Natl. Acad. Sci. USA 93:14912-14916 (1996).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4970|grh(DrosophilaTF 1.1)
+XX
+NA  grh
+XX
+DE  grh
+XX
+OS  Drosophila melanogaster
+XX
+BF  7480;
+XX
+P0      A      C      G      T
+01      0    0.5      0    0.5      y
+02   0.25   0.25   0.25   0.25      n
+03      1      0      0      0      A
+04      1      0      0      0      A
+05      0      1      0      0      C
+06      0    0.5      0    0.5      y
+07      0      0      1      0      G
+08      0      0      1      0      G
+09      0      0      0      1      T
+10      0    0.5      0    0.5      y
+11      0    0.5      0    0.5      y
+12      0      0      0      1      T
+13      0      0      1      0      G
+14      0      1      0      0      C
+15      0      0      1      0      G
+16      0      0      1      0      G
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=9bdb5632f2cfd4258c29f0fb6aa106db
+XX
+RN  [1];
+RX  PUBMED: 2606344
+RL  Dynlacht B. D., Attardi L. D., Admon A., Freeman M., Tjian R. Functional analysis of NTF-1, a developmentally regulated Drosophila transcription factor that binds neuronal cis elements. Genes Dev. 3:1677-1688 (1989).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4971|h(DrosophilaTF 1.1)
+XX
+NA  h
+XX
+DE  h
+XX
+OS  Drosophila melanogaster
+XX
+BF  5670;
+XX
+P0      A      C      G      T
+01    0.2    0.3   0.35   0.15      s
+02 0.2626  0.303 0.2626 0.1717      v
+03   0.12   0.16   0.56   0.16      g
+04   0.19   0.15   0.58   0.08      g
+05      0   0.96      0   0.04      C
+06  0.802 0.1188      0 0.0792      A
+07      0      1      0      0      C
+08 0.0303      0 0.9394 0.0303      G
+09      0   0.83   0.07    0.1      C
+10      0   0.12   0.71   0.17      G
+11   0.36   0.41   0.18   0.05      m
+12 0.0495 0.6139 0.2376  0.099      c
+13   0.47   0.21   0.11   0.21      a
+14 0.1515 0.1515 0.3131 0.3838      k
+XX
+BS  20925;
+BS  20926;
+BS  20927;
+BS  20928;
+BS  20929;
+BS  20930;
+BS  20931;
+BS  20932;
+BS  20933;
+BS  20934;
+BS  20935;
+BS  20936;
+BS  20937;
+BS  20938;
+BS  20939;
+BS  20940;
+BS  20941;
+BS  20942;
+BS  20943;
+BS  20944;
+BS  20945;
+BS  20946;
+BS  20947;
+BS  20948;
+BS  20949;
+BS  20950;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=c990edfa753767d9c8167b58a16b1234
+XX
+RN  [1];
+RX  PUBMED: 7958929
+RL  van Doren M., Bailey A. M., Esnayra J., Ede K., Posakony J. W. Negative regulation of proneural gene activity: hairy is a direct transcriptional repressor of achaete. Genes Dev. 8:2729-2742 (1994).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4972|hb(DrosophilaTF 1.1)
+XX
+NA  hb
+XX
+DE  hb
+XX
+OS  Drosophila melanogaster
+XX
+BF  5646;
+XX
+P0      A      C      G      T
+01      0    0.5    0.5      0      s
+02    0.5    0.5      0      0      m
+03      1      0      0      0      A
+04      0      0      0      1      T
+05      1      0      0      0      A
+06      1      0      0      0      A
+07      1      0      0      0      A
+08      1      0      0      0      A
+09      1      0      0      0      A
+10      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=d1aa75ed61487167043b2ac749da3871
+XX
+RN  [1];
+RX  PUBMED: 2507923
+RL  Stanojevic D., Hoey T., Levine M. Sequence-specific DNA-binding activities of the gap proteins encoded by hunchback and Krueppel in Drosophila. Nature 341:331-335 (1989).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4973|mirr(DrosophilaTF 1.1)
+XX
+NA  mirr
+XX
+DE  mirr
+XX
+BF  7481;
+XX
+P0      A      C      G      T
+01 0.3636 0.1429 0.3636 0.1299      r
+02 0.4935 0.1169 0.0779 0.3117      w
+03 0.5065      0      0 0.4935      w
+04 0.5584 0.0519 0.1169 0.2727      w
+05 0.6364 0.0779 0.1429 0.1429      a
+06  0.013 0.8052 0.1818      0      C
+07 0.5844 0.0519  0.039 0.3247      w
+08  0.039 0.3896 0.2468 0.3247      y
+09 0.2468      0 0.5584 0.1948      g
+10 0.1039 0.2208 0.0909 0.5844      t
+11 0.1299 0.2987 0.5714      0      s
+12 0.1429 0.0779 0.1688 0.6104      t
+13 0.3117 0.1688 0.1818 0.3377      w
+14 0.4286 0.3377 0.1299 0.1039      m
+15 0.5065 0.1429 0.1169 0.2338      a
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=19956cf6e99fd09611d826446c1e514e
+XX
+RN  [1];
+RX  PUBMED: 16203991
+RL  Bilioni A, Craig G, Hill C, McNeill H. Iroquois transcription factors recognize a unique motif to mediate transcriptional repression in vivo. Proceedings of the National Academy of Sciences of the United States of America 102:14671-6 (2005).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4974|oc(DrosophilaTF 1.1)
+XX
+NA  oc
+XX
+DE  oc
+XX
+OS  Drosophila melanogaster
+XX
+BF  5687;
+XX
+P0      A      C      G      T
+01 0.2963 0.2963 0.2222 0.1852      m
+02 0.2222 0.5556 0.1481 0.0741      c
+03 0.2222 0.3333 0.3333 0.1111      s
+04 0.1818    0.5 0.0455 0.2727      y
+05      0      0      0      1      T
+06      1      0      0      0      A
+07      1      0      0      0      A
+08      0      0 0.1852 0.8148      T
+09      0      1      0      0      C
+10 0.0741 0.8889  0.037      0      C
+11  0.037 0.3704 0.4815 0.1111      s
+12 0.2222 0.2963 0.1852 0.2963      y
+13 0.2222 0.1852 0.1852 0.4074      t
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=48769353dcd9c52f4ec05107f5ca63bf
+XX
+RN  [1];
+RX  PUBMED: 8692913
+RL  Wilson D.S, Sheng G, Jun S, Desplan C. Conservation and diversification in homeodomain-DNA interactions: a comparative genetic analysis. Proceedings of the National Academy of Sciences of the United States of America 93:6886-91 (1996).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4975|ovo(DrosophilaTF 1.1)
+XX
+NA  ovo
+XX
+DE  ovo
+XX
+OS  Drosophila melanogaster
+XX
+BF  5728;
+XX
+P0      A      C      G      T
+01 0.5238 0.1905      0 0.2857      w
+02 0.0476 0.1905 0.6667 0.0952      g
+03 0.1905 0.0952 0.0952  0.619      t
+04      1      0      0      0      A
+05      1      0      0      0      A
+06      0      1      0      0      C
+07  0.381 0.2381 0.1429 0.2381      a
+08      0      0      1      0      G
+09   0.25    0.2    0.1   0.45      w
+XX
+BS  20951;
+BS  20952;
+BS  20953;
+BS  20954;
+BS  20955;
+BS  20956;
+BS  20957;
+BS  20958;
+BS  20959;
+BS  20960;
+BS  20961;
+BS  20962;
+BS  20963;
+BS  20964;
+BS  20965;
+BS  20966;
+BS  20967;
+BS  20968;
+BS  20969;
+BS  20970;
+BS  20971;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=d567eaac1a180be25bc1183af09736a8
+XX
+RN  [1];
+RX  PUBMED: 10637336
+RL  Lee S., Garfinkel M. D. Characterization of Drosophila OVO protein DNA binding specificity using random DNA oligomer selection suggests zinc finger degeneration.. Nucleic Acids Res. 28:826-834 (2000).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4976|pan(DrosophilaTF 1.1)
+XX
+NA  pan
+XX
+DE  pan
+XX
+OS  Drosophila melanogaster
+XX
+BF  1383;
+XX
+P0      A      C      G      T
+01      0      1      0      0      C
+02      0      1      0      0      C
+03      0      0      0      1      T
+04      0      0      0      1      T
+05      0      0      0      1      T
+06      0      0      1      0      G
+07      1      0      0      0      A
+08      0      0      0      1      T
+09      0      1      0      0      C
+10      0      0      0      1      T
+11      0      0      0      1      T
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=508addc9f3e8972216285e1f2d36d1fc
+XX
+RN  [1];
+RX  PUBMED: 9118222
+RL  van der Wetering M., Cavallo R., Dooijes D., van Beest M., van Es J., Loureiro J., Ypma A., Hursh D., Jones T., Bejsovec A., Peifer M., Mortin M., Clevers H. Armadillo coactivates transcription driven by the product of the drosophila segment polarity gene dTCF. Cell 88:789-799 (1997).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4977|pho(DrosophilaTF 1.1)
+XX
+NA  pho
+XX
+DE  pho
+XX
+OS  Drosophila melanogaster
+XX
+BF  7482;
+XX
+P0      A      C      G      T
+01      0      0      1      0      G
+02      0      1      0      0      C
+03      0      1      0      0      C
+04      1      0      0      0      A
+05      0      0      0      1      T
+06      0      0      0      1      T
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=6d14393c14e28ce0b8b9f56da4563f9d
+XX
+RN  [1];
+RX  PUBMED: 10644409
+RL  Shimell M.J, Peterson A.J, Burr J, Simon J.A, O'Connor M.B. Functional analysis of repressor binding sites in the iab-2 regulatory region of the abdominal-A homeotic gene. Developmental biology 218:38-52 (2000).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4978|pnr(DrosophilaTF 1.1)
+XX
+NA  pnr
+XX
+DE  pnr
+XX
+OS  Drosophila melanogaster
+XX
+BF  7483;
+XX
+P0      A      C      G      T
+01      1      0      0      0      A
+02    0.2    0.2    0.2    0.4      t
+03 0.3333 0.2525 0.0808 0.3333      h
+04  0.202 0.1313 0.3333 0.3333      k
+05    0.2   0.13   0.27    0.4      k
+06 0.1111 0.3333 0.3333 0.2222      s
+07   0.26   0.32      0   0.42      h
+08      0      0      1      0      G
+09      1      0      0      0      A
+10      0      0      0      1      T
+11      1      0      0      0      A
+12  0.703  0.099  0.099  0.099      A
+13      0   0.21   0.63   0.16      g
+14   0.13   0.31    0.5   0.06      s
+15   0.33   0.07    0.4    0.2      r
+16   0.23   0.23   0.31   0.23      g
+17   0.25   0.25   0.33   0.17      v
+18   0.08   0.25   0.25   0.42      b
+XX
+BS  20972;
+BS  20973;
+BS  20974;
+BS  20975;
+BS  20976;
+BS  20977;
+BS  20978;
+BS  20979;
+BS  20980;
+BS  20981;
+BS  20982;
+BS  20983;
+BS  20984;
+BS  20985;
+BS  20986;
+BS  20987;
+BS  20988;
+BS  20989;
+BS  20990;
+BS  20991;
+BS  20992;
+BS  20993;
+BS  20994;
+BS  20995;
+BS  20996;
+BS  20997;
+BS  20998;
+BS  20999;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=e34c85e385bd9722deafe18f27448251
+XX
+RN  [1];
+RX  PUBMED: 9367990
+RL  Haenlin M, Cubadda Y, Blondeau F, Heitzler P, Lutz Y, Simpson P, Ramain P. Transcriptional activity of pannier is regulated negatively by heterodimerization of the GATA DNA-binding domain with a cofactor encoded by the u-shaped gene of Drosophila. Genes & development 11:3096-108 (1997).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4979|prd-HD(DrosophilaTF 1.1)
+XX
+NA  prd-HD
+XX
+DE  prd-HD
+XX
+OS  Drosophila melanogaster
+XX
+BF  333;
+XX
+P0      A      C      G      T
+01      0 0.2414 0.6897  0.069      G
+02 0.4483 0.2414 0.1724 0.1379      a
+03      0      0      0      1      T
+04  0.931      0  0.069      0      A
+05      1      0      0      0      A
+06      0      0      0      1      T
+07      0 0.5172      0 0.4828      y
+08      0      0      1      0      G
+09      1      0      0      0      A
+10      0      0      0      1      T
+11      0 0.0345      0 0.9655      T
+12  0.931      0      0  0.069      A
+13 0.1724 0.1724 0.2759 0.3793      k
+14 0.1034 0.4483 0.3103 0.1379      s
+XX
+BS  21000;
+BS  21001;
+BS  21002;
+BS  21003;
+BS  21004;
+BS  21005;
+BS  21006;
+BS  21007;
+BS  21008;
+BS  21009;
+BS  21010;
+BS  21011;
+BS  21012;
+BS  21013;
+BS  21014;
+BS  21015;
+BS  21016;
+BS  21017;
+BS  21018;
+BS  21019;
+BS  21020;
+BS  21021;
+BS  21022;
+BS  21023;
+BS  21024;
+BS  21025;
+BS  21026;
+BS  21027;
+BS  21028;
+BS  21029;
+BS  21030;
+BS  21031;
+BS  21032;
+BS  21033;
+BS  21034;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=1248ad980da10f00e86fd31b67b81f5e
+XX
+RN  [1];
+RX  PUBMED: 7901121
+RL  Wilson D, Sheng G, Lecuit T, Dostatni N, Desplan C. Cooperative dimerization of paired class homeo domains on DNA. Genes & development 7:2120-34 (1993).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4980|prd-PD(DrosophilaTF 1.1)
+XX
+NA  prd-PD
+XX
+DE  prd-PD
+XX
+OS  Drosophila melanogaster
+XX
+BF  333;
+XX
+P0      A      C      G      T
+01 0.1818 0.0909 0.3182 0.4091      k
+02 0.1364 0.3182 0.3182 0.2273      s
+03 0.0909 0.2727      0 0.6364      y
+04      0 0.9048 0.0952      0      C
+05      0      0      1      0      G
+06      0      0      0      1      T
+07      0      1      0      0      C
+08      1      0      0      0      A
+09      0      1      0      0      C
+10      0      0      1      0      G
+11      0 0.3333 0.6667      0      s
+12      0      0      0      1      T
+13      0 0.1818      0 0.8182      T
+14      0 0.3333 0.6667      0      s
+15 0.7619      0 0.2381      0      A
+16 0.0909 0.5455 0.1818 0.1818      c
+17 0.4091 0.2727 0.2273 0.0909      m
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=c8a4188a6018f94a50db4cf47ae9a1e8
+XX
+RN  [1];
+RX  PUBMED: 8787739
+RL  Jun S, Desplan C. Cooperative interactions between paired domain and homeodomain. Development (Cambridge, England) 122:2639-50 (1996).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4981|pros(DrosophilaTF 1.1)
+XX
+NA  pros
+XX
+DE  pros
+XX
+OS  Drosophila melanogaster
+XX
+BF  7484;
+XX
+P0      A      C      G      T
+01      0      1      0      0      C
+02    0.8      0      0    0.2      A
+03 0.0667 0.3333      0    0.6      y
+04 0.1333 0.2667    0.4    0.2      s
+05 0.2667 0.1333 0.2667 0.3333      d
+06 0.0667 0.9333      0      0      C
+07      0    0.2      0    0.8      T
+XX
+BS  21035;
+BS  21036;
+BS  21037;
+BS  21038;
+BS  21039;
+BS  21040;
+BS  21041;
+BS  21042;
+BS  21043;
+BS  21044;
+BS  21045;
+BS  21046;
+BS  21047;
+BS  21048;
+BS  21049;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=b96d2d2bfe170b26b7d17de54ed95c12
+XX
+RN  [1];
+RX  PUBMED: 9380747
+RL  Hassan B, Li L, Bremer K.A, Chang W, Pinsonneault J, Vaessin H. Prospero is a panneural transcription factor that modulates homeodomain protein activity. Proceedings of the National Academy of Sciences of the United States of America 94:10991-6 (1997).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4982|retn(DrosophilaTF 1.1)
+XX
+NA  retn
+XX
+DE  retn
+XX
+OS  Drosophila melanogaster
+XX
+BF  7485;
+XX
+P0      A      C      G      T
+01 0.2143 0.1667 0.1667 0.4524      t
+02 0.2143 0.3571 0.1667 0.2619      y
+03    0.5      0    0.5      0      r
+04      1      0      0      0      A
+05 0.0238      0      0 0.9762      T
+06 0.0238      0      0 0.9762      T
+07  0.881      0  0.119      0      A
+08 0.6667  0.119 0.1429 0.0714      a
+09 0.2143  0.119 0.1429 0.5238      t
+10 0.2857 0.2619 0.2381 0.2143      m
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=0b55224ba426583e731cecf506bcb863
+XX
+RN  [1];
+RX  PUBMED: 8622680
+RL  Gregory S. L., Kortschak R. D., Kalionis B., Staint R. Characterization of the dead ringer gene identifies a novel, highly conserved family of sequence-specific DNA-binding proteins. Mol. Cell. Biol. 16:792-799 (1996).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4983|sd(DrosophilaTF 1.1)
+XX
+NA  sd
+XX
+DE  sd
+XX
+OS  Drosophila melanogaster
+XX
+BF  1020;
+XX
+P0      A      C      G      T
+01    0.5      0      0    0.5      w
+02    0.5      0    0.5      0      r
+03   0.25   0.25   0.25   0.25      n
+04      1      0      0      0      A
+05      0      0      0      1      T
+06      0      0    0.5    0.5      k
+07      0      0      0      1      T
+08   0.25   0.25   0.25   0.25      n
+09      0      0      0      1      T
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=5c7e31081908f8f460da4e0a6b8e1cdc
+XX
+RN  [1];
+RX  PUBMED: 12466192
+RL  Lunde Karen, Trimble Jennifer L., Guichard Annabel, Guss Kirsten A., Nauber Ulrich, Bier Ethan. Activation of the knirps locus links patterning to morphogenesis of the second wing vein in Drosophila.. Development 130:235-248 (2003).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4984|shn-ZFP1(DrosophilaTF 1.1)
+XX
+NA  shn-ZFP1
+XX
+DE  shn-ZFP1
+XX
+OS  Drosophila melanogaster
+XX
+BF  7486;
+XX
+P0      A      C      G      T
+01      0      0      1      0      G
+02      0      0      1      0      G
+03      0      0    0.8    0.2      G
+04      1      0      0      0      A
+05   0.47   0.13      0    0.4      w
+06      0   0.93      0   0.07      C
+07      0      0      1      0      G
+08      0      0   0.07   0.93      T
+09      0   0.07      0   0.93      T
+10      0      1      0      0      C
+11      0      1      0      0      C
+12   0.07    0.8      0   0.13      C
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=7fc0972cce8c38abda3eabe0023864d6
+XX
+RN  [1];
+RX  PUBMED: 11071761
+RL  Dai H., Hogan C., Gopalakrishnan B., Torres-Vazquez J., Nguyen M., Park S., Raftery L. A., Warrior R., Arora K. The zinc finger protein schnurri acts as a Smad partner in mediating the transcriptional response to decapentaplegic.. Dev. Biol. 227:373-387 (2000).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4986|slbo(DrosophilaTF 1.1)
+XX
+NA  slbo
+XX
+DE  slbo
+XX
+OS  Drosophila melanogaster
+XX
+BF  5757;
+XX
+P0      A      C      G      T
+01      0      0      0      1      T
+02      0      0      0      1      T
+03   0.25   0.25   0.25   0.25      n
+04   0.25   0.25   0.25   0.25      n
+05    0.5      0    0.5      0      r
+06      0      1      0      0      C
+07      1      0      0      0      A
+08      1      0      0      0      A
+09      0      0      0      1      T
+10    0.5    0.5      0      0      m
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=e2562affe7b6177085b0fec8bcbb66c7
+XX
+RN  [1];
+RX  PUBMED: 7671793
+RL  Murphy A. M., Lee T., Andrews C. M., Shilo B. Z., Montell D. J. The breathless FGF receptor homolog, a downstream target of Drosophila C/EBP in the developmental control of cell migration.. Development 121:2255-2263 (1995).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4987|sna(DrosophilaTF 1.1)
+XX
+NA  sna
+XX
+DE  sna
+XX
+OS  Drosophila melanogaster
+XX
+BF  5652;
+XX
+P0      A      C      G      T
+01 0.3182 0.2727 0.3182 0.0909      v
+02   0.36    0.2   0.16   0.28      w
+03 0.4483  0.069 0.4483 0.0345      r
+04 0.7105      0 0.2105 0.0789      A
+05      0  0.975  0.025      0      C
+06  0.975      0      0  0.025      A
+07  0.075      0  0.925      0      G
+08   0.05      0   0.95      0      G
+09      0      0      0      1      T
+10      0      0  0.925  0.075      G
+11 0.0811 0.5135 0.0811 0.3243      y
+12 0.5625   0.25 0.0625  0.125      m
+13 0.2333 0.3667 0.2333 0.1667      c
+XX
+BS  21050;
+BS  21051;
+BS  21052;
+BS  21053;
+BS  21054;
+BS  21055;
+BS  21056;
+BS  21057;
+BS  21058;
+BS  21059;
+BS  21060;
+BS  21061;
+BS  21062;
+BS  21063;
+BS  21064;
+BS  21065;
+BS  21066;
+BS  21067;
+BS  21068;
+BS  21069;
+BS  21070;
+BS  21071;
+BS  21072;
+BS  21073;
+BS  21074;
+BS  21075;
+BS  21076;
+BS  21077;
+BS  21078;
+BS  21079;
+BS  21080;
+BS  21081;
+BS  21082;
+BS  21083;
+BS  21084;
+BS  21085;
+BS  21086;
+BS  21087;
+BS  21088;
+BS  21089;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=dcbab56a741ee5dcba45733fba213682
+XX
+RN  [1];
+RX  PUBMED: 8371971
+RL  Mauhin V., Lutz Y., Dennefeld C., Alberga A. Definition of the DNA-binding site repertoire for the Drosophila transcription factor SNAIL. Nucleic Acids Res. 21:3951-3957 (1993).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4988|srp(DrosophilaTF 1.1)
+XX
+NA  srp
+XX
+DE  srp
+XX
+OS  Drosophila melanogaster
+XX
+BF  7487;
+XX
+P0      A      C      G      T
+01   0.09   0.13    0.5   0.28      k
+02   0.19   0.44      0   0.37      y
+03      0      0      1      0      G
+04      1      0      0      0      A
+05      0      0      0      1      T
+06      1      0      0      0      A
+07   0.97      0   0.03      0      A
+08      0   0.35   0.56   0.09      s
+09   0.47   0.09   0.41   0.03      r
+10   0.19   0.34   0.19   0.28      y
+XX
+BS  21090;
+BS  21091;
+BS  21092;
+BS  21093;
+BS  21094;
+BS  21095;
+BS  21096;
+BS  21097;
+BS  21098;
+BS  21099;
+BS  21100;
+BS  21101;
+BS  21102;
+BS  21103;
+BS  21104;
+BS  21105;
+BS  21106;
+BS  21107;
+BS  21108;
+BS  21109;
+BS  21110;
+BS  21111;
+BS  21112;
+BS  21113;
+BS  21114;
+BS  21115;
+BS  21116;
+BS  21117;
+BS  21118;
+BS  21119;
+BS  21120;
+BS  21121;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=cb0d101b2bcf5e30feea6e415ac8d020
+XX
+RN  [1];
+RX  PUBMED: 14731391
+RL  Senger K, Armstrong G.W, Rowell W.J, Kwan J.M, Markstein M, Levine M. Immunity regulatory DNAs share common organizational features in Drosophila. Molecular cell 13:19-32 (2004).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4989|tin(DrosophilaTF 1.1)
+XX
+NA  tin
+XX
+DE  tin
+XX
+OS  Drosophila melanogaster
+XX
+BF  5684;
+XX
+P0      A      C      G      T
+01      0      1      0      0      C
+02      1      0      0      0      A
+03      0      1      0      0      C
+04      0      0      0      1      T
+05      0      0      0      1      T
+06    0.5      0    0.5      0      r
+07      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=b000cb369a6f34ecd735f472a14d2857
+XX
+RN  [1];
+RX  PUBMED: 10588882
+RL  Kremser T, Gajewski K, Schulz R.A, Renkawitz-Pohl R. Tinman regulates the transcription of the beta3 tubulin gene (betaTub60D) in the dorsal vessel of Drosophila. Developmental biology 216:327-39 (1999).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4990|tll(DrosophilaTF 1.1)
+XX
+NA  tll
+XX
+DE  tll
+XX
+OS  Drosophila melanogaster
+XX
+BF  373;
+XX
+P0      A      C      G      T
+01      1      0      0      0      A
+02      1      0      0      0      A
+03      1      0      0      0      A
+04      0      0      0      1      T
+05      0      0      0      1      T
+06      1      0      0      0      A
+07      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=13f18d83a4c883945d1c8335d4fcae26
+XX
+RN  [1];
+RX  PUBMED: 1348871
+RL  Hoch M., Gerwin N., Taubert H., Jaeckle H. Competition for overlapping sites in the regulatory region of the Drosophila gene Krueppel. Science 256:94-97 (1992).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4991|usp(DrosophilaTF 1.1)
+XX
+NA  usp
+XX
+DE  usp
+XX
+OS  Drosophila melanogaster
+XX
+BF  56;
+XX
+P0      A      C      G      T
+01   0.03   0.03   0.94      0      G
+02   0.05      0   0.95      0      G
+03      0      0      1      0      G
+04      0      0      1      0      G
+05      0      0      0      1      T
+06      0   0.94   0.03   0.03      C
+07   0.95      0   0.05      0      A
+08   0.11   0.68   0.05   0.16      C
+09   0.13   0.24   0.55   0.08      g
+XX
+BS  21122;
+BS  21123;
+BS  21124;
+BS  21125;
+BS  21126;
+BS  21127;
+BS  21128;
+BS  21129;
+BS  21130;
+BS  21131;
+BS  21132;
+BS  21133;
+BS  21134;
+BS  21135;
+BS  21136;
+BS  21137;
+BS  21138;
+BS  21139;
+BS  21140;
+BS  21141;
+BS  21142;
+BS  21143;
+BS  21144;
+BS  21145;
+BS  21146;
+BS  21147;
+BS  21148;
+BS  21149;
+BS  21150;
+BS  21151;
+BS  21152;
+BS  21153;
+BS  21154;
+BS  21155;
+BS  21156;
+BS  21157;
+BS  21158;
+BS  21159;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=deb46dcbb8973415f3c539a767d3755a
+XX
+RN  [1];
+RX  PUBMED: 1280827
+RL  Christianson A. M. K., King D. L., Hatzivassiliou E., Casas J. E., Hallenbeck P. L., Nikodem V. M., Mitsialis S. A., Kafatos F. C. DNA binding and heteromerization of the Drosophila transcription factor chorion factor 1/ultraspiracle. Proc. Natl. Acad. Sci. USA 89:11503-11507 (1992).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  4992|vnd(DrosophilaTF 1.1)
+XX
+NA  vnd
+XX
+DE  vnd
+XX
+OS  Drosophila melanogaster
+XX
+BF  5685;
+XX
+P0      A      C      G      T
+01 0.2574 0.2277 0.2574 0.2574      d
+02   0.28   0.16   0.16    0.4      w
+03   0.17   0.16    0.4   0.27      k
+04   0.17   0.02    0.1   0.71      T
+05 0.0777 0.3592 0.1845 0.3786      y
+06 0.8614 0.0149 0.1089 0.0149      A
+07      1      0      0      0      A
+08      0  0.025   0.96  0.015      G
+09  0.025   0.04  0.025   0.91      T
+10   0.18   0.02    0.7    0.1      G
+11      0 0.2626  0.596 0.1414      s
+12   0.11   0.33   0.23   0.33      y
+13  0.198  0.198 0.2574 0.3465      k
+14 0.1584  0.198 0.3762 0.2673      k
+XX
+BS  21160;
+BS  21161;
+BS  21162;
+BS  21163;
+BS  21164;
+BS  21165;
+BS  21166;
+BS  21167;
+BS  21168;
+BS  21169;
+BS  21170;
+BS  21171;
+BS  21172;
+BS  21173;
+BS  21174;
+BS  21175;
+BS  21176;
+BS  21177;
+BS  21178;
+BS  21179;
+BS  21180;
+BS  21181;
+BS  21182;
+BS  21183;
+BS  21184;
+BS  21185;
+BS  21186;
+BS  21187;
+BS  21188;
+BS  21189;
+BS  21190;
+BS  21191;
+BS  21192;
+BS  21193;
+BS  21194;
+BS  21195;
+BS  21196;
+BS  21197;
+BS  21198;
+BS  21199;
+BS  21200;
+BS  21201;
+BS  21202;
+BS  21203;
+BS  21204;
+BS  21205;
+BS  21206;
+BS  21207;
+BS  21208;
+BS  21209;
+BS  21210;
+BS  21211;
+BS  21212;
+BS  21213;
+BS  21214;
+BS  21215;
+BS  21216;
+BS  21217;
+BS  21218;
+BS  21219;
+BS  21220;
+BS  21221;
+BS  21222;
+BS  21223;
+BS  21224;
+BS  21225;
+BS  21226;
+BS  21227;
+BS  21228;
+BS  21229;
+BS  21230;
+BS  21231;
+BS  21232;
+BS  21233;
+BS  21234;
+BS  21235;
+BS  21236;
+BS  21237;
+BS  21238;
+BS  21239;
+BS  21240;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=bb516e5ae8ce1054954f3d9626a25693
+XX
+RN  [1];
+RX  PUBMED: 12232052
+RL  Wang L.H, Chmelik R, Nirenberg M. Sequence-specific DNA binding by the vnd/NK-2 homeodomain of Drosophila. Proceedings of the National Academy of Sciences of the United States of America 99:12721-6 (2002).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

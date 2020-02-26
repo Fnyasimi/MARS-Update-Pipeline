@@ -1,0 +1,42 @@
+AC  4955|brk(DrosophilaTF 1.1)
+XX
+NA  brk
+XX
+DE  brk
+XX
+OS  Drosophila melanogaster
+XX
+BF  5883;
+XX
+P0      A      C      G      T
+01      0      0 0.0833 0.9167      T
+02      0      0      1      0      G
+03      0      0      1      0      G
+04      0      1      0      0      C
+05      0      0      1      0      G
+06      0 0.5833      0 0.4167      y
+07      0   0.25      0   0.75      Y
+XX
+BS  20725;
+BS  20726;
+BS  20727;
+BS  20728;
+BS  20729;
+BS  20730;
+BS  20731;
+BS  20732;
+BS  20733;
+BS  20734;
+BS  20735;
+BS  20736;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=7b83c71fa7eb63ffbaedb7e7b5e6069c
+XX
+RN  [1];
+RX  PUBMED: 11159907
+RL  Zhang H, Levine M, Ashe H.L. Brinker is a sequence-specific transcriptional repressor in the Drosophila embryo. Genes & development 15:261-6 (2001).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

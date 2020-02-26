@@ -1,0 +1,28 @@
+AC  4940|Hr46(DrosophilaTF 1.1)
+XX
+NA  Hr46
+XX
+DE  Hr46
+XX
+OS  Drosophila melanogaster
+XX
+BF  7467;
+XX
+P0      A      C      G      T
+01      0      0      1      0      G
+02      0      0      1      0      G
+03      0      0      1      0      G
+04      0      0      0      1      T
+05      0      1      0      0      C
+06      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=ab199ef3f178cb4507633ff1f0974d94
+XX
+RN  [1];
+RX  PUBMED: 9165123
+RL  Lam G.T, Jiang C, Thummel C.S. Coordination of larval and prepupal gene expression by the DHR3 orphan receptor during Drosophila metamorphosis. Development (Cambridge, England) 124:1757-69 (1997).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

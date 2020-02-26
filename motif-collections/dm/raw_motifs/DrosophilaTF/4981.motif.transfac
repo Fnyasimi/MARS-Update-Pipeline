@@ -1,0 +1,45 @@
+AC  4981|pros(DrosophilaTF 1.1)
+XX
+NA  pros
+XX
+DE  pros
+XX
+OS  Drosophila melanogaster
+XX
+BF  7484;
+XX
+P0      A      C      G      T
+01      0      1      0      0      C
+02    0.8      0      0    0.2      A
+03 0.0667 0.3333      0    0.6      y
+04 0.1333 0.2667    0.4    0.2      s
+05 0.2667 0.1333 0.2667 0.3333      d
+06 0.0667 0.9333      0      0      C
+07      0    0.2      0    0.8      T
+XX
+BS  21035;
+BS  21036;
+BS  21037;
+BS  21038;
+BS  21039;
+BS  21040;
+BS  21041;
+BS  21042;
+BS  21043;
+BS  21044;
+BS  21045;
+BS  21046;
+BS  21047;
+BS  21048;
+BS  21049;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=b96d2d2bfe170b26b7d17de54ed95c12
+XX
+RN  [1];
+RX  PUBMED: 9380747
+RL  Hassan B, Li L, Bremer K.A, Chang W, Pinsonneault J, Vaessin H. Prospero is a panneural transcription factor that modulates homeodomain protein activity. Proceedings of the National Academy of Sciences of the United States of America 94:10991-6 (1997).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

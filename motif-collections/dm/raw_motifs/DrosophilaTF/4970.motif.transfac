@@ -1,0 +1,38 @@
+AC  4970|grh(DrosophilaTF 1.1)
+XX
+NA  grh
+XX
+DE  grh
+XX
+OS  Drosophila melanogaster
+XX
+BF  7480;
+XX
+P0      A      C      G      T
+01      0    0.5      0    0.5      y
+02   0.25   0.25   0.25   0.25      n
+03      1      0      0      0      A
+04      1      0      0      0      A
+05      0      1      0      0      C
+06      0    0.5      0    0.5      y
+07      0      0      1      0      G
+08      0      0      1      0      G
+09      0      0      0      1      T
+10      0    0.5      0    0.5      y
+11      0    0.5      0    0.5      y
+12      0      0      0      1      T
+13      0      0      1      0      G
+14      0      1      0      0      C
+15      0      0      1      0      G
+16      0      0      1      0      G
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=9bdb5632f2cfd4258c29f0fb6aa106db
+XX
+RN  [1];
+RX  PUBMED: 2606344
+RL  Dynlacht B. D., Attardi L. D., Admon A., Freeman M., Tjian R. Functional analysis of NTF-1, a developmentally regulated Drosophila transcription factor that binds neuronal cis elements. Genes Dev. 3:1677-1688 (1989).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

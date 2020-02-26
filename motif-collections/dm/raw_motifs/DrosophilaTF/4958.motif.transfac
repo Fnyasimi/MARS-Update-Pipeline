@@ -1,0 +1,44 @@
+AC  4958|croc(DrosophilaTF 1.1)
+XX
+NA  croc
+XX
+DE  croc
+XX
+OS  Drosophila melanogaster
+XX
+BF  1126;
+XX
+P0      A      C      G      T
+01 0.6667      0 0.3333      0      r
+02      0      0      0      1      T
+03      1      0      0      0      A
+04      1      0      0      0      A
+05    0.8    0.2      0      0      A
+06      1      0      0      0      A
+XX
+BS  20737;
+BS  20738;
+BS  20739;
+BS  20740;
+BS  20741;
+BS  20742;
+BS  20743;
+BS  20744;
+BS  20745;
+BS  20746;
+BS  20747;
+BS  20748;
+BS  20749;
+BS  20750;
+BS  20751;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=329845f0eaad4cb6fb29e4b94f2572c5
+XX
+RN  [1];
+RX  PUBMED: 7489720
+RL  Haecker U., Kaufmann E., Hartmann C., Juergens G., Knoechel W., Jaeckle H. The Drosophila fork head domain protein crocodile is required for the establishment of head structures. EMBO J. 14:5306-5317 (1995).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

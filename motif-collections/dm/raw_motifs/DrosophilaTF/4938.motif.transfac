@@ -1,0 +1,37 @@
+AC  4938|EcR/usp(DrosophilaTF 1.1)
+XX
+NA  EcR/usp
+XX
+DE  EcR/usp
+XX
+OS  Drosophila melanogaster
+XX
+BF  7466;
+XX
+P0      A      C      G      T
+01   0.25   0.17   0.58      0      r
+02   0.67   0.04   0.29      0      r
+03      0      0      1      0      G
+04      0      0   0.83   0.17      G
+05      0      0      0      1      T
+06      0   0.79      0   0.21      C
+07      1      0      0      0      A
+08   0.63   0.08   0.08   0.21      a
+09      0   0.08   0.04   0.88      T
+10   0.04      0   0.96      0      G
+11    0.7   0.13   0.13   0.04      A
+12   0.21   0.79      0      0      C
+13   0.21   0.75      0   0.04      C
+14   0.04   0.38   0.04   0.54      y
+15   0.04   0.75   0.04   0.17      C
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=ce3ed4d39ebae692e6b5d4efaca6719f
+XX
+RN  [1];
+RX  PUBMED: 9580693
+RL  Vögtli M, Elke C, Imhof M.O, Lezzi M. High level transactivation by the ecdysone receptor complex at the core recognition motif. Nucleic acids research 26:2407-14 (1998).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

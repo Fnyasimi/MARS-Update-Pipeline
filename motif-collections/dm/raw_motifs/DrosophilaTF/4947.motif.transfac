@@ -1,0 +1,28 @@
+AC  4947|ap(DrosophilaTF 1.1)
+XX
+NA  ap
+XX
+DE  ap
+XX
+OS  Drosophila melanogaster
+XX
+BF  494;
+XX
+P0      A      C      G      T
+01      0      0      0      1      T
+02      1      0      0      0      A
+03      1      0      0      0      A
+04      0      0      0      1      T
+05   0.25   0.25   0.25   0.25      n
+06   0.25   0.25   0.25   0.25      n
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=bc87c8b17789aa0880db769c927a50e6
+XX
+RN  [1];
+RX  PUBMED: 14701680
+RL  Yan Shian-Jang, Gu Yi, Li Willis X., Fleming Robert J. Multiple signaling pathways and a selector protein sequentially regulate Drosophila wing development.. Development 131:285-298 (2004).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

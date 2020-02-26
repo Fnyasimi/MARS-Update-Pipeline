@@ -1,0 +1,33 @@
+AC  4966|eve(DrosophilaTF 1.1)|zen(DrosophilaTF 1.1)
+XX
+NA  eve
+XX
+DE  eve
+XX
+OS  Drosophila melanogaster
+XX
+BF  5648;
+BF  428;
+XX
+P0      A      C      G      T
+01      0      0      0      1      T
+02      0      1      0      0      C
+03      1      0      0      0      A
+04    0.5      0      0    0.5      w
+05      0      0      0      1      T
+06      0      0      0      1      T
+07      1      0      0      0      A
+08      1      0      0      0      A
+09    0.5    0.5      0      0      m
+10      0      0      0      1      T
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=d77fc8fb950b925ebe8a92eca04e21d2
+XX
+RN  [1];
+RX  PUBMED: 2895896
+RL  Hoey T., Levine M. Divergent homeo box proteins recognize similar DNA sequences in Drosophila. Nature 332:858-861 (1988).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

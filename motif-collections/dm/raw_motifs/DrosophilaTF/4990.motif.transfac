@@ -1,0 +1,29 @@
+AC  4990|tll(DrosophilaTF 1.1)
+XX
+NA  tll
+XX
+DE  tll
+XX
+OS  Drosophila melanogaster
+XX
+BF  373;
+XX
+P0      A      C      G      T
+01      1      0      0      0      A
+02      1      0      0      0      A
+03      1      0      0      0      A
+04      0      0      0      1      T
+05      0      0      0      1      T
+06      1      0      0      0      A
+07      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=13f18d83a4c883945d1c8335d4fcae26
+XX
+RN  [1];
+RX  PUBMED: 1348871
+RL  Hoch M., Gerwin N., Taubert H., Jaeckle H. Competition for overlapping sites in the regulatory region of the Drosophila gene Krueppel. Science 256:94-97 (1992).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

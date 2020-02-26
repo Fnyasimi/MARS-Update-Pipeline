@@ -1,0 +1,28 @@
+AC  4977|pho(DrosophilaTF 1.1)
+XX
+NA  pho
+XX
+DE  pho
+XX
+OS  Drosophila melanogaster
+XX
+BF  7482;
+XX
+P0      A      C      G      T
+01      0      0      1      0      G
+02      0      1      0      0      C
+03      0      1      0      0      C
+04      1      0      0      0      A
+05      0      0      0      1      T
+06      0      0      0      1      T
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=6d14393c14e28ce0b8b9f56da4563f9d
+XX
+RN  [1];
+RX  PUBMED: 10644409
+RL  Shimell M.J, Peterson A.J, Burr J, Simon J.A, O'Connor M.B. Functional analysis of repressor binding sites in the iab-2 regulatory region of the abdominal-A homeotic gene. Developmental biology 218:38-52 (2000).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

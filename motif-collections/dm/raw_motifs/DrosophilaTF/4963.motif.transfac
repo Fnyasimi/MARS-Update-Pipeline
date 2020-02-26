@@ -1,0 +1,35 @@
+AC  4963|ems(DrosophilaTF 1.1)
+XX
+NA  ems
+XX
+DE  ems
+XX
+OS  Drosophila melanogaster
+XX
+BF  1003;
+XX
+P0      A      C      G      T
+01      1      0      0      0      A
+02      1      0      0      0      A
+03   0.25   0.25   0.25   0.25      n
+04      0      0      0      1      T
+05   0.25   0.25   0.25   0.25      n
+06      0      0      0      1      T
+07      1      0      0      0      A
+08      1      0      0      0      A
+09      0      0      0      1      T
+10      0      0      1      0      G
+11      1      0      0      0      A
+12      0      1      0      0      C
+13      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=4667b0a23a2ce95188c880ef45aea9ea
+XX
+RN  [1];
+RX  PUBMED: 9491376
+RL  Taylor H. S. A regulatory element of the  spiracles homeobox gene is composed of three distinct conserved regions that bind regulatory proteins.. Mol. Reprod. Dev. 49:246-253 (1998).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

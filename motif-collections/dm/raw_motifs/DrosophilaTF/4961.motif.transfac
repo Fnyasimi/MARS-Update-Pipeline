@@ -1,0 +1,33 @@
+AC  4961|dl-B(DrosophilaTF 1.1)
+XX
+NA  dl-B
+XX
+DE  dl-B
+XX
+OS  Drosophila melanogaster
+XX
+BF  5672;
+XX
+P0      A      C      G      T
+01   0.13   0.04    0.6   0.23      g
+02      0   0.03   0.97      0      G
+03      0      0      1      0      G
+04      0      0      1      0      G
+05   0.83      0      0   0.17      A
+06    0.7   0.03      0   0.27      W
+07   0.27      0      0   0.73      W
+08    0.2   0.27      0   0.53      y
+09   0.03   0.94      0   0.03      C
+10      0   0.56   0.07   0.37      y
+11   0.17   0.47    0.3   0.06      s
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=8387dd80c2d4c7794f5ca551b29e0d9d
+XX
+RN  [1];
+RX  PUBMED: 14731391
+RL  Senger K, Armstrong G.W, Rowell W.J, Kwan J.M, Markstein M, Levine M. Immunity regulatory DNAs share common organizational features in Drosophila. Molecular cell 13:19-32 (2004).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

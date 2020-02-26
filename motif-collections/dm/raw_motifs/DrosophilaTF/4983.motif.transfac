@@ -1,0 +1,31 @@
+AC  4983|sd(DrosophilaTF 1.1)
+XX
+NA  sd
+XX
+DE  sd
+XX
+OS  Drosophila melanogaster
+XX
+BF  1020;
+XX
+P0      A      C      G      T
+01    0.5      0      0    0.5      w
+02    0.5      0    0.5      0      r
+03   0.25   0.25   0.25   0.25      n
+04      1      0      0      0      A
+05      0      0      0      1      T
+06      0      0    0.5    0.5      k
+07      0      0      0      1      T
+08   0.25   0.25   0.25   0.25      n
+09      0      0      0      1      T
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=5c7e31081908f8f460da4e0a6b8e1cdc
+XX
+RN  [1];
+RX  PUBMED: 12466192
+RL  Lunde Karen, Trimble Jennifer L., Guichard Annabel, Guss Kirsten A., Nauber Ulrich, Bier Ethan. Activation of the knirps locus links patterning to morphogenesis of the second wing vein in Drosophila.. Development 130:235-248 (2003).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

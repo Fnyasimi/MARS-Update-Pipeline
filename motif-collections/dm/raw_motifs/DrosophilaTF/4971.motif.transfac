@@ -1,0 +1,63 @@
+AC  4971|h(DrosophilaTF 1.1)
+XX
+NA  h
+XX
+DE  h
+XX
+OS  Drosophila melanogaster
+XX
+BF  5670;
+XX
+P0      A      C      G      T
+01    0.2    0.3   0.35   0.15      s
+02 0.2626  0.303 0.2626 0.1717      v
+03   0.12   0.16   0.56   0.16      g
+04   0.19   0.15   0.58   0.08      g
+05      0   0.96      0   0.04      C
+06  0.802 0.1188      0 0.0792      A
+07      0      1      0      0      C
+08 0.0303      0 0.9394 0.0303      G
+09      0   0.83   0.07    0.1      C
+10      0   0.12   0.71   0.17      G
+11   0.36   0.41   0.18   0.05      m
+12 0.0495 0.6139 0.2376  0.099      c
+13   0.47   0.21   0.11   0.21      a
+14 0.1515 0.1515 0.3131 0.3838      k
+XX
+BS  20925;
+BS  20926;
+BS  20927;
+BS  20928;
+BS  20929;
+BS  20930;
+BS  20931;
+BS  20932;
+BS  20933;
+BS  20934;
+BS  20935;
+BS  20936;
+BS  20937;
+BS  20938;
+BS  20939;
+BS  20940;
+BS  20941;
+BS  20942;
+BS  20943;
+BS  20944;
+BS  20945;
+BS  20946;
+BS  20947;
+BS  20948;
+BS  20949;
+BS  20950;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=c990edfa753767d9c8167b58a16b1234
+XX
+RN  [1];
+RX  PUBMED: 7958929
+RL  van Doren M., Bailey A. M., Esnayra J., Ede K., Posakony J. W. Negative regulation of proneural gene activity: hairy is a direct transcriptional repressor of achaete. Genes Dev. 8:2729-2742 (1994).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

@@ -1,0 +1,28 @@
+AC  4957|cad(DrosophilaTF 1.1)
+XX
+NA  cad
+XX
+DE  cad
+XX
+OS  Drosophila melanogaster
+XX
+BF  5660;
+XX
+P0      A      C      G      T
+01      0      0      0      1      T
+02      0      0      0      1      T
+03      0      0      0      1      T
+04      1      0      0      0      A
+05      0      0      0      1      T
+06      0      0      1      0      G
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=abe5fe30c8b528e21a29af8ef32966a3
+XX
+RN  [1];
+RX  PUBMED: 2571934
+RL  Dearolf C. R., Topol J., Parker C. S. The caudal gene product is a direct activator of fushi tarazu transcription during Drosophila embryogenesis. Nature 341:340 (1989).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

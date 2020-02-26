@@ -1,0 +1,79 @@
+AC  4969|gcm(DrosophilaTF 1.1)
+XX
+NA  gcm
+XX
+DE  gcm
+XX
+OS  Drosophila melanogaster
+XX
+BF  7479;
+XX
+P0      A      C      G      T
+01 0.8667 0.0222 0.0889 0.0222      A
+02      0      0      0      1      T
+03 0.0625      0 0.9167 0.0208      G
+04      0 0.9792 0.0208      0      C
+05 0.0208      0  0.875 0.1042      G
+06      0      0      1      0      G
+07 0.0208      0 0.9792      0      G
+08      0 0.3226      0 0.6774      y
+XX
+BS  20877;
+BS  20878;
+BS  20879;
+BS  20880;
+BS  20881;
+BS  20882;
+BS  20883;
+BS  20884;
+BS  20885;
+BS  20886;
+BS  20887;
+BS  20888;
+BS  20889;
+BS  20890;
+BS  20891;
+BS  20892;
+BS  20893;
+BS  20894;
+BS  20895;
+BS  20896;
+BS  20897;
+BS  20898;
+BS  20899;
+BS  20900;
+BS  20901;
+BS  20902;
+BS  20903;
+BS  20904;
+BS  20905;
+BS  20906;
+BS  20907;
+BS  20908;
+BS  20909;
+BS  20910;
+BS  20911;
+BS  20912;
+BS  20913;
+BS  20914;
+BS  20915;
+BS  20916;
+BS  20917;
+BS  20918;
+BS  20919;
+BS  20920;
+BS  20921;
+BS  20922;
+BS  20923;
+BS  20924;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=6332b847720f16518ecc3af3748964c8
+XX
+RN  [1];
+RX  PUBMED: 8962155
+RL  Akiyama Y., Hosoya T., Poole A. M., Hotta Y. The gcm-motif: a novel DNA-binding motif conserved in Drosophila and mammals. Proc. Natl. Acad. Sci. USA 93:14912-14916 (1996).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

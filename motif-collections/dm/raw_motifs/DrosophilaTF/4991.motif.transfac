@@ -1,0 +1,70 @@
+AC  4991|usp(DrosophilaTF 1.1)
+XX
+NA  usp
+XX
+DE  usp
+XX
+OS  Drosophila melanogaster
+XX
+BF  56;
+XX
+P0      A      C      G      T
+01   0.03   0.03   0.94      0      G
+02   0.05      0   0.95      0      G
+03      0      0      1      0      G
+04      0      0      1      0      G
+05      0      0      0      1      T
+06      0   0.94   0.03   0.03      C
+07   0.95      0   0.05      0      A
+08   0.11   0.68   0.05   0.16      C
+09   0.13   0.24   0.55   0.08      g
+XX
+BS  21122;
+BS  21123;
+BS  21124;
+BS  21125;
+BS  21126;
+BS  21127;
+BS  21128;
+BS  21129;
+BS  21130;
+BS  21131;
+BS  21132;
+BS  21133;
+BS  21134;
+BS  21135;
+BS  21136;
+BS  21137;
+BS  21138;
+BS  21139;
+BS  21140;
+BS  21141;
+BS  21142;
+BS  21143;
+BS  21144;
+BS  21145;
+BS  21146;
+BS  21147;
+BS  21148;
+BS  21149;
+BS  21150;
+BS  21151;
+BS  21152;
+BS  21153;
+BS  21154;
+BS  21155;
+BS  21156;
+BS  21157;
+BS  21158;
+BS  21159;
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=deb46dcbb8973415f3c539a767d3755a
+XX
+RN  [1];
+RX  PUBMED: 1280827
+RL  Christianson A. M. K., King D. L., Hatzivassiliou E., Casas J. E., Hallenbeck P. L., Nikodem V. M., Mitsialis S. A., Kafatos F. C. DNA binding and heteromerization of the Drosophila transcription factor chorion factor 1/ultraspiracle. Proc. Natl. Acad. Sci. USA 89:11503-11507 (1992).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

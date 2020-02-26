@@ -1,0 +1,197 @@
+AC  17615|Bcd(SMILE-seq 1.0)
+XX
+NA  Bcd
+XX
+DE  Bcd
+XX
+OS  Drosophila melanogaster
+XX
+BF  12900;
+XX
+P0      A      C      G      T
+01   0.21   0.27   0.10   0.43      y
+02      0      0      0      1      T
+03      1      0      0      0      A
+04      1      0      0      0      A
+05      0      0      0      1      T
+06      0      1      0      0      C
+07      0   0.72      0   0.28      Y
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=621274ed2df4342d4a4a8da8eace86c2
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  17629|Gsc(SMILE-seq 1.0)
+XX
+NA  Gsc
+XX
+DE  Gsc
+XX
+OS  Drosophila melanogaster
+XX
+BF  12917;
+XX
+P0      A      C      G      T
+01   0.04      0      0   0.96      T
+02   0.96      0   0.01   0.02      A
+03      1      0      0      0      A
+04      0   0.02      0   0.98      T
+05   0.05   0.95      0      0      C
+06   0.03   0.67   0.19   0.11      c
+07   0.13    0.2   0.44   0.23      g
+08    0.4   0.31   0.01   0.28      h
+09      0   0.14      0   0.86      T
+10   0.45   0.06   0.05   0.44      w
+11   0.73   0.04   0.11   0.12      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=67c94cab0ce58ead21def64b32e79c22
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  17630|Gt(SMILE-seq 1.0)
+XX
+NA  Gt
+XX
+DE  Gt
+XX
+OS  Drosophila melanogaster
+XX
+BF  12918;
+XX
+P0      A      C      G      T
+01   0.91   0.02   0.07      0      A
+02      0      0      0      1      T
+03      0      0   0.23   0.77      T
+04   0.81      0   0.19      0      A
+05      0   0.93      0   0.07      C
+06      0      0      1      0      G
+07      0   0.23      0   0.77      T
+08   0.93   0.07      0      0      A
+09      1      0      0      0      A
+10      0   0.56   0.05   0.40      y
+11   0.60   0.30   0.09      0      m
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=a66a64ec9c1266b0270b0b1d6176e569
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  17670|Opa(SMILE-seq 1.0)
+XX
+NA  Opa
+XX
+DE  Opa
+XX
+OS  Drosophila melanogaster
+XX
+BF  12931;
+XX
+P0      A      C      G      T
+01  0.187  0.659  0.135  0.019      c
+02    0.3  0.154  0.291  0.255      d
+03  0.016  0.924  0.001  0.059      C
+04  0.385  0.289  0.173  0.153      m
+05  0.279  0.103  0.609  0.009      r
+06  0.013   0.73  0.018  0.239      C
+07  0.236      0  0.758  0.005      G
+08  0.001  0.001  0.986  0.013      G
+09      0      0  0.999      0      G
+10   0.06  0.023  0.824  0.093      G
+11  0.039  0.024  0.881  0.056      G
+12  0.055  0.009  0.843  0.092      G
+13  0.004  0.298  0.178   0.52      y
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=8516edcfeb94fe7aa6710e7329092679
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  17694|Sna(SMILE-seq 1.0)
+XX
+NA  Sna
+XX
+DE  Sna
+XX
+OS  Drosophila melanogaster
+XX
+BF  12953;
+XX
+P0      A      C      G      T
+01  0.241    0.2  0.309   0.25      k
+02  0.128  0.324  0.264  0.284      b
+03  0.454  0.057  0.387  0.102      r
+04  0.835  0.007  0.114  0.044      A
+05  0.005  0.984  0.006  0.005      C
+06  0.984  0.004  0.007  0.005      A
+07  0.087  0.004  0.903  0.006      G
+08  0.005  0.004  0.986  0.005      G
+09  0.005  0.004  0.007  0.984      T
+10   0.01  0.005  0.976   0.01      G
+11  0.042  0.455  0.184  0.319      y
+12  0.535  0.139  0.147  0.179      a
+13   0.29  0.244   0.23  0.236      a
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=0870815f3d30c34e0164456ff6eb96e6
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
+AC  17697|Ttk(SMILE-seq 1.0)
+XX
+NA  Ttk
+XX
+DE  Ttk
+XX
+OS  Drosophila melanogaster
+XX
+BF  12956;
+XX
+P0      A      C      G      T
+01  0.246  0.202   0.27  0.283      k
+02  0.324  0.317  0.115  0.244      m
+03  0.583  0.406  0.006  0.005      m
+04   0.99  0.003  0.004  0.004      A
+05  0.003  0.003  0.991  0.003      G
+06  0.003  0.003  0.991  0.003      G
+07   0.99  0.003  0.004  0.003      A
+08  0.003  0.483  0.004   0.51      y
+09  0.739  0.096  0.045  0.121      A
+10  0.258  0.374  0.008   0.36      h
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=a36560374d50c6fe866340a7d54ad414
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

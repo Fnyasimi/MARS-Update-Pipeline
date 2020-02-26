@@ -1,0 +1,30 @@
+AC  4937|Dref(DrosophilaTF 1.1)
+XX
+NA  Dref
+XX
+DE  Dref
+XX
+OS  Drosophila melanogaster
+XX
+BF  4222;
+XX
+P0      A      C      G      T
+01      0      0      0      1      T
+02      1      0      0      0      A
+03      0      0      0      1      T
+04      0      1      0      0      C
+05      0      0      1      0      G
+06      1      0      0      0      A
+07      0      0      0      1      T
+08      1      0      0      0      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=092f8738acb2a3364e1ae9aefe320d15
+XX
+RN  [1];
+RX  PUBMED: 8093616
+RL  Hirose F., Yamaguchi M., Handa H., Inomata Y., Matsukage A. Novel 8-base pair sequence (Drosophila DNA replication-related element) and specific binding factor involved in the expression of Drosophila genes for DNA polymerase alpha and proliferating cell nuclear antigen. J. Biol. Chem. 268:2092-2099 (1993).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
