@@ -29,7 +29,7 @@ The motif collation was downloaded from here on 21 Feb 2020 in the form of CM fo
 Downloaded dataset B. The collation was converted to MEME format using a custom script `converter.sh`.
 
 ## Cis-PB
-The motif collation from the database was downloaded from here on 25 Feb 2020 containing matrix files and TF information in a zip file.
+The motif collation from the database was downloaded from here on 25 Feb 2020 as `Drosophila_melanogaster_2020_02_25_9_06_am.zip` containing matrix files and TF information in a zip file.
 The folder was unzipped and using a custom script `cisbp_converter.sh` the motifs were converted into a MEME format.
 
 ## Jaspar2020
