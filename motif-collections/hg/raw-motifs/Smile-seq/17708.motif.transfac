@@ -1,0 +1,37 @@
+AC  17708|ZNF135(SMILE-seq 1.0)
+XX
+NA  ZNF135
+XX
+DE  ZNF135
+XX
+OS  Homo sapiens
+XX
+BF  12965;
+XX
+P0      A      C      G      T
+01   0.35      0    0.5   0.15      r
+02    0.1   0.05   0.75    0.1      G
+03   0.05   0.95      0      0      C
+04      0   0.05      0   0.95      T
+05      0   0.75      0   0.25      Y
+06   0.35   0.15    0.5      0      r
+07      1      0      0      0      A
+08      0   0.95   0.05      0      C
+09      0    0.8    0.1    0.1      C
+10      0   0.15      0   0.85      T
+11      0    0.9    0.1      0      C
+12    0.9      0      0    0.1      A
+13    0.7   0.05    0.2   0.05      A
+14   0.45      0    0.3   0.25      d
+15    0.3      0    0.5    0.2      r
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=62c4223766658b5134789678975af985
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

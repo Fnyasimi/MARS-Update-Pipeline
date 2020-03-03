@@ -1,0 +1,45 @@
+AC  17648|JUN_2(SMILE-seq 1.0)|M08947(TRANSFAC 2017.3)
+XX
+NA  JUN
+XX
+DE  secondary motif
+XX
+OS  Homo sapiens
+XX
+BF  12919;
+BF  59;
+XX
+P0      A      C      G      T
+01  0.368  0.244  0.183  0.206      a
+02  0.222  0.167  0.203  0.407      t
+03  0.299  0.152  0.309   0.24      r
+04  0.152  0.067  0.476  0.306      k
+05  0.731  0.038  0.211   0.02      A
+06  0.017  0.024  0.017  0.942      T
+07   0.02  0.013  0.878   0.09      G
+08  0.932  0.018  0.023  0.026      A
+09  0.032  0.913  0.027  0.028      C
+10  0.055  0.052  0.805  0.088      G
+11  0.058  0.144  0.014  0.784      T
+12  0.261  0.682  0.014  0.042      M
+13  0.913  0.018  0.023  0.046      A
+14  0.133  0.194  0.115  0.558      t
+15  0.258  0.337  0.175   0.23      m
+16  0.234  0.383   0.29  0.093      s
+17   0.17  0.185  0.313  0.332      k
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=ba3a9a29dd0e3cd4d73544a894714a43
+XX
+CC  In vitro expressed TF mixed with DNA libraries are loaded onto a microfluidic chip. Antibody-captured immobilized TF-DNA complexes are trapped and disrupted, followed by DNA amplification, sequencing, and hidden Markov model (HMM)-based motif discovery.
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 10358756
+RL  Kuo CT, Leiden JM. Transcriptional regulation of T lymphocyte development and function. Annu Rev Immunol : (1999;17:149-87.).
+RN  [3];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

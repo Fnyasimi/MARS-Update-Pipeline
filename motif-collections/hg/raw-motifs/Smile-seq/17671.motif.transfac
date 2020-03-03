@@ -1,0 +1,35 @@
+AC  17671|PAX7(SMILE-seq 1.0)
+XX
+NA  PAX7
+XX
+DE  PAX7
+XX
+OS  Homo sapiens
+XX
+BF  12932;
+XX
+P0      A      C      G      T
+01   0.41  0.174  0.213  0.202      a
+02  0.541  0.101    0.2  0.159      a
+03  0.015  0.522  0.454  0.009      s
+04  0.002  0.842  0.005   0.15      C
+05  0.196  0.009  0.771  0.024      G
+06  0.033  0.026  0.112  0.829      T
+07  0.332   0.01  0.634  0.024      r
+08  0.775  0.015  0.069  0.141      A
+09   0.03  0.962  0.001  0.007      C
+10  0.082  0.108  0.357  0.453      k
+11  0.937  0.006  0.051  0.006      A
+12  0.981  0.001  0.008   0.01      A
+13  0.054  0.036  0.013  0.897      T
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=1bf75f473792339f0143620c06dee3dd
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

@@ -1,0 +1,35 @@
+AC  17686|SOX15(SMILE-seq 1.0)|M08971(TRANSFAC 2017.3)
+XX
+NA  SOX15
+XX
+DE  SOX15
+XX
+OS  Homo sapiens
+XX
+BF  12945;
+BF  2051;
+XX
+P0      A      C      G      T
+01  0.032  0.554  0.147  0.267      y
+02  0.062  0.412  0.026  0.501      y
+03  0.631  0.003  0.005  0.362      w
+04  0.003  0.003  0.006  0.988      T
+05  0.003  0.002  0.002  0.994      T
+06  0.083  0.021   0.89  0.005      G
+07  0.024  0.002  0.003  0.971      T
+08   0.18  0.188  0.125  0.506      t
+09  0.215  0.253  0.114  0.418      y
+10  0.241  0.188  0.165  0.407      t
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=c0927dc49817bf70910280254d1cf0a5
+XX
+CC  In vitro expressed TF mixed with DNA libraries are loaded onto a microfluidic chip. Antibody-captured immobilized TF-DNA complexes are trapped and disrupted, followed by DNA amplification, sequencing, and hidden Markov model (HMM)-based motif discovery.
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

@@ -1,0 +1,32 @@
+AC  17623|FOXP2(SMILE-seq 1.0)
+XX
+NA  FOXP2
+XX
+DE  FOXP2
+XX
+OS  Homo sapiens
+XX
+BF  12911;
+XX
+P0      A      C      G      T
+01  0.342  0.137  0.188  0.333      w
+02  0.247  0.204  0.232  0.317      t
+03  0.237  0.101  0.098  0.565      t
+04   0.04  0.017  0.046  0.896      T
+05  0.316  0.009   0.65  0.025      r
+06   0.04  0.022  0.029  0.909      T
+07  0.056  0.017  0.093  0.834      T
+08  0.043  0.009  0.163  0.785      T
+09  0.779  0.016  0.065   0.14      A
+10  0.079  0.527  0.056  0.338      y
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=7288b5e431ed039a25a70b999e0d3d85
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

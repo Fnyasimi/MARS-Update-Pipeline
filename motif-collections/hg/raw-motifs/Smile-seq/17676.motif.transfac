@@ -1,0 +1,29 @@
+AC  17676|RARA(SMILE-seq 1.0)
+XX
+NA  RARA
+XX
+DE  RARA
+XX
+OS  Homo sapiens
+XX
+BF  12936;
+XX
+P0      A      C      G      T
+01  0.485  0.086  0.303  0.127      r
+02  0.769  0.014  0.216  0.001      A
+03  0.001  0.001  0.997  0.002      G
+04  0.001  0.001    0.8  0.199      G
+05  0.003  0.003  0.025   0.97      T
+06  0.002  0.954  0.006  0.039      C
+07  0.973  0.001  0.026  0.001      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=6752f69f37b62a3f70da924841850348
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

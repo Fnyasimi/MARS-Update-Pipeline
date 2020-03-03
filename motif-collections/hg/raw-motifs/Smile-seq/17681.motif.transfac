@@ -1,0 +1,46 @@
+AC  17681|RORC(SMILE-seq 1.0)|M08967(TRANSFAC 2017.3)
+XX
+NA  RORC
+XX
+DE  RORC
+XX
+OS  Homo sapiens
+XX
+BF  12940;
+BF  13542;
+XX
+P0      A      C      G      T
+01  0.306  0.179   0.26  0.255      d
+02  0.329  0.114  0.141  0.416      w
+03  0.855  0.014  0.011   0.12      A
+04  0.527   0.01  0.032  0.431      w
+05  0.225  0.249  0.277  0.249      g
+06  0.043  0.087  0.116  0.753      T
+07  0.623  0.024  0.343  0.011      r
+08  0.005  0.002  0.919  0.074      G
+09  0.036  0.003  0.952  0.008      G
+10  0.059  0.112  0.168  0.661      t
+11  0.006  0.822  0.019  0.153      C
+12  0.785  0.012  0.161  0.042      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=23ce21e230812be32649d37d30b77248
+XX
+CC  In vitro expressed TF mixed with DNA libraries are loaded onto a microfluidic chip. Antibody-captured immobilized TF-DNA complexes are trapped and disrupted, followed by DNA amplification, sequencing, and hidden Markov model (HMM)-based motif discovery.
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 10837022
+RL  Rosen ED, Walkey CJ, Puigserver P, Spiegelman BM. Transcriptional regulation of adipogenesis. Genes Dev 14:1293-307 (2000).
+RN  [3];
+RX  PUBMED: 10600710
+RL  Wu Z, Puigserver P, Spiegelman BM. Transcriptional activation of adipogenesis. Curr Opin Cell Biol 11:689-94 (1999).
+RN  [4];
+RX  PUBMED: 10555139
+RL  Lowell BB. PPARgamma: an essential regulator of adipogenesis and modulator of fat cell function. Cell 99:239-42 (1999).
+RN  [5];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

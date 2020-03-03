@@ -1,0 +1,36 @@
+AC  17624|GABPA(SMILE-seq 1.0)|M08917(TRANSFAC 2017.3)
+XX
+NA  GABPA
+XX
+DE  GABPA
+XX
+OS  Homo sapiens
+XX
+BF  12912;
+BF  626;
+XX
+P0      A      C      G      T
+01  0.489  0.119  0.267  0.126      r
+02  0.147  0.625  0.179  0.048      c
+03  0.173  0.817  0.008  0.001      C
+04  0.001  0.001  0.998  0.001      G
+05  0.001  0.001  0.998  0.001      G
+06  0.996  0.001  0.001  0.002      A
+07  0.685  0.016  0.001  0.298      W
+08  0.355  0.073  0.562   0.01      r
+09  0.085  0.207  0.078  0.629      t
+10  0.327  0.171  0.302    0.2      r
+11  0.292  0.221   0.31  0.177      r
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=64c6ddd0bd6e38de7013c78ae5447afc
+XX
+CC  In vitro expressed TF mixed with DNA libraries are loaded onto a microfluidic chip. Antibody-captured immobilized TF-DNA complexes are trapped and disrupted, followed by DNA amplification, sequencing, and hidden Markov model (HMM)-based motif discovery.
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

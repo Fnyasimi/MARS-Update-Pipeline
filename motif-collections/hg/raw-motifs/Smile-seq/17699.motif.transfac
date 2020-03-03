@@ -1,0 +1,43 @@
+AC  17699|VDR_RXRA(SMILE-seq 1.0)|M08980(TRANSFAC 2017.3)
+XX
+NA  VDR_RXRA
+XX
+DE  heteromer
+XX
+OS  Homo sapiens
+XX
+BF  12941;
+BF  12957;
+BF  14065;
+XX
+P0      A      C      G      T
+01  0.279  0.297  0.185  0.238      m
+02  0.458  0.153  0.345  0.044      r
+03  0.074   0.11  0.774  0.042      G
+04  0.041  0.094   0.76  0.105      G
+05  0.056  0.211  0.204  0.529      t
+06  0.158  0.619  0.053   0.17      c
+07  0.585  0.197  0.141  0.077      a
+08  0.256  0.363  0.254  0.128      v
+09  0.225  0.372  0.204  0.199      c
+10  0.362   0.19  0.347  0.101      r
+11  0.267  0.069  0.578  0.087      r
+12  0.039  0.081  0.813  0.067      G
+13  0.086  0.046  0.269  0.598      k
+14  0.059  0.168  0.194  0.579      t
+15  0.148  0.582  0.135  0.134      c
+16  0.455  0.082  0.291  0.171      r
+17  0.222  0.299  0.217  0.262      y
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=f9325d369b5cc11c58c17b4679888adf
+XX
+CC  In vitro expressed TF mixed with DNA libraries are loaded onto a microfluidic chip. Antibody-captured immobilized TF-DNA complexes are trapped and disrupted, followed by DNA amplification, sequencing, and hidden Markov model (HMM)-based motif discovery.
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

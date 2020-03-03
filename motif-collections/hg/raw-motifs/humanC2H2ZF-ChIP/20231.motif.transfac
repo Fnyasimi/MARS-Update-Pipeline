@@ -1,0 +1,28 @@
+AC  20231|ZNF200_ChIP(humanC2H2ZF-ChIP Feb2015)
+XX
+NA  ZNF200
+XX
+DE  ZNF200
+XX
+OS  Homo sapiens
+XX
+BF  13358;
+XX
+P0      A      C      G      T
+01 1.0000 0.0000 0.0000 0.0000      A
+02 0.0000 0.5893 0.0000 0.4107      y
+03 0.0000 0.0000 0.0000 1.0000      T
+04 0.0000 0.0000 0.0000 1.0000      T
+05 0.0000 1.0000 0.0000 0.0000      C
+06 0.0000 1.0000 0.0000 0.0000      C
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=30f22d28e1c2903099e7be008a7044f5
+XX
+RN  [1];
+RX  PUBMED: 25690854
+RL  Najafabadi HS, Mnaimneh S, Schmitges FW, Garton M, Lam KN, Yang A, Albu M, Weirauch MT, Radovani E, Kim PM, Greenblatt J, Frey BJ, Hughes TR. C2H2 zinc finger proteins greatly expand the human regulatory lexicon. Nat Biotechnol 33:555-62 (2015).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

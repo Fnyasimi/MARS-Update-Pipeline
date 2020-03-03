@@ -1,0 +1,41 @@
+AC  17668|NR4A2_RXRA(SMILE-seq 1.0)|M08957(TRANSFAC 2017.3)
+XX
+NA  NR4A2_RXRA
+XX
+DE  heteromer
+XX
+OS  Homo sapiens
+XX
+BF  12928;
+BF  12941;
+BF  17027;
+XX
+P0      A      C      G      T
+01  0.288  0.212  0.371   0.13      r
+02  0.498  0.124  0.348  0.029      r
+03   0.02  0.011  0.924  0.046      G
+04  0.051  0.007  0.804  0.139      G
+05  0.046  0.134  0.128  0.691      T
+06  0.007  0.824  0.031  0.138      C
+07  0.592  0.038  0.343  0.027      r
+08  0.248   0.06  0.087  0.604      t
+09  0.002  0.069  0.005  0.924      T
+10   0.07  0.082  0.836  0.012      G
+11  0.926  0.054  0.017  0.003      A
+12  0.157   0.83  0.002  0.011      C
+13   0.04  0.937  0.004   0.02      C
+14  0.005  0.535  0.023  0.437      y
+15  0.104  0.473   0.18  0.244      c
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=dac63dfac8de80551bb598a8ea27eb97
+XX
+CC  In vitro expressed TF mixed with DNA libraries are loaded onto a microfluidic chip. Antibody-captured immobilized TF-DNA complexes are trapped and disrupted, followed by DNA amplification, sequencing, and hidden Markov model (HMM)-based motif discovery.
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

@@ -1,0 +1,30 @@
+AC  17660|LHX6(SMILE-seq 1.0)
+XX
+NA  LHX6
+XX
+DE  LHX6
+XX
+OS  Homo sapiens
+XX
+BF  12923;
+XX
+P0      A      C      G      T
+01  0.347  0.228  0.275  0.149      r
+02  0.106  0.332  0.102   0.46      y
+03  0.001  0.001      0  0.998      T
+04  0.629  0.002  0.369  0.001      r
+05  0.999      0      0  0.001      A
+06      0      0      0  0.999      T
+07  0.001  0.002  0.005  0.993      T
+08  0.705      0  0.293  0.002      R
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=df798e9bbc5c23e8f533de46d3e6cbdb
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

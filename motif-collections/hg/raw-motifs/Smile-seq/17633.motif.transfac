@@ -1,0 +1,33 @@
+AC  17633|JUNB_FOSB_1(SMILE-seq 1.0)
+XX
+NA  JUNB_FOSB
+XX
+DE  JUNB_FOSB
+XX
+OS  Homo sapiens
+XX
+BF  12908;
+BF  12920;
+XX
+P0      A      C      G      T
+01  0.119  0.182  0.429   0.27      k
+02  0.598  0.061  0.321   0.02      r
+03  0.001      0  0.001  0.998      T
+04  0.001      0   0.98  0.019      G
+05  0.997  0.001  0.001  0.001      A
+06  0.034  0.596  0.309  0.061      s
+07  0.002  0.001  0.039  0.958      T
+08  0.191  0.808  0.001  0.001      C
+09  0.998      0  0.001  0.001      A
+10  0.037  0.259  0.126  0.578      y
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=1797fc5722e2219961d11a9f52839147
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

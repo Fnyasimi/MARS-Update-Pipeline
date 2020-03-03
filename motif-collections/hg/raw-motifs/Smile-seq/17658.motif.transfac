@@ -1,0 +1,38 @@
+AC  17658|JUN_JUNB_2(SMILE-seq 1.0)|M08945(TRANSFAC 2017.3)
+XX
+NA  JUN_JUNB
+XX
+DE  heteromer, secondary motif
+XX
+OS  Homo sapiens
+XX
+BF  12919;
+BF  12920;
+BF  14417;
+XX
+P0      A      C      G      T
+01  0.054  0.132  0.358  0.457      k
+02  0.376  0.108  0.486   0.03      r
+03  0.058  0.043  0.025  0.875      T
+04  0.051  0.028  0.703  0.218      G
+05  0.787  0.022  0.063  0.129      A
+06  0.023  0.862  0.047  0.068      C
+07  0.055  0.036  0.867  0.042      G
+08   0.03  0.027   0.04  0.903      T
+09  0.091  0.834  0.035   0.04      C
+10  0.919  0.019  0.035  0.026      A
+11  0.033  0.125   0.13  0.712      T
+12  0.212  0.254  0.255  0.278      b
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=270fe6f97a2e10963221976ff903134b
+XX
+CC  In vitro expressed TF mixed with DNA libraries are loaded onto a microfluidic chip. Antibody-captured immobilized TF-DNA complexes are trapped and disrupted, followed by DNA amplification, sequencing, and hidden Markov model (HMM)-based motif discovery.
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

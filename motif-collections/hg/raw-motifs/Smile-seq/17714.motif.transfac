@@ -1,0 +1,35 @@
+AC  17714|ZSCAN4(SMILE-seq 1.0)
+XX
+NA  ZSCAN4
+XX
+DE  ZSCAN4
+XX
+OS  Homo sapiens
+XX
+BF  12971;
+XX
+P0      A      C      G      T
+01   0.02   0.14      0   0.84      T
+02   0.08   0.05 0.4375 0.4375      k
+03   0.17   0.27   0.25 0.3125      y
+04   0.25   0.58   0.17      0      m
+05   0.78  0.125      0   0.09      A
+06   0.03      0   0.97      0      G
+07   0.08   0.25   0.23 0.4375      y
+08   0.25      0   0.73   0.02      R
+09      0      0   0.05   0.95      T
+10      0      0   0.95   0.05      G
+11      0      0      0      1      T
+12      0      0   0.97   0.03      G
+13      0   0.61   0.08 0.3125      y
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=59ba1de1c07ca3e28fe324803ea5064c
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

@@ -1,0 +1,55 @@
+AC  17677|RARA_RXRA(SMILE-seq 1.0)|RARA_RXRG(SMILE-seq 1.0)|M08964(TRANSFAC 2017.3)|M08965(TRANSFAC 2017.3)
+XX
+NA  RARA_RXRA
+XX
+DE  heteromer
+XX
+OS  Homo sapiens
+XX
+BF  12936;
+BF  12941;
+BF  12942;
+BF  2180;
+BF  2206;
+XX
+P0      A      C      G      T
+01  0.345  0.113  0.413  0.129      r
+02  0.496  0.038   0.46  0.006      r
+03  0.013  0.003  0.954   0.03      G
+04  0.011  0.003  0.828  0.158      G
+05  0.005  0.015  0.071  0.909      T
+06  0.018  0.831  0.058  0.093      C
+07  0.874  0.005  0.111   0.01      A
+08  0.272  0.239  0.154  0.334      w
+09  0.215  0.249   0.32  0.215      g
+10  0.211  0.212  0.272  0.305      k
+11  0.344  0.199  0.231  0.227      a
+12  0.348  0.133  0.397  0.121      r
+13  0.495   0.09   0.39  0.025      r
+14  0.026  0.004  0.927  0.043      G
+15  0.012  0.005  0.815  0.169      G
+16   0.06  0.112  0.226  0.601      t
+17  0.073  0.696  0.097  0.135      C
+18  0.702  0.053  0.206   0.04      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=6430e5c7eb520bc943b40196aabd5f5b
+XX
+CC  In vitro expressed TF mixed with DNA libraries are loaded onto a microfluidic chip. Antibody-captured immobilized TF-DNA complexes are trapped and disrupted, followed by DNA amplification, sequencing, and hidden Markov model (HMM)-based motif discovery.
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 11738789
+RL  Mullis PE. Transcription factors in pituitary development. Mol Cell Endocrinol : (2001).
+RN  [3];
+RX  PUBMED: 11290504
+RL  Costa RH, Kalinichenko VV, Lim L. Transcription factors in mouse lung development and function. Am J Physiol Lung Cell Mol Physiol : (2001).
+RN  [4];
+RX  PUBMED: 10845115
+RL  Mendelson CR. Role of transcription factors in fetal lung development and surfactant protein gene expression. Annu Rev Physiol : (2000;62:875-915.).
+RN  [5];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

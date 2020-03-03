@@ -1,0 +1,33 @@
+AC  17614|ARNTL_CLOCK(SMILE-seq 1.0)
+XX
+NA  ARNTL_CLOCK
+XX
+DE  ARNTL_CLOCK
+XX
+OS  Homo sapiens
+XX
+BF  12899;
+BF  12902;
+XX
+P0      A      C      G      T
+01  0.255  0.194  0.265  0.286      d
+02  0.284  0.175  0.453  0.087      r
+03  0.153  0.073  0.158  0.615      t
+04  0.008   0.98  0.005  0.007      C
+05  0.924  0.029  0.014  0.033      A
+06  0.012  0.938  0.014  0.037      C
+07  0.076   0.02  0.899  0.006      G
+08  0.038  0.054  0.035  0.873      T
+09  0.005  0.009  0.895  0.091      G
+10  0.316  0.298  0.139  0.247      m
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=0b2a1eb2fafed104a1736414a70126bb
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

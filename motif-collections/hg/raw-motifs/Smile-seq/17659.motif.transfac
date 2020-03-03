@@ -1,0 +1,32 @@
+AC  17659|LEF1(SMILE-seq 1.0)
+XX
+NA  LEF1
+XX
+DE  LEF1
+XX
+OS  Homo sapiens
+XX
+BF  12922;
+XX
+P0      A      C      G      T
+01  0.273  0.189  0.199  0.338      w
+02  0.133  0.303  0.255  0.309      b
+03  0.134  0.446  0.189  0.232      c
+04  0.009  0.773  0.129  0.088      C
+05  0.013  0.018  0.006  0.963      T
+06  0.006  0.004  0.005  0.985      T
+07  0.012  0.002  0.002  0.984      T
+08  0.018  0.087  0.849  0.046      G
+09  0.962  0.002  0.005  0.032      A
+10   0.25  0.003  0.003  0.743      W
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=18b64b429b9cbc2a745e93487550d187
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

@@ -1,0 +1,30 @@
+AC  17696|TFE3(SMILE-seq 1.0)
+XX
+NA  TFE3
+XX
+DE  TFE3
+XX
+OS  Homo sapiens; Mus musculus
+XX
+BF  12955;
+XX
+P0      A      C      G      T
+01   0.01   0.99      0      0      C
+02   0.72   0.06   0.05   0.17      A
+03      0   0.82      0   0.18      C
+04   0.13   0.03   0.84      0      G
+05      0      0   0.01   0.99      T
+06      0      0      1      0      G
+07   0.90   0.04   0.04   0.02      A
+08   0.01   0.57   0.04   0.39      y
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=e9edf4a03e9b2b5cadf5b8188214e22f
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

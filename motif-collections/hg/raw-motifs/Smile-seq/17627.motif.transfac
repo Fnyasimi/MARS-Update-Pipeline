@@ -1,0 +1,31 @@
+AC  17627|GCM1(SMILE-seq 1.0)
+XX
+NA  GCM1
+XX
+DE  GCM1
+XX
+OS  Homo sapiens
+XX
+BF  12915;
+XX
+P0      A      C      G      T
+01  0.109  0.307  0.132  0.451      y
+02  0.624  0.005  0.365  0.006      r
+03      0  0.999      0      0      C
+04      0  0.999      0      0      C
+05  0.129  0.842  0.001  0.028      C
+06  0.026  0.057  0.839  0.078      G
+07      0  0.741  0.036  0.223      C
+08  0.995      0  0.003  0.002      A
+09  0.003  0.133   0.14  0.724      T
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=f42b481fac5992c00038b82ae6e7c2f7
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

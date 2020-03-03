@@ -1,0 +1,40 @@
+AC  20241|ZNF416_ChIP(humanC2H2ZF-ChIP Feb2015)
+XX
+NA  ZNF416
+XX
+DE  ZNF416
+XX
+OS  Homo sapiens
+XX
+BF  13369;
+XX
+P0      A      C      G      T
+01 0.1508 0.0112 0.8324 0.0056      G
+02 0.0112 0.0559 0.0112 0.9218      T
+03 0.0000 0.8994 0.0279 0.0726      C
+04 0.9497 0.0335 0.0112 0.0056      A
+05 0.8939 0.0503 0.0559 0.0000      A
+06 0.0056 0.9050 0.0168 0.0726      C
+07 0.0112 0.0223 0.0503 0.9162      T
+08 0.0000 0.0000 0.0112 0.9888      T
+09 0.0168 0.0000 0.9832 0.0000      G
+10 0.8603 0.1006 0.0335 0.0056      A
+11 0.0279 0.8324 0.0056 0.1341      C
+12 0.0000 0.0000 0.0000 1.0000      T
+13 0.0335 0.0000 0.9553 0.0112      G
+14 0.0391 0.0000 0.9609 0.0000      G
+15 0.0726 0.0000 0.9274 0.0000      G
+16 0.0000 0.9497 0.0056 0.0447      C
+17 0.0056 0.7151 0.0000 0.2793      Y
+18 0.9218 0.0168 0.0279 0.0335      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=f827559c9659927a8c8b2df64cfa144b
+XX
+RN  [1];
+RX  PUBMED: 25690854
+RL  Najafabadi HS, Mnaimneh S, Schmitges FW, Garton M, Lam KN, Yang A, Albu M, Weirauch MT, Radovani E, Kim PM, Greenblatt J, Frey BJ, Hughes TR. C2H2 zinc finger proteins greatly expand the human regulatory lexicon. Nat Biotechnol 33:555-62 (2015).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

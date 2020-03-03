@@ -1,0 +1,41 @@
+AC  17622|FOSL2_2(SMILE-seq 1.0)|M08915(TRANSFAC 2017.3)
+XX
+NA  FOSL2
+XX
+DE  secondary motif
+XX
+OS  Homo sapiens
+XX
+BF  12910;
+BF  990;
+XX
+P0      A      C      G      T
+01  0.552  0.116  0.289  0.043      r
+02  0.021  0.095  0.028  0.856      T
+03  0.027  0.021  0.793  0.159      G
+04  0.879  0.028  0.043   0.05      A
+05  0.031  0.818  0.029  0.121      C
+06   0.12  0.025  0.822  0.033      G
+07  0.048  0.039  0.032  0.881      T
+08  0.158  0.789  0.025  0.029      C
+09  0.854  0.024    0.1  0.022      A
+10  0.042  0.285   0.12  0.553      y
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=0181f969451fe81f8953e57114473e31
+XX
+CC  In vitro expressed TF mixed with DNA libraries are loaded onto a microfluidic chip. Antibody-captured immobilized TF-DNA complexes are trapped and disrupted, followed by DNA amplification, sequencing, and hidden Markov model (HMM)-based motif discovery.
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 14517545
+RL  Bylund M, Andersson E, Novitch BG, Muhr J. Vertebrate neurogenesis is counteracted by Sox1-3 activity. Nat Neurosci 6:1162-8 (2003).
+RN  [3];
+RX  PUBMED: 8542253
+RL  Wilkinson DG. Genetic control of segmentation in the vertebrate hindbrain. Perspect Dev Neurobiol : (1995;3(1):29-38.).
+RN  [4];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

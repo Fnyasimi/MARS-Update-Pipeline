@@ -1,0 +1,39 @@
+AC  17617|CTCF(SMILE-seq 1.0)
+XX
+NA  CTCF
+XX
+DE  CTCF
+XX
+OS  Homo sapiens
+XX
+BF  12903;
+XX
+P0      A      C      G      T
+01  0.312   0.21  0.106  0.372      w
+02  0.628   0.04  0.154  0.179      a
+03  0.063   0.07  0.779  0.088      G
+04  0.136  0.019  0.803  0.043      G
+05  0.057  0.154  0.665  0.124      g
+06  0.015   0.04  0.927  0.018      G
+07  0.034  0.109  0.803  0.054      G
+08  0.143  0.643  0.134  0.081      c
+09  0.151  0.053  0.771  0.025      G
+10   0.08  0.507  0.251  0.162      s
+11  0.175  0.179  0.181  0.465      t
+12  0.348  0.196  0.339  0.118      r
+13  0.143  0.099  0.363  0.395      k
+14  0.276  0.204  0.203  0.316      w
+15  0.189  0.215  0.421  0.175      g
+16  0.184  0.264  0.406  0.145      s
+17  0.239  0.159  0.448  0.154      g
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=4fd525e4bd9a1d923b40b515ace914b5
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

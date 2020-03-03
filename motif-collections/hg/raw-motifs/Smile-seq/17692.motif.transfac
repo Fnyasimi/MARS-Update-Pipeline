@@ -1,0 +1,30 @@
+AC  17692|SRY(SMILE-seq 1.0)
+XX
+NA  SRY
+XX
+DE  SRY
+XX
+OS  Homo sapiens
+XX
+BF  12951;
+XX
+P0      A      C      G      T
+01  0.505  0.158  0.192  0.145      a
+02  0.987  0.003  0.004  0.007      A
+03  0.005  0.919  0.009  0.067      C
+04  0.987  0.005  0.003  0.004      A
+05  0.947   0.01  0.036  0.007      A
+06  0.149  0.009  0.006  0.837      T
+07  0.383  0.144  0.305  0.168      r
+08  0.294  0.146  0.461  0.099      r
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=0baf558d26ae802489f61ec1d34e9076
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

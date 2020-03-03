@@ -1,0 +1,33 @@
+AC  20220|CTCF_ChIP(humanC2H2ZF-ChIP Feb2015)
+XX
+NA  CTCF
+XX
+DE  CTCF
+XX
+OS  Homo sapiens
+XX
+BF  2882;
+XX
+P0      A      C      G      T
+01 0.0304 0.1627 0.7809 0.0260      G
+02 0.0043 0.8351 0.0000 0.1605      C
+03 0.0087 0.0043 0.9588 0.0282      G
+04 0.0260 0.9414 0.0043 0.0282      C
+05 0.0000 1.0000 0.0000 0.0000      C
+06 0.1323 0.8286 0.0325 0.0065      C
+07 0.0000 0.7267 0.0022 0.2712      Y
+08 0.0000 1.0000 0.0000 0.0000      C
+09 0.0087 0.0239 0.0130 0.9544      T
+10 0.1692 0.0434 0.7440 0.0434      G
+11 0.0000 0.4425 0.5293 0.0282      s
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=6ed5b2e9d100b4e6e82b24f93521e563
+XX
+RN  [1];
+RX  PUBMED: 25690854
+RL  Najafabadi HS, Mnaimneh S, Schmitges FW, Garton M, Lam KN, Yang A, Albu M, Weirauch MT, Radovani E, Kim PM, Greenblatt J, Frey BJ, Hughes TR. C2H2 zinc finger proteins greatly expand the human regulatory lexicon. Nat Biotechnol 33:555-62 (2015).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

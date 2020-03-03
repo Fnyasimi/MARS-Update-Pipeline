@@ -1,0 +1,59 @@
+AC  17672|PPARA_RXRA(SMILE-seq 1.0)|M08960(TRANSFAC 2017.3)
+XX
+NA  PPARA_RXRA
+XX
+DE  heteromer
+XX
+OS  Homo sapiens
+XX
+BF  12933;
+BF  12941;
+BF  2163;
+XX
+P0      A      C      G      T
+01  0.548   0.14  0.108  0.204      a
+02  0.431  0.073   0.06  0.437      w
+03  0.247  0.211  0.332   0.21      g
+04  0.061  0.094  0.238  0.608      t
+05  0.492  0.095   0.37  0.042      r
+06  0.068  0.019  0.843  0.071      G
+07   0.08  0.015  0.856  0.049      G
+08  0.042  0.157  0.245  0.556      t
+09  0.131  0.445  0.201  0.223      c
+10  0.887  0.016  0.067   0.03      A
+11  0.669  0.024  0.208  0.099      a
+12  0.807  0.025  0.143  0.025      A
+13  0.111  0.016  0.862  0.011      G
+14  0.018  0.014  0.784  0.184      G
+15  0.017  0.049  0.115  0.818      T
+16   0.09  0.598  0.146  0.166      c
+17  0.689  0.037   0.23  0.043      A
+18  0.222  0.237  0.243  0.298      t
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=d0200a5aa3124a40d8cae54f482e3b8b
+XX
+CC  In vitro expressed TF mixed with DNA libraries are loaded onto a microfluidic chip. Antibody-captured immobilized TF-DNA complexes are trapped and disrupted, followed by DNA amplification, sequencing, and hidden Markov model (HMM)-based motif discovery.
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 14517545
+RL  Bylund M, Andersson E, Novitch BG, Muhr J. Vertebrate neurogenesis is counteracted by Sox1-3 activity. Nat Neurosci 6:1162-8 (2003).
+RN  [3];
+RX  PUBMED: 10837022
+RL  Rosen ED, Walkey CJ, Puigserver P, Spiegelman BM. Transcriptional regulation of adipogenesis. Genes Dev 14:1293-307 (2000).
+RN  [4];
+RX  PUBMED: 10600710
+RL  Wu Z, Puigserver P, Spiegelman BM. Transcriptional activation of adipogenesis. Curr Opin Cell Biol 11:689-94 (1999).
+RN  [5];
+RX  PUBMED: 10555139
+RL  Lowell BB. PPARgamma: an essential regulator of adipogenesis and modulator of fat cell function. Cell 99:239-42 (1999).
+RN  [6];
+RX  PUBMED: 8542253
+RL  Wilkinson DG. Genetic control of segmentation in the vertebrate hindbrain. Perspect Dev Neurobiol : (1995;3(1):29-38.).
+RN  [7];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

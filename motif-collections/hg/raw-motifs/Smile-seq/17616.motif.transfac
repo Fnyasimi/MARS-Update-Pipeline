@@ -1,0 +1,48 @@
+AC  17616|CEBPB(SMILE-seq 1.0)|M08910(TRANSFAC 2017.3)
+XX
+NA  CEBPB
+XX
+DE  CEBPB
+XX
+OS  Homo sapiens
+XX
+BF  12901;
+BF  261;
+XX
+P0      A      C      G      T
+01  0.119  0.119  0.318  0.444      k
+02  0.573  0.096  0.314  0.018      r
+03  0.003  0.001  0.003  0.993      T
+04  0.005  0.003  0.058  0.935      T
+05  0.266  0.001  0.629  0.103      r
+06  0.011   0.89  0.023  0.075      C
+07    0.1  0.016  0.856  0.028      G
+08  0.124  0.526  0.002  0.349      y
+09  0.907  0.086  0.004  0.003      A
+10  0.992  0.002  0.001  0.005      A
+11  0.026  0.297  0.117  0.559      y
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=2264ffa19cedac18b0ac31274f694bf9
+XX
+CC  In vitro expressed TF mixed with DNA libraries are loaded onto a microfluidic chip. Antibody-captured immobilized TF-DNA complexes are trapped and disrupted, followed by DNA amplification, sequencing, and hidden Markov model (HMM)-based motif discovery.
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 10837022
+RL  Rosen ED, Walkey CJ, Puigserver P, Spiegelman BM. Transcriptional regulation of adipogenesis. Genes Dev 14:1293-307 (2000).
+RN  [3];
+RX  PUBMED: 10600710
+RL  Wu Z, Puigserver P, Spiegelman BM. Transcriptional activation of adipogenesis. Curr Opin Cell Biol 11:689-94 (1999).
+RN  [4];
+RX  PUBMED: 10555139
+RL  Lowell BB. PPARgamma: an essential regulator of adipogenesis and modulator of fat cell function. Cell 99:239-42 (1999).
+RN  [5];
+RX  PUBMED: 10358756
+RL  Kuo CT, Leiden JM. Transcriptional regulation of T lymphocyte development and function. Annu Rev Immunol : (1999;17:149-87.).
+RN  [6];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

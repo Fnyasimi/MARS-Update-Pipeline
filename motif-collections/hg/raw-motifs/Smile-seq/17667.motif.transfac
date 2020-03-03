@@ -1,0 +1,34 @@
+AC  17667|NR4A2(SMILE-seq 1.0)|M08956(TRANSFAC 2017.3)
+XX
+NA  NR4A2
+XX
+DE  NR4A2
+XX
+OS  Homo sapiens
+XX
+BF  12928;
+BF  1319;
+XX
+P0      A      C      G      T
+01  0.295  0.182  0.168  0.355      w
+02  0.775  0.009  0.074  0.141      A
+03  0.889  0.011  0.019  0.081      A
+04  0.949  0.012  0.028  0.011      A
+05  0.024  0.005  0.709  0.263      K
+06  0.049  0.007   0.87  0.074      G
+07  0.016  0.058  0.107  0.818      T
+08  0.027  0.667  0.068  0.239      c
+09  0.831  0.011  0.127  0.032      A
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=f1fef5b85c1fef3b5eb6667f60b780f3
+XX
+CC  In vitro expressed TF mixed with DNA libraries are loaded onto a microfluidic chip. Antibody-captured immobilized TF-DNA complexes are trapped and disrupted, followed by DNA amplification, sequencing, and hidden Markov model (HMM)-based motif discovery.
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

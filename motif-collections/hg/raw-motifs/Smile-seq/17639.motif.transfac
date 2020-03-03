@@ -1,0 +1,32 @@
+AC  17639|JUND_1(SMILE-seq 1.0)
+XX
+NA  JUND
+XX
+DE  JUND
+XX
+OS  Homo sapiens
+XX
+BF  12921;
+XX
+P0      A      C      G      T
+01  0.237  0.119  0.323   0.32      k
+02  0.607  0.095  0.256  0.042      r
+03  0.014   0.02   0.03  0.936      T
+04  0.041  0.032  0.889  0.038      G
+05  0.638  0.319  0.015  0.027      m
+06  0.075  0.073  0.816  0.036      G
+07  0.016  0.014  0.019  0.951      T
+08  0.075  0.888  0.013  0.024      C
+09  0.938  0.014  0.034  0.014      A
+10  0.017  0.212   0.07  0.701      T
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=2683f9126d81283d195bdf77f1355a8a
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

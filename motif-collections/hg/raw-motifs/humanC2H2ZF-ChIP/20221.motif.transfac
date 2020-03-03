@@ -1,0 +1,32 @@
+AC  20221|KLF10_ChIP(humanC2H2ZF-ChIP Feb2015)|KLF14_ChIP(humanC2H2ZF-ChIP Feb2015)
+XX
+NA  KLF10
+XX
+DE  KLF10
+XX
+OS  Homo sapiens
+XX
+BF  13352;
+BF  12071;
+XX
+P0      A      C      G      T
+01 0.3386 0.0187 0.2357 0.4071      w
+02 0.0203 0.0021 0.9763 0.0014      G
+03 0.0032 0.0030 0.9908 0.0030      G
+04 0.0032 0.0083 0.9848 0.0037      G
+05 0.0637 0.4419 0.0025 0.4918      y
+06 0.0051 0.0035 0.9836 0.0078      G
+07 0.0097 0.0184 0.5017 0.4702      k
+08 0.0609 0.0106 0.8997 0.0288      G
+09 0.0284 0.0300 0.8748 0.0667      G
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=9474c62253104cc18ee1849766f85a2e
+XX
+RN  [1];
+RX  PUBMED: 25690854
+RL  Najafabadi HS, Mnaimneh S, Schmitges FW, Garton M, Lam KN, Yang A, Albu M, Weirauch MT, Radovani E, Kim PM, Greenblatt J, Frey BJ, Hughes TR. C2H2 zinc finger proteins greatly expand the human regulatory lexicon. Nat Biotechnol 33:555-62 (2015).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

@@ -1,0 +1,43 @@
+AC  17669|OCT4(SMILE-seq 1.0)|M08958(TRANSFAC 2017.3)
+XX
+NA  OCT4
+XX
+DE  OCT4
+XX
+OS  Homo sapiens
+XX
+BF  12930;
+BF  2699;
+XX
+P0      A      C      G      T
+01   0.43  0.247  0.136  0.188      a
+02  0.743   0.08  0.043  0.134      A
+03  0.021  0.007  0.002   0.97      T
+04  0.124   0.13  0.019  0.727      T
+05  0.395   0.01  0.001  0.594      w
+06  0.369  0.091  0.514  0.025      r
+07  0.097  0.901  0.001  0.001      C
+08  0.992  0.001  0.005  0.002      A
+09  0.017  0.014  0.001  0.968      T
+10  0.741  0.047  0.083  0.129      A
+11   0.38  0.206  0.097  0.318      w
+12  0.268  0.188  0.196  0.348      w
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=907cba9a4d25b59b7d4c563f401007f3
+XX
+CC  In vitro expressed TF mixed with DNA libraries are loaded onto a microfluidic chip. Antibody-captured immobilized TF-DNA complexes are trapped and disrupted, followed by DNA amplification, sequencing, and hidden Markov model (HMM)-based motif discovery.
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 16987499
+RL  Kim EH, Surh YJ. 15-deoxy-Delta12,14-prostaglandin J2 as a potential endogenous regulator of redox-sensitive transcription factors. Biochem Pharmacol 72:1516-28 (2006).
+RN  [3];
+RX  PUBMED: 16230045
+RL  Pennington JD, Wang TJ, Nguyen P, Sun L, Bisht K, Smart D, Gius D. Redox-sensitive signaling factors as a novel molecular targets for cancer therapy. Drug Resist Updat 8:322-30 (2005).
+RN  [4];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

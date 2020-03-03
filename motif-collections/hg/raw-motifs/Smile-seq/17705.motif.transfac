@@ -1,0 +1,37 @@
+AC  17705|ZFP1_2(SMILE-seq 1.0)
+XX
+NA  ZFP1
+XX
+DE  ZFP1
+XX
+OS  Homo sapiens
+XX
+BF  12961;
+XX
+P0      A      C      G      T
+01    0.5      0   0.33   0.17      r
+02   0.15   0.04   0.65   0.15      g
+03   0.17   0.41   0.13   0.28      y
+04   0.24      0      0   0.76      T
+05   0.22      0   0.76   0.02      G
+06      0   0.02   0.98      0      G
+07      0      0   0.98   0.02      G
+08      0      0      0      1      T
+09   0.89      0   0.11      0      A
+10   0.07      0   0.02   0.91      T
+11   0.46   0.24   0.20   0.11      a
+12   0.61      0   0.28   0.11      r
+13   0.30   0.15   0.07   0.48      w
+14   0.74      0   0.22   0.04      A
+15   0.15   0.46   0.24   0.15      c
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=cebea75a07cdd2f2ee6b99c9a68f2ff5
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

@@ -1,0 +1,32 @@
+AC  17688|SOX2(SMILE-seq 1.0)
+XX
+NA  SOX2
+XX
+DE  SOX2
+XX
+OS  Homo sapiens
+XX
+BF  12947;
+XX
+P0      A      C      G      T
+01  0.529  0.144  0.186  0.142      a
+02  0.993  0.001  0.001  0.005      A
+03  0.001  0.915  0.003  0.081      C
+04  0.996  0.001  0.001  0.002      A
+05  0.996  0.001  0.001  0.001      A
+06  0.332  0.003  0.001  0.664      w
+07   0.48  0.007   0.45  0.063      r
+08  0.245  0.126  0.616  0.013      g
+09  0.371  0.227  0.263  0.139      r
+10  0.305  0.219  0.232  0.245      a
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=c1c3d7242c84eb1b663454ddee2b8fb6
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//

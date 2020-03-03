@@ -1,0 +1,33 @@
+AC  17664|NR1H4(SMILE-seq 1.0)
+XX
+NA  NR1H4
+XX
+DE  NR1H4
+XX
+OS  Homo sapiens
+XX
+BF  12927;
+XX
+P0      A      C      G      T
+01  0.244  0.033   0.42  0.303      k
+02  0.622  0.058  0.238  0.082      a
+03  0.041  0.083   0.82  0.056      G
+04  0.095  0.088  0.568  0.249      g
+05  0.123  0.038  0.095  0.744      T
+06  0.032  0.798   0.04  0.129      C
+07  0.834  0.035  0.086  0.046      A
+08  0.419  0.188  0.054  0.339      w
+09  0.351  0.262   0.12  0.266      h
+10  0.064  0.038  0.427  0.471      k
+11  0.294  0.034  0.348  0.324      d
+XX
+LN  http://floresta.eead.csic.es/footprintdb/index.php?motif=c3c54da56ac4b37a8e2066e5c27d2e38
+XX
+RN  [1];
+RX  PUBMED: 28092692
+RL  Isakova A, Groux R, Imbeault M, Rainer P, Alpern D, Dainese R, Ambrosini G, Trono D, Bucher P, Deplancke B. SMiLE-seq identifies binding motifs of single and dimeric transcription factors. Nat Methods 14:316-322 (2017).
+RN  [2];
+RX  PUBMED: 24234003
+RL  Sebastian, A., Contreras-Moreira, B. footprintDB: a database of transcription factors with annotated cis elements and binding interfaces. Bioinformatics 30, 258-65 (2014).
+XX
+//
