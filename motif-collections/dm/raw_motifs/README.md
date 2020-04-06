@@ -15,6 +15,10 @@ then converted to MEME format `transfac2meme -use_acc`.
 Motif collation from Wolf's Lab downloaded [here](https://www.umassmed.edu/wolfe-lab/binding-site-database/) in the cm format `Wolf_lab_84-hd-matrix-omega.txt` on 21 Feb 2020 
 and converted to MEME format using a custom script `converter.sh`.
 
+Edited using sed;
+
+`sed -i 's/.mx//g' Wolf_lab_motifs.meme`
+
 ## Daniel Pollard
 Motif collection was downloaded in the cm format `daniel_pollard_footprint_matrices.txt` and in matrices `footprint_matrices.tar` on 24 Feb 2020 from [here](http://www.danielpollard.com/matrices.html).
 
