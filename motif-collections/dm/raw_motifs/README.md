@@ -28,6 +28,11 @@ The motifs were concatenated into a single file `all_motifs.transfac` then conve
 The motif collation was downloaded from [here](http://mccb.umassmed.edu/ffs/DownloadData.php) on 21 Feb 2020 in the form of CM format `Flyvector_survey_UmassPGFE_PWMfreq_PublicDatasetB_20200221.txt`.
 Downloaded dataset B. The collation was converted to MEME format using a custom script `converter.sh`.
 
+The meme file was using sed to extract the tf
+```
+sed -i 's/MOTIF\s\([-0-9A-Za-z.()]\+[_a-z]\+\?\)_\([-_.A-Za-z0-9]\+\)/MOTIF \0 \1/g' Flyvector_survey_motifs.meme
+```
+
 ## Cis-PB
 The motif collation from the database was downloaded from [here](http://cisbp.ccbr.utoronto.ca/bulk.php) on 25 Feb 2020 as `Drosophila_melanogaster_2020_02_25_9_06_am.zip` containing matrix files and TF information in a zip file. File too large only metadata file `TF_Information.txt` added for future comparison when updating the MARS database.
 The folder was unzipped and using a custom script `cisbp_converter.sh` the motifs were converted into a MEME format.
