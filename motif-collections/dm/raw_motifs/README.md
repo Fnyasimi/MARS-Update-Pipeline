@@ -30,7 +30,7 @@ Downloaded dataset B. The collation was converted to MEME format using a custom 
 
 The meme file was using sed to extract the tf
 ```
-sed -i 's/MOTIF\s\([-0-9A-Za-z.()]\+[_a-z]\+\?\)_\([-_.A-Za-z0-9]\+\)/MOTIF \0 \1/g' Flyvector_survey_motifs.meme
+sed -i 's/MOTIF\s\([-0-9A-Za-z.()]\+[_a-z]\+\?\)_\([-_.A-Za-z0-9]\+\)/\0 \1/g' Flyvector_survey_motifs.meme
 ```
 
 ## Cis-PB
