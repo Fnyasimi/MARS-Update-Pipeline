@@ -501,7 +501,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 1 E= 0
   0.333333	  0.202020	  0.232323	  0.232323	
   0.200000	  0.280000	  0.320000	  0.200000	
 
-MOTIF 4966|eve(DrosophilaTF 1.1)|zen(DrosophilaTF 1.1) eve
+MOTIF 4966|eve(DrosophilaTF 1.1) eve
 
 letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
