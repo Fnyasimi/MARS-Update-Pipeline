@@ -66,3 +66,7 @@ Edited `Guertin collection` as below;
 ```
 sed -i 's/MOTIF\sGuertin_\([0-Z]\+\(_\(GTF\|FAM\|SPI\)[0-Z]\+\)\?\)[_0-9]\+/\0 \1/g' Guertin.meme
 ```
+Edited `jolma collection` as below;
+```
+sed -i 's/MOTIF\s\([-0-Z]\+\)[_0-Z]\+/\0 \1/g' jolma2013.meme
+```
