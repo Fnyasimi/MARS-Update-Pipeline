@@ -31,6 +31,8 @@ Data from Swiss regulon was downloaded from [here](http://swissregulon.unibas.ch
 ## Cis-BP 
 Human motifs from Cis-BP were downloaded from [here](http://cisbp.ccbr.utoronto.ca/bulk.php) on 26 Feb 2020 and converted to meme format using a custom script `cisbpconverter.sh`
 
+Information about the motifs can be found in `TF_Information-hg.txt`.
+
 ## humanC2H2ZF 
 Data was downloaded from [here](http://floresta.eead.csic.es/footprintdb/index.php?database=22&type=motif&page=1) on 26 Feb 2020 in transfac format then converted to meme format.
 
@@ -38,41 +40,53 @@ Data was downloaded from [here](http://floresta.eead.csic.es/footprintdb/index.p
 Data was downloaded from [here](http://jaspar.genereg.net/downloads/) on 26 Feb 2020 in the meme format `JASPAR2020_CORE_vertebrates_non-redundant_pfms_meme.txt`.
 
 ## Imported databases
-Edited `homer collection` to get TF name using the command below;
+Imported collections were edited as below to extract transcription factor names
 
+**Homer Collection**
 ```
 sed -i 's/MOTIF\s\+\([-_A-Za-z0-9]\+\)[-()A-Za-z0-9\/\?_.,:\|\+`]\+/\0  \1/g' Homer_human.meme
 ```
-Edited `3Dfootprint collection` as below;
-
+**3Dfootprint Collection**
 ```
 sed -i 's/MOTIF 3Dfootprint_PROTEIN FEV/MOTIF 3Dfootprint_PROTEIN_FEV/g' 3D-footprint.meme
 sed -i 's/MOTIF 3Dfootprint_ESTROGEN RECEPTOR/MOTIF 3Dfootprint_ESTROGEN_RECEPTOR/g' 3D-footprint.meme
-sed -i 's/MOTIF\s\+3Dfootprint_\([-A-Za-z0-9_():/]\+\)/\0 \1/g' 3D-footprint.meme
+sed -i 's/MOTIF\s\+3Dfootprint_\(\(Wilms_\?tumor_\?[0-9]\?\/\?\)\?[-0-Z:]\+\(_FEV\|_RECEPTOR\|_D3\)\?\)\([-()_0-Z]\+\)\?/\0 \1/g' 3D-footprint.meme
 ```
-Edited `Zlab collection` as below;
+**Zlab Collection**
 ```
 sed -i 's/MOTIF\s\([-A-Za-z0-9]\+\).[-A-Za-z0-9_]\+/\0 \1/g' Zlab_chipseq.meme
 ```
-Edited `Transfac collection` as below;
+**Transfac Collection**
 ```
 sed -i 's/\(MOTIF\sTransfac_[-A-Za-z0-9_\/]\+\)\sM[0-9]\+_\([-A-Za-z0-9_\/]\+\)/\1 \2/g' Transfac.meme
 ```
-Edited `Zhao collection` as below;
+**Zhao Collection**
 ```
 sed -i 's/\(MOTIF [a-z0-9]\+\(\.[v0-9]\+\)\?_\([-.0-Z]\+\(_[HLHLINCNDM]\+[-0-9]\+\)\?\)[_0-Z]\+\)\s\([0-Z]\+\)\?/\1 \3 \5/g' zhao2011.meme
 ```
-Edited `Guertin collection` as below;
+**Guertin Collection**
 ```
 sed -i 's/MOTIF\sGuertin_\([0-Z]\+\(_\(GTF\|FAM\|SPI\)[0-Z]\+\)\?\)[_0-9]\+/\0 \1/g' Guertin.meme
 ```
-Edited `jolma collection` as below;
+**Jolma Collection**
 ```
 sed -i 's/MOTIF\s\([-0-Z]\+\)[_0-Z]\+/\0 \1/g' jolma2013.meme
 ```
-Edited `wei collection` as below;
+**Wei Collection**
 ```
 sed -i 's/MOTIF\s\(m-\)\?\([0-Z]\+\)\([,_0-Z]\+\)\?/\0 \2/g' wei2010_mouse_pbm.meme
 sed -i 's/MOTIF\s\(m-\)\?\([0-Z]\+\)/\0 \2/g' wei2010_mouse_mws.meme
 sed -i 's/MOTIF\s\(h-\)\?\([0-Z]\+\)/\0 \2/g' wei2010_human_mws.meme
+```
+**macIsaac Collection**
+```
+sed -i 's/MOTIF\s\([0-Z]\+\(_\(head\|box\)\)\?\)\([_0-9]\+\)\?/\0 \1/g' macisaac_themev1.meme
+```
+**POUR Collection**
+```
+sed -i 's/MOTIF\s\(\([0-Z]\+\)_disc[0-9]\+\)\s\([-_.0-Z:#]\+\)/MOTIF \1 \2  \3/g' Kheradpour-2013.meme
+```
+**Uniprobe Collection**
+```
+sed -i 's/\(MOTIF\s[0-Z_]\+\)\s\(\([-0-Z.]\+\)_[0-Z.]\+\)/\1 \3 \2/g' uniprobe_mouse.meme
 ```
