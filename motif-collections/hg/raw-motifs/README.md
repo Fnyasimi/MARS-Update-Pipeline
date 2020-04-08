@@ -5,7 +5,10 @@ The following databases were updated with recent data
 ## HOCOMOCO v11
 Data from Hocomoco database full collection was downloaded from [here](https://hocomoco11.autosome.ru/downloads_v11) in transfac format then converted to meme format on 02 Mar 2020.
 
-`transfac2meme HOCOMOCOv11_full_HUMAN_mono_transfac_format.txt > HOCOMOCOv11_full_HUMAN_mono.meme`
+```
+transfac2meme HOCOMOCOv11_full_HUMAN_mono_transfac_format.txt > HOCOMOCOv11_full_HUMAN_mono.meme
+sed -i 's/\(MOTIF\s[0-Z]\+_HUMAN.H11MO.[0-9].[ABCD]\)\s\([0-Z]\+\)_HUMAN/\1 \2/g' HOCOMOCOv11_full_HUMAN_mono.meme
+```
 
 ## Human Smile-seq
 Data from the Smile seq was downloaded from [here](http://floresta.eead.csic.es/footprintdb/index.php?database=20&type=motif&page=1) on 02 Mar 2020 in transfac format then converted to meme format.
@@ -58,4 +61,8 @@ sed -i 's/\(MOTIF\sTransfac_[-A-Za-z0-9_\/]\+\)\sM[0-9]\+_\([-A-Za-z0-9_\/]\+\)/
 Edited `Zhao collection` as below;
 ```
 sed -i 's/\(MOTIF [a-z0-9]\+\(\.[v0-9]\+\)\?_\([-.0-Z]\+\(_[HLHLINCNDM]\+[-0-9]\+\)\?\)[_0-Z]\+\)\s\([0-Z]\+\)\?/\1 \3 \5/g' zhao2011.meme
+```
+Edited `Guertin collection` as below;
+```
+sed -i 's/MOTIF\sGuertin_\([0-Z]\+\(_\(GTF\|FAM\|SPI\)[0-Z]\+\)\?\)[_0-9]\+/\0 \1/g' Guertin.meme
 ```
