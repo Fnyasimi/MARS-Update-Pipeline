@@ -47,3 +47,7 @@ sed -i 's/MOTIF 3Dfootprint_PROTEIN FEV/MOTIF 3Dfootprint_PROTEIN_FEV/g' 3D-foot
 sed -i 's/MOTIF 3Dfootprint_ESTROGEN RECEPTOR/MOTIF 3Dfootprint_ESTROGEN_RECEPTOR/g' 3D-footprint.meme
 sed -i 's/MOTIF\s\+3Dfootprint_\([-A-Za-z0-9_():/]\+\)/\0 \1/g' 3D-footprint.meme
 ```
+Edited `Zlab collection` as below;
+```
+sed -i 's/MOTIF\s\([-A-Za-z0-9]\+\).[-A-Za-z0-9_]\+/\0 \1/g' Zlab_chipseq.meme
+```
