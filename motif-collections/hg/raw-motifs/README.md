@@ -70,3 +70,9 @@ Edited `jolma collection` as below;
 ```
 sed -i 's/MOTIF\s\([-0-Z]\+\)[_0-Z]\+/\0 \1/g' jolma2013.meme
 ```
+Edited `wei collection` as below;
+```
+sed -i 's/MOTIF\s\(m-\)\?\([0-Z]\+\)\([,_0-Z]\+\)\?/\0 \2/g' wei2010_mouse_pbm.meme
+sed -i 's/MOTIF\s\(m-\)\?\([0-Z]\+\)/\0 \2/g' wei2010_mouse_mws.meme
+sed -i 's/MOTIF\s\(h-\)\?\([0-Z]\+\)/\0 \2/g' wei2010_human_mws.meme
+```
