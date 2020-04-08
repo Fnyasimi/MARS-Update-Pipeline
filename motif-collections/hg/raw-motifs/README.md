@@ -35,8 +35,15 @@ Data was downloaded from [here](http://floresta.eead.csic.es/footprintdb/index.p
 Data was downloaded from [here](http://jaspar.genereg.net/downloads/) on 26 Feb 2020 in the meme format `JASPAR2020_CORE_vertebrates_non-redundant_pfms_meme.txt`.
 
 ## Imported databases
-Edited homer collection to get TF name using the command below;
+Edited `homer collection` to get TF name using the command below;
 
 ```
 sed -i 's/MOTIF\s\+\([-_A-Za-z0-9]\+\)[-()A-Za-z0-9\/\?_.,:\|\+`]\+/\0  \1/g' Homer_human.meme
+```
+Edited `3Dfootprint collection` as below;
+
+```
+sed -i 's/MOTIF 3Dfootprint_PROTEIN FEV/MOTIF 3Dfootprint_PROTEIN_FEV/g' 3D-footprint.meme
+sed -i 's/MOTIF 3Dfootprint_ESTROGEN RECEPTOR/MOTIF 3Dfootprint_ESTROGEN_RECEPTOR/g' 3D-footprint.meme
+sed -i 's/MOTIF\s\+3Dfootprint_\([-A-Za-z0-9_():/]\+\)/\0 \1/g' 3D-footprint.meme
 ```
