@@ -3246,7 +3246,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   0.941176	  0.000000	  0.058824	  0.000000	
   0.062500	  0.500000	  0.000000	  0.437500	
 
-MOTIF M03654_2.00  FBgn0262975 
+MOTIF M03654_2.00 cnc_1 
 
 letter-probability matrix: alength= 4 w= 15 nsites= 1 E= 0
   0.346061	  0.149639	  0.299278	  0.205022	
@@ -3265,7 +3265,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 1 E= 0
   0.416239	  0.064292	  0.432237	  0.087232	
   0.190950	  0.292424	  0.160782	  0.355845	
 
-MOTIF M03655_2.00  FBgn0262975 
+MOTIF M03655_2.00 cnc_2 
 
 letter-probability matrix: alength= 4 w= 16 nsites= 1 E= 0
   0.130045	  0.533632	  0.311980	  0.024343	
@@ -3285,7 +3285,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 1 E= 0
   0.012536	  0.798291	  0.030769	  0.158405	
   0.377249	  0.071337	  0.395887	  0.155527	
 
-MOTIF M03656_2.00  FBgn0262975 
+MOTIF M03656_2.00 cnc_3 
 
 letter-probability matrix: alength= 4 w= 16 nsites= 1 E= 0
   0.052632	  0.000000	  0.941520	  0.005848	
@@ -3305,7 +3305,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 1 E= 0
   0.851852	  0.052910	  0.074074	  0.021164	
   0.012195	  0.298780	  0.000000	  0.689024	
 
-MOTIF M08189_2.00  FBgn0262975 
+MOTIF M08189_2.00 Mf3 
 
 letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   0.050847	  0.042373	  0.016949	  0.889831	
