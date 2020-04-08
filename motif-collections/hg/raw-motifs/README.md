@@ -53,5 +53,5 @@ sed -i 's/MOTIF\s\([-A-Za-z0-9]\+\).[-A-Za-z0-9_]\+/\0 \1/g' Zlab_chipseq.meme
 ```
 Edited `Transfac collection` as below;
 ```
-sed -i 's/MOTIF\sTransfac_[-A-Za-z0-9_\/]\+\sM[0-9]\+_\([-A-Za-z0-9_\/]\+\)/\0 \1/g' Transfac.meme
+sed -i 's/\(MOTIF\sTransfac_[-A-Za-z0-9_\/]\+\)\sM[0-9]\+_\([-A-Za-z0-9_\/]\+\)/\1 \2/g' Transfac.meme
 ```
