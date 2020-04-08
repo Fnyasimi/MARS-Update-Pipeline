@@ -55,3 +55,7 @@ Edited `Transfac collection` as below;
 ```
 sed -i 's/\(MOTIF\sTransfac_[-A-Za-z0-9_\/]\+\)\sM[0-9]\+_\([-A-Za-z0-9_\/]\+\)/\1 \2/g' Transfac.meme
 ```
+Edited `Zhao collection` as below;
+```
+sed -i 's/\(MOTIF [a-z0-9]\+\(\.[v0-9]\+\)\?_\([-.0-Z]\+\(_[HLHLINCNDM]\+[-0-9]\+\)\?\)[_0-Z]\+\)\s\([0-Z]\+\)\?/\1 \3 \5/g' zhao2011.meme
+```
