@@ -7,7 +7,7 @@ strands: + -
 Background letter frequencies (from uniform background):
 A 0.25000 C 0.25000 G 0.25000 T 0.25000 
 
-MOTIF m-EHF 
+MOTIF m-EHF EHF 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    -18	   129	  -164	  -147	
@@ -35,7 +35,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-ELF1 
+MOTIF m-ELF1 ELF1 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     10	    87	  -134	   -49	
@@ -63,7 +63,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-ELF2 
+MOTIF m-ELF2 ELF2 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     16	    68	   -84	   -47	
@@ -91,7 +91,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-ELF3 
+MOTIF m-ELF3 ELF3 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    -12	    75	    -6	  -118	
@@ -119,7 +119,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-ELF4 
+MOTIF m-ELF4 ELF4 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    -49	   104	  -120	   -34	
@@ -147,7 +147,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-ELF5 
+MOTIF m-ELF5 ELF5 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    -25	   121	  -164	   -94	
@@ -175,7 +175,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-ERF 
+MOTIF m-ERF ERF 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    119	   -84	   -40	  -132	
@@ -203,7 +203,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-ERG 
+MOTIF m-ERG ERG 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    126	  -184	   -40	   -84	
@@ -231,7 +231,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-ETS1 
+MOTIF m-ETS1 ETS1 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    126	  -147	    -6	  -184	
@@ -259,7 +259,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-ETS2 
+MOTIF m-ETS2 ETS2 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    114	  -147	    11	  -147	
@@ -287,7 +287,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-ETV1 
+MOTIF m-ETV1 ETV1 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    106	  -132	    21	  -147	
@@ -315,7 +315,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-ETV2 
+MOTIF m-ETV2 ETV2 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    110	  -117	    -4	  -117	
@@ -343,7 +343,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-ETV3 
+MOTIF m-ETV3 ETV3 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    126	  -164	   -40	   -94	
@@ -371,7 +371,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-ETV4 
+MOTIF m-ETV4 ETV4 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     68	   -94	    31	   -64	
@@ -399,7 +399,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-ETV5 
+MOTIF m-ETV5 ETV5 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     94	     0	   -47	  -147	
@@ -427,7 +427,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-ETV6 
+MOTIF m-ETV6 ETV6 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     53	    53	  -132	   -47	
@@ -455,7 +455,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-Elk1 
+MOTIF m-Elk1 Elk1 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    140	  -118	   -64	  -184	
@@ -483,7 +483,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-Elk3 
+MOTIF m-Elk3 Elk3 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    116	  -147	    11	  -164	
@@ -511,7 +511,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-Elk4 
+MOTIF m-Elk4 Elk4 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    128	   -93	   -54	  -146	
@@ -539,7 +539,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-FEV 
+MOTIF m-FEV FEV 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    116	  -147	   -18	   -94	
@@ -567,7 +567,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-Fli1 
+MOTIF m-Fli1 Fli1 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    121	  -184	    -6	  -118	
@@ -595,7 +595,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-GABPA 
+MOTIF m-GABPA GABPA 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    116	  -147	    11	  -164	
@@ -623,7 +623,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-SFPI1 
+MOTIF m-SFPI1 SFPI1 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     97	   -74	   -47	   -47	
@@ -651,7 +651,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-SPDEF 
+MOTIF m-SPDEF SPDEF 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     53	    57	   -47	  -147	
@@ -679,7 +679,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-SPIB 
+MOTIF m-SPIB SPIB 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    107	   -34	   -75	   -96	
@@ -707,7 +707,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF m-SPIC 
+MOTIF m-SPIC SPIC 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     97	   -18	   -64	   -94	

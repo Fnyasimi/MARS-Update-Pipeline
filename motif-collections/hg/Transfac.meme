@@ -7,7 +7,7 @@ strands: + -
 Background letter frequencies (from uniform background):
 A 0.25000 C 0.25000 G 0.25000 T 0.25000 
 
-MOTIF Transfac_M00001_MyoD M00001_MyoD
+MOTIF Transfac_M00001_MyoD MyoD
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.200000	  0.400000	  0.400000	  0.000000	
@@ -23,7 +23,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.400000	  0.000000	  0.600000	
   0.200000	  0.000000	  0.600000	  0.200000	
 
-MOTIF Transfac_M00002_E47 M00002_E47
+MOTIF Transfac_M00002_E47 E47
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.363636	  0.363636	  0.272727	  0.000000	
@@ -42,7 +42,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.090909	  0.363636	  0.363636	  0.181818	
   0.100000	  0.400000	  0.200000	  0.300000	
 
-MOTIF Transfac_M00004_c-Myb M00004_c-Myb
+MOTIF Transfac_M00004_c-Myb c-Myb
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.037037	  0.444444	  0.222222	  0.296296	
@@ -64,7 +64,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.100000	  0.100000	  0.600000	  0.200000	
   0.076923	  0.000000	  0.846154	  0.076923	
 
-MOTIF Transfac_M00005_AP-4 M00005_AP-4
+MOTIF Transfac_M00005_AP-4 AP-4
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.600000	  0.000000	  0.000000	  0.400000	
@@ -86,7 +86,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.400000	  0.200000	  0.200000	  0.200000	
   0.000000	  0.000000	  0.600000	  0.400000	
 
-MOTIF Transfac_M00006_MEF-2 M00006_MEF-2
+MOTIF Transfac_M00006_MEF-2 MEF-2
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.000000	  0.600000	  0.200000	  0.200000	
@@ -106,7 +106,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.000000	  0.800000	  0.000000	  0.200000	
   0.000000	  0.400000	  0.000000	  0.600000	
 
-MOTIF Transfac_M00007_Elk-1 M00007_Elk-1
+MOTIF Transfac_M00007_Elk-1 Elk-1
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.250000	  0.250000	  0.250000	  0.250000	
@@ -126,7 +126,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.250000	  0.250000	  0.500000	  0.000000	
   0.250000	  0.250000	  0.000000	  0.500000	
 
-MOTIF Transfac_M00008_Sp1 M00008_Sp1
+MOTIF Transfac_M00008_Sp1 Sp1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.181818	  0.090909	  0.545455	  0.181818	
@@ -140,7 +140,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.090909	  0.181818	  0.636364	  0.090909	
   0.272727	  0.181818	  0.000000	  0.545455	
 
-MOTIF Transfac_M00011_Evi-1 M00011_Evi-1
+MOTIF Transfac_M00011_Evi-1 Evi-1
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
@@ -153,7 +153,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.937500	  0.000000	  0.000000	  0.062500	
   0.750000	  0.062500	  0.187500	  0.000000	
 
-MOTIF Transfac_M00017_ATF M00017_ATF
+MOTIF Transfac_M00017_ATF ATF
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.200000	  0.560000	  0.080000	  0.160000	
@@ -205,7 +205,7 @@ letter-probability matrix: alength= 4 w= 30 nsites= 20 E= 0
   0.100000	  0.700000	  0.100000	  0.100000	
   0.400000	  0.200000	  0.200000	  0.200000	
 
-MOTIF Transfac_M00024_E2F M00024_E2F
+MOTIF Transfac_M00024_E2F E2F
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.200000	  0.000000	  0.000000	  0.800000	
@@ -224,7 +224,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.000000	  0.000000	  0.400000	  0.600000	
   0.400000	  0.000000	  0.600000	  0.000000	
 
-MOTIF Transfac_M00025_Elk-1 M00025_Elk-1
+MOTIF Transfac_M00025_Elk-1 Elk-1
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.129032	  0.387097	  0.161290	  0.322581	
@@ -242,7 +242,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.258065	  0.290323	  0.225806	  0.225806	
   0.258065	  0.354839	  0.193548	  0.193548	
 
-MOTIF Transfac_M00026_RSRFC4 M00026_RSRFC4
+MOTIF Transfac_M00026_RSRFC4 RSRFC4
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.447368	  0.105263	  0.315789	  0.131579	
@@ -276,7 +276,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.066667	  0.400000	  0.000000	  0.533333	
   0.333333	  0.266667	  0.266667	  0.133333	
 
-MOTIF Transfac_M00033_p300 M00033_p300
+MOTIF Transfac_M00033_p300 p300
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.300000	  0.100000	  0.300000	  0.300000	
@@ -294,7 +294,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.266667	  0.266667	  0.133333	  0.333333	
   0.071429	  0.357143	  0.428571	  0.142857	
 
-MOTIF Transfac_M00034_p53 M00034_p53
+MOTIF Transfac_M00034_p53 p53
 
 letter-probability matrix: alength= 4 w= 20 nsites= 20 E= 0
   0.235294	  0.000000	  0.764706	  0.000000	
@@ -318,7 +318,7 @@ letter-probability matrix: alength= 4 w= 20 nsites= 20 E= 0
   0.000000	  0.764706	  0.000000	  0.235294	
   0.000000	  0.437500	  0.125000	  0.437500	
 
-MOTIF Transfac_M00037_NF-E2 M00037_NF-E2
+MOTIF Transfac_M00037_NF-E2 NF-E2
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.222222	  0.222222	  0.000000	  0.555556	
@@ -333,7 +333,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.888889	  0.111111	  0.000000	  0.000000	
   0.111111	  0.444444	  0.000000	  0.444444	
 
-MOTIF Transfac_M00039_CREB M00039_CREB
+MOTIF Transfac_M00039_CREB CREB
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -345,7 +345,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.413793	  0.551724	  0.034483	  0.000000	
   0.586207	  0.034483	  0.137931	  0.241379	
 
-MOTIF Transfac_M00040_CRE-BP1 M00040_CRE-BP1
+MOTIF Transfac_M00040_CRE-BP1 CRE-BP1
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -369,7 +369,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.465116	  0.069767	  0.465116	
   0.930233	  0.023256	  0.000000	  0.046512	
 
-MOTIF Transfac_M00042_Sox-5 M00042_Sox-5
+MOTIF Transfac_M00042_Sox-5 Sox-5
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.181818	  0.272727	  0.136364	  0.409091	
@@ -383,7 +383,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.434783	  0.130435	  0.260870	  0.173913	
   0.217391	  0.304348	  0.260870	  0.217391	
 
-MOTIF Transfac_M00045_E4BP4 M00045_E4BP4
+MOTIF Transfac_M00045_E4BP4 E4BP4
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.260870	  0.391304	  0.130435	  0.217391	
@@ -399,7 +399,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.478261	  0.173913	  0.347826	
   0.304348	  0.173913	  0.347826	  0.173913	
 
-MOTIF Transfac_M00050_E2F M00050_E2F
+MOTIF Transfac_M00050_E2F E2F
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -439,7 +439,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
   0.000000	  1.000000	  0.000000	  0.000000	
 
-MOTIF Transfac_M00053_c-Rel M00053_c-Rel
+MOTIF Transfac_M00053_c-Rel c-Rel
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  0.294118	  0.470588	  0.235294	
@@ -453,7 +453,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  0.882353	  0.000000	  0.117647	
   0.058824	  0.941176	  0.000000	  0.000000	
 
-MOTIF Transfac_M00054_NF-kappaB M00054_NF-kappaB
+MOTIF Transfac_M00054_NF-kappaB NF-kappaB
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
@@ -467,7 +467,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.075000	  0.900000	  0.000000	  0.025000	
   0.000000	  0.950000	  0.000000	  0.050000	
 
-MOTIF Transfac_M00055_N-Myc M00055_N-Myc
+MOTIF Transfac_M00055_N-Myc N-Myc
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.175000	  0.275000	  0.150000	  0.400000	
@@ -483,7 +483,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.275000	  0.400000	  0.125000	  0.200000	
   0.275000	  0.275000	  0.275000	  0.175000	
 
-MOTIF Transfac_M00056_myogenin/NF-1 M00056_myogenin/NF-1
+MOTIF Transfac_M00056_myogenin/NF-1 myogenin/NF-1
 
 letter-probability matrix: alength= 4 w= 29 nsites= 20 E= 0
   0.125000	  0.625000	  0.000000	  0.250000	
@@ -516,7 +516,7 @@ letter-probability matrix: alength= 4 w= 29 nsites= 20 E= 0
   0.125000	  0.500000	  0.125000	  0.250000	
   0.375000	  0.250000	  0.000000	  0.375000	
 
-MOTIF Transfac_M00057_COMP1 M00057_COMP1
+MOTIF Transfac_M00057_COMP1 COMP1
 
 letter-probability matrix: alength= 4 w= 24 nsites= 20 E= 0
   0.166667	  0.166667	  0.166667	  0.500000	
@@ -544,7 +544,7 @@ letter-probability matrix: alength= 4 w= 24 nsites= 20 E= 0
   0.000000	  0.333333	  0.333333	  0.333333	
   0.166667	  0.333333	  0.333333	  0.166667	
 
-MOTIF Transfac_M00058_HEN1 M00058_HEN1
+MOTIF Transfac_M00058_HEN1 HEN1
 
 letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
   0.330000	  0.160000	  0.270000	  0.240000	
@@ -570,7 +570,7 @@ letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
   0.222222	  0.414141	  0.101010	  0.262626	
   0.270000	  0.160000	  0.240000	  0.330000	
 
-MOTIF Transfac_M00059_YY1 M00059_YY1
+MOTIF Transfac_M00059_YY1 YY1
 
 letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.166667	  0.222222	  0.333333	  0.277778	
@@ -591,7 +591,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.500000	  0.111111	  0.111111	  0.277778	
   0.166667	  0.333333	  0.277778	  0.222222	
 
-MOTIF Transfac_M00062_IRF-1 M00062_IRF-1
+MOTIF Transfac_M00062_IRF-1 IRF-1
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  0.380952	  0.571429	  0.047619	
@@ -608,7 +608,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.047619	  0.666667	  0.285714	  0.000000	
   0.047619	  0.619048	  0.047619	  0.285714	
 
-MOTIF Transfac_M00063_IRF-2 M00063_IRF-2
+MOTIF Transfac_M00063_IRF-2 IRF-2
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  0.066667	  0.933333	  0.000000	
@@ -665,7 +665,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.340000	  0.240000	  0.190000	  0.230000	
   0.170000	  0.390000	  0.300000	  0.140000	
 
-MOTIF Transfac_M00068_HEN1 M00068_HEN1
+MOTIF Transfac_M00068_HEN1 HEN1
 
 letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
   0.306931	  0.207921	  0.178218	  0.306931	
@@ -691,7 +691,7 @@ letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
   0.150000	  0.300000	  0.200000	  0.350000	
   0.200000	  0.300000	  0.230000	  0.270000	
 
-MOTIF Transfac_M00069_YY1 M00069_YY1
+MOTIF Transfac_M00069_YY1 YY1
 
 letter-probability matrix: alength= 4 w= 20 nsites= 20 E= 0
   0.181818	  0.363636	  0.181818	  0.272727	
@@ -735,7 +735,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.250000	  0.210000	  0.140000	  0.400000	
   0.160000	  0.350000	  0.260000	  0.230000	
 
-MOTIF Transfac_M00071_E47 M00071_E47
+MOTIF Transfac_M00071_E47 E47
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.414141	  0.242424	  0.171717	  0.171717	
@@ -755,7 +755,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.340000	  0.270000	  0.240000	  0.150000	
   0.250000	  0.370000	  0.220000	  0.160000	
 
-MOTIF Transfac_M00072_CP2 M00072_CP2
+MOTIF Transfac_M00072_CP2 CP2
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.000000	  0.166667	  0.833333	  0.000000	
@@ -770,7 +770,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.000000	  0.000000	  1.000000	  0.000000	
 
-MOTIF Transfac_M00073_deltaEF1 M00073_deltaEF1
+MOTIF Transfac_M00073_deltaEF1 deltaEF1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.320000	  0.220000	  0.140000	  0.320000	
@@ -802,7 +802,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.250000	  0.138889	  0.194444	  0.416667	
   0.314286	  0.257143	  0.200000	  0.228571	
 
-MOTIF Transfac_M00075_GATA-1 M00075_GATA-1
+MOTIF Transfac_M00075_GATA-1 GATA-1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.094340	  0.415094	  0.377358	  0.113208	
@@ -816,7 +816,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.115385	  0.269231	  0.346154	  0.269231	
   0.134615	  0.211538	  0.365385	  0.288462	
 
-MOTIF Transfac_M00076_GATA-2 M00076_GATA-2
+MOTIF Transfac_M00076_GATA-2 GATA-2
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.113208	  0.301887	  0.339623	  0.245283	
@@ -830,7 +830,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.094340	  0.377358	  0.283019	  0.245283	
   0.132075	  0.245283	  0.358491	  0.264151	
 
-MOTIF Transfac_M00077_GATA-3 M00077_GATA-3
+MOTIF Transfac_M00077_GATA-3 GATA-3
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.253968	  0.222222	  0.380952	  0.142857	
@@ -843,7 +843,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.158730	  0.174603	  0.412698	  0.253968	
   0.238095	  0.111111	  0.539683	  0.111111	
 
-MOTIF Transfac_M00078_Evi-1 M00078_Evi-1
+MOTIF Transfac_M00078_Evi-1 Evi-1
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.538462	  0.000000	  0.076923	  0.384615	
@@ -863,7 +863,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.846154	  0.076923	  0.000000	  0.076923	
   0.846154	  0.076923	  0.000000	  0.076923	
 
-MOTIF Transfac_M00079_Evi-1 M00079_Evi-1
+MOTIF Transfac_M00079_Evi-1 Evi-1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.571429	  0.071429	  0.142857	  0.214286	
@@ -878,7 +878,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.928571	  0.071429	  0.000000	  0.000000	
   0.785714	  0.000000	  0.214286	  0.000000	
 
-MOTIF Transfac_M00080_Evi-1 M00080_Evi-1
+MOTIF Transfac_M00080_Evi-1 Evi-1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.851852	  0.000000	  0.000000	  0.148148	
@@ -893,7 +893,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.962963	  0.000000	  0.000000	  0.037037	
   0.703704	  0.037037	  0.148148	  0.111111	
 
-MOTIF Transfac_M00081_Evi-1 M00081_Evi-1
+MOTIF Transfac_M00081_Evi-1 Evi-1
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.375000	  0.000000	  0.375000	  0.250000	
@@ -912,7 +912,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.250000	  0.000000	  0.000000	  0.750000	
   0.750000	  0.125000	  0.000000	  0.125000	
 
-MOTIF Transfac_M00082_Evi-1 M00082_Evi-1
+MOTIF Transfac_M00082_Evi-1 Evi-1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.736842	  0.000000	  0.052632	  0.210526	
@@ -927,7 +927,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.947368	  0.000000	  0.000000	  0.052632	
   0.388889	  0.055556	  0.333333	  0.222222	
 
-MOTIF Transfac_M00083_MZF1 M00083_MZF1
+MOTIF Transfac_M00083_MZF1 MZF1
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.400000	  0.150000	  0.300000	  0.150000	
@@ -939,7 +939,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.900000	  0.050000	  0.050000	  0.000000	
 
-MOTIF Transfac_M00084_MZF1 M00084_MZF1
+MOTIF Transfac_M00084_MZF1 MZF1
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.125000	  0.062500	  0.437500	  0.375000	
@@ -956,7 +956,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.687500	  0.000000	  0.125000	  0.187500	
   0.625000	  0.187500	  0.125000	  0.062500	
 
-MOTIF Transfac_M00085_ZID M00085_ZID
+MOTIF Transfac_M00085_ZID ZID
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.085714	  0.342857	  0.257143	  0.314286	
@@ -973,7 +973,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  0.428571	  0.000000	  0.571429	
   0.114286	  0.742857	  0.057143	  0.085714	
 
-MOTIF Transfac_M00086_Ik-1 M00086_Ik-1
+MOTIF Transfac_M00086_Ik-1 Ik-1
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.291667	  0.208333	  0.291667	  0.208333	
@@ -990,7 +990,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.125000	  0.541667	  0.083333	  0.250000	
   0.125000	  0.583333	  0.125000	  0.166667	
 
-MOTIF Transfac_M00087_Ik-2 M00087_Ik-2
+MOTIF Transfac_M00087_Ik-2 Ik-2
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.250000	  0.277778	  0.333333	  0.138889	
@@ -1006,7 +1006,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.333333	  0.222222	  0.250000	  0.194444	
   0.250000	  0.500000	  0.138889	  0.111111	
 
-MOTIF Transfac_M00088_Ik-3 M00088_Ik-3
+MOTIF Transfac_M00088_Ik-3 Ik-3
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.120000	  0.000000	  0.280000	  0.600000	
@@ -1023,7 +1023,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.040000	  0.720000	  0.000000	  0.240000	
   0.040000	  0.680000	  0.000000	  0.280000	
 
-MOTIF Transfac_M00095_CDP M00095_CDP
+MOTIF Transfac_M00095_CDP CDP
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.055556	  0.888889	  0.000000	  0.055556	
@@ -1039,7 +1039,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.777778	  0.000000	  0.055556	  0.166667	
   0.111111	  0.055556	  0.055556	  0.777778	
 
-MOTIF Transfac_M00096_Pbx-1 M00096_Pbx-1
+MOTIF Transfac_M00096_Pbx-1 Pbx-1
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.750000	  0.062500	  0.000000	  0.187500	
@@ -1052,7 +1052,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.875000	  0.000000	  0.062500	  0.062500	
   0.625000	  0.000000	  0.000000	  0.375000	
 
-MOTIF Transfac_M00097_Pax-6 M00097_Pax-6
+MOTIF Transfac_M00097_Pax-6 Pax-6
 
 letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.394737	  0.184211	  0.157895	  0.263158	
@@ -1077,7 +1077,7 @@ letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.437500	  0.250000	  0.125000	  0.187500	
   0.142857	  0.428571	  0.107143	  0.321429	
 
-MOTIF Transfac_M00098_Pax-2 M00098_Pax-2
+MOTIF Transfac_M00098_Pax-2 Pax-2
 
 letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.259259	  0.370370	  0.148148	  0.222222	
@@ -1100,7 +1100,7 @@ letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.230769	  0.230769	  0.384615	  0.153846	
   0.300000	  0.300000	  0.200000	  0.200000	
 
-MOTIF Transfac_M00099_S8 M00099_S8
+MOTIF Transfac_M00099_S8 S8
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.352941	  0.117647	  0.117647	  0.411765	
@@ -1120,7 +1120,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.133333	  0.400000	  0.266667	  0.200000	
   0.333333	  0.083333	  0.166667	  0.416667	
 
-MOTIF Transfac_M00100_CdxA M00100_CdxA
+MOTIF Transfac_M00100_CdxA CdxA
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.473684	  0.315789	  0.105263	  0.105263	
@@ -1131,7 +1131,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.210526	  0.157895	  0.105263	  0.526316	
   0.315789	  0.157895	  0.473684	  0.052632	
 
-MOTIF Transfac_M00101_CdxA M00101_CdxA
+MOTIF Transfac_M00101_CdxA CdxA
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.555556	  0.083333	  0.083333	  0.277778	
@@ -1142,7 +1142,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.055556	  0.194444	  0.083333	  0.666667	
   0.472222	  0.000000	  0.444444	  0.083333	
 
-MOTIF Transfac_M00102_CDP M00102_CDP
+MOTIF Transfac_M00102_CDP CDP
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.330000	  0.080000	  0.170000	  0.420000	
@@ -1161,7 +1161,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.310000	  0.080000	  0.210000	  0.400000	
   0.290000	  0.150000	  0.100000	  0.460000	
 
-MOTIF Transfac_M00103_Clox M00103_Clox
+MOTIF Transfac_M00103_Clox Clox
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.270000	  0.110000	  0.210000	  0.410000	
@@ -1180,7 +1180,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.210000	  0.100000	  0.270000	  0.420000	
   0.370000	  0.100000	  0.120000	  0.410000	
 
-MOTIF Transfac_M00104_CDP_CR1 M00104_CDP_CR1
+MOTIF Transfac_M00104_CDP_CR1 CDP_CR1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.281250	  0.218750	  0.250000	  0.250000	
@@ -1194,7 +1194,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.033333	  0.166667	  0.733333	  0.066667	
   0.086957	  0.478261	  0.347826	  0.086957	
 
-MOTIF Transfac_M00105_CDP_CR3 M00105_CDP_CR3
+MOTIF Transfac_M00105_CDP_CR3 CDP_CR3
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.043478	  0.913043	  0.043478	  0.000000	
@@ -1227,7 +1227,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.031250	  0.406250	  0.375000	  0.187500	
   0.033333	  0.466667	  0.433333	  0.066667	
 
-MOTIF Transfac_M00108_NRF-2 M00108_NRF-2
+MOTIF Transfac_M00108_NRF-2 NRF-2
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.714286	  0.142857	  0.142857	  0.000000	
@@ -1241,7 +1241,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.428571	  0.142857	  0.142857	  0.285714	
   0.000000	  0.285714	  0.571429	  0.142857	
 
-MOTIF Transfac_M00109_C/EBPbeta M00109_C/EBPbeta
+MOTIF Transfac_M00109_C/EBPbeta C/EBPbeta
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.428571	  0.047619	  0.380952	  0.142857	
@@ -1259,7 +1259,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.238095	  0.285714	  0.333333	  0.142857	
   0.142857	  0.142857	  0.285714	  0.428571	
 
-MOTIF Transfac_M00113_CREB M00113_CREB
+MOTIF Transfac_M00113_CREB CREB
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.125000	  0.312500	  0.250000	  0.312500	
@@ -1275,7 +1275,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.250000	  0.437500	  0.187500	  0.125000	
   0.312500	  0.375000	  0.187500	  0.125000	
 
-MOTIF Transfac_M00114_Tax/CREB M00114_Tax/CREB
+MOTIF Transfac_M00114_Tax/CREB Tax/CREB
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.117647	  0.117647	  0.529412	  0.235294	
@@ -1294,7 +1294,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.235294	  0.176471	  0.294118	  0.294118	
   0.529412	  0.117647	  0.176471	  0.176471	
 
-MOTIF Transfac_M00115_Tax/CREB M00115_Tax/CREB
+MOTIF Transfac_M00115_Tax/CREB Tax/CREB
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.600000	  0.000000	  0.400000	  0.000000	
@@ -1313,7 +1313,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.000000	  0.800000	  0.000000	  0.200000	
   0.200000	  0.800000	  0.000000	  0.000000	
 
-MOTIF Transfac_M00116_C/EBPalpha M00116_C/EBPalpha
+MOTIF Transfac_M00116_C/EBPalpha C/EBPalpha
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.372093	  0.232558	  0.162791	  0.232558	
@@ -1331,7 +1331,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.232558	  0.395349	  0.162791	  0.209302	
   0.372093	  0.186047	  0.162791	  0.279070	
 
-MOTIF Transfac_M00117_C/EBPbeta M00117_C/EBPbeta
+MOTIF Transfac_M00117_C/EBPbeta C/EBPbeta
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.352941	  0.117647	  0.235294	  0.294118	
@@ -1367,7 +1367,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.180000	  0.470000	  0.070000	  0.280000	
   0.310000	  0.130000	  0.310000	  0.250000	
 
-MOTIF Transfac_M00119_Max M00119_Max
+MOTIF Transfac_M00119_Max Max
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.380000	  0.160000	  0.260000	  0.200000	
@@ -1385,7 +1385,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.150000	  0.330000	  0.100000	  0.420000	
   0.200000	  0.260000	  0.160000	  0.380000	
 
-MOTIF Transfac_M00121_USF M00121_USF
+MOTIF Transfac_M00121_USF USF
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.361111	  0.194444	  0.305556	  0.138889	
@@ -1403,7 +1403,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.250000	  0.425000	  0.150000	  0.175000	
   0.138889	  0.305556	  0.194444	  0.361111	
 
-MOTIF Transfac_M00122_USF M00122_USF
+MOTIF Transfac_M00122_USF USF
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.354167	  0.145833	  0.187500	  0.312500	
@@ -1437,7 +1437,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.137931	  0.413793	  0.241379	  0.206897	
   0.500000	  0.142857	  0.000000	  0.357143	
 
-MOTIF Transfac_M00124_Pbx1b M00124_Pbx1b
+MOTIF Transfac_M00124_Pbx1b Pbx1b
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.242424	  0.484848	  0.151515	  0.121212	
@@ -1456,7 +1456,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.230769	  0.179487	  0.153846	  0.435897	
   0.289474	  0.157895	  0.078947	  0.473684	
 
-MOTIF Transfac_M00126_GATA-1 M00126_GATA-1
+MOTIF Transfac_M00126_GATA-1 GATA-1
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.157895	  0.157895	  0.368421	  0.315789	
@@ -1474,7 +1474,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.100000	  0.200000	  0.500000	  0.200000	
   0.300000	  0.200000	  0.200000	  0.300000	
 
-MOTIF Transfac_M00127_GATA-1 M00127_GATA-1
+MOTIF Transfac_M00127_GATA-1 GATA-1
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.571429	  0.142857	  0.285714	  0.000000	
@@ -1492,7 +1492,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.250000	  0.083333	  0.583333	  0.083333	
   0.166667	  0.333333	  0.333333	  0.166667	
 
-MOTIF Transfac_M00128_GATA-1 M00128_GATA-1
+MOTIF Transfac_M00128_GATA-1 GATA-1
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.405405	  0.027027	  0.297297	  0.270270	
@@ -1509,7 +1509,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.312500	  0.270833	  0.333333	  0.083333	
   0.170213	  0.276596	  0.297872	  0.255319	
 
-MOTIF Transfac_M00129_HFH-1 M00129_HFH-1
+MOTIF Transfac_M00129_HFH-1 HFH-1
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.142857	  0.214286	  0.214286	  0.428571	
@@ -1525,7 +1525,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.357143	  0.000000	  0.142857	  0.500000	
   0.071429	  0.142857	  0.000000	  0.785714	
 
-MOTIF Transfac_M00130_FOXD3 M00130_FOXD3
+MOTIF Transfac_M00130_FOXD3 FOXD3
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.281250	  0.093750	  0.437500	  0.187500	
@@ -1541,7 +1541,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.031250	  0.062500	  0.125000	  0.781250	
   0.031250	  0.312500	  0.000000	  0.656250	
 
-MOTIF Transfac_M00131_HNF-3beta M00131_HNF-3beta
+MOTIF Transfac_M00131_HNF-3beta HNF-3beta
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.000000	  0.230769	  0.307692	  0.461538	
@@ -1560,7 +1560,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.043478	  0.217391	  0.000000	  0.739130	
   0.571429	  0.000000	  0.071429	  0.357143	
 
-MOTIF Transfac_M00132_HNF-1 M00132_HNF-1
+MOTIF Transfac_M00132_HNF-1 HNF-1
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.240000	  0.000000	  0.640000	  0.120000	
@@ -1579,7 +1579,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.269231	  0.538462	  0.000000	  0.192308	
   0.440000	  0.280000	  0.160000	  0.120000	
 
-MOTIF Transfac_M00133_Tst-1 M00133_Tst-1
+MOTIF Transfac_M00133_Tst-1 Tst-1
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.166667	  0.166667	  0.500000	  0.166667	
@@ -1598,7 +1598,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.333333	  0.000000	  0.333333	  0.333333	
   0.166667	  0.333333	  0.333333	  0.166667	
 
-MOTIF Transfac_M00134_HNF-4 M00134_HNF-4
+MOTIF Transfac_M00134_HNF-4 HNF-4
 
 letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.416667	  0.166667	  0.166667	  0.250000	
@@ -1621,7 +1621,7 @@ letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.233333	  0.166667	  0.433333	  0.166667	
   0.333333	  0.125000	  0.250000	  0.291667	
 
-MOTIF Transfac_M00135_Oct-1 M00135_Oct-1
+MOTIF Transfac_M00135_Oct-1 Oct-1
 
 letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.300000	  0.266667	  0.133333	  0.300000	
@@ -1644,7 +1644,7 @@ letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.270833	  0.229167	  0.291667	  0.208333	
   0.266667	  0.200000	  0.311111	  0.222222	
 
-MOTIF Transfac_M00136_Oct-1 M00136_Oct-1
+MOTIF Transfac_M00136_Oct-1 Oct-1
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.437500	  0.187500	  0.250000	  0.125000	
@@ -1663,7 +1663,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.250000	  0.275000	  0.150000	  0.325000	
   0.375000	  0.175000	  0.150000	  0.300000	
 
-MOTIF Transfac_M00137_Oct-1 M00137_Oct-1
+MOTIF Transfac_M00137_Oct-1 Oct-1
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.184211	  0.289474	  0.263158	  0.263158	
@@ -1680,7 +1680,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.305556	  0.111111	  0.361111	  0.222222	
   0.314286	  0.142857	  0.171429	  0.371429	
 
-MOTIF Transfac_M00138_Oct-1 M00138_Oct-1
+MOTIF Transfac_M00138_Oct-1 Oct-1
 
 letter-probability matrix: alength= 4 w= 23 nsites= 20 E= 0
   0.300000	  0.100000	  0.300000	  0.300000	
@@ -1707,7 +1707,7 @@ letter-probability matrix: alength= 4 w= 23 nsites= 20 E= 0
   0.153846	  0.269231	  0.423077	  0.153846	
   0.545455	  0.045455	  0.136364	  0.272727	
 
-MOTIF Transfac_M00139_AhR M00139_AhR
+MOTIF Transfac_M00139_AhR AhR
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.000000	  0.666667	  0.222222	  0.111111	
@@ -1729,7 +1729,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.111111	  0.333333	  0.555556	  0.000000	
   0.666667	  0.000000	  0.000000	  0.333333	
 
-MOTIF Transfac_M00141_Lyf-1 M00141_Lyf-1
+MOTIF Transfac_M00141_Lyf-1 Lyf-1
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  0.090909	  0.181818	  0.727273	
@@ -1742,7 +1742,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.272727	  0.000000	  0.636364	  0.090909	
   0.545455	  0.000000	  0.454545	  0.000000	
 
-MOTIF Transfac_M00143_BSAP M00143_BSAP
+MOTIF Transfac_M00143_BSAP BSAP
 
 letter-probability matrix: alength= 4 w= 28 nsites= 20 E= 0
   0.000000	  0.285714	  0.285714	  0.428571	
@@ -1774,7 +1774,7 @@ letter-probability matrix: alength= 4 w= 28 nsites= 20 E= 0
   0.142857	  0.428571	  0.285714	  0.142857	
   0.000000	  0.428571	  0.285714	  0.285714	
 
-MOTIF Transfac_M00144_BSAP M00144_BSAP
+MOTIF Transfac_M00144_BSAP BSAP
 
 letter-probability matrix: alength= 4 w= 28 nsites= 20 E= 0
   0.400000	  0.200000	  0.400000	  0.000000	
@@ -1806,7 +1806,7 @@ letter-probability matrix: alength= 4 w= 28 nsites= 20 E= 0
   0.200000	  0.400000	  0.400000	  0.000000	
   0.400000	  0.400000	  0.000000	  0.200000	
 
-MOTIF Transfac_M00145_Brn-2 M00145_Brn-2
+MOTIF Transfac_M00145_Brn-2 Brn-2
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.166667	  0.250000	  0.333333	  0.250000	
@@ -1826,7 +1826,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.416667	  0.000000	  0.416667	  0.166667	
   0.166667	  0.416667	  0.083333	  0.333333	
 
-MOTIF Transfac_M00146_HSF1 M00146_HSF1
+MOTIF Transfac_M00146_HSF1 HSF1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.533333	  0.088889	  0.266667	  0.111111	
@@ -1840,7 +1840,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
   0.133333	  0.155556	  0.466667	  0.244444	
 
-MOTIF Transfac_M00147_HSF2 M00147_HSF2
+MOTIF Transfac_M00147_HSF2 HSF2
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.346154	  0.230769	  0.307692	  0.115385	
@@ -1854,7 +1854,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
   0.074074	  0.148148	  0.444444	  0.333333	
 
-MOTIF Transfac_M00148_SRY M00148_SRY
+MOTIF Transfac_M00148_SRY SRY
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.826087	  0.000000	  0.000000	  0.173913	
@@ -1865,7 +1865,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.565217	  0.217391	  0.086957	  0.130435	
   0.521739	  0.347826	  0.086957	  0.043478	
 
-MOTIF Transfac_M00150_Brachyury M00150_Brachyury
+MOTIF Transfac_M00150_Brachyury Brachyury
 
 letter-probability matrix: alength= 4 w= 24 nsites= 20 E= 0
   0.375000	  0.425000	  0.075000	  0.125000	
@@ -1893,7 +1893,7 @@ letter-probability matrix: alength= 4 w= 24 nsites= 20 E= 0
   0.125000	  0.125000	  0.025000	  0.725000	
   0.025000	  0.125000	  0.200000	  0.650000	
 
-MOTIF Transfac_M00152_SRF M00152_SRF
+MOTIF Transfac_M00152_SRF SRF
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.848485	  0.030303	  0.060606	  0.060606	
@@ -1915,7 +1915,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.333333	  0.181818	  0.212121	  0.272727	
   0.030303	  0.121212	  0.242424	  0.606061	
 
-MOTIF Transfac_M00155_ARP-1 M00155_ARP-1
+MOTIF Transfac_M00155_ARP-1 ARP-1
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.000000	  0.142857	  0.000000	  0.857143	
@@ -1935,7 +1935,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.000000	  0.571429	  0.142857	  0.285714	
   0.428571	  0.000000	  0.000000	  0.571429	
 
-MOTIF Transfac_M00156_RORalpha1 M00156_RORalpha1
+MOTIF Transfac_M00156_RORalpha1 RORalpha1
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.400000	  0.080000	  0.280000	  0.240000	
@@ -1952,7 +1952,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.291667	  0.208333	  0.083333	  0.416667	
 
-MOTIF Transfac_M00157_RORalpha2 M00157_RORalpha2
+MOTIF Transfac_M00157_RORalpha2 RORalpha2
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.472222	  0.055556	  0.194444	  0.277778	
@@ -1969,7 +1969,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.388889	  0.194444	  0.277778	  0.138889	
 
-MOTIF Transfac_M00158_COUP-TF/HNF-4 M00158_COUP-TF/HNF-4
+MOTIF Transfac_M00158_COUP-TF/HNF-4 COUP-TF/HNF-4
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.000000	  0.000000	  0.153846	  0.846154	
@@ -1987,7 +1987,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.230769	  0.461538	  0.000000	  0.307692	
   0.000000	  0.230769	  0.230769	  0.538462	
 
-MOTIF Transfac_M00159_C/EBP M00159_C/EBP
+MOTIF Transfac_M00159_C/EBP C/EBP
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.227273	  0.136364	  0.181818	  0.454545	
@@ -2004,7 +2004,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.181818	  0.181818	  0.318182	  0.318182	
   0.181818	  0.318182	  0.181818	  0.318182	
 
-MOTIF Transfac_M00160_SRY M00160_SRY
+MOTIF Transfac_M00160_SRY SRY
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.206897	  0.206897	  0.344828	  0.241379	
@@ -2020,7 +2020,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.241379	  0.206897	  0.448276	  0.103448	
   0.379310	  0.068966	  0.344828	  0.206897	
 
-MOTIF Transfac_M00161_Oct-1 M00161_Oct-1
+MOTIF Transfac_M00161_Oct-1 Oct-1
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.428571	  0.428571	  0.142857	  0.000000	
@@ -2038,7 +2038,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.142857	  0.285714	  0.000000	  0.571429	
   0.000000	  0.285714	  0.142857	  0.571429	
 
-MOTIF Transfac_M00162_Oct-1 M00162_Oct-1
+MOTIF Transfac_M00162_Oct-1 Oct-1
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.166667	  0.666667	  0.166667	  0.000000	
@@ -2056,7 +2056,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.000000	  0.500000	  0.000000	  0.500000	
   0.333333	  0.166667	  0.166667	  0.333333	
 
-MOTIF Transfac_M00172_AP-1 M00172_AP-1
+MOTIF Transfac_M00172_AP-1 AP-1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.352941	  0.117647	  0.470588	  0.058824	
@@ -2071,7 +2071,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.235294	  0.176471	  0.411765	  0.176471	
   0.352941	  0.176471	  0.058824	  0.411765	
 
-MOTIF Transfac_M00173_AP-1 M00173_AP-1
+MOTIF Transfac_M00173_AP-1 AP-1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.428571	  0.071429	  0.500000	  0.000000	
@@ -2086,7 +2086,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.142857	  0.142857	  0.500000	  0.214286	
   0.428571	  0.071429	  0.071429	  0.428571	
 
-MOTIF Transfac_M00174_AP-1 M00174_AP-1
+MOTIF Transfac_M00174_AP-1 AP-1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.250000	  0.214286	  0.410714	  0.125000	
@@ -2101,7 +2101,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.196429	  0.232143	  0.321429	  0.250000	
   0.196429	  0.267857	  0.178571	  0.357143	
 
-MOTIF Transfac_M00175_AP-4 M00175_AP-4
+MOTIF Transfac_M00175_AP-4 AP-4
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.285714	  0.428571	  0.285714	  0.000000	
@@ -2115,7 +2115,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.142857	  0.142857	  0.428571	  0.285714	
   0.142857	  0.142857	  0.285714	  0.428571	
 
-MOTIF Transfac_M00176_AP-4 M00176_AP-4
+MOTIF Transfac_M00176_AP-4 AP-4
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.200000	  0.600000	  0.200000	  0.000000	
@@ -2129,7 +2129,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  0.200000	  0.600000	  0.200000	
   0.200000	  0.200000	  0.200000	  0.400000	
 
-MOTIF Transfac_M00177_CREB M00177_CREB
+MOTIF Transfac_M00177_CREB CREB
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.066667	  0.266667	  0.466667	  0.200000	
@@ -2145,7 +2145,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.133333	  0.266667	  0.333333	  0.266667	
   0.133333	  0.333333	  0.400000	  0.133333	
 
-MOTIF Transfac_M00178_CREB M00178_CREB
+MOTIF Transfac_M00178_CREB CREB
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.100000	  0.300000	  0.350000	  0.250000	
@@ -2161,7 +2161,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.100000	  0.300000	  0.300000	  0.300000	
   0.150000	  0.450000	  0.300000	  0.100000	
 
-MOTIF Transfac_M00179_CRE-BP1 M00179_CRE-BP1
+MOTIF Transfac_M00179_CRE-BP1 CRE-BP1
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.285714	  0.285714	  0.428571	  0.000000	
@@ -2177,7 +2177,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.142857	  0.571429	  0.285714	  0.000000	
   0.142857	  0.285714	  0.142857	  0.428571	
 
-MOTIF Transfac_M00183_c-Myb M00183_c-Myb
+MOTIF Transfac_M00183_c-Myb c-Myb
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.222222	  0.333333	  0.333333	  0.111111	
@@ -2191,7 +2191,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.111111	  0.333333	  0.388889	  0.166667	
   0.055556	  0.555556	  0.166667	  0.222222	
 
-MOTIF Transfac_M00184_MyoD M00184_MyoD
+MOTIF Transfac_M00184_MyoD MyoD
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.357143	  0.142857	  0.214286	  0.285714	
@@ -2205,7 +2205,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.142857	  0.285714	  0.142857	  0.428571	
   0.000000	  0.642857	  0.000000	  0.357143	
 
-MOTIF Transfac_M00185_NF-Y M00185_NF-Y
+MOTIF Transfac_M00185_NF-Y NF-Y
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.100000	  0.150000	  0.200000	  0.550000	
@@ -2220,7 +2220,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.550000	  0.000000	  0.300000	  0.150000	
   0.050000	  0.400000	  0.350000	  0.200000	
 
-MOTIF Transfac_M00186_SRF M00186_SRF
+MOTIF Transfac_M00186_SRF SRF
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.095238	  0.190476	  0.523810	  0.190476	
@@ -2238,7 +2238,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.428571	  0.333333	  0.238095	  0.000000	
   0.190476	  0.428571	  0.238095	  0.142857	
 
-MOTIF Transfac_M00187_USF M00187_USF
+MOTIF Transfac_M00187_USF USF
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.083333	  0.250000	  0.583333	  0.083333	
@@ -2252,7 +2252,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.250000	  0.083333	  0.416667	  0.250000	
   0.000000	  0.583333	  0.166667	  0.250000	
 
-MOTIF Transfac_M00188_AP-1 M00188_AP-1
+MOTIF Transfac_M00188_AP-1 AP-1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.434783	  0.086957	  0.434783	  0.043478	
@@ -2267,7 +2267,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.130435	  0.260870	  0.434783	  0.173913	
   0.260870	  0.173913	  0.130435	  0.434783	
 
-MOTIF Transfac_M00189_AP-2 M00189_AP-2
+MOTIF Transfac_M00189_AP-2 AP-2
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.307692	  0.461538	  0.230769	  0.000000	
@@ -2283,7 +2283,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.230769	  0.692308	  0.076923	  0.000000	
   0.076923	  0.230769	  0.615385	  0.076923	
 
-MOTIF Transfac_M00190_C/EBP M00190_C/EBP
+MOTIF Transfac_M00190_C/EBP C/EBP
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.387097	  0.161290	  0.209677	  0.241935	
@@ -2301,7 +2301,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.258065	  0.129032	  0.274194	  0.338710	
   0.338710	  0.241935	  0.193548	  0.225806	
 
-MOTIF Transfac_M00191_ER M00191_ER
+MOTIF Transfac_M00191_ER ER
 
 letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.300000	  0.200000	  0.200000	  0.300000	
@@ -2324,7 +2324,7 @@ letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.350000	  0.050000	  0.400000	  0.200000	
   0.400000	  0.250000	  0.150000	  0.200000	
 
-MOTIF Transfac_M00192_GR M00192_GR
+MOTIF Transfac_M00192_GR GR
 
 letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.236842	  0.157895	  0.236842	  0.368421	
@@ -2347,7 +2347,7 @@ letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.315789	  0.210526	  0.157895	  0.315789	
   0.210526	  0.236842	  0.315789	  0.236842	
 
-MOTIF Transfac_M00193_NF-1 M00193_NF-1
+MOTIF Transfac_M00193_NF-1 NF-1
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.226667	  0.240000	  0.186667	  0.346667	
@@ -2369,7 +2369,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.360000	  0.160000	  0.280000	  0.200000	
   0.293333	  0.186667	  0.266667	  0.253333	
 
-MOTIF Transfac_M00194_NF-kappaB M00194_NF-kappaB
+MOTIF Transfac_M00194_NF-kappaB NF-kappaB
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.307692	  0.076923	  0.307692	  0.307692	
@@ -2387,7 +2387,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.153846	  0.307692	  0.230769	  0.307692	
   0.230769	  0.307692	  0.230769	  0.230769	
 
-MOTIF Transfac_M00195_Oct-1 M00195_Oct-1
+MOTIF Transfac_M00195_Oct-1 Oct-1
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.366667	  0.200000	  0.366667	  0.066667	
@@ -2406,7 +2406,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.633333	  0.233333	  0.100000	  0.033333	
   0.066667	  0.366667	  0.366667	  0.200000	
 
-MOTIF Transfac_M00196_Sp1 M00196_Sp1
+MOTIF Transfac_M00196_Sp1 Sp1
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.296296	  0.194444	  0.324074	  0.185185	
@@ -2423,7 +2423,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.027778	  0.509259	  0.194444	  0.268519	
   0.083333	  0.370370	  0.296296	  0.250000	
 
-MOTIF Transfac_M00199_AP-1 M00199_AP-1
+MOTIF Transfac_M00199_AP-1 AP-1
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.418341	  0.200873	  0.267249	  0.113537	
@@ -2436,7 +2436,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.087341	  0.119725	  0.579980	  0.212954	
 
-MOTIF Transfac_M00201_C/EBP M00201_C/EBP
+MOTIF Transfac_M00201_C/EBP C/EBP
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.278742	  0.187636	  0.330803	  0.202820	
@@ -2458,7 +2458,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.000000	  0.629067	  0.000000	  0.370933	
   0.511931	  0.097614	  0.197397	  0.193059	
 
-MOTIF Transfac_M00203_GATA-X M00203_GATA-X
+MOTIF Transfac_M00203_GATA-X GATA-X
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.432049	  0.000000	  0.270453	  0.297498	
@@ -2473,7 +2473,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.273452	  0.436542	  0.041692	  0.248314	
   0.293072	  0.250153	  0.099939	  0.356836	
 
-MOTIF Transfac_M00205_GR M00205_GR
+MOTIF Transfac_M00205_GR GR
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.000000	  0.102994	  0.610778	  0.286228	
@@ -2493,7 +2493,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.000000	  0.165812	  0.442735	  0.391453	
 
-MOTIF Transfac_M00206_HNF-1 M00206_HNF-1
+MOTIF Transfac_M00206_HNF-1 HNF-1
 
 letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.409193	  0.000000	  0.275785	  0.315022	
@@ -2514,7 +2514,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.640853	  0.076319	  0.000000	  0.282828	
   0.543210	  0.359147	  0.097643	  0.000000	
 
-MOTIF Transfac_M00208_NF-kappaB M00208_NF-kappaB
+MOTIF Transfac_M00208_NF-kappaB NF-kappaB
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.265297	  0.133333	  0.450228	  0.151142	
@@ -2530,7 +2530,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.034682	  0.965318	  0.000000	  0.000000	
   0.582481	  0.213873	  0.115607	  0.088039	
 
-MOTIF Transfac_M00209_NF-Y M00209_NF-Y
+MOTIF Transfac_M00209_NF-Y NF-Y
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.264498	  0.248939	  0.127298	  0.359264	
@@ -2548,7 +2548,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.240453	  0.374823	  0.384724	  0.000000	
   0.240453	  0.256011	  0.000000	  0.503536	
 
-MOTIF Transfac_M00210_OCT-x M00210_OCT-x
+MOTIF Transfac_M00210_OCT-x OCT-x
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.212389	  0.512291	  0.095379	  0.179941	
@@ -2565,7 +2565,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.656834	  0.000000	  0.247788	  0.095379	
   0.131890	  0.470472	  0.063976	  0.333661	
 
-MOTIF Transfac_M00214_SEF-1 M00214_SEF-1
+MOTIF Transfac_M00214_SEF-1 SEF-1
 
 letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.769988	  0.110701	  0.119311	  0.000000	
@@ -2588,7 +2588,7 @@ letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.189422	  0.434194	  0.000000	  0.376384	
 
-MOTIF Transfac_M00215_SRF M00215_SRF
+MOTIF Transfac_M00215_SRF SRF
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.265487	  0.000000	  0.476401	  0.258112	
@@ -2607,7 +2607,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.523328	  0.195956	  0.000000	  0.280715	
   0.113530	  0.193624	  0.360031	  0.332815	
 
-MOTIF Transfac_M00216_TATA M00216_TATA
+MOTIF Transfac_M00216_TATA TATA
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.224551	  0.291168	  0.185629	  0.298653	
@@ -2621,7 +2621,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.293413	  0.101796	  0.457335	  0.147455	
 
-MOTIF Transfac_M00217_USF M00217_USF
+MOTIF Transfac_M00217_USF USF
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.179628	  0.439211	  0.102957	  0.278204	
@@ -2633,7 +2633,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.249191	  0.389428	  0.101402	  0.259978	
 
-MOTIF Transfac_M00220_SREBP-1 M00220_SREBP-1
+MOTIF Transfac_M00220_SREBP-1 SREBP-1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.133333	  0.333333	  0.366667	  0.166667	
@@ -2648,7 +2648,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.777778	  0.111111	  0.037037	  0.074074	
   0.066667	  0.400000	  0.166667	  0.366667	
 
-MOTIF Transfac_M00221_SREBP-1 M00221_SREBP-1
+MOTIF Transfac_M00221_SREBP-1 SREBP-1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.000000	  0.142857	  0.428571	  0.428571	
@@ -2683,7 +2683,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.206897	  0.172414	  0.103448	  0.517241	
   0.172414	  0.172414	  0.137931	  0.517241	
 
-MOTIF Transfac_M00223_STATx M00223_STATx
+MOTIF Transfac_M00223_STATx STATx
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -2696,7 +2696,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.928571	  0.071429	  0.000000	  0.000000	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF Transfac_M00224_STAT1 M00224_STAT1
+MOTIF Transfac_M00224_STAT1 STAT1
 
 letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.080000	  0.180000	  0.419000	  0.321000	
@@ -2721,7 +2721,7 @@ letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.125125	  0.367367	  0.492492	  0.015015	
   0.317682	  0.125874	  0.396603	  0.159840	
 
-MOTIF Transfac_M00225_STAT3 M00225_STAT3
+MOTIF Transfac_M00225_STAT3 STAT3
 
 letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.161161	  0.203203	  0.307307	  0.328328	
@@ -2746,7 +2746,7 @@ letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.273000	  0.182000	  0.224000	  0.321000	
   0.196000	  0.243000	  0.160000	  0.401000	
 
-MOTIF Transfac_M00228_VBP M00228_VBP
+MOTIF Transfac_M00228_VBP VBP
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.222222	  0.111111	  0.611111	  0.055556	
@@ -2760,7 +2760,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.909091	  0.000000	  0.000000	  0.090909	
   0.090909	  0.090909	  0.272727	  0.545455	
 
-MOTIF Transfac_M00231_MEF-2 M00231_MEF-2
+MOTIF Transfac_M00231_MEF-2 MEF-2
 
 letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
   0.050000	  0.280000	  0.250000	  0.420000	
@@ -2786,7 +2786,7 @@ letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
   0.300000	  0.340000	  0.130000	  0.230000	
   0.230000	  0.230000	  0.220000	  0.320000	
 
-MOTIF Transfac_M00232_MEF-2 M00232_MEF-2
+MOTIF Transfac_M00232_MEF-2 MEF-2
 
 letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
   0.220000	  0.220000	  0.240000	  0.320000	
@@ -2812,7 +2812,7 @@ letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
   0.300000	  0.280000	  0.180000	  0.240000	
   0.300000	  0.280000	  0.230000	  0.190000	
 
-MOTIF Transfac_M00233_MEF-2 M00233_MEF-2
+MOTIF Transfac_M00233_MEF-2 MEF-2
 
 letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
   0.410000	  0.270000	  0.150000	  0.170000	
@@ -2858,7 +2858,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.330000	  0.500000	  0.000000	  0.170000	
   0.200000	  0.400000	  0.400000	  0.000000	
 
-MOTIF Transfac_M00236_Arnt M00236_Arnt
+MOTIF Transfac_M00236_Arnt Arnt
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.247525	  0.128713	  0.495050	  0.128713	
@@ -2901,7 +2901,7 @@ letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.000000	  0.720000	  0.160000	  0.120000	
   0.000000	  1.000000	  0.000000	  0.000000	
 
-MOTIF Transfac_M00240_Nkx2-5 M00240_Nkx2-5
+MOTIF Transfac_M00240_Nkx2-5 Nkx2-5
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.142857	  0.000000	  0.142857	  0.714286	
@@ -2912,7 +2912,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.142857	  0.000000	  0.857143	  0.000000	
 
-MOTIF Transfac_M00241_Nkx2-5 M00241_Nkx2-5
+MOTIF Transfac_M00241_Nkx2-5 Nkx2-5
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.800000	  0.200000	  0.000000	
@@ -2948,7 +2948,7 @@ letter-probability matrix: alength= 4 w= 20 nsites= 20 E= 0
   0.000000	  0.857143	  0.142857	  0.000000	
   0.857143	  0.000000	  0.000000	  0.142857	
 
-MOTIF Transfac_M00243_Egr1 M00243_Egr1
+MOTIF Transfac_M00243_Egr1 Egr1
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.454545	  0.060939	  0.060939	  0.423576	
@@ -2964,7 +2964,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.000000	  0.000000	  0.423000	  0.577000	
 
-MOTIF Transfac_M00244_NGFI-C M00244_NGFI-C
+MOTIF Transfac_M00244_NGFI-C NGFI-C
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.526527	  0.000000	  0.105105	  0.368368	
@@ -2980,7 +2980,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.020000	  0.000000	  0.700000	  0.280000	
 
-MOTIF Transfac_M00245_Egr-3 M00245_Egr-3
+MOTIF Transfac_M00245_Egr-3 Egr-3
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.303000	  0.273000	  0.273000	  0.151000	
@@ -2996,7 +2996,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.020000	  0.000000	  0.340000	  0.640000	
 
-MOTIF Transfac_M00246_Egr-2 M00246_Egr-2
+MOTIF Transfac_M00246_Egr-2 Egr-2
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.318000	  0.091000	  0.250000	  0.341000	
@@ -3012,7 +3012,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.012987	  0.000000	  0.974026	  0.012987	
   0.025974	  0.025974	  0.448551	  0.499500	
 
-MOTIF Transfac_M00248_Oct-1 M00248_Oct-1
+MOTIF Transfac_M00248_Oct-1 Oct-1
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.231579	  0.063158	  0.115789	  0.589474	
@@ -3045,7 +3045,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  0.666667	  0.153846	  0.179487	
   0.025641	  0.692308	  0.102564	  0.179487	
 
-MOTIF Transfac_M00250_Gfi-1 M00250_Gfi-1
+MOTIF Transfac_M00250_Gfi-1 Gfi-1
 
 letter-probability matrix: alength= 4 w= 24 nsites= 20 E= 0
   0.400000	  0.200000	  0.200000	  0.200000	
@@ -3073,7 +3073,7 @@ letter-probability matrix: alength= 4 w= 24 nsites= 20 E= 0
   0.304348	  0.347826	  0.130435	  0.217391	
   0.190476	  0.333333	  0.238095	  0.238095	
 
-MOTIF Transfac_M00251_XBP-1 M00251_XBP-1
+MOTIF Transfac_M00251_XBP-1 XBP-1
 
 letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.424242	  0.030303	  0.303030	  0.242424	
@@ -3094,7 +3094,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.515152	  0.000000	  0.060606	  0.424242	
   0.181818	  0.060606	  0.242424	  0.515152	
 
-MOTIF Transfac_M00252_TATA M00252_TATA
+MOTIF Transfac_M00252_TATA TATA
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.156812	  0.372751	  0.390746	  0.079692	
@@ -3113,7 +3113,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.174807	  0.275064	  0.357326	  0.192802	
   0.197943	  0.259640	  0.359897	  0.182519	
 
-MOTIF Transfac_M00256_NRSF M00256_NRSF
+MOTIF Transfac_M00256_NRSF NRSF
 
 letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.071429	  0.071429	  0.107143	  0.750000	
@@ -3138,7 +3138,7 @@ letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.071429	  0.571429	  0.285714	  0.071429	
   0.142857	  0.785714	  0.000000	  0.071429	
 
-MOTIF Transfac_M00257_RREB-1 M00257_RREB-1
+MOTIF Transfac_M00257_RREB-1 RREB-1
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.272727	  0.727273	  0.000000	  0.000000	
@@ -3156,7 +3156,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.272727	  0.727273	  0.000000	  0.000000	
   0.181818	  0.636364	  0.090909	  0.090909	
 
-MOTIF Transfac_M00258_ISRE M00258_ISRE
+MOTIF Transfac_M00258_ISRE ISRE
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.076923	  0.615385	  0.153846	  0.153846	
@@ -3175,7 +3175,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.153846	  0.538462	  0.153846	  0.153846	
   0.076923	  0.615385	  0.230769	  0.076923	
 
-MOTIF Transfac_M00260_HLF M00260_HLF
+MOTIF Transfac_M00260_HLF HLF
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.333333	  0.000000	  0.666667	  0.000000	
@@ -3189,7 +3189,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.944444	  0.000000	  0.000000	  0.055556	
   0.111111	  0.166667	  0.055556	  0.666667	
 
-MOTIF Transfac_M00261_Olf-1 M00261_Olf-1
+MOTIF Transfac_M00261_Olf-1 Olf-1
 
 letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
   0.250000	  0.375000	  0.250000	  0.125000	
@@ -3215,7 +3215,7 @@ letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
   0.250000	  0.125000	  0.625000	  0.000000	
   0.125000	  0.250000	  0.250000	  0.375000	
 
-MOTIF Transfac_M00262_Staf M00262_Staf
+MOTIF Transfac_M00262_Staf Staf
 
 letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
   0.273000	  0.152000	  0.242000	  0.333000	
@@ -3241,7 +3241,7 @@ letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
   0.214000	  0.357000	  0.143000	  0.286000	
   0.077000	  0.385000	  0.154000	  0.384000	
 
-MOTIF Transfac_M00264_Staf M00264_Staf
+MOTIF Transfac_M00264_Staf Staf
 
 letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.500000	  0.300000	  0.100000	  0.100000	
@@ -3266,7 +3266,7 @@ letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.333333	  0.111111	  0.444444	  0.111111	
   0.500000	  0.250000	  0.250000	  0.000000	
 
-MOTIF Transfac_M00267_XFD-1 M00267_XFD-1
+MOTIF Transfac_M00267_XFD-1 XFD-1
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.166667	  0.500000	  0.000000	  0.333333	
@@ -3284,7 +3284,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.333333	  0.000000	  0.500000	  0.166667	
   0.000000	  0.500000	  0.166667	  0.333333	
 
-MOTIF Transfac_M00268_XFD-2 M00268_XFD-2
+MOTIF Transfac_M00268_XFD-2 XFD-2
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.500000	  0.166667	  0.000000	  0.333333	
@@ -3302,7 +3302,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.166667	  0.333333	  0.333333	  0.166667	
   0.500000	  0.000000	  0.333333	  0.166667	
 
-MOTIF Transfac_M00269_XFD-3 M00269_XFD-3
+MOTIF Transfac_M00269_XFD-3 XFD-3
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.333333	  0.000000	  0.000000	  0.666667	
@@ -3320,7 +3320,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.500000	  0.333333	  0.000000	  0.166667	
   0.500000	  0.000000	  0.166667	  0.333333	
 
-MOTIF Transfac_M00271_AML-1a M00271_AML-1a
+MOTIF Transfac_M00271_AML-1a AML-1a
 
 letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.087719	  0.017544	  0.017544	  0.877193	
@@ -3330,7 +3330,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.017544	  0.000000	  0.982456	  0.000000	
   0.017544	  0.052632	  0.000000	  0.929825	
 
-MOTIF Transfac_M00272_p53 M00272_p53
+MOTIF Transfac_M00272_p53 p53
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.404040	  0.131313	  0.232323	  0.232323	
@@ -3344,7 +3344,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  0.693878	  0.000000	  0.306122	
   0.122449	  0.357143	  0.030612	  0.489796	
 
-MOTIF Transfac_M00277_Lmo2_complex M00277_Lmo2_complex
+MOTIF Transfac_M00277_Lmo2_complex Lmo2_complex
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.100000	  0.533333	  0.266667	  0.100000	
@@ -3360,7 +3360,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.344828	  0.172414	  0.137931	  0.344828	
   0.096774	  0.258065	  0.451613	  0.193548	
 
-MOTIF Transfac_M00278_Lmo2_complex M00278_Lmo2_complex
+MOTIF Transfac_M00278_Lmo2_complex Lmo2_complex
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.166667	  0.466667	  0.200000	  0.166667	
@@ -3373,7 +3373,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.032258	  0.354839	  0.483871	  0.129032	
   0.096774	  0.258065	  0.612903	  0.032258	
 
-MOTIF Transfac_M00279_MIF-1 M00279_MIF-1
+MOTIF Transfac_M00279_MIF-1 MIF-1
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.166667	  0.333333	  0.166667	  0.333333	
@@ -3395,7 +3395,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.000000	  0.166667	  0.666667	  0.166667	
   0.000000	  0.333333	  0.500000	  0.166667	
 
-MOTIF Transfac_M00280_RFX1 M00280_RFX1
+MOTIF Transfac_M00280_RFX1 RFX1
 
 letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.208333	  0.208333	  0.250000	  0.333333	
@@ -3416,7 +3416,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.354839	  0.290323	  0.225806	  0.129032	
   0.379310	  0.103448	  0.172414	  0.344828	
 
-MOTIF Transfac_M00281_RFX1 M00281_RFX1
+MOTIF Transfac_M00281_RFX1 RFX1
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.208333	  0.208333	  0.250000	  0.333333	
@@ -3464,7 +3464,7 @@ letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
   0.214286	  0.214286	  0.071429	  0.500000	
   0.076923	  0.153846	  0.615385	  0.153846	
 
-MOTIF Transfac_M00285_TCF11 M00285_TCF11
+MOTIF Transfac_M00285_TCF11 TCF11
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.096774	  0.064516	  0.838710	  0.000000	
@@ -3481,7 +3481,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.266667	  0.266667	  0.233333	  0.233333	
   0.172414	  0.275862	  0.344828	  0.206897	
 
-MOTIF Transfac_M00287_NF-Y M00287_NF-Y
+MOTIF Transfac_M00287_NF-Y NF-Y
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.320988	  0.290123	  0.253086	  0.135802	
@@ -3501,7 +3501,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.286585	  0.067073	  0.439024	  0.207317	
   0.209877	  0.327160	  0.246914	  0.216049	
 
-MOTIF Transfac_M00289_HFH-3 M00289_HFH-3
+MOTIF Transfac_M00289_HFH-3 HFH-3
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.200000	  0.030000	  0.450000	  0.320000	
@@ -3518,7 +3518,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.070000	  0.030000	  0.130000	  0.770000	
   0.550000	  0.060000	  0.160000	  0.230000	
 
-MOTIF Transfac_M00290_Freac-2 M00290_Freac-2
+MOTIF Transfac_M00290_Freac-2 Freac-2
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.037037	  0.370370	  0.259259	  0.333333	
@@ -3538,7 +3538,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.333333	  0.407407	  0.148148	  0.111111	
   0.222222	  0.333333	  0.259259	  0.185185	
 
-MOTIF Transfac_M00291_Freac-3 M00291_Freac-3
+MOTIF Transfac_M00291_Freac-3 Freac-3
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.250000	  0.250000	  0.312500	  0.187500	
@@ -3558,7 +3558,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.000000	  0.687500	  0.250000	  0.062500	
   0.687500	  0.125000	  0.187500	  0.000000	
 
-MOTIF Transfac_M00292_Freac-4 M00292_Freac-4
+MOTIF Transfac_M00292_Freac-4 Freac-4
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.000000	  0.700000	  0.300000	  0.000000	
@@ -3578,7 +3578,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.200000	  0.200000	  0.550000	  0.050000	
   0.150000	  0.300000	  0.400000	  0.150000	
 
-MOTIF Transfac_M00293_Freac-7 M00293_Freac-7
+MOTIF Transfac_M00293_Freac-7 Freac-7
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.304348	  0.043478	  0.173913	  0.478261	
@@ -3598,7 +3598,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.434783	  0.130435	  0.217391	  0.217391	
   0.304348	  0.173913	  0.173913	  0.347826	
 
-MOTIF Transfac_M00294_HFH-8 M00294_HFH-8
+MOTIF Transfac_M00294_HFH-8 HFH-8
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.270833	  0.375000	  0.229167	  0.125000	
@@ -3615,7 +3615,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.104167	  0.291667	  0.020833	  0.583333	
   0.375000	  0.083333	  0.458333	  0.083333	
 
-MOTIF Transfac_M00302_NF-AT M00302_NF-AT
+MOTIF Transfac_M00302_NF-AT NF-AT
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.230769	  0.423077	  0.076923	  0.269231	
@@ -3670,7 +3670,7 @@ letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.000000	  0.833333	  0.166667	  0.000000	
   0.000000	  1.000000	  0.000000	  0.000000	
 
-MOTIF Transfac_M00326_Pax-1 M00326_Pax-1
+MOTIF Transfac_M00326_Pax-1 Pax-1
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
@@ -3692,7 +3692,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.000000	  0.000000	  0.000000	  1.000000	
 
-MOTIF Transfac_M00327_Pax-3 M00327_Pax-3
+MOTIF Transfac_M00327_Pax-3 Pax-3
 
 letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.411765	  0.098039	  0.196078	  0.294118	
@@ -3717,7 +3717,7 @@ letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.254902	  0.196078	  0.294118	  0.254902	
   0.313725	  0.156863	  0.176471	  0.352941	
 
-MOTIF Transfac_M00328_Pax-8 M00328_Pax-8
+MOTIF Transfac_M00328_Pax-8 Pax-8
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.391304	  0.086957	  0.173913	  0.347826	
@@ -3739,7 +3739,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.217391	  0.217391	  0.130435	  0.434783	
   0.304348	  0.304348	  0.260870	  0.130435	
 
-MOTIF Transfac_M00329_Pax-9 M00329_Pax-9
+MOTIF Transfac_M00329_Pax-9 Pax-9
 
 letter-probability matrix: alength= 4 w= 24 nsites= 20 E= 0
   0.400000	  0.000000	  0.600000	  0.000000	
@@ -3767,7 +3767,7 @@ letter-probability matrix: alength= 4 w= 24 nsites= 20 E= 0
   0.000000	  0.750000	  0.250000	  0.000000	
   0.250000	  0.500000	  0.000000	  0.250000	
 
-MOTIF Transfac_M00332_Whn M00332_Whn
+MOTIF Transfac_M00332_Whn Whn
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.590000	  0.100000	  0.100000	  0.210000	
@@ -3782,7 +3782,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.360000	  0.130000	  0.130000	  0.380000	
   0.150000	  0.170000	  0.230000	  0.450000	
 
-MOTIF Transfac_M00333_ZF5 M00333_ZF5
+MOTIF Transfac_M00333_ZF5 ZF5
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.176471	  0.352941	  0.176471	  0.294118	
@@ -3799,7 +3799,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.352941	  0.000000	  0.058824	  0.588235	
   0.294118	  0.117647	  0.176471	  0.411765	
 
-MOTIF Transfac_M00338_ATF M00338_ATF
+MOTIF Transfac_M00338_ATF ATF
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.192368	  0.193146	  0.368380	  0.246106	
@@ -3815,7 +3815,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.126947	  0.442368	  0.074766	  0.355919	
   0.052140	  0.376654	  0.519066	  0.052140	
 
-MOTIF Transfac_M00339_c-Ets-1 M00339_c-Ets-1
+MOTIF Transfac_M00339_c-Ets-1 c-Ets-1
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.400563	  0.227955	  0.371482	  0.000000	
@@ -3834,7 +3834,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.175427	  0.265529	  0.425256	  0.133788	
   0.208191	  0.403413	  0.349488	  0.038908	
 
-MOTIF Transfac_M00340_c-Ets-2 M00340_c-Ets-2
+MOTIF Transfac_M00340_c-Ets-2 c-Ets-2
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.234043	  0.000000	  0.426862	  0.339096	
@@ -3852,7 +3852,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.000000	  0.238032	  0.343085	  0.418883	
   0.221780	  0.124834	  0.000000	  0.653386	
 
-MOTIF Transfac_M00341_GABP M00341_GABP
+MOTIF Transfac_M00341_GABP GABP
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.432933	  0.271538	  0.295529	  0.000000	
@@ -3868,7 +3868,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.653217	  0.229008	  0.117775	
   0.480916	  0.090513	  0.323882	  0.104689	
 
-MOTIF Transfac_M00342_Oct-1 M00342_Oct-1
+MOTIF Transfac_M00342_Oct-1 Oct-1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.197496	  0.240711	  0.027060	  0.534733	
@@ -3882,7 +3882,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.081580	  0.037283	  0.089332	  0.791805	
   0.250591	  0.338061	  0.211190	  0.200158	
 
-MOTIF Transfac_M00346_GATA-1 M00346_GATA-1
+MOTIF Transfac_M00346_GATA-1 GATA-1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.300000	  0.200000	  0.400000	  0.100000	
@@ -3896,7 +3896,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.200000	  0.600000	  0.200000	  0.000000	
   0.600000	  0.200000	  0.100000	  0.100000	
 
-MOTIF Transfac_M00347_GATA-1 M00347_GATA-1
+MOTIF Transfac_M00347_GATA-1 GATA-1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.466667	  0.400000	  0.066667	  0.066667	
@@ -3910,7 +3910,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.200000	  0.266667	  0.466667	  0.066667	
   0.600000	  0.066667	  0.333333	  0.000000	
 
-MOTIF Transfac_M00348_GATA-2 M00348_GATA-2
+MOTIF Transfac_M00348_GATA-2 GATA-2
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.483871	  0.161290	  0.225806	  0.129032	
@@ -3924,7 +3924,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.129032	  0.290323	  0.548387	  0.032258	
   0.548387	  0.096774	  0.225806	  0.129032	
 
-MOTIF Transfac_M00349_GATA-2 M00349_GATA-2
+MOTIF Transfac_M00349_GATA-2 GATA-2
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.500000	  0.222222	  0.111111	  0.166667	
@@ -3938,7 +3938,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.111111	  0.222222	  0.444444	  0.222222	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF Transfac_M00350_GATA-3 M00350_GATA-3
+MOTIF Transfac_M00350_GATA-3 GATA-3
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.487805	  0.170732	  0.195122	  0.146341	
@@ -3952,7 +3952,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.146341	  0.195122	  0.365854	  0.292683	
   0.658537	  0.048780	  0.146341	  0.146341	
 
-MOTIF Transfac_M00351_GATA-3 M00351_GATA-3
+MOTIF Transfac_M00351_GATA-3 GATA-3
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.653846	  0.076923	  0.153846	  0.115385	
@@ -3966,7 +3966,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.307692	  0.000000	  0.192308	  0.500000	
   0.807692	  0.076923	  0.038462	  0.076923	
 
-MOTIF Transfac_M00360_Pax-3 M00360_Pax-3
+MOTIF Transfac_M00360_Pax-3 Pax-3
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -3983,7 +3983,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.346154	  0.384615	  0.000000	  0.269231	
   0.500000	  0.307692	  0.115385	  0.076923	
 
-MOTIF Transfac_M00373_Pax-4 M00373_Pax-4
+MOTIF Transfac_M00373_Pax-4 Pax-4
 
 letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.153846	  0.269231	  0.307692	  0.269231	
@@ -4008,7 +4008,7 @@ letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.074074	  0.481481	  0.148148	  0.296296	
   0.240000	  0.360000	  0.240000	  0.160000	
 
-MOTIF Transfac_M00377_Pax-4 M00377_Pax-4
+MOTIF Transfac_M00377_Pax-4 Pax-4
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.266667	  0.133333	  0.466667	  0.133333	
@@ -4023,7 +4023,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.250000	  0.450000	  0.250000	  0.050000	
   0.157895	  0.473684	  0.315789	  0.052632	
 
-MOTIF Transfac_M00378_Pax-4 M00378_Pax-4
+MOTIF Transfac_M00378_Pax-4 Pax-4
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.352941	  0.235294	  0.235294	  0.176471	
@@ -4039,7 +4039,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.058824	  0.705882	  0.176471	  0.058824	
   0.000000	  0.375000	  0.375000	  0.250000	
 
-MOTIF Transfac_M00380_Pax-4 M00380_Pax-4
+MOTIF Transfac_M00380_Pax-4 Pax-4
 
 letter-probability matrix: alength= 4 w= 30 nsites= 20 E= 0
   0.600000	  0.066667	  0.333333	  0.000000	
@@ -4073,7 +4073,7 @@ letter-probability matrix: alength= 4 w= 30 nsites= 20 E= 0
   0.083333	  0.666667	  0.166667	  0.083333	
   0.000000	  0.529412	  0.235294	  0.235294	
 
-MOTIF Transfac_M00394_Msx-1 M00394_Msx-1
+MOTIF Transfac_M00394_Msx-1 Msx-1
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.153846	  0.615385	  0.076923	  0.153846	
@@ -4086,7 +4086,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  0.076923	  0.076923	  0.846154	
   0.076923	  0.076923	  0.769231	  0.076923	
 
-MOTIF Transfac_M00395_HOXA3 M00395_HOXA3
+MOTIF Transfac_M00395_HOXA3 HOXA3
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.071429	  0.642857	  0.214286	  0.071429	
@@ -4099,7 +4099,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.071429	  0.071429	  0.500000	  0.357143	
   0.071429	  0.214286	  0.357143	  0.357143	
 
-MOTIF Transfac_M00396_En-1 M00396_En-1
+MOTIF Transfac_M00396_En-1 En-1
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.300000	  0.000000	  0.700000	  0.000000	
@@ -4110,7 +4110,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.100000	  0.200000	  0.300000	  0.400000	
   0.100000	  0.200000	  0.500000	  0.200000	
 
-MOTIF Transfac_M00403_aMEF-2 M00403_aMEF-2
+MOTIF Transfac_M00403_aMEF-2 aMEF-2
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.250000	  0.500000	  0.250000	  0.000000	
@@ -4132,7 +4132,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.333333	  0.500000	  0.000000	  0.166667	
   0.500000	  0.333333	  0.000000	  0.166667	
 
-MOTIF Transfac_M00405_MEF-2 M00405_MEF-2
+MOTIF Transfac_M00405_MEF-2 MEF-2
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.222222	  0.555556	  0.222222	  0.000000	
@@ -4152,7 +4152,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.111111	  0.666667	  0.111111	  0.111111	
   0.111111	  0.555556	  0.000000	  0.333333	
 
-MOTIF Transfac_M00406_MEF-2 M00406_MEF-2
+MOTIF Transfac_M00406_MEF-2 MEF-2
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.090909	  0.454545	  0.363636	  0.090909	
@@ -4172,7 +4172,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.090909	  0.727273	  0.000000	  0.181818	
   0.272727	  0.272727	  0.000000	  0.454545	
 
-MOTIF Transfac_M00407_RSRFC4 M00407_RSRFC4
+MOTIF Transfac_M00407_RSRFC4 RSRFC4
 
 letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.680000	  0.120000	  0.080000	  0.120000	
@@ -4193,7 +4193,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.166667	  0.375000	  0.041667	  0.416667	
   0.166667	  0.208333	  0.333333	  0.291667	
 
-MOTIF Transfac_M00410_SOX-9 M00410_SOX-9
+MOTIF Transfac_M00410_SOX-9 SOX-9
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.287671	  0.246575	  0.150685	  0.315068	
@@ -4211,7 +4211,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.301370	  0.136986	  0.397260	  0.164384	
   0.315068	  0.191781	  0.219178	  0.273973	
 
-MOTIF Transfac_M00411_HNF-4alpha1 M00411_HNF-4alpha1
+MOTIF Transfac_M00411_HNF-4alpha1 HNF-4alpha1
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.277778	  0.166667	  0.444444	  0.111111	
@@ -4230,7 +4230,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.684211	  0.000000	  0.315789	  0.000000	
   0.111111	  0.333333	  0.277778	  0.277778	
 
-MOTIF Transfac_M00412_AREB6 M00412_AREB6
+MOTIF Transfac_M00412_AREB6 AREB6
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.250000	  0.250000	  0.166667	  0.333333	
@@ -4247,7 +4247,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.250000	  0.250000	  0.500000	  0.000000	
   0.083333	  0.250000	  0.083333	  0.583333	
 
-MOTIF Transfac_M00413_AREB6 M00413_AREB6
+MOTIF Transfac_M00413_AREB6 AREB6
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.411765	  0.117647	  0.117647	  0.352941	
@@ -4263,7 +4263,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.352941	  0.235294	  0.176471	  0.235294	
   0.176471	  0.470588	  0.176471	  0.176471	
 
-MOTIF Transfac_M00414_AREB6 M00414_AREB6
+MOTIF Transfac_M00414_AREB6 AREB6
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.250000	  0.416667	  0.333333	  0.000000	
@@ -4279,7 +4279,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.250000	  0.083333	  0.416667	  0.250000	
   0.250000	  0.500000	  0.166667	  0.083333	
 
-MOTIF Transfac_M00415_AREB6 M00415_AREB6
+MOTIF Transfac_M00415_AREB6 AREB6
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.250000	  0.500000	  0.166667	  0.083333	
@@ -4292,7 +4292,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.333333	  0.166667	  0.166667	  0.333333	
   0.250000	  0.166667	  0.333333	  0.250000	
 
-MOTIF Transfac_M00416_Cart-1 M00416_Cart-1
+MOTIF Transfac_M00416_Cart-1 Cart-1
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.416667	  0.333333	  0.125000	  0.125000	
@@ -4314,7 +4314,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.086957	  0.521739	  0.130435	  0.260870	
   0.250000	  0.150000	  0.300000	  0.300000	
 
-MOTIF Transfac_M00418_TGIF M00418_TGIF
+MOTIF Transfac_M00418_TGIF TGIF
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.875000	  0.000000	  0.000000	  0.125000	
@@ -4329,7 +4329,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.333333	  0.083333	  0.250000	  0.333333	
   0.583333	  0.000000	  0.166667	  0.250000	
 
-MOTIF Transfac_M00419_MEIS1 M00419_MEIS1
+MOTIF Transfac_M00419_MEIS1 MEIS1
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.214286	  0.357143	  0.142857	  0.285714	
@@ -4381,7 +4381,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.285714	  0.000000	  0.571429	  0.142857	
   0.357143	  0.142857	  0.500000	  0.000000	
 
-MOTIF Transfac_M00422_FOXJ2 M00422_FOXJ2
+MOTIF Transfac_M00422_FOXJ2 FOXJ2
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.341463	  0.243902	  0.048780	  0.365854	
@@ -4403,7 +4403,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.390244	  0.268293	  0.170732	  0.170732	
   0.439024	  0.121951	  0.146341	  0.292683	
 
-MOTIF Transfac_M00423_FOXJ2 M00423_FOXJ2
+MOTIF Transfac_M00423_FOXJ2 FOXJ2
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.600000	  0.200000	  0.200000	  0.000000	
@@ -4421,7 +4421,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.166667	  0.000000	  0.333333	  0.500000	
   0.166667	  0.166667	  0.166667	  0.500000	
 
-MOTIF Transfac_M00424_NKX6-1 M00424_NKX6-1
+MOTIF Transfac_M00424_NKX6-1 NKX6-1
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.176471	  0.235294	  0.058824	  0.529412	
@@ -4438,7 +4438,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.294118	  0.058824	  0.000000	  0.647059	
   0.117647	  0.058824	  0.058824	  0.764706	
 
-MOTIF Transfac_M00425_E2F M00425_E2F
+MOTIF Transfac_M00425_E2F E2F
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.111111	  0.111111	  0.000000	  0.777778	
@@ -4450,7 +4450,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.000000	  0.777778	  0.222222	  0.000000	
 
-MOTIF Transfac_M00426_E2F M00426_E2F
+MOTIF Transfac_M00426_E2F E2F
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.052632	  0.105263	  0.000000	  0.842105	
@@ -4462,7 +4462,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.105263	  0.894737	  0.000000	
   0.000000	  0.578947	  0.368421	  0.052632	
 
-MOTIF Transfac_M00427_E2F M00427_E2F
+MOTIF Transfac_M00427_E2F E2F
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.045455	  0.136364	  0.045455	  0.772727	
@@ -4474,7 +4474,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.090909	  0.909091	  0.000000	
   0.000000	  0.590909	  0.363636	  0.045455	
 
-MOTIF Transfac_M00428_E2F-1 M00428_E2F-1
+MOTIF Transfac_M00428_E2F-1 E2F-1
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.076923	  0.307692	  0.230769	  0.384615	
@@ -4486,7 +4486,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.230769	  0.769231	  0.000000	
   0.000000	  0.615385	  0.307692	  0.076923	
 
-MOTIF Transfac_M00430_E2F-1 M00430_E2F-1
+MOTIF Transfac_M00430_E2F-1 E2F-1
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.200000	  0.200000	  0.200000	  0.400000	
@@ -4498,7 +4498,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.000000	  0.200000	  0.800000	  0.000000	
 
-MOTIF Transfac_M00431_E2F-1 M00431_E2F-1
+MOTIF Transfac_M00431_E2F-1 E2F-1
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.074074	  0.222222	  0.148148	  0.555556	
@@ -4510,7 +4510,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.111111	  0.888889	  0.000000	
   0.000000	  0.629630	  0.333333	  0.037037	
 
-MOTIF Transfac_M00432_TTF1 M00432_TTF1
+MOTIF Transfac_M00432_TTF1 TTF1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.714286	  0.000000	  0.000000	  0.285714	
@@ -4524,7 +4524,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.333333	  0.000000	  0.500000	  0.166667	
   0.000000	  0.000000	  0.333333	  0.666667	
 
-MOTIF Transfac_M00433_Hmx3 M00433_Hmx3
+MOTIF Transfac_M00433_Hmx3 Hmx3
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
@@ -4538,7 +4538,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.090909	  0.000000	  0.000000	  0.909091	
   0.090909	  0.000000	  0.909091	  0.000000	
 
-MOTIF Transfac_M00436_IPF1 M00436_IPF1
+MOTIF Transfac_M00436_IPF1 IPF1
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.285714	  0.000000	  0.714286	  0.000000	
@@ -4554,7 +4554,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.166667	  0.666667	  0.000000	  0.166667	
   0.333333	  0.500000	  0.000000	  0.166667	
 
-MOTIF Transfac_M00437_CHX10 M00437_CHX10
+MOTIF Transfac_M00437_CHX10 CHX10
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.250000	  0.187500	  0.312500	  0.250000	
@@ -4572,7 +4572,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.315789	  0.315789	  0.157895	  0.210526	
   0.388889	  0.111111	  0.222222	  0.277778	
 
-MOTIF Transfac_M00444_VDR M00444_VDR
+MOTIF Transfac_M00444_VDR VDR
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.083333	  0.000000	  0.916667	  0.000000	
@@ -4591,7 +4591,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.000000	  0.416667	  0.500000	  0.083333	
   0.666667	  0.083333	  0.083333	  0.166667	
 
-MOTIF Transfac_M00445_Xvent-1 M00445_Xvent-1
+MOTIF Transfac_M00445_Xvent-1 Xvent-1
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.125000	  0.375000	  0.500000	  0.000000	
@@ -4608,7 +4608,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  0.500000	  0.333333	  0.166667	
   0.000000	  0.500000	  0.166667	  0.333333	
 
-MOTIF Transfac_M00446_Spz1 M00446_Spz1
+MOTIF Transfac_M00446_Spz1 Spz1
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.285714	  0.000000	  0.428571	  0.285714	
@@ -4627,7 +4627,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.136364	  0.272727	  0.409091	  0.181818	
   0.181818	  0.409091	  0.318182	  0.090909	
 
-MOTIF Transfac_M00447_AR M00447_AR
+MOTIF Transfac_M00447_AR AR
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.857143	  0.000000	  0.142857	  0.000000	
@@ -4646,7 +4646,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
   0.142857	  0.000000	  0.000000	  0.857143	
 
-MOTIF Transfac_M00448_Zic1 M00448_Zic1
+MOTIF Transfac_M00448_Zic1 Zic1
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.033333	  0.200000	  0.333333	  0.433333	
@@ -4659,7 +4659,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.033333	  0.166667	  0.133333	  0.666667	
   0.166667	  0.666667	  0.100000	  0.066667	
 
-MOTIF Transfac_M00449_Zic2 M00449_Zic2
+MOTIF Transfac_M00449_Zic2 Zic2
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.200000	  0.033333	  0.433333	  0.333333	
@@ -4672,7 +4672,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.033333	  0.066667	  0.100000	  0.800000	
   0.100000	  0.566667	  0.200000	  0.133333	
 
-MOTIF Transfac_M00450_Zic3 M00450_Zic3
+MOTIF Transfac_M00450_Zic3 Zic3
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.171429	  0.257143	  0.142857	  0.428571	
@@ -4685,7 +4685,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.085714	  0.200000	  0.085714	  0.628571	
   0.085714	  0.628571	  0.142857	  0.142857	
 
-MOTIF Transfac_M00451_NKX3A M00451_NKX3A
+MOTIF Transfac_M00451_NKX3A NKX3A
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.277778	  0.222222	  0.222222	  0.277778	
@@ -4701,7 +4701,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.526316	  0.000000	  0.157895	  0.315789	
   0.210526	  0.157895	  0.105263	  0.526316	
 
-MOTIF Transfac_M00453_IRF-7 M00453_IRF-7
+MOTIF Transfac_M00453_IRF-7 IRF-7
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.142857	  0.142857	  0.142857	  0.571429	
@@ -4723,7 +4723,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.280000	  0.120000	  0.400000	  0.200000	
   0.200000	  0.320000	  0.360000	  0.120000	
 
-MOTIF Transfac_M00454_MRF-2 M00454_MRF-2
+MOTIF Transfac_M00454_MRF-2 MRF-2
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.600000	  0.200000	  0.200000	  0.000000	
@@ -4741,7 +4741,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.466667	  0.266667	  0.266667	  0.000000	
   0.600000	  0.266667	  0.133333	  0.000000	
 
-MOTIF Transfac_M00456_FAC1 M00456_FAC1
+MOTIF Transfac_M00456_FAC1 FAC1
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.416667	  0.166667	  0.333333	  0.083333	
@@ -4825,7 +4825,7 @@ letter-probability matrix: alength= 4 w= 24 nsites= 20 E= 0
   0.486486	  0.081081	  0.297297	  0.135135	
   0.432432	  0.081081	  0.486486	  0.000000	
 
-MOTIF Transfac_M00462_GATA-6 M00462_GATA-6
+MOTIF Transfac_M00462_GATA-6 GATA-6
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.362319	  0.217391	  0.246377	  0.173913	
@@ -4839,7 +4839,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.202899	  0.246377	  0.347826	  0.202899	
   0.246377	  0.275362	  0.260870	  0.217391	
 
-MOTIF Transfac_M00463_POU3F2 M00463_POU3F2
+MOTIF Transfac_M00463_POU3F2 POU3F2
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.823529	  0.117647	  0.000000	  0.058824	
@@ -4857,7 +4857,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.000000	  0.000000	  0.000000	  1.000000	
 
-MOTIF Transfac_M00464_POU3F2 M00464_POU3F2
+MOTIF Transfac_M00464_POU3F2 POU3F2
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.142857	  0.000000	  0.000000	  0.857143	
@@ -4871,7 +4871,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.000000	  0.000000	  0.000000	  1.000000	
 
-MOTIF Transfac_M00465_POU6F1 M00465_POU6F1
+MOTIF Transfac_M00465_POU6F1 POU6F1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.187500	  0.062500	  0.750000	  0.000000	
@@ -4886,7 +4886,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.000000	  0.000000	  0.062500	  0.937500	
 
-MOTIF Transfac_M00466_HIF-1 M00466_HIF-1
+MOTIF Transfac_M00466_HIF-1 HIF-1
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.250000	  0.500000	  0.083333	  0.166667	
@@ -4902,7 +4902,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.166667	  0.666667	  0.166667	
   0.000000	  0.333333	  0.333333	  0.333333	
 
-MOTIF Transfac_M00467_Roaz M00467_Roaz
+MOTIF Transfac_M00467_Roaz Roaz
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
@@ -4920,7 +4920,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.000000	  0.071429	  0.928571	  0.000000	
   0.428571	  0.500000	  0.000000	  0.071429	
 
-MOTIF Transfac_M00468_AP-2rep M00468_AP-2rep
+MOTIF Transfac_M00468_AP-2rep AP-2rep
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.181818	  0.727273	  0.000000	  0.090909	
@@ -4931,7 +4931,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.090909	  0.090909	  0.636364	  0.181818	
   0.181818	  0.090909	  0.545455	  0.181818	
 
-MOTIF Transfac_M00469_AP-2alpha M00469_AP-2alpha
+MOTIF Transfac_M00469_AP-2alpha AP-2alpha
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
@@ -4944,7 +4944,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.102703	  0.086486	  0.740541	  0.070270	
   0.048649	  0.421622	  0.427027	  0.102703	
 
-MOTIF Transfac_M00470_AP-2gamma M00470_AP-2gamma
+MOTIF Transfac_M00470_AP-2gamma AP-2gamma
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
@@ -4957,7 +4957,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.082192	  0.061644	  0.794521	  0.061644	
   0.075342	  0.383562	  0.431507	  0.109589	
 
-MOTIF Transfac_M00471_TBP M00471_TBP
+MOTIF Transfac_M00471_TBP TBP
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.063830	  0.085106	  0.191489	  0.659574	
@@ -4969,7 +4969,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.063830	  0.063830	  0.127660	  0.744681	
   0.446809	  0.085106	  0.085106	  0.382979	
 
-MOTIF Transfac_M00472_FOXO4 M00472_FOXO4
+MOTIF Transfac_M00472_FOXO4 FOXO4
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.466667	  0.200000	  0.300000	  0.033333	
@@ -4984,7 +4984,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.166667	  0.433333	  0.100000	  0.300000	
   0.241379	  0.379310	  0.103448	  0.275862	
 
-MOTIF Transfac_M00473_FOXO1 M00473_FOXO1
+MOTIF Transfac_M00473_FOXO1 FOXO1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.330000	  0.360000	  0.140000	  0.170000	
@@ -4998,7 +4998,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.540000	  0.240000	  0.110000	  0.110000	
   0.297297	  0.171171	  0.279279	  0.252252	
 
-MOTIF Transfac_M00474_FOXO1 M00474_FOXO1
+MOTIF Transfac_M00474_FOXO1 FOXO1
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.200000	  0.050000	  0.550000	  0.200000	
@@ -5016,7 +5016,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.150000	  0.150000	  0.150000	  0.550000	
   0.000000	  0.263158	  0.210526	  0.526316	
 
-MOTIF Transfac_M00476_FOXO4 M00476_FOXO4
+MOTIF Transfac_M00476_FOXO4 FOXO4
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.363636	  0.272727	  0.181818	  0.181818	
@@ -5034,7 +5034,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.238095	  0.095238	  0.047619	  0.619048	
   0.142857	  0.142857	  0.285714	  0.428571	
 
-MOTIF Transfac_M00477_FOXO3 M00477_FOXO3
+MOTIF Transfac_M00477_FOXO3 FOXO3
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.190476	  0.190476	  0.095238	  0.523810	
@@ -5052,7 +5052,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.222222	  0.055556	  0.000000	  0.722222	
   0.473684	  0.105263	  0.000000	  0.421053	
 
-MOTIF Transfac_M00478_Cdc5 M00478_Cdc5
+MOTIF Transfac_M00478_Cdc5 Cdc5
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.100000	  0.900000	  0.000000	
@@ -5089,7 +5089,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF Transfac_M00481_AR M00481_AR
+MOTIF Transfac_M00481_AR AR
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.172414	  0.034483	  0.724138	  0.068966	
@@ -5108,7 +5108,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.068966	  0.931034	  0.000000	  0.000000	
   0.034483	  0.275862	  0.034483	  0.655172	
 
-MOTIF Transfac_M00482_PITX2 M00482_PITX2
+MOTIF Transfac_M00482_PITX2 PITX2
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.333333	  0.111111	  0.000000	  0.555556	
@@ -5123,7 +5123,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.666667	  0.111111	  0.111111	  0.111111	
   0.444444	  0.222222	  0.333333	  0.000000	
 
-MOTIF Transfac_M00483_ATF6 M00483_ATF6
+MOTIF Transfac_M00483_ATF6 ATF6
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -5135,7 +5135,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.100000	  0.900000	  0.000000	
   0.100000	  0.000000	  0.900000	  0.000000	
 
-MOTIF Transfac_M00484_Ncx M00484_Ncx
+MOTIF Transfac_M00484_Ncx Ncx
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.125000	  0.425000	  0.200000	  0.250000	
@@ -5149,7 +5149,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.150000	  0.150000	  0.450000	  0.250000	
   0.125000	  0.175000	  0.525000	  0.175000	
 
-MOTIF Transfac_M00485_Nkx2-2 M00485_Nkx2-2
+MOTIF Transfac_M00485_Nkx2-2 Nkx2-2
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.315789	  0.000000	  0.000000	  0.684211	
@@ -5163,7 +5163,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.043478	  0.043478	  0.000000	  0.913043	
   0.043478	  0.000000	  0.000000	  0.956522	
 
-MOTIF Transfac_M00486_Pax-2 M00486_Pax-2
+MOTIF Transfac_M00486_Pax-2 Pax-2
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.324324	  0.324324	  0.189189	  0.162162	
@@ -5176,7 +5176,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.216216	  0.324324	  0.108108	  0.351351	
   0.216216	  0.459459	  0.189189	  0.135135	
 
-MOTIF Transfac_M00489_Nkx6-2 M00489_Nkx6-2
+MOTIF Transfac_M00489_Nkx6-2 Nkx6-2
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.285714	  0.142857	  0.428571	  0.142857	
@@ -5192,7 +5192,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.142857	  0.285714	  0.285714	  0.285714	
   0.142857	  0.285714	  0.285714	  0.285714	
 
-MOTIF Transfac_M00490_Bach2 M00490_Bach2
+MOTIF Transfac_M00490_Bach2 Bach2
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.090909	  0.500000	  0.318182	  0.090909	
@@ -5207,7 +5207,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.100000	  0.250000	  0.150000	  0.500000	
   0.150000	  0.550000	  0.250000	  0.050000	
 
-MOTIF Transfac_M00491_MAZR M00491_MAZR
+MOTIF Transfac_M00491_MAZR MAZR
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.285714	  0.119048	  0.333333	  0.261905	
@@ -5224,7 +5224,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.230769	  0.512821	  0.102564	  0.153846	
   0.435897	  0.282051	  0.153846	  0.128205	
 
-MOTIF Transfac_M00492_STAT1 M00492_STAT1
+MOTIF Transfac_M00492_STAT1 STAT1
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.060000	  0.570000	  0.230000	  0.140000	
@@ -5236,7 +5236,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.019802	  0.940594	  0.019802	  0.019802	
   0.019802	  0.475248	  0.485149	  0.019802	
 
-MOTIF Transfac_M00493_STAT5A M00493_STAT5A
+MOTIF Transfac_M00493_STAT5A STAT5A
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.232323	  0.262626	  0.171717	  0.333333	
@@ -5248,7 +5248,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.050000	  0.570000	  0.080000	  0.300000	
   0.290000	  0.220000	  0.200000	  0.290000	
 
-MOTIF Transfac_M00494_STAT6 M00494_STAT6
+MOTIF Transfac_M00494_STAT6 STAT6
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.230000	  0.220000	  0.130000	  0.420000	
@@ -5260,7 +5260,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.181818	  0.535354	  0.141414	  0.141414	
   0.346535	  0.178218	  0.227723	  0.247525	
 
-MOTIF Transfac_M00495_Bach1 M00495_Bach1
+MOTIF Transfac_M00495_Bach1 Bach1
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.481481	  0.185185	  0.259259	  0.074074	
@@ -5279,7 +5279,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.259259	  0.333333	  0.259259	  0.148148	
   0.074074	  0.259259	  0.148148	  0.518519	
 
-MOTIF Transfac_M00496_STAT1 M00496_STAT1
+MOTIF Transfac_M00496_STAT1 STAT1
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.227723	  0.326733	  0.346535	  0.099010	
@@ -5291,7 +5291,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.080000	  0.560000	  0.150000	  0.210000	
   0.190000	  0.310000	  0.310000	  0.190000	
 
-MOTIF Transfac_M00497_STAT3 M00497_STAT3
+MOTIF Transfac_M00497_STAT3 STAT3
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.170000	  0.290000	  0.310000	  0.230000	
@@ -5303,7 +5303,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.020000	  0.750000	  0.020000	  0.210000	
   0.148515	  0.376238	  0.306931	  0.168317	
 
-MOTIF Transfac_M00498_STAT4 M00498_STAT4
+MOTIF Transfac_M00498_STAT4 STAT4
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.330000	  0.500000	  0.170000	
@@ -5315,7 +5315,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.170000	  0.330000	  0.170000	  0.330000	
   0.330000	  0.170000	  0.170000	  0.330000	
 
-MOTIF Transfac_M00499_STAT5A M00499_STAT5A
+MOTIF Transfac_M00499_STAT5A STAT5A
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.210000	  0.320000	  0.310000	  0.160000	
@@ -5327,7 +5327,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.020202	  0.353535	  0.060606	  0.565657	
   0.290000	  0.210000	  0.210000	  0.290000	
 
-MOTIF Transfac_M00500_STAT6 M00500_STAT6
+MOTIF Transfac_M00500_STAT6 STAT6
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.227723	  0.227723	  0.405941	  0.138614	
@@ -5339,7 +5339,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.140000	  0.590000	  0.000000	  0.270000	
   0.140000	  0.360000	  0.050000	  0.450000	
 
-MOTIF Transfac_M00510_Lhx3 M00510_Lhx3
+MOTIF Transfac_M00510_Lhx3 Lhx3
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.800000	  0.125000	  0.050000	  0.025000	
@@ -5353,7 +5353,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.850000	  0.025000	  0.000000	  0.125000	
   0.575000	  0.100000	  0.150000	  0.175000	
 
-MOTIF Transfac_M00511_ERR_alpha M00511_ERR_alpha
+MOTIF Transfac_M00511_ERR_alpha ERR_alpha
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.360000	  0.160000	  0.160000	  0.320000	
@@ -5371,7 +5371,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.200000	  0.240000	  0.200000	  0.360000	
   0.440000	  0.160000	  0.160000	  0.240000	
 
-MOTIF Transfac_M00512_PPARG M00512_PPARG
+MOTIF Transfac_M00512_PPARG PPARG
 
 letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.233333	  0.266667	  0.216667	  0.283333	
@@ -5396,7 +5396,7 @@ letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.163265	  0.306122	  0.265306	  0.265306	
   0.318182	  0.045455	  0.363636	  0.272727	
 
-MOTIF Transfac_M00513_ATF3 M00513_ATF3
+MOTIF Transfac_M00513_ATF3 ATF3
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.166667	  0.500000	  0.166667	  0.166667	
@@ -5414,7 +5414,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.000000	  0.714286	  0.142857	  0.142857	
   0.000000	  0.428571	  0.571429	  0.000000	
 
-MOTIF Transfac_M00514_ATF4 M00514_ATF4
+MOTIF Transfac_M00514_ATF4 ATF4
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.666667	  0.333333	  0.000000	
@@ -5430,7 +5430,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.285714	  0.285714	  0.428571	
   0.200000	  0.200000	  0.600000	  0.000000	
 
-MOTIF Transfac_M00515_PPARG M00515_PPARG
+MOTIF Transfac_M00515_PPARG PPARG
 
 letter-probability matrix: alength= 4 w= 23 nsites= 20 E= 0
   0.782609	  0.130435	  0.000000	  0.086957	
@@ -5457,7 +5457,7 @@ letter-probability matrix: alength= 4 w= 23 nsites= 20 E= 0
   0.259259	  0.000000	  0.037037	  0.703704	
   0.083333	  0.000000	  0.000000	  0.916667	
 
-MOTIF Transfac_M00516_E2F M00516_E2F
+MOTIF Transfac_M00516_E2F E2F
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.068966	  0.103448	  0.068966	  0.758621	
@@ -5473,7 +5473,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.448276	  0.034483	  0.241379	  0.275862	
   0.448276	  0.137931	  0.310345	  0.103448	
 
-MOTIF Transfac_M00517_AP-1 M00517_AP-1
+MOTIF Transfac_M00517_AP-1 AP-1
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.127660	  0.319149	  0.404255	  0.148936	
@@ -5513,7 +5513,7 @@ letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.277778	  0.166667	  0.388889	  0.166667	
   0.055556	  0.055556	  0.666667	  0.222222	
 
-MOTIF Transfac_M00526_GCNF M00526_GCNF
+MOTIF Transfac_M00526_GCNF GCNF
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.243243	  0.405405	  0.216216	  0.135135	
@@ -5535,7 +5535,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.243243	  0.378378	  0.162162	  0.216216	
   0.162162	  0.378378	  0.189189	  0.270270	
 
-MOTIF Transfac_M00528_PPAR M00528_PPAR
+MOTIF Transfac_M00528_PPAR PPAR
 
 letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.526316	  0.052632	  0.105263	  0.315789	
@@ -5556,7 +5556,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.000000	  0.736842	  0.210526	  0.052632	
   0.842105	  0.000000	  0.052632	  0.105263	
 
-MOTIF Transfac_M00531_NERF1a M00531_NERF1a
+MOTIF Transfac_M00531_NERF1a NERF1a
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.000000	  0.333333	  0.166667	  0.500000	
@@ -5578,7 +5578,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.333333	  0.000000	  0.333333	  0.333333	
   0.000000	  0.500000	  0.333333	  0.166667	
 
-MOTIF Transfac_M00532_RP58 M00532_RP58
+MOTIF Transfac_M00532_RP58 RP58
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.170000	  0.170000	  0.360000	  0.300000	
@@ -5594,7 +5594,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.030000	  0.740000	  0.230000	
   0.610000	  0.290000	  0.100000	  0.000000	
 
-MOTIF Transfac_M00538_HTF M00538_HTF
+MOTIF Transfac_M00538_HTF HTF
 
 letter-probability matrix: alength= 4 w= 24 nsites= 20 E= 0
   0.428571	  0.285714	  0.238095	  0.047619	
@@ -5622,7 +5622,7 @@ letter-probability matrix: alength= 4 w= 24 nsites= 20 E= 0
   0.357143	  0.071429	  0.214286	  0.357143	
   0.153846	  0.230769	  0.384615	  0.230769	
 
-MOTIF Transfac_M00539_Arnt M00539_Arnt
+MOTIF Transfac_M00539_Arnt Arnt
 
 letter-probability matrix: alength= 4 w= 20 nsites= 20 E= 0
   0.166667	  0.380952	  0.333333	  0.119048	
@@ -5670,7 +5670,7 @@ letter-probability matrix: alength= 4 w= 20 nsites= 20 E= 0
   0.131579	  0.315789	  0.210526	  0.342105	
   0.210526	  0.184211	  0.342105	  0.263158	
 
-MOTIF Transfac_M00616_AFP1 M00616_AFP1
+MOTIF Transfac_M00616_AFP1 AFP1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
@@ -5685,7 +5685,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.000000	  0.800000	  0.000000	  0.200000	
 
-MOTIF Transfac_M00619_Alx-4 M00619_Alx-4
+MOTIF Transfac_M00619_Alx-4 Alx-4
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
@@ -5702,7 +5702,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.000000	  1.000000	  0.000000	  0.000000	
 
-MOTIF Transfac_M00621_C/EBPdelta M00621_C/EBPdelta
+MOTIF Transfac_M00621_C/EBPdelta C/EBPdelta
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.437500	  0.375000	  0.187500	  0.000000	
@@ -5718,7 +5718,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.500000	  0.062500	  0.437500	
   0.125000	  0.375000	  0.000000	  0.500000	
 
-MOTIF Transfac_M00622_C/EBPgamma M00622_C/EBPgamma
+MOTIF Transfac_M00622_C/EBPgamma C/EBPgamma
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.142857	  0.571429	  0.000000	  0.285714	
@@ -5735,7 +5735,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.714286	  0.000000	  0.142857	  0.142857	
   0.428571	  0.142857	  0.000000	  0.428571	
 
-MOTIF Transfac_M00623_Crx M00623_Crx
+MOTIF Transfac_M00623_Crx Crx
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.080000	  0.360000	  0.040000	  0.520000	
@@ -5752,7 +5752,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.461538	  0.346154	  0.038462	  0.153846	
   0.076923	  0.423077	  0.230769	  0.269231	
 
-MOTIF Transfac_M00624_DBP M00624_DBP
+MOTIF Transfac_M00624_DBP DBP
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
@@ -5781,7 +5781,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.833333	  0.166667	  0.000000	  0.000000	
   0.500000	  0.500000	  0.000000	  0.000000	
 
-MOTIF Transfac_M00630_FOXM1 M00630_FOXM1
+MOTIF Transfac_M00630_FOXM1 FOXM1
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
@@ -5794,7 +5794,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  0.400000	  0.400000	  0.200000	
   0.000000	  0.000000	  0.000000	  1.000000	
 
-MOTIF Transfac_M00631_FXR/RXR-alpha M00631_FXR/RXR-alpha
+MOTIF Transfac_M00631_FXR/RXR-alpha FXR/RXR-alpha
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.000000	  0.666667	  0.166667	  0.166667	
@@ -5812,7 +5812,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.166667	  0.833333	  0.000000	  0.000000	
   0.000000	  0.833333	  0.000000	  0.166667	
 
-MOTIF Transfac_M00632_GATA-4 M00632_GATA-4
+MOTIF Transfac_M00632_GATA-4 GATA-4
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.857143	  0.000000	  0.000000	  0.142857	
@@ -5828,7 +5828,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.142857	  0.285714	  0.571429	  0.000000	
   0.857143	  0.000000	  0.142857	  0.000000	
 
-MOTIF Transfac_M00634_GCM M00634_GCM
+MOTIF Transfac_M00634_GCM GCM
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.285714	  0.571429	  0.000000	  0.142857	
@@ -5844,7 +5844,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.000000	  0.142857	  0.857143	
   0.285714	  0.000000	  0.285714	  0.428571	
 
-MOTIF Transfac_M00638_HNF-4alpha M00638_HNF-4alpha
+MOTIF Transfac_M00638_HNF-4alpha HNF-4alpha
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.363636	  0.363636	  0.272727	  0.000000	
@@ -5861,7 +5861,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.454545	  0.545455	  0.000000	  0.000000	
   0.000000	  0.454545	  0.272727	  0.272727	
 
-MOTIF Transfac_M00639_HNF-6 M00639_HNF-6
+MOTIF Transfac_M00639_HNF-6 HNF-6
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.384615	  0.307692	  0.000000	  0.307692	
@@ -5877,7 +5877,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.615385	  0.153846	  0.153846	  0.076923	
   0.461538	  0.076923	  0.153846	  0.307692	
 
-MOTIF Transfac_M00640_HOXA4 M00640_HOXA4
+MOTIF Transfac_M00640_HOXA4 HOXA4
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.666667	  0.000000	  0.333333	  0.000000	
@@ -5889,7 +5889,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.500000	  0.000000	  0.500000	  0.000000	
   0.000000	  0.000000	  1.000000	  0.000000	
 
-MOTIF Transfac_M00641_HSF M00641_HSF
+MOTIF Transfac_M00641_HSF HSF
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -5906,7 +5906,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.000000	  1.000000	  0.000000	  0.000000	
 
-MOTIF Transfac_M00644_LBP-1 M00644_LBP-1
+MOTIF Transfac_M00644_LBP-1 LBP-1
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
@@ -5917,7 +5917,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.000000	  0.000000	  0.800000	  0.200000	
   0.000000	  0.600000	  0.400000	  0.000000	
 
-MOTIF Transfac_M00646_LF-A1 M00646_LF-A1
+MOTIF Transfac_M00646_LF-A1 LF-A1
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
@@ -5929,7 +5929,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.600000	  0.000000	  0.000000	  0.400000	
   0.400000	  0.000000	  0.600000	  0.000000	
 
-MOTIF Transfac_M00647_LXR M00647_LXR
+MOTIF Transfac_M00647_LXR LXR
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.125000	  0.250000	  0.000000	  0.625000	
@@ -5951,7 +5951,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
   0.875000	  0.000000	  0.125000	  0.000000	
 
-MOTIF Transfac_M00648_MAF M00648_MAF
+MOTIF Transfac_M00648_MAF MAF
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.200000	  0.000000	  0.000000	  0.800000	
@@ -5971,7 +5971,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.000000	  0.600000	  0.400000	  0.000000	
   0.200000	  0.000000	  0.200000	  0.600000	
 
-MOTIF Transfac_M00649_MAZ M00649_MAZ
+MOTIF Transfac_M00649_MAZ MAZ
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.250000	  0.000000	  0.666667	  0.083333	
@@ -5983,7 +5983,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.166667	  0.083333	  0.750000	  0.000000	
   0.000000	  0.000000	  1.000000	  0.000000	
 
-MOTIF Transfac_M00650_MTF-1 M00650_MTF-1
+MOTIF Transfac_M00650_MTF-1 MTF-1
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.083333	  0.083333	  0.166667	  0.666667	
@@ -6001,7 +6001,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.166667	  0.666667	  0.083333	  0.083333	
   0.000000	  0.666667	  0.250000	  0.083333	
 
-MOTIF Transfac_M00651_NF-muE1 M00651_NF-muE1
+MOTIF Transfac_M00651_NF-muE1 NF-muE1
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  0.857143	  0.142857	  0.000000	
@@ -6014,7 +6014,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  0.857143	  0.000000	  0.142857	
   0.000000	  0.000000	  0.142857	  0.857143	
 
-MOTIF Transfac_M00652_Nrf-1 M00652_Nrf-1
+MOTIF Transfac_M00652_Nrf-1 Nrf-1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
@@ -6028,7 +6028,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
   0.571429	  0.000000	  0.428571	  0.000000	
 
-MOTIF Transfac_M00655_PEA3 M00655_PEA3
+MOTIF Transfac_M00655_PEA3 PEA3
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.777778	  0.000000	  0.111111	  0.111111	
@@ -6039,7 +6039,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
   0.000000	  0.000000	  0.400000	  0.600000	
 
-MOTIF Transfac_M00657_PTF1-beta M00657_PTF1-beta
+MOTIF Transfac_M00657_PTF1-beta PTF1-beta
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
@@ -6069,7 +6069,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.071429	  0.214286	  0.714286	  0.000000	
 
-MOTIF Transfac_M00665_Sp3 M00665_Sp3
+MOTIF Transfac_M00665_Sp3 Sp3
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
@@ -6087,7 +6087,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.000000	  0.166667	  0.833333	  0.000000	
   0.000000	  0.000000	  1.000000	  0.000000	
 
-MOTIF Transfac_M00671_TCF-4 M00671_TCF-4
+MOTIF Transfac_M00671_TCF-4 TCF-4
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.166667	  0.500000	  0.333333	  0.000000	
@@ -6099,7 +6099,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.500000	  0.000000	  0.166667	  0.333333	
 
-MOTIF Transfac_M00672_TEF M00672_TEF
+MOTIF Transfac_M00672_TEF TEF
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.800000	  0.000000	  0.000000	  0.200000	
@@ -6115,7 +6115,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF Transfac_M00678_Tel-2 M00678_Tel-2
+MOTIF Transfac_M00678_Tel-2 Tel-2
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.200000	  0.400000	  0.000000	  0.400000	
@@ -6129,7 +6129,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  0.000000	  0.200000	  0.800000	
   0.000000	  0.000000	  1.000000	  0.000000	
 
-MOTIF Transfac_M00684_XPF-1 M00684_XPF-1
+MOTIF Transfac_M00684_XPF-1 XPF-1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  0.000000	  0.200000	  0.800000	
@@ -6143,7 +6143,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.600000	  0.400000	  0.000000	  0.000000	
   0.000000	  0.800000	  0.200000	  0.000000	
 
-MOTIF Transfac_M00687_alpha-CP1 M00687_alpha-CP1
+MOTIF Transfac_M00687_alpha-CP1 alpha-CP1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.142857	  0.714286	  0.000000	  0.142857	
@@ -6158,7 +6158,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.000000	  0.000000	  1.000000	  0.000000	
 
-MOTIF Transfac_M00690_AP-3 M00690_AP-3
+MOTIF Transfac_M00690_AP-3 AP-3
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.090909	  0.272727	  0.000000	  0.636364	
@@ -6170,7 +6170,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.272727	  0.090909	  0.636364	
   0.272727	  0.090909	  0.000000	  0.636364	
 
-MOTIF Transfac_M00691_ATF-1 M00691_ATF-1
+MOTIF Transfac_M00691_ATF-1 ATF-1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
@@ -6185,7 +6185,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.111111	  0.888889	  0.000000	  0.000000	
   0.888889	  0.000000	  0.000000	  0.111111	
 
-MOTIF Transfac_M00692_Antp M00692_Antp
+MOTIF Transfac_M00692_Antp Antp
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -6196,7 +6196,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.400000	  0.600000	  0.000000	  0.000000	
   0.200000	  0.000000	  0.000000	  0.800000	
 
-MOTIF Transfac_M00693_E12 M00693_E12
+MOTIF Transfac_M00693_E12 E12
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.363636	  0.181818	  0.454545	  0.000000	
@@ -6211,7 +6211,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.181818	  0.545455	  0.090909	  0.181818	
   0.272727	  0.272727	  0.454545	  0.000000	
 
-MOTIF Transfac_M00694_E4F1 M00694_E4F1
+MOTIF Transfac_M00694_E4F1 E4F1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  0.400000	  0.600000	  0.000000	
@@ -6225,7 +6225,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.000000	  0.800000	  0.000000	  0.200000	
 
-MOTIF Transfac_M00695_ETF M00695_ETF
+MOTIF Transfac_M00695_ETF ETF
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.000000	  0.000000	  0.846154	  0.153846	
@@ -6236,7 +6236,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.000000	  0.153846	  0.846154	  0.000000	
   0.000000	  0.000000	  1.000000	  0.000000	
 
-MOTIF Transfac_M00698_HEB M00698_HEB
+MOTIF Transfac_M00698_HEB HEB
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.400000	  0.000000	  0.600000	  0.000000	
@@ -6248,7 +6248,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.000000	  0.000000	  1.000000	  0.000000	
 
-MOTIF Transfac_M00699_ICSBP M00699_ICSBP
+MOTIF Transfac_M00699_ICSBP ICSBP
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.571429	  0.000000	  0.428571	  0.000000	
@@ -6264,7 +6264,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.142857	  0.000000	  0.857143	
   0.285714	  0.000000	  0.714286	  0.000000	
 
-MOTIF Transfac_M00701_SMAD-3 M00701_SMAD-3
+MOTIF Transfac_M00701_SMAD-3 SMAD-3
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.111111	  0.222222	  0.000000	  0.666667	
@@ -6277,7 +6277,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
   0.111111	  0.111111	  0.000000	  0.777778	
 
-MOTIF Transfac_M00704_TEF-1 M00704_TEF-1
+MOTIF Transfac_M00704_TEF-1 TEF-1
 
 letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
@@ -6287,7 +6287,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.000000	  0.000000	  1.000000	  0.000000	
 
-MOTIF Transfac_M00706_TFII-I M00706_TFII-I
+MOTIF Transfac_M00706_TFII-I TFII-I
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.400000	  0.000000	  0.400000	  0.200000	
@@ -6300,7 +6300,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.000000	  0.000000	  1.000000	  0.000000	
 
-MOTIF Transfac_M00707_TFIIA M00707_TFIIA
+MOTIF Transfac_M00707_TFIIA TFIIA
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.200000	  0.000000	  0.800000	
@@ -6316,7 +6316,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.200000	  0.400000	  0.400000	  0.000000	
   0.000000	  0.600000	  0.400000	  0.000000	
 
-MOTIF Transfac_M00712_myogenin M00712_myogenin
+MOTIF Transfac_M00712_myogenin myogenin
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.444444	  0.000000	  0.555556	  0.000000	
@@ -6328,7 +6328,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.000000	  0.000000	  1.000000	  0.000000	
 
-MOTIF Transfac_M00716_ZF5 M00716_ZF5
+MOTIF Transfac_M00716_ZF5 ZF5
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.105263	  0.000000	  0.842105	  0.052632	
@@ -6340,7 +6340,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.105263	  0.105263	  0.684211	  0.105263	
   0.473684	  0.000000	  0.526316	  0.000000	
 
-MOTIF Transfac_M00717_Pax-8 M00717_Pax-8
+MOTIF Transfac_M00717_Pax-8 Pax-8
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.142857	  0.428571	  0.228571	  0.200000	
@@ -6359,7 +6359,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.285714	  0.114286	  0.400000	  0.200000	
   0.228571	  0.228571	  0.142857	  0.400000	
 
-MOTIF Transfac_M00720_CAC-binding_protein M00720_CAC-binding_protein
+MOTIF Transfac_M00720_CAC-binding_protein CAC-binding_protein
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.285714	  0.000000	  0.714286	  0.000000	
@@ -6372,7 +6372,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.000000	  0.285714	  0.714286	  0.000000	
 
-MOTIF Transfac_M00721_CACCC-binding_factor M00721_CACCC-binding_factor
+MOTIF Transfac_M00721_CACCC-binding_factor CACCC-binding_factor
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.000000	  0.857143	  0.000000	  0.142857	
@@ -6392,7 +6392,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.142857	  0.000000	  0.857143	  0.000000	
   0.000000	  0.142857	  0.857143	  0.000000	
 
-MOTIF Transfac_M00722_core-binding_factor M00722_core-binding_factor
+MOTIF Transfac_M00722_core-binding_factor core-binding_factor
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.111111	  0.000000	  0.000000	  0.888889	
@@ -6404,7 +6404,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.222222	  0.222222	  0.000000	  0.555556	
   0.444444	  0.000000	  0.000000	  0.555556	
 
-MOTIF Transfac_M00724_HNF-3alpha M00724_HNF-3alpha
+MOTIF Transfac_M00724_HNF-3alpha HNF-3alpha
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.051282	  0.051282	  0.025641	  0.871795	
@@ -6419,7 +6419,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.410256	  0.000000	  0.076923	  0.512821	
   0.282051	  0.076923	  0.307692	  0.333333	
 
-MOTIF Transfac_M00725_HP1_site_factor M00725_HP1_site_factor
+MOTIF Transfac_M00725_HP1_site_factor HP1_site_factor
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
@@ -6435,7 +6435,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.000000	  0.000000	  1.000000	  0.000000	
 
-MOTIF Transfac_M00726_USF2 M00726_USF2
+MOTIF Transfac_M00726_USF2 USF2
 
 letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
@@ -6445,7 +6445,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.000000	  0.333333	  0.166667	  0.500000	
   0.000000	  0.000000	  1.000000	  0.000000	
 
-MOTIF Transfac_M00727_SF-1 M00727_SF-1
+MOTIF Transfac_M00727_SF-1 SF-1
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.000000	  0.125000	  0.875000	
@@ -6457,7 +6457,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.000000	  0.000000	  1.000000	  0.000000	
 
-MOTIF Transfac_M00729_Cdx-2 M00729_Cdx-2
+MOTIF Transfac_M00729_Cdx-2 Cdx-2
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.666667	  0.333333	  0.000000	  0.000000	
@@ -6475,7 +6475,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.000000	  0.777778	  0.000000	  0.222222	
   0.222222	  0.555556	  0.000000	  0.222222	
 
-MOTIF Transfac_M00731_Osf2 M00731_Osf2
+MOTIF Transfac_M00731_Osf2 Osf2
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.800000	  0.000000	  0.200000	  0.000000	
@@ -6487,7 +6487,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.500000	  0.100000	  0.200000	  0.200000	
   0.600000	  0.300000	  0.100000	  0.000000	
 
-MOTIF Transfac_M00733_SMAD-4 M00733_SMAD-4
+MOTIF Transfac_M00733_SMAD-4 SMAD-4
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.100000	  0.200000	  0.700000	  0.000000	
@@ -6506,7 +6506,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.200000	  0.700000	  0.000000	  0.100000	
   0.000000	  0.400000	  0.000000	  0.600000	
 
-MOTIF Transfac_M00734_CIZ M00734_CIZ
+MOTIF Transfac_M00734_CIZ CIZ
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  0.435897	  0.564103	  0.000000	
@@ -6579,7 +6579,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.000000	  0.884615	  0.115385	  0.000000	
 
-MOTIF Transfac_M00742_HFH-4 M00742_HFH-4
+MOTIF Transfac_M00742_HFH-4 HFH-4
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.510000	  0.190000	  0.090000	  0.210000	
@@ -6596,7 +6596,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.040000	  0.000000	  0.000000	  0.960000	
   0.870000	  0.000000	  0.040000	  0.090000	
 
-MOTIF Transfac_M00743_c-Ets-1_68 M00743_c-Ets-1_68
+MOTIF Transfac_M00743_c-Ets-1_68 c-Ets-1_68
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.875000	  0.125000	  0.000000	
@@ -6608,7 +6608,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.000000	  0.625000	  0.000000	  0.375000	
 
-MOTIF Transfac_M00744_POU1F1 M00744_POU1F1
+MOTIF Transfac_M00744_POU1F1 POU1F1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.764706	  0.000000	  0.117647	  0.117647	
@@ -6622,7 +6622,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.529412	  0.000000	  0.117647	  0.352941	
   0.294118	  0.117647	  0.000000	  0.588235	
 
-MOTIF Transfac_M00746_ELF-1 M00746_ELF-1
+MOTIF Transfac_M00746_ELF-1 ELF-1
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.500000	  0.000000	  0.500000	  0.000000	
@@ -6638,7 +6638,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.500000	  0.000000	  0.500000	  0.000000	
   0.250000	  0.125000	  0.000000	  0.625000	
 
-MOTIF Transfac_M00747_IRF1 M00747_IRF1
+MOTIF Transfac_M00747_IRF1 IRF1
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.066667	  0.000000	  0.000000	  0.933333	
@@ -6649,7 +6649,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.000000	  0.000000	  0.000000	  1.000000	
 
-MOTIF Transfac_M00749_SREBP-1 M00749_SREBP-1
+MOTIF Transfac_M00749_SREBP-1 SREBP-1
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
@@ -6660,7 +6660,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.000000	  0.833333	  0.000000	  0.166667	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF Transfac_M00750_HMG_IY M00750_HMG_IY
+MOTIF Transfac_M00750_HMG_IY HMG_IY
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.076923	  0.000000	  0.923077	  0.000000	
@@ -6671,7 +6671,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.384615	  0.000000	  0.153846	  0.461538	
   0.000000	  0.250000	  0.083333	  0.666667	
 
-MOTIF Transfac_M00751_AML1 M00751_AML1
+MOTIF Transfac_M00751_AML1 AML1
 
 letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -6681,7 +6681,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.000000	  0.000000	  0.111111	  0.888889	
 
-MOTIF Transfac_M00761_p53_decamer M00761_p53_decamer
+MOTIF Transfac_M00761_p53_decamer p53_decamer
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.543478	  0.065217	  0.347826	  0.043478	
@@ -6695,7 +6695,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.043478	  0.608696	  0.195652	  0.152174	
   0.108696	  0.478261	  0.108696	  0.304348	
 
-MOTIF Transfac_M00762_PPAR/HNF-4/COUP/RAR M00762_PPAR/HNF-4/COUP/RAR
+MOTIF Transfac_M00762_PPAR/HNF-4/COUP/RAR PPAR/HNF-4/COUP/RAR
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.366667	  0.033333	  0.400000	  0.200000	
@@ -6712,7 +6712,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.032258	  0.806452	  0.129032	  0.032258	
   0.677419	  0.129032	  0.000000	  0.193548	
 
-MOTIF Transfac_M00763_PPAR_direct_repeat_1 M00763_PPAR_direct_repeat_1
+MOTIF Transfac_M00763_PPAR_direct_repeat_1 PPAR_direct_repeat_1
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.277778	  0.000000	  0.111111	  0.611111	
@@ -6729,7 +6729,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.111111	  0.777778	  0.055556	  0.055556	
   0.166667	  0.444444	  0.055556	  0.333333	
 
-MOTIF Transfac_M00764_HNF-4_direct_repeat_1 M00764_HNF-4_direct_repeat_1
+MOTIF Transfac_M00764_HNF-4_direct_repeat_1 HNF-4_direct_repeat_1
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.076923	  0.000000	  0.076923	  0.846154	
@@ -6746,7 +6746,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  0.769231	  0.000000	  0.230769	
   0.166667	  0.416667	  0.083333	  0.333333	
 
-MOTIF Transfac_M00765_COUP_direct_repeat_1 M00765_COUP_direct_repeat_1
+MOTIF Transfac_M00765_COUP_direct_repeat_1 COUP_direct_repeat_1
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.111111	  0.000000	  0.111111	  0.777778	
@@ -6763,7 +6763,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.111111	  0.666667	  0.000000	  0.222222	
   0.125000	  0.625000	  0.000000	  0.250000	
 
-MOTIF Transfac_M00766_LXR_direct_repeat_4 M00766_LXR_direct_repeat_4
+MOTIF Transfac_M00766_LXR_direct_repeat_4 LXR_direct_repeat_4
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.000000	  0.125000	  0.000000	  0.875000	
@@ -6783,7 +6783,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
   0.000000	  1.000000	  0.000000	  0.000000	
 
-MOTIF Transfac_M00767_FXR_inverted_repeat_1 M00767_FXR_inverted_repeat_1
+MOTIF Transfac_M00767_FXR_inverted_repeat_1 FXR_inverted_repeat_1
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.285714	  0.000000	  0.714286	  0.000000	
@@ -6800,7 +6800,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
   0.000000	  0.428571	  0.000000	  0.571429	
 
-MOTIF Transfac_M00769_AML M00769_AML
+MOTIF Transfac_M00769_AML AML
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.470588	  0.235294	  0.176471	  0.117647	
@@ -6819,7 +6819,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.235294	  0.294118	  0.352941	  0.117647	
   0.176471	  0.529412	  0.117647	  0.176471	
 
-MOTIF Transfac_M00770_C/EBP M00770_C/EBP
+MOTIF Transfac_M00770_C/EBP C/EBP
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.279070	  0.186047	  0.279070	  0.255814	
@@ -6835,7 +6835,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.968992	  0.007752	  0.023256	  0.000000	
   0.304688	  0.218750	  0.187500	  0.289062	
 
-MOTIF Transfac_M00771_ETS M00771_ETS
+MOTIF Transfac_M00771_ETS ETS
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.500000	  0.208333	  0.062500	  0.229167	
@@ -6851,7 +6851,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.020833	  0.062500	  0.125000	  0.791667	
   0.020833	  0.291667	  0.604167	  0.083333	
 
-MOTIF Transfac_M00772_IRF M00772_IRF
+MOTIF Transfac_M00772_IRF IRF
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.000000	  0.307692	  0.269231	  0.423077	
@@ -6870,7 +6870,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.076923	  0.346154	  0.038462	  0.538462	
   0.038462	  0.500000	  0.038462	  0.423077	
 
-MOTIF Transfac_M00773_MYB M00773_MYB
+MOTIF Transfac_M00773_MYB MYB
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.360000	  0.200000	  0.240000	  0.200000	
@@ -6885,7 +6885,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.000000	  0.000000	  0.040000	  0.960000	
   0.320000	  0.200000	  0.360000	  0.120000	
 
-MOTIF Transfac_M00774_NF-kappaB M00774_NF-kappaB
+MOTIF Transfac_M00774_NF-kappaB NF-kappaB
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.160000	  0.200000	  0.360000	  0.280000	
@@ -6905,7 +6905,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.133333	  0.773333	  0.013333	  0.080000	
   0.226667	  0.280000	  0.253333	  0.240000	
 
-MOTIF Transfac_M00775_NF-Y M00775_NF-Y
+MOTIF Transfac_M00775_NF-Y NF-Y
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.250000	  0.275000	  0.250000	  0.225000	
@@ -6922,7 +6922,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.097561	  0.536585	  0.341463	  0.024390	
   0.536585	  0.073171	  0.341463	  0.048780	
 
-MOTIF Transfac_M00776_SREBP M00776_SREBP
+MOTIF Transfac_M00776_SREBP SREBP
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.300000	  0.300000	  0.400000	  0.000000	
@@ -6938,7 +6938,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.545455	  0.090909	  0.363636	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF Transfac_M00777_STAT M00777_STAT
+MOTIF Transfac_M00777_STAT STAT
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.166667	  0.200000	  0.366667	  0.266667	
@@ -6955,7 +6955,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.033333	  0.000000	  0.766667	  0.200000	
   0.700000	  0.100000	  0.166667	  0.033333	
 
-MOTIF Transfac_M00778_AhR M00778_AhR
+MOTIF Transfac_M00778_AhR AhR
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.080000	  0.440000	  0.240000	  0.240000	
@@ -6970,7 +6970,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.160000	  0.280000	  0.440000	  0.120000	
   0.280000	  0.280000	  0.200000	  0.240000	
 
-MOTIF Transfac_M00789_GATA M00789_GATA
+MOTIF Transfac_M00789_GATA GATA
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.476190	  0.076190	  0.076190	  0.371429	
@@ -6981,7 +6981,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.552381	  0.028571	  0.371429	  0.047619	
   0.266667	  0.171429	  0.457143	  0.104762	
 
-MOTIF Transfac_M00790_HNF-1 M00790_HNF-1
+MOTIF Transfac_M00790_HNF-1 HNF-1
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.294118	  0.088235	  0.117647	  0.500000	
@@ -7003,7 +7003,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.205882	  0.205882	  0.411765	  0.176471	
   0.294118	  0.264706	  0.117647	  0.323529	
 
-MOTIF Transfac_M00791_HNF-3 M00791_HNF-3
+MOTIF Transfac_M00791_HNF-3 HNF-3
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.384615	  0.333333	  0.102564	  0.179487	
@@ -7020,7 +7020,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.230769	  0.179487	  0.358974	  0.230769	
   0.358974	  0.102564	  0.179487	  0.358974	
 
-MOTIF Transfac_M00792_SMAD M00792_SMAD
+MOTIF Transfac_M00792_SMAD SMAD
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.833333	  0.083333	  0.083333	  0.000000	
@@ -7033,7 +7033,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.333333	  0.333333	  0.166667	  0.166667	
   0.166667	  0.333333	  0.166667	  0.333333	
 
-MOTIF Transfac_M00793_YY1 M00793_YY1
+MOTIF Transfac_M00793_YY1 YY1
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.086957	  0.000000	  0.739130	  0.173913	
@@ -7046,7 +7046,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.043478	  0.130435	  0.130435	  0.695652	
   0.086957	  0.173913	  0.434783	  0.304348	
 
-MOTIF Transfac_M00794_TTF-1 M00794_TTF-1
+MOTIF Transfac_M00794_TTF-1 TTF-1
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.258065	  0.483871	  0.129032	  0.129032	
@@ -7062,7 +7062,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.161290	  0.290323	  0.290323	  0.258065	
   0.161290	  0.354839	  0.161290	  0.322581	
 
-MOTIF Transfac_M00795_Octamer M00795_Octamer
+MOTIF Transfac_M00795_Octamer Octamer
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.181818	  0.127273	  0.181818	  0.509091	
@@ -7077,7 +7077,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.018182	  0.018182	  0.018182	  0.945455	
   0.490909	  0.072727	  0.181818	  0.254545	
 
-MOTIF Transfac_M00796_USF M00796_USF
+MOTIF Transfac_M00796_USF USF
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.333333	  0.222222	  0.388889	  0.055556	
@@ -7093,7 +7093,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.555556	  0.333333	  0.111111	
   0.333333	  0.333333	  0.111111	  0.222222	
 
-MOTIF Transfac_M00797_HIF-1 M00797_HIF-1
+MOTIF Transfac_M00797_HIF-1 HIF-1
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.086957	  0.173913	  0.652174	  0.086957	
@@ -7111,7 +7111,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.043478	  0.391304	  0.304348	  0.260870	
   0.304348	  0.304348	  0.217391	  0.173913	
 
-MOTIF Transfac_M00799_Myc M00799_Myc
+MOTIF Transfac_M00799_Myc Myc
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
@@ -7122,7 +7122,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.047619	  0.000000	  0.904762	  0.047619	
   0.000000	  0.380952	  0.380952	  0.238095	
 
-MOTIF Transfac_M00800_AP-2 M00800_AP-2
+MOTIF Transfac_M00800_AP-2 AP-2
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.176471	  0.235294	  0.588235	  0.000000	
@@ -7142,7 +7142,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.235294	  0.235294	  0.352941	  0.176471	
   0.176471	  0.294118	  0.352941	  0.176471	
 
-MOTIF Transfac_M00801_CREB M00801_CREB
+MOTIF Transfac_M00801_CREB CREB
 
 letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.037736	  0.792453	  0.056604	  0.113208	
@@ -7152,7 +7152,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.962264	  0.018868	  0.000000	  0.018868	
   0.056604	  0.301887	  0.301887	  0.339623	
 
-MOTIF Transfac_M00802_Pit-1 M00802_Pit-1
+MOTIF Transfac_M00802_Pit-1 Pit-1
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.411765	  0.176471	  0.117647	  0.294118	
@@ -7174,7 +7174,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.187500	  0.437500	  0.125000	  0.250000	
   0.538462	  0.230769	  0.000000	  0.230769	
 
-MOTIF Transfac_M00803_E2F M00803_E2F
+MOTIF Transfac_M00803_E2F E2F
 
 letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.000000	  0.250000	  0.750000	  0.000000	
@@ -7184,7 +7184,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.000000	  0.625000	  0.375000	  0.000000	
   0.062500	  0.125000	  0.687500	  0.125000	
 
-MOTIF Transfac_M00804_E2A M00804_E2A
+MOTIF Transfac_M00804_E2A E2A
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.153846	  0.461538	  0.230769	  0.153846	
@@ -7202,7 +7202,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.000000	  0.076923	  0.538462	  0.384615	
   0.230769	  0.230769	  0.307692	  0.230769	
 
-MOTIF Transfac_M00805_LEF1 M00805_LEF1
+MOTIF Transfac_M00805_LEF1 LEF1
 
 letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.230769	  0.000000	  0.000000	  0.769231	
@@ -7212,7 +7212,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.846154	  0.000000	  0.076923	  0.076923	
   0.000000	  0.153846	  0.846154	  0.000000	
 
-MOTIF Transfac_M00806_NF-1 M00806_NF-1
+MOTIF Transfac_M00806_NF-1 NF-1
 
 letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.265823	  0.240506	  0.113924	  0.379747	
@@ -7233,7 +7233,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.240506	  0.177215	  0.341772	  0.240506	
   0.392405	  0.227848	  0.227848	  0.151899	
 
-MOTIF Transfac_M00807_EGR M00807_EGR
+MOTIF Transfac_M00807_EGR EGR
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.000000	  0.111111	  0.777778	  0.111111	
@@ -7248,7 +7248,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.444444	  0.000000	  0.444444	  0.111111	
   0.222222	  0.444444	  0.333333	  0.000000	
 
-MOTIF Transfac_M00808_Pax M00808_Pax
+MOTIF Transfac_M00808_Pax Pax
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.000000	  0.900000	  0.100000	  0.000000	
@@ -7263,7 +7263,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.750000	  0.100000	  0.050000	  0.100000	
   0.150000	  0.800000	  0.000000	  0.050000	
 
-MOTIF Transfac_M00809_FOX M00809_FOX
+MOTIF Transfac_M00809_FOX FOX
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  0.230769	  0.461538	  0.307692	
@@ -7280,7 +7280,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.153846	  0.000000	  0.076923	  0.769231	
   0.538462	  0.000000	  0.076923	  0.384615	
 
-MOTIF Transfac_M00810_SRF M00810_SRF
+MOTIF Transfac_M00810_SRF SRF
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.074074	  0.444444	  0.370370	  0.111111	
@@ -7302,7 +7302,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.037037	  0.222222	  0.407407	  0.333333	
   0.222222	  0.259259	  0.259259	  0.259259	
 
-MOTIF Transfac_M00821_Nrf2 M00821_Nrf2
+MOTIF Transfac_M00821_Nrf2 Nrf2
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.300000	  0.400000	  0.100000	  0.200000	
@@ -7319,7 +7319,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  0.200000	  0.300000	  0.500000	
   0.100000	  0.200000	  0.400000	  0.300000	
 
-MOTIF Transfac_M00912_C_EBP M00912_C_EBP
+MOTIF Transfac_M00912_C_EBP C_EBP
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.359551	  0.213483	  0.202247	  0.224719	
@@ -7335,7 +7335,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.213483	  0.280899	  0.157303	  0.348315	
   0.303371	  0.280899	  0.089888	  0.325843	
 
-MOTIF Transfac_M00913_MYB M00913_MYB
+MOTIF Transfac_M00913_MYB MYB
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.115385	  0.384615	  0.192308	  0.307692	
@@ -7348,7 +7348,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.192308	  0.576923	  0.153846	  0.076923	
   0.269231	  0.269231	  0.230769	  0.230769	
 
-MOTIF Transfac_M00915_AP-2 M00915_AP-2
+MOTIF Transfac_M00915_AP-2 AP-2
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  0.500000	  0.333333	  0.166667	
@@ -7365,7 +7365,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  0.916667	  0.083333	  0.000000	
   0.125000	  0.333333	  0.291667	  0.250000	
 
-MOTIF Transfac_M00916_CREB M00916_CREB
+MOTIF Transfac_M00916_CREB CREB
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.178571	  0.285714	  0.464286	  0.071429	
@@ -7383,7 +7383,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.250000	  0.071429	  0.428571	  0.250000	
   0.071429	  0.392857	  0.392857	  0.142857	
 
-MOTIF Transfac_M00917_CREB M00917_CREB
+MOTIF Transfac_M00917_CREB CREB
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.250000	  0.500000	  0.100000	  0.150000	
@@ -7398,7 +7398,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.350000	  0.475000	  0.075000	  0.100000	
   0.575000	  0.100000	  0.175000	  0.150000	
 
-MOTIF Transfac_M00918_E2F M00918_E2F
+MOTIF Transfac_M00918_E2F E2F
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.040000	  0.160000	  0.040000	  0.760000	
@@ -7411,7 +7411,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  0.600000	  0.400000	  0.000000	
   0.040000	  0.200000	  0.600000	  0.160000	
 
-MOTIF Transfac_M00919_E2F M00919_E2F
+MOTIF Transfac_M00919_E2F E2F
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.032258	  0.225806	  0.354839	  0.387097	
@@ -7426,7 +7426,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.709677	  0.032258	  0.193548	  0.064516	
   0.258065	  0.290323	  0.193548	  0.258065	
 
-MOTIF Transfac_M00920_E2F M00920_E2F
+MOTIF Transfac_M00920_E2F E2F
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.282051	  0.282051	  0.102564	  0.333333	
@@ -7442,7 +7442,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.692308	  0.051282	  0.205128	  0.051282	
   0.230769	  0.358974	  0.179487	  0.230769	
 
-MOTIF Transfac_M00921_GR M00921_GR
+MOTIF Transfac_M00921_GR GR
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.292683	  0.170732	  0.097561	  0.439024	
@@ -7454,7 +7454,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.975610	  0.024390	  0.000000	
   0.219512	  0.170732	  0.000000	  0.609756	
 
-MOTIF Transfac_M00922_SRF M00922_SRF
+MOTIF Transfac_M00922_SRF SRF
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.103448	  0.896552	  0.000000	  0.000000	
@@ -7473,7 +7473,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.068966	  0.275862	  0.206897	  0.448276	
   0.206897	  0.068966	  0.517241	  0.206897	
 
-MOTIF Transfac_M00924_AP-1 M00924_AP-1
+MOTIF Transfac_M00924_AP-1 AP-1
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -7489,7 +7489,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.108696	  0.108696	  0.391304	  0.391304	
   0.173913	  0.260870	  0.282609	  0.282609	
 
-MOTIF Transfac_M00925_AP-1 M00925_AP-1
+MOTIF Transfac_M00925_AP-1 AP-1
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.407692	  0.223077	  0.269231	  0.100000	
@@ -7502,7 +7502,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.700000	  0.176923	  0.053846	  0.069231	
   0.292308	  0.184615	  0.269231	  0.253846	
 
-MOTIF Transfac_M00926_AP-1 M00926_AP-1
+MOTIF Transfac_M00926_AP-1 AP-1
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.067227	  0.058824	  0.159664	  0.714286	
@@ -7514,7 +7514,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.991597	  0.008403	  0.000000	  0.000000	
   0.100840	  0.243697	  0.252101	  0.403361	
 
-MOTIF Transfac_M00927_AP-4 M00927_AP-4
+MOTIF Transfac_M00927_AP-4 AP-4
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.428571	  0.142857	  0.428571	  0.000000	
@@ -7527,7 +7527,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.142857	  0.571429	  0.000000	  0.285714	
 
-MOTIF Transfac_M00929_MyoD M00929_MyoD
+MOTIF Transfac_M00929_MyoD MyoD
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.222222	  0.500000	  0.166667	  0.111111	
@@ -7549,7 +7549,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.500000	  0.111111	  0.222222	  0.166667	
   0.166667	  0.222222	  0.444444	  0.166667	
 
-MOTIF Transfac_M00930_Oct-1 M00930_Oct-1
+MOTIF Transfac_M00930_Oct-1 Oct-1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.166667	  0.092593	  0.148148	  0.592593	
@@ -7564,7 +7564,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.037037	  0.055556	  0.000000	  0.907407	
   0.425926	  0.074074	  0.166667	  0.333333	
 
-MOTIF Transfac_M00931_Sp-1 M00931_Sp-1
+MOTIF Transfac_M00931_Sp-1 Sp-1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.157447	  0.072340	  0.582979	  0.187234	
@@ -7578,7 +7578,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.131915	  0.131915	  0.659574	  0.076596	
   0.131915	  0.506383	  0.170213	  0.191489	
 
-MOTIF Transfac_M00932_Sp-1 M00932_Sp-1
+MOTIF Transfac_M00932_Sp-1 Sp-1
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.358824	  0.211765	  0.276471	  0.152941	
@@ -7595,7 +7595,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.135294	  0.482353	  0.176471	  0.205882	
   0.123529	  0.388235	  0.264706	  0.223529	
 
-MOTIF Transfac_M00933_Sp-1 M00933_Sp-1
+MOTIF Transfac_M00933_Sp-1 Sp-1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.087379	  0.689320	  0.097087	  0.126214	
@@ -7609,7 +7609,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.203883	  0.601942	  0.048544	  0.145631	
   0.087379	  0.475728	  0.203883	  0.233010	
 
-MOTIF Transfac_M00935_NF-AT M00935_NF-AT
+MOTIF Transfac_M00935_NF-AT NF-AT
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.193548	  0.225806	  0.387097	  0.193548	
@@ -7623,7 +7623,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.290323	  0.129032	  0.064516	  0.516129	
   0.096774	  0.354839	  0.161290	  0.387097	
 
-MOTIF Transfac_M00938_E2F-1 M00938_E2F-1
+MOTIF Transfac_M00938_E2F-1 E2F-1
 
 letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.181818	  0.000000	  0.181818	  0.636364	
@@ -7643,7 +7643,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
   0.272727	  0.272727	  0.363636	  0.090909	
   0.363636	  0.454545	  0.181818	  0.000000	
 
-MOTIF Transfac_M00939_E2F-1 M00939_E2F-1
+MOTIF Transfac_M00939_E2F-1 E2F-1
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.064516	  0.193548	  0.032258	  0.709677	
@@ -7656,7 +7656,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  0.612903	  0.387097	  0.000000	
   0.032258	  0.161290	  0.645161	  0.161290	
 
-MOTIF Transfac_M00940_E2F-1 M00940_E2F-1
+MOTIF Transfac_M00940_E2F-1 E2F-1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.263158	  0.052632	  0.368421	  0.315789	
@@ -7670,7 +7670,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  0.684211	  0.315789	  0.000000	
   0.000000	  0.526316	  0.315789	  0.157895	
 
-MOTIF Transfac_M00941_MEF-2 M00941_MEF-2
+MOTIF Transfac_M00941_MEF-2 MEF-2
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.307692	  0.000000	  0.461538	  0.230769	
@@ -7686,7 +7686,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.846154	  0.000000	  0.153846	  0.000000	
   0.384615	  0.076923	  0.384615	  0.153846	
 
-MOTIF Transfac_M00947_CP2/LBP-1c/LSF M00947_CP2/LBP-1c/LSF
+MOTIF Transfac_M00947_CP2/LBP-1c/LSF CP2/LBP-1c/LSF
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.263158	  0.000000	  0.578947	  0.157895	
@@ -7705,7 +7705,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.263158	  0.052632	  0.421053	  0.263158	
   0.000000	  0.263158	  0.736842	  0.000000	
 
-MOTIF Transfac_M00953_AR M00953_AR
+MOTIF Transfac_M00953_AR AR
 
 letter-probability matrix: alength= 4 w= 27 nsites= 20 E= 0
   0.215686	  0.274510	  0.274510	  0.235294	
@@ -7736,7 +7736,7 @@ letter-probability matrix: alength= 4 w= 27 nsites= 20 E= 0
   0.176471	  0.294118	  0.254902	  0.274510	
   0.254902	  0.235294	  0.274510	  0.235294	
 
-MOTIF Transfac_M00954_PR M00954_PR
+MOTIF Transfac_M00954_PR PR
 
 letter-probability matrix: alength= 4 w= 27 nsites= 20 E= 0
   0.173077	  0.153846	  0.365385	  0.307692	
@@ -7767,7 +7767,7 @@ letter-probability matrix: alength= 4 w= 27 nsites= 20 E= 0
   0.269231	  0.192308	  0.365385	  0.173077	
   0.173077	  0.134615	  0.384615	  0.307692	
 
-MOTIF Transfac_M00955_GR M00955_GR
+MOTIF Transfac_M00955_GR GR
 
 letter-probability matrix: alength= 4 w= 27 nsites= 20 E= 0
   0.207547	  0.169811	  0.320755	  0.301887	
@@ -7798,7 +7798,7 @@ letter-probability matrix: alength= 4 w= 27 nsites= 20 E= 0
   0.283019	  0.150943	  0.283019	  0.283019	
   0.433962	  0.113208	  0.283019	  0.169811	
 
-MOTIF Transfac_M00956_AR M00956_AR
+MOTIF Transfac_M00956_AR AR
 
 letter-probability matrix: alength= 4 w= 27 nsites= 20 E= 0
   0.326923	  0.153846	  0.307692	  0.211538	
@@ -7829,7 +7829,7 @@ letter-probability matrix: alength= 4 w= 27 nsites= 20 E= 0
   0.153846	  0.211538	  0.365385	  0.269231	
   0.250000	  0.230769	  0.288462	  0.230769	
 
-MOTIF Transfac_M00957_PR M00957_PR
+MOTIF Transfac_M00957_PR PR
 
 letter-probability matrix: alength= 4 w= 27 nsites= 20 E= 0
   0.203704	  0.166667	  0.444444	  0.185185	
@@ -7860,7 +7860,7 @@ letter-probability matrix: alength= 4 w= 27 nsites= 20 E= 0
   0.222222	  0.185185	  0.370370	  0.222222	
   0.277778	  0.222222	  0.296296	  0.203704	
 
-MOTIF Transfac_M00959_ER M00959_ER
+MOTIF Transfac_M00959_ER ER
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.230769	  0.410256	  0.205128	  0.153846	
@@ -7875,7 +7875,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.179487	  0.282051	  0.435897	  0.102564	
   0.102564	  0.282051	  0.076923	  0.538462	
 
-MOTIF Transfac_M00960_PR/GR M00960_PR/GR
+MOTIF Transfac_M00960_PR/GR PR/GR
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.200000	  0.100000	  0.500000	  0.200000	
@@ -7889,7 +7889,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.950000	  0.000000	  0.000000	  0.050000	
   0.150000	  0.250000	  0.300000	  0.300000	
 
-MOTIF Transfac_M00961_VDR M00961_VDR
+MOTIF Transfac_M00961_VDR VDR
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.238095	  0.523810	  0.190476	  0.047619	
@@ -7905,7 +7905,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.047619	  0.761905	  0.095238	  0.095238	
   0.285714	  0.333333	  0.095238	  0.285714	
 
-MOTIF Transfac_M00962_AR M00962_AR
+MOTIF Transfac_M00962_AR AR
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.366667	  0.066667	  0.133333	  0.433333	
@@ -7918,7 +7918,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.366667	  0.000000	  0.433333	  0.200000	
   0.300000	  0.200000	  0.200000	  0.300000	
 
-MOTIF Transfac_M00963_T3R M00963_T3R
+MOTIF Transfac_M00963_T3R T3R
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.333333	  0.444444	  0.027778	  0.194444	
@@ -7931,7 +7931,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  0.111111	  0.027778	  0.861111	
   0.027778	  0.277778	  0.277778	  0.416667	
 
-MOTIF Transfac_M00964_PXR/CAR/LXR/FXR M00964_PXR/CAR/LXR/FXR
+MOTIF Transfac_M00964_PXR/CAR/LXR/FXR PXR/CAR/LXR/FXR
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.424242	  0.000000	  0.333333	  0.242424	
@@ -7947,7 +7947,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.484848	  0.060606	  0.242424	  0.212121	
   0.424242	  0.424242	  0.090909	  0.060606	
 
-MOTIF Transfac_M00965_LXR/PXR/CAR/COUP/RAR M00965_LXR/PXR/CAR/COUP/RAR
+MOTIF Transfac_M00965_LXR/PXR/CAR/COUP/RAR LXR/PXR/CAR/COUP/RAR
 
 letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.000000	  0.263158	  0.105263	  0.631579	
@@ -7968,7 +7968,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.052632	  0.578947	  0.052632	  0.315789	
   0.210526	  0.473684	  0.105263	  0.210526	
 
-MOTIF Transfac_M00966_VDR/CAR/PXR M00966_VDR/CAR/PXR
+MOTIF Transfac_M00966_VDR/CAR/PXR VDR/CAR/PXR
 
 letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.357143	  0.142857	  0.500000	  0.000000	
@@ -7993,7 +7993,7 @@ letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.071429	  0.285714	  0.214286	  0.428571	
   0.071429	  0.000000	  0.285714	  0.642857	
 
-MOTIF Transfac_M00967_HNF4/COUP M00967_HNF4/COUP
+MOTIF Transfac_M00967_HNF4/COUP HNF4/COUP
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.514286	  0.114286	  0.200000	  0.171429	
@@ -8006,7 +8006,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.971429	  0.028571	  0.000000	  0.000000	
   0.314286	  0.228571	  0.257143	  0.200000	
 
-MOTIF Transfac_M00971_Ets M00971_Ets
+MOTIF Transfac_M00971_Ets Ets
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.506173	  0.148148	  0.246914	  0.098765	
@@ -8018,7 +8018,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.049383	  0.098765	  0.172840	  0.679012	
   0.061728	  0.407407	  0.382716	  0.148148	
 
-MOTIF Transfac_M00972_IRF M00972_IRF
+MOTIF Transfac_M00972_IRF IRF
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.444444	  0.027778	  0.500000	  0.027778	
@@ -8033,7 +8033,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.861111	  0.027778	  0.000000	  0.111111	
   0.194444	  0.305556	  0.333333	  0.166667	
 
-MOTIF Transfac_M00973_E2A M00973_E2A
+MOTIF Transfac_M00973_E2A E2A
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
@@ -8045,7 +8045,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.090909	  0.363636	  0.181818	  0.363636	
   0.045455	  0.545455	  0.136364	  0.272727	
 
-MOTIF Transfac_M00974_SMAD M00974_SMAD
+MOTIF Transfac_M00974_SMAD SMAD
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.200000	  0.200000	  0.050000	  0.550000	
@@ -8060,7 +8060,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.550000	  0.100000	  0.050000	  0.300000	
   0.100000	  0.300000	  0.400000	  0.200000	
 
-MOTIF Transfac_M00975_RFX M00975_RFX
+MOTIF Transfac_M00975_RFX RFX
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.200000	  0.500000	  0.300000	  0.000000	
@@ -8073,7 +8073,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.000000	  0.500000	  0.400000	  0.100000	
   0.400000	  0.100000	  0.300000	  0.200000	
 
-MOTIF Transfac_M00976_AHRHIF M00976_AHRHIF
+MOTIF Transfac_M00976_AHRHIF AHRHIF
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.127660	  0.212766	  0.255319	  0.404255	
@@ -8086,7 +8086,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.106383	  0.234043	  0.531915	  0.127660	
   0.191489	  0.276596	  0.361702	  0.170213	
 
-MOTIF Transfac_M00977_EBF M00977_EBF
+MOTIF Transfac_M00977_EBF EBF
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.000000	  0.200000	  0.400000	  0.400000	
@@ -8101,7 +8101,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.600000	  0.000000	  0.200000	  0.200000	
 
-MOTIF Transfac_M00978_LEF1TCF1 M00978_LEF1TCF1
+MOTIF Transfac_M00978_LEF1TCF1 LEF1TCF1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.277778	  0.500000	  0.166667	  0.055556	
@@ -8116,7 +8116,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.166667	  0.277778	  0.111111	  0.444444	
   0.111111	  0.333333	  0.111111	  0.444444	
 
-MOTIF Transfac_M00979_PAX6 M00979_PAX6
+MOTIF Transfac_M00979_PAX6 PAX6
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.090909	  0.863636	  0.045455	  0.000000	
@@ -8134,7 +8134,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.045455	  0.045455	  0.136364	  0.772727	
   0.363636	  0.454545	  0.045455	  0.136364	
 
-MOTIF Transfac_M00980_TBP M00980_TBP
+MOTIF Transfac_M00980_TBP TBP
 
 letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.050000	  0.050000	  0.050000	  0.850000	
@@ -8145,7 +8145,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
   0.600000	  0.150000	  0.100000	  0.150000	
   0.100000	  0.400000	  0.250000	  0.250000	
 
-MOTIF Transfac_M00981_CREBATF M00981_CREBATF
+MOTIF Transfac_M00981_CREBATF CREBATF
 
 letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.283333	  0.200000	  0.416667	  0.100000	
@@ -8158,7 +8158,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 20 E= 0
   0.333333	  0.416667	  0.116667	  0.133333	
   0.516667	  0.083333	  0.216667	  0.183333	
 
-MOTIF Transfac_M00982_KROX M00982_KROX
+MOTIF Transfac_M00982_KROX KROX
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.043478	  0.521739	  0.217391	  0.217391	
@@ -8176,7 +8176,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.130435	  0.565217	  0.173913	  0.130435	
   0.130435	  0.695652	  0.130435	  0.043478	
 
-MOTIF Transfac_M00983_MAF M00983_MAF
+MOTIF Transfac_M00983_MAF MAF
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.153846	  0.153846	  0.192308	  0.500000	
@@ -8191,7 +8191,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.230769	  0.076923	  0.307692	  0.384615	
 
-MOTIF Transfac_M00984_PEBP M00984_PEBP
+MOTIF Transfac_M00984_PEBP PEBP
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.200000	  0.133333	  0.600000	  0.066667	
@@ -8210,7 +8210,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.200000	  0.266667	  0.333333	  0.200000	
   0.133333	  0.066667	  0.266667	  0.533333	
 
-MOTIF Transfac_M00985_Stra13 M00985_Stra13
+MOTIF Transfac_M00985_Stra13 Stra13
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.130435	  0.391304	  0.304348	  0.173913	
@@ -8228,7 +8228,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.173913	  0.391304	  0.217391	  0.217391	
   0.304348	  0.173913	  0.260870	  0.260870	
 
-MOTIF Transfac_M00986_Churchill M00986_Churchill
+MOTIF Transfac_M00986_Churchill Churchill
 
 letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.140000	  0.520000	  0.170000	  0.170000	
@@ -8238,7 +8238,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.280000	  0.100000	  0.380000	  0.240000	
   0.310000	  0.210000	  0.410000	  0.070000	
 
-MOTIF Transfac_M00987_FOXP1 M00987_FOXP1
+MOTIF Transfac_M00987_FOXP1 FOXP1
 
 letter-probability matrix: alength= 4 w= 20 nsites= 20 E= 0
   0.013158	  0.000000	  0.000000	  0.986842	
@@ -8262,7 +8262,7 @@ letter-probability matrix: alength= 4 w= 20 nsites= 20 E= 0
   0.644737	  0.000000	  0.013158	  0.342105	
   0.000000	  0.000000	  0.000000	  1.000000	
 
-MOTIF Transfac_M00991_CDX M00991_CDX
+MOTIF Transfac_M00991_CDX CDX
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.250000	  0.166667	  0.166667	  0.416667	
@@ -8284,7 +8284,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.615385	  0.153846	  0.000000	  0.230769	
   0.692308	  0.153846	  0.153846	  0.000000	
 
-MOTIF Transfac_M00992_FOXP3 M00992_FOXP3
+MOTIF Transfac_M00992_FOXP3 FOXP3
 
 letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.400000	  0.000000	  0.600000	  0.000000	
@@ -8305,7 +8305,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.800000	  0.000000	  0.200000	  0.000000	
   0.000000	  0.600000	  0.200000	  0.200000	
 
-MOTIF Transfac_M00993_TAL1 M00993_TAL1
+MOTIF Transfac_M00993_TAL1 TAL1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.250000	  0.000000	  0.250000	  0.500000	
@@ -8319,7 +8319,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.200000	  0.400000	  0.200000	  0.200000	
   0.000000	  0.400000	  0.000000	  0.600000	
 
-MOTIF Transfac_M00997_DEC M00997_DEC
+MOTIF Transfac_M00997_DEC DEC
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.200000	  0.400000	  0.400000	  0.000000	
@@ -8336,7 +8336,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.000000	  0.200000	  0.600000	  0.200000	
   0.200000	  0.200000	  0.400000	  0.200000	
 
-MOTIF Transfac_M00998_PBX M00998_PBX
+MOTIF Transfac_M00998_PBX PBX
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
@@ -8352,7 +8352,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.333333	  0.222222	  0.111111	  0.333333	
   0.111111	  0.333333	  0.444444	  0.111111	
 
-MOTIF Transfac_M00999_AIRE M00999_AIRE
+MOTIF Transfac_M00999_AIRE AIRE
 
 letter-probability matrix: alength= 4 w= 26 nsites= 20 E= 0
   0.281250	  0.156250	  0.031250	  0.531250	
@@ -8382,7 +8382,7 @@ letter-probability matrix: alength= 4 w= 26 nsites= 20 E= 0
   0.531250	  0.093750	  0.031250	  0.343750	
   0.281250	  0.125000	  0.156250	  0.437500	
 
-MOTIF Transfac_M01000_AIRE M01000_AIRE
+MOTIF Transfac_M01000_AIRE AIRE
 
 letter-probability matrix: alength= 4 w= 25 nsites= 20 E= 0
   0.000000	  0.272727	  0.727273	  0.000000	
@@ -8411,7 +8411,7 @@ letter-probability matrix: alength= 4 w= 25 nsites= 20 E= 0
   0.000000	  0.100000	  0.100000	  0.800000	
   0.400000	  0.000000	  0.300000	  0.300000	
 
-MOTIF Transfac_M01001_DEAF1 M01001_DEAF1
+MOTIF Transfac_M01001_DEAF1 DEAF1
 
 letter-probability matrix: alength= 4 w= 25 nsites= 20 E= 0
   0.250000	  0.437500	  0.250000	  0.062500	
@@ -8440,7 +8440,7 @@ letter-probability matrix: alength= 4 w= 25 nsites= 20 E= 0
   0.312500	  0.250000	  0.187500	  0.250000	
   0.125000	  0.250000	  0.437500	  0.187500	
 
-MOTIF Transfac_M01002_DEAF1 M01002_DEAF1
+MOTIF Transfac_M01002_DEAF1 DEAF1
 
 letter-probability matrix: alength= 4 w= 25 nsites= 20 E= 0
   0.307692	  0.153846	  0.461538	  0.076923	
@@ -8469,7 +8469,7 @@ letter-probability matrix: alength= 4 w= 25 nsites= 20 E= 0
   0.071429	  0.071429	  0.571429	  0.285714	
   0.214286	  0.285714	  0.142857	  0.357143	
 
-MOTIF Transfac_M01003_Helios_A M01003_Helios_A
+MOTIF Transfac_M01003_Helios_A Helios_A
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.263158	  0.315789	  0.052632	  0.368421	
@@ -8484,7 +8484,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.473684	  0.105263	  0.157895	  0.263158	
   0.368421	  0.157895	  0.210526	  0.263158	
 
-MOTIF Transfac_M01004_Helios_A M01004_Helios_A
+MOTIF Transfac_M01004_Helios_A Helios_A
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.428571	  0.071429	  0.071429	  0.428571	
@@ -8499,7 +8499,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.866667	  0.033333	  0.033333	  0.066667	
   0.400000	  0.266667	  0.100000	  0.233333	
 
-MOTIF Transfac_M01007_SRF M01007_SRF
+MOTIF Transfac_M01007_SRF SRF
 
 letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.129630	  0.537037	  0.203704	  0.129630	
@@ -8522,7 +8522,7 @@ letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.388889	  0.166667	  0.203704	  0.240741	
   0.092593	  0.166667	  0.333333	  0.407407	
 
-MOTIF Transfac_M01009_HES1 M01009_HES1
+MOTIF Transfac_M01009_HES1 HES1
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.500000	  0.125000	  0.250000	  0.125000	
@@ -8541,7 +8541,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.375000	  0.375000	  0.125000	  0.125000	
   0.250000	  0.125000	  0.500000	  0.125000	
 
-MOTIF Transfac_M01010_HMGIY M01010_HMGIY
+MOTIF Transfac_M01010_HMGIY HMGIY
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.440000	  0.240000	  0.080000	  0.240000	
@@ -8560,7 +8560,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.200000	  0.160000	  0.360000	  0.280000	
   0.400000	  0.080000	  0.200000	  0.320000	
 
-MOTIF Transfac_M01011_HNF1 M01011_HNF1
+MOTIF Transfac_M01011_HNF1 HNF1
 
 letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.354167	  0.229167	  0.125000	  0.291667	
@@ -8585,7 +8585,7 @@ letter-probability matrix: alength= 4 w= 21 nsites= 20 E= 0
   0.229167	  0.166667	  0.291667	  0.312500	
   0.340426	  0.170213	  0.255319	  0.234043	
 
-MOTIF Transfac_M01012_HNF3 M01012_HNF3
+MOTIF Transfac_M01012_HNF3 HNF3
 
 letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.192982	  0.263158	  0.210526	  0.333333	
@@ -8607,7 +8607,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 20 E= 0
   0.070175	  0.175439	  0.368421	  0.385965	
   0.192982	  0.333333	  0.140351	  0.333333	
 
-MOTIF Transfac_M01013_IPF1 M01013_IPF1
+MOTIF Transfac_M01013_IPF1 IPF1
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.200000	  0.200000	  0.066667	  0.533333	
@@ -8626,7 +8626,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.187500	  0.250000	  0.125000	  0.437500	
   0.125000	  0.500000	  0.250000	  0.125000	
 
-MOTIF Transfac_M01014_SOX M01014_SOX
+MOTIF Transfac_M01014_SOX SOX
 
 letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.166667	  0.666667	  0.000000	  0.166667	
@@ -8643,7 +8643,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
   0.166667	  0.166667	  0.666667	  0.000000	
   0.500000	  0.166667	  0.166667	  0.166667	
 
-MOTIF Transfac_M01017_PBX1 M01017_PBX1
+MOTIF Transfac_M01017_PBX1 PBX1
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.333333	  0.300000	  0.233333	  0.133333	
@@ -8659,7 +8659,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.300000	  0.166667	  0.233333	  0.300000	
   0.266667	  0.233333	  0.266667	  0.233333	
 
-MOTIF Transfac_M01019_TBX5 M01019_TBX5
+MOTIF Transfac_M01019_TBX5 TBX5
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.342857	  0.114286	  0.257143	  0.285714	
@@ -8675,7 +8675,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.307692	  0.230769	  0.256410	  0.205128	
   0.457143	  0.114286	  0.228571	  0.200000	
 
-MOTIF Transfac_M01020_TBX5 M01020_TBX5
+MOTIF Transfac_M01020_TBX5 TBX5
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.066667	  0.266667	  0.133333	  0.533333	
@@ -8689,7 +8689,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  0.153846	  0.307692	  0.538462	
   0.454545	  0.272727	  0.272727	  0.000000	
 
-MOTIF Transfac_M01022_LEF1 M01022_LEF1
+MOTIF Transfac_M01022_LEF1 LEF1
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.090909	  0.363636	  0.363636	  0.181818	
@@ -8703,7 +8703,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.173913	  0.130435	  0.391304	  0.304348	
   0.217391	  0.260870	  0.434783	  0.086957	
 
-MOTIF Transfac_M01023_HSF1 M01023_HSF1
+MOTIF Transfac_M01023_HSF1 HSF1
 
 letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.363636	  0.363636	  0.090909	  0.181818	
@@ -8724,7 +8724,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
   0.000000	  0.545455	  0.090909	  0.363636	
   0.363636	  0.454545	  0.181818	  0.000000	
 
-MOTIF Transfac_M01028_NRSF M01028_NRSF
+MOTIF Transfac_M01028_NRSF NRSF
 
 letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.000000	  0.142857	  0.785714	  0.071429	
@@ -8747,7 +8747,7 @@ letter-probability matrix: alength= 4 w= 19 nsites= 20 E= 0
   0.000000	  0.071429	  0.928571	  0.000000	
   0.642857	  0.142857	  0.214286	  0.000000	
 
-MOTIF Transfac_M01029_TFE M01029_TFE
+MOTIF Transfac_M01029_TFE TFE
 
 letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.214286	  0.107143	  0.107143	  0.571429	
@@ -8759,7 +8759,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.357143	  0.250000	  0.250000	  0.142857	
 
-MOTIF Transfac_M01031_HNF4 M01031_HNF4
+MOTIF Transfac_M01031_HNF4 HNF4
 
 letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.327586	  0.137931	  0.362069	  0.172414	
@@ -8777,7 +8777,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
   0.793103	  0.034483	  0.103448	  0.068966	
   0.293103	  0.258621	  0.241379	  0.206897	
 
-MOTIF Transfac_M01032_HNF4 M01032_HNF4
+MOTIF Transfac_M01032_HNF4 HNF4
 
 letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.844828	  0.000000	  0.155172	  0.000000	
@@ -8787,7 +8787,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.017241	  0.810345	  0.034483	  0.137931	
   0.793103	  0.034483	  0.103448	  0.068966	
 
-MOTIF Transfac_M01033_HNF4 M01033_HNF4
+MOTIF Transfac_M01033_HNF4 HNF4
 
 letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.327586	  0.137931	  0.362069	  0.172414	
@@ -8797,7 +8797,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
   0.034483	  0.827586	  0.034483	  0.103448	
   0.896552	  0.017241	  0.000000	  0.086207	
 
-MOTIF Transfac_M01034_Ebox M01034_Ebox
+MOTIF Transfac_M01034_Ebox Ebox
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.134454	  0.495798	  0.176471	  0.193277	
@@ -8811,7 +8811,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.042017	  0.596639	  0.117647	  0.243697	
   0.134454	  0.394958	  0.218487	  0.252101	
 
-MOTIF Transfac_M01035_YY1 M01035_YY1
+MOTIF Transfac_M01035_YY1 YY1
 
 letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.200000	  0.257143	  0.314286	  0.228571	
@@ -8826,7 +8826,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 20 E= 0
   0.171429	  0.085714	  0.057143	  0.685714	
   0.142857	  0.114286	  0.171429	  0.571429	
 
-MOTIF Transfac_M01036_COUPTF M01036_COUPTF
+MOTIF Transfac_M01036_COUPTF COUPTF
 
 letter-probability matrix: alength= 4 w= 23 nsites= 20 E= 0
   0.038462	  0.346154	  0.269231	  0.346154	
@@ -8853,7 +8853,7 @@ letter-probability matrix: alength= 4 w= 23 nsites= 20 E= 0
   0.307692	  0.576923	  0.038462	  0.076923	
   0.153846	  0.384615	  0.153846	  0.307692	
 
-MOTIF Transfac_M01037_GLI M01037_GLI
+MOTIF Transfac_M01037_GLI GLI
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.266667	  0.333333	  0.066667	  0.333333	
@@ -8869,7 +8869,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.000000	  0.800000	  0.133333	  0.066667	
   0.066667	  0.466667	  0.266667	  0.200000	
 
-MOTIF Transfac_M01043_NKX25 M01043_NKX25
+MOTIF Transfac_M01043_NKX25 NKX25
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.076923	  0.307692	  0.000000	  0.615385	
@@ -8883,7 +8883,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  0.384615	  0.538462	  0.076923	
   0.538462	  0.384615	  0.076923	  0.000000	
 
-MOTIF Transfac_M01044_TBX5 M01044_TBX5
+MOTIF Transfac_M01044_TBX5 TBX5
 
 letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.125000	  0.625000	  0.000000	  0.250000	
@@ -8897,7 +8897,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.125000	  0.000000	  0.250000	  0.625000	
 
-MOTIF Transfac_M01045_AP-2alphaA M01045_AP-2alphaA
+MOTIF Transfac_M01045_AP-2alphaA AP-2alphaA
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.557143	  0.157143	  0.128571	  0.157143	
@@ -8916,7 +8916,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.400000	  0.228571	  0.228571	  0.142857	
   0.085714	  0.242857	  0.142857	  0.528571	
 
-MOTIF Transfac_M01047_AP-2alphaA M01047_AP-2alphaA
+MOTIF Transfac_M01047_AP-2alphaA AP-2alphaA
 
 letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.612903	  0.161290	  0.145161	  0.080645	
@@ -8935,7 +8935,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
   0.322581	  0.193548	  0.338710	  0.145161	
   0.080645	  0.145161	  0.161290	  0.612903	
 
-MOTIF Transfac_M01058_GFI1B M01058_GFI1B
+MOTIF Transfac_M01058_GFI1B GFI1B
 
 letter-probability matrix: alength= 4 w= 12 nsites= 20 E= 0
   0.046512	  0.302326	  0.023256	  0.627907	

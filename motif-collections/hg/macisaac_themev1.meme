@@ -7,7 +7,7 @@ strands: + -
 Background letter frequencies (from multiple tamo log-odds matricies):
 A 0.27040 C 0.22960 G 0.22960 T 0.27040 
 
-MOTIF Fork_head 
+MOTIF Fork_head Fork_head 
 
 log-odds matrix: alength= 4 w= 8 E= 0
     97	   -28	  -114	   -62	
@@ -31,7 +31,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 115 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF HMG_box 
+MOTIF HMG_box HMG_box 
 
 log-odds matrix: alength= 4 w= 8 E= 0
    180	  -209	  -768	  -721	
@@ -55,7 +55,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 170 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF NeuroD1 
+MOTIF NeuroD1 NeuroD1 
 
 log-odds matrix: alength= 4 w= 8 E= 0
    -38	   -21	   122	  -218	
@@ -79,7 +79,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 407 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF NeuroD1_1 
+MOTIF NeuroD1_1 NeuroD1 
 
 log-odds matrix: alength= 4 w= 6 E= 0
   -516	   208	  -414	  -512	
@@ -99,7 +99,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 63 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF NeuroD1_2 
+MOTIF NeuroD1_2 NeuroD1 
 
 log-odds matrix: alength= 4 w= 8 E= 0
   -100	   129	   -79	   -66	
@@ -123,7 +123,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 88 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF NeuroD1_3 
+MOTIF NeuroD1_3 NeuroD1 
 
 log-odds matrix: alength= 4 w= 8 E= 0
   -117	   -51	  -103	   117	
@@ -147,7 +147,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 95 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF RHD 
+MOTIF RHD RHD 
 
 log-odds matrix: alength= 4 w= 9 E= 0
   -332	   -87	   175	  -182	
@@ -173,7 +173,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 120 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF RHD_1 
+MOTIF RHD_1 RHD 
 
 log-odds matrix: alength= 4 w= 9 E= 0
   -258	   -43	   119	    -5	
@@ -199,7 +199,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 52 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF RHD_2 
+MOTIF RHD_2 RHD 
 
 log-odds matrix: alength= 4 w= 10 E= 0
   -647	  -428	   208	  -439	
@@ -227,7 +227,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 100 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF RHD_3 
+MOTIF RHD_3 RHD 
 
 log-odds matrix: alength= 4 w= 10 E= 0
   -398	  -390	   204	  -346	
@@ -255,7 +255,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 142 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF RHD_4 
+MOTIF RHD_4 RHD 
 
 log-odds matrix: alength= 4 w= 10 E= 0
   -644	  -692	   205	  -265	
@@ -283,7 +283,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 99 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF RHD_5 
+MOTIF RHD_5 RHD 
 
 log-odds matrix: alength= 4 w= 10 E= 0
   -483	  -393	   205	  -349	
@@ -311,7 +311,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 144 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF bZIP 
+MOTIF bZIP bZIP 
 
 log-odds matrix: alength= 4 w= 8 E= 0
     47	     2	    77	  -848	
@@ -335,7 +335,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 411 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF bZIP_1 
+MOTIF bZIP_1 bZIP 
 
 log-odds matrix: alength= 4 w= 8 E= 0
   -338	  -113	  -148	   154	
@@ -359,7 +359,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 128 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF bZIP_2 
+MOTIF bZIP_2 bZIP 
 
 log-odds matrix: alength= 4 w= 8 E= 0
   -209	   157	  -121	   -80	
@@ -383,7 +383,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 193 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF creb 
+MOTIF creb creb 
 
 log-odds matrix: alength= 4 w= 8 E= 0
    109	    53	  -307	  -206	
@@ -407,7 +407,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 72 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF creb_1 
+MOTIF creb_1 creb 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    142	  -134	   -79	  -235	
@@ -435,7 +435,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 73 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF creb_2 
+MOTIF creb_2 creb 
 
 log-odds matrix: alength= 4 w= 9 E= 0
    136	   -64	   -95	  -285	
@@ -461,7 +461,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 76 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF creb_3 
+MOTIF creb_3 creb 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    154	  -178	  -126	  -235	
@@ -489,7 +489,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 55 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF creb_4 
+MOTIF creb_4 creb 
 
 log-odds matrix: alength= 4 w= 10 E= 0
   -215	  -288	   179	  -121	
@@ -517,7 +517,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 108 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF creb_5 
+MOTIF creb_5 creb 
 
 log-odds matrix: alength= 4 w= 7 E= 0
   -254	  -264	   194	  -295	
@@ -539,7 +539,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 116 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF creb_6 
+MOTIF creb_6 creb 
 
 log-odds matrix: alength= 4 w= 8 E= 0
    -62	  -115	   161	  -379	
@@ -563,7 +563,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 131 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF creb_7 
+MOTIF creb_7 creb 
 
 log-odds matrix: alength= 4 w= 8 E= 0
   -336	  -289	  -510	   179	
@@ -587,7 +587,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 87 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF creb_8 
+MOTIF creb_8 creb 
 
 log-odds matrix: alength= 4 w= 6 E= 0
   -140	  -289	   -99	   147	
@@ -607,7 +607,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 91 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF crel 
+MOTIF crel crel 
 
 log-odds matrix: alength= 4 w= 9 E= 0
   -507	  -574	   210	  -583	
@@ -633,7 +633,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 66 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF crel_1 
+MOTIF crel_1 crel 
 
 log-odds matrix: alength= 4 w= 8 E= 0
   -621	  -598	   210	  -500	
@@ -657,7 +657,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 59 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF crel_2 
+MOTIF crel_2 crel 
 
 log-odds matrix: alength= 4 w= 11 E= 0
   -379	  -168	   190	  -238	
@@ -687,7 +687,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 42 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF e2f4 
+MOTIF e2f4 e2f4 
 
 log-odds matrix: alength= 4 w= 8 E= 0
   -476	   -20	   176	  -476	
@@ -711,7 +711,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 30 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF hnf3beta 
+MOTIF hnf3beta hnf3beta 
 
 log-odds matrix: alength= 4 w= 6 E= 0
    -93	  -202	   124	    -7	
@@ -731,7 +731,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 67 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF hnf3beta_1 
+MOTIF hnf3beta_1 hnf3beta 
 
 log-odds matrix: alength= 4 w= 8 E= 0
   -317	  -614	  -239	   177	
@@ -755,7 +755,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 77 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF hnf4 
+MOTIF hnf4 hnf4 
 
 log-odds matrix: alength= 4 w= 8 E= 0
     -1	    36	   -50	     2	
@@ -779,7 +779,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 689 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF hnf4_1 
+MOTIF hnf4_1 hnf4 
 
 log-odds matrix: alength= 4 w= 14 E= 0
     54	  -619	   139	  -587	
@@ -815,7 +815,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 62 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF hnf4_2 
+MOTIF hnf4_2 hnf4 
 
 log-odds matrix: alength= 4 w= 15 E= 0
    142	  -359	    -9	  -275	
@@ -853,7 +853,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 29 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF hnf4_3 
+MOTIF hnf4_3 hnf4 
 
 log-odds matrix: alength= 4 w= 15 E= 0
    144	  -329	     5	  -596	
@@ -891,7 +891,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 48 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF hnf4_4 
+MOTIF hnf4_4 hnf4 
 
 log-odds matrix: alength= 4 w= 12 E= 0
    163	  -313	  -189	  -184	
@@ -923,7 +923,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 28 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF hnf4_5 
+MOTIF hnf4_5 hnf4 
 
 log-odds matrix: alength= 4 w= 11 E= 0
   -150	  -154	  -139	   145	
@@ -953,7 +953,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 72 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF hnf4_6 
+MOTIF hnf4_6 hnf4 
 
 log-odds matrix: alength= 4 w= 16 E= 0
   -455	  -515	  -196	   177	
@@ -993,7 +993,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 46 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF hnf4_7 
+MOTIF hnf4_7 hnf4 
 
 log-odds matrix: alength= 4 w= 14 E= 0
   -361	  -239	  -574	   178	
@@ -1029,7 +1029,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 102 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF hnf6 
+MOTIF hnf6 hnf6 
 
 log-odds matrix: alength= 4 w= 8 E= 0
    187	  -652	  -652	  -607	
@@ -1053,7 +1053,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 76 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF hnf6_1 
+MOTIF hnf6_1 hnf6 
 
 log-odds matrix: alength= 4 w= 15 E= 0
   -497	   179	   -29	  -497	
@@ -1091,7 +1091,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 32 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF hnf6_2 
+MOTIF hnf6_2 hnf6 
 
 log-odds matrix: alength= 4 w= 6 E= 0
   -400	   193	  -158	  -317	
@@ -1111,7 +1111,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 28 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF hnf6_3 
+MOTIF hnf6_3 hnf6 
 
 log-odds matrix: alength= 4 w= 8 E= 0
   -264	   160	   -27	  -199	
@@ -1135,7 +1135,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 32 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF homeobox 
+MOTIF homeobox homeobox 
 
 log-odds matrix: alength= 4 w= 8 E= 0
   -770	   -50	  -816	   163	
@@ -1159,7 +1159,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 237 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF nanog 
+MOTIF nanog nanog 
 
 log-odds matrix: alength= 4 w= 8 E= 0
    179	  -333	  -337	  -386	
@@ -1183,7 +1183,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 74 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF nanog_1 
+MOTIF nanog_1 nanog 
 
 log-odds matrix: alength= 4 w= 7 E= 0
    167	  -237	  -199	  -274	
@@ -1205,7 +1205,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 144 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF nanog_2 
+MOTIF nanog_2 nanog 
 
 log-odds matrix: alength= 4 w= 11 E= 0
   -233	  -189	  -354	   168	
@@ -1235,7 +1235,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 74 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF nanog_3 
+MOTIF nanog_3 nanog 
 
 log-odds matrix: alength= 4 w= 8 E= 0
   -351	  -157	  -386	   171	
@@ -1259,7 +1259,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 144 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF oct4 
+MOTIF oct4 oct4 
 
 log-odds matrix: alength= 4 w= 7 E= 0
   -424	  -500	  -280	   181	
@@ -1281,7 +1281,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 26 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF p52 
+MOTIF p52 p52 
 
 log-odds matrix: alength= 4 w= 9 E= 0
   -522	  -581	   210	  -590	
@@ -1307,7 +1307,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 78 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF p52_1 
+MOTIF p52_1 p52 
 
 log-odds matrix: alength= 4 w= 8 E= 0
   -618	  -604	   210	  -477	
@@ -1331,7 +1331,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 69 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF p52_2 
+MOTIF p52_2 p52 
 
 log-odds matrix: alength= 4 w= 11 E= 0
   -398	  -180	   192	  -258	
@@ -1361,7 +1361,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 50 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF p65 
+MOTIF p65 p65 
 
 log-odds matrix: alength= 4 w= 11 E= 0
   -624	  -202	   197	  -268	
@@ -1391,7 +1391,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 34 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF pou 
+MOTIF pou pou 
 
 log-odds matrix: alength= 4 w= 8 E= 0
    185	  -365	  -630	  -583	
@@ -1415,7 +1415,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 64 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF relb 
+MOTIF relb relb 
 
 log-odds matrix: alength= 4 w= 9 E= 0
   -524	  -582	   210	  -592	
@@ -1441,7 +1441,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 80 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF relb_1 
+MOTIF relb_1 relb 
 
 log-odds matrix: alength= 4 w= 8 E= 0
   -619	  -605	   210	  -479	
@@ -1465,7 +1465,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 70 E= 0
 
 URL http://fraenkel.mit.edu/THEME/logo_tables/restricted_profiles.html
 
-MOTIF relb_2 
+MOTIF relb_2 relb 
 
 log-odds matrix: alength= 4 w= 11 E= 0
   -400	  -183	   193	  -261	

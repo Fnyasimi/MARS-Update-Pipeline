@@ -7,7 +7,7 @@ strands: + -
 Background letter frequencies (from uniform background):
 A 0.25000 C 0.25000 G 0.25000 T 0.25000 
 
-MOTIF h-EHF 
+MOTIF h-EHF EHF 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    -40	   100	   -40	  -106	
@@ -35,7 +35,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-ELF1 
+MOTIF h-ELF1 ELF1 
 
 log-odds matrix: alength= 4 w= 10 E= 0
      0	    78	   -84	   -47	
@@ -63,7 +63,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-ELF2 
+MOTIF h-ELF2 ELF2 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     -6	   100	  -147	   -56	
@@ -91,7 +91,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-ELF3 
+MOTIF h-ELF3 ELF3 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    -47	    94	    -6	  -132	
@@ -119,7 +119,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-ELF4 
+MOTIF h-ELF4 ELF4 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    -17	    58	    -4	   -63	
@@ -147,7 +147,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-ELF5 
+MOTIF h-ELF5 ELF5 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    -74	   121	   -74	  -106	
@@ -175,7 +175,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-ERF 
+MOTIF h-ERF ERF 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    121	  -184	   -18	   -94	
@@ -203,7 +203,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-ERG 
+MOTIF h-ERG ERG 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    146	  -206	   -84	  -118	
@@ -231,7 +231,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-ETS1 
+MOTIF h-ETS1 ETS1 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    136	  -118	   -64	  -147	
@@ -259,7 +259,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-ETS2 
+MOTIF h-ETS2 ETS2 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    154	  -182	   -82	  -204	
@@ -287,7 +287,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-ETV1 
+MOTIF h-ETV1 ETV1 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     85	  -147	    31	   -74	
@@ -315,7 +315,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-ETV2 
+MOTIF h-ETV2 ETV2 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    106	  -106	     0	  -118	
@@ -343,7 +343,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-ETV3 
+MOTIF h-ETV3 ETV3 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    122	  -134	   -20	  -134	
@@ -371,7 +371,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-ETV4 
+MOTIF h-ETV4 ETV4 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     99	  -163	    28	  -104	
@@ -399,7 +399,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-ETV5 
+MOTIF h-ETV5 ETV5 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    126	   -74	   -74	  -132	
@@ -427,7 +427,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-ETV6 
+MOTIF h-ETV6 ETV6 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    -47	   108	   -74	   -84	
@@ -455,7 +455,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-ETV7 
+MOTIF h-ETV7 ETV7 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     18	    89	   -93	  -104	
@@ -483,7 +483,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-Elk1 
+MOTIF h-Elk1 Elk1 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    131	  -106	   -56	  -147	
@@ -511,7 +511,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-Elk3 
+MOTIF h-Elk3 Elk3 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    133	  -147	   -25	  -184	
@@ -539,7 +539,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-Elk4 
+MOTIF h-Elk4 Elk4 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     91	   -47	     6	  -147	
@@ -567,7 +567,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-FEV 
+MOTIF h-FEV FEV 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    129	  -118	   -94	   -74	
@@ -595,7 +595,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-Fli1 
+MOTIF h-Fli1 Fli1 
 
 log-odds matrix: alength= 4 w= 10 E= 0
    164	  -184	  -118	  -264	
@@ -623,7 +623,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-GABPA 
+MOTIF h-GABPA GABPA 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     91	  -132	    36	  -118	
@@ -651,7 +651,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-SPDEF 
+MOTIF h-SPDEF SPDEF 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     78	    71	  -147	  -184	
@@ -679,7 +679,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-SPI1 
+MOTIF h-SPI1 SPI1 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     60	    11	  -118	    -6	
@@ -707,7 +707,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-SPIB 
+MOTIF h-SPIB SPIB 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     30	    10	   -66	    10	
@@ -735,7 +735,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 20 E= 0
 
 URL http://dx.doi.org/10.1038/emboj.2010.106
 
-MOTIF h-SPIC 
+MOTIF h-SPIC SPIC 
 
 log-odds matrix: alength= 4 w= 10 E= 0
     31	    16	   -64	     0	

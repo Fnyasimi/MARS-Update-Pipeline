@@ -7,7 +7,7 @@ strands: + -
 Background letter frequencies (from uniform background):
 A 0.25000 C 0.25000 G 0.25000 T 0.25000 
 
-MOTIF UP00078_1 Arid3a_primary
+MOTIF UP00078_1 Arid3a Arid3a_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -48	     9	    61	   -55	
@@ -49,7 +49,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00078
 
-MOTIF UP00059_1 Arid5a_primary
+MOTIF UP00059_1 Arid5a Arid5a_primary
 
 log-odds matrix: alength= 4 w= 14 E= 0
    -50	    78	   -13	   -60	
@@ -85,7 +85,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00059
 
-MOTIF UP00099_1 Ascl2_primary
+MOTIF UP00099_1 Ascl2 Ascl2_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -57	    38	   -41	    34	
@@ -127,7 +127,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00099
 
-MOTIF UP00020_1 Atf1_primary
+MOTIF UP00020_1 Atf1 Atf1_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     61	   -89	    -3	    -7	
@@ -167,7 +167,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00020
 
-MOTIF UP00012_1 Bbx_primary
+MOTIF UP00012_1 Bbx Bbx_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     -4	   -36	  -102	    81	
@@ -205,7 +205,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00012
 
-MOTIF UP00043_1 Bcl6b_primary
+MOTIF UP00043_1 Bcl6b Bcl6b_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     47	  -160	   -30	    56	
@@ -245,7 +245,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00043
 
-MOTIF UP00050_1 Bhlhb2_primary
+MOTIF UP00050_1 Bhlhb2 Bhlhb2_primary
 
 log-odds matrix: alength= 4 w= 22 E= 0
     48	  -115	    69	   -88	
@@ -297,7 +297,7 @@ letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00050
 
-MOTIF UP00001_1 E2F2_primary
+MOTIF UP00001_1 E2F2 E2F2_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     29	   -22	    11	   -25	
@@ -335,7 +335,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00001
 
-MOTIF UP00003_1 E2F3_primary
+MOTIF UP00003_1 E2F3 E2F3_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     52	   -24	     8	   -60	
@@ -373,7 +373,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00003
 
-MOTIF UP00007_1 Egr1_primary
+MOTIF UP00007_1 Egr1 Egr1_primary
 
 log-odds matrix: alength= 4 w= 14 E= 0
    -24	    18	   -30	    27	
@@ -409,7 +409,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00007
 
-MOTIF UP00015_1 Ehf_primary
+MOTIF UP00015_1 Ehf Ehf_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     39	    28	   -11	   -87	
@@ -447,7 +447,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00015
 
-MOTIF UP00407_1 Elf3_primary
+MOTIF UP00407_1 Elf3 Elf3_primary
 
 log-odds matrix: alength= 4 w= 13 E= 0
     44	   -85	   -47	    45	
@@ -481,7 +481,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00407
 
-MOTIF UP00068_1 Eomes_primary
+MOTIF UP00068_1 Eomes Eomes_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -42	   -21	    25	    27	
@@ -523,7 +523,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00068
 
-MOTIF UP00079_1 Esrra_primary
+MOTIF UP00079_1 Esrra Esrra_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -23	   -49	    23	    34	
@@ -565,7 +565,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00079
 
-MOTIF UP00073_1 Foxa2_primary
+MOTIF UP00073_1 Foxa2 Foxa2_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     42	   -29	   -96	    40	
@@ -607,7 +607,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00073
 
-MOTIF UP00041_1 Foxj1_primary
+MOTIF UP00041_1 Foxj1 Foxj1_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     84	   -25	  -101	   -19	
@@ -647,7 +647,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00041
 
-MOTIF UP00039_1 Foxj3_primary
+MOTIF UP00039_1 Foxj3 Foxj3_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     13	     4	   -26	     6	
@@ -689,7 +689,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00039
 
-MOTIF UP00025_1 Foxk1_primary
+MOTIF UP00025_1 Foxk1 Foxk1_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     44	   -38	   -27	     7	
@@ -731,7 +731,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00025
 
-MOTIF UP00061_1 Foxl1_primary
+MOTIF UP00061_1 Foxl1 Foxl1_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     37	   -71	   -43	    44	
@@ -773,7 +773,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00061
 
-MOTIF UP00408_1 Gabpa_primary
+MOTIF UP00408_1 Gabpa Gabpa_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     48	    54	  -103	   -58	
@@ -815,7 +815,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00408
 
-MOTIF UP00032_1 Gata3_primary
+MOTIF UP00032_1 Gata3 Gata3_primary
 
 log-odds matrix: alength= 4 w= 22 E= 0
    -72	     7	     5	    39	
@@ -867,7 +867,7 @@ letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00032
 
-MOTIF UP00080_1 Gata5_primary
+MOTIF UP00080_1 Gata5 Gata5_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     39	   -36	  -117	    55	
@@ -909,7 +909,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00080
 
-MOTIF UP00100_1 Gata6_primary
+MOTIF UP00100_1 Gata6 Gata6_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     48	  -125	   -61	    61	
@@ -951,7 +951,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00100
 
-MOTIF UP00070_1 Gcm1_primary
+MOTIF UP00070_1 Gcm1 Gcm1_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
      1	   -26	   -49	    53	
@@ -991,7 +991,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00070
 
-MOTIF UP00024_1 Glis2_primary
+MOTIF UP00024_1 Glis2 Glis2_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -88	    33	   -95	    75	
@@ -1031,7 +1031,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00024
 
-MOTIF UP00042_1 Gm397_primary
+MOTIF UP00042_1 Gm397 Gm397_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     -1	    36	   -31	   -13	
@@ -1073,7 +1073,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00042
 
-MOTIF UP00084_1 Gmeb1_primary
+MOTIF UP00084_1 Gmeb1 Gmeb1_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -59	     8	    47	   -16	
@@ -1115,7 +1115,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00084
 
-MOTIF UP00055_1 Hbp1_primary
+MOTIF UP00055_1 Hbp1 Hbp1_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     48	   -50	   -65	    33	
@@ -1155,7 +1155,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00055
 
-MOTIF UP00035_1 Hic1_primary
+MOTIF UP00035_1 Hic1 Hic1_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     14	   -24	     0	     7	
@@ -1195,7 +1195,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00035
 
-MOTIF UP00066_1 Hnf4a_primary
+MOTIF UP00066_1 Hnf4a Hnf4a_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -16	    17	     1	    -4	
@@ -1237,7 +1237,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00066
 
-MOTIF UP00391_1 Hoxa3_primary
+MOTIF UP00391_1 Hoxa3 Hoxa3_primary
 
 log-odds matrix: alength= 4 w= 14 E= 0
     -9	   -37	   -13	    46	
@@ -1273,7 +1273,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00391
 
-MOTIF UP00072_1 IRC900814_primary
+MOTIF UP00072_1 IRC900814 IRC900814_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     55	   -84	   -55	    38	
@@ -1313,7 +1313,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00072
 
-MOTIF UP00086_1 Irf3_primary
+MOTIF UP00086_1 Irf3 Irf3_primary
 
 log-odds matrix: alength= 4 w= 14 E= 0
    -50	    -4	    45	    -6	
@@ -1349,7 +1349,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00086
 
-MOTIF UP00018_1 Irf4_primary
+MOTIF UP00018_1 Irf4 Irf4_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     28	    64	   -62	   -79	
@@ -1387,7 +1387,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00018
 
-MOTIF UP00040_1 Irf5_primary
+MOTIF UP00040_1 Irf5 Irf5_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     43	   -37	   -37	    14	
@@ -1425,7 +1425,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00040
 
-MOTIF UP00011_1 Irf6_primary
+MOTIF UP00011_1 Irf6 Irf6_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
      4	    54	   -74	   -12	
@@ -1467,7 +1467,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00011
 
-MOTIF UP00074_1 Isgf3g_primary
+MOTIF UP00074_1 Isgf3g Isgf3g_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     15	    29	   -23	   -29	
@@ -1505,7 +1505,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00074
 
-MOTIF UP00103_1 Jundm2_primary
+MOTIF UP00103_1 Jundm2 Jundm2_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -23	    32	    -5	   -10	
@@ -1545,7 +1545,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00103
 
-MOTIF UP00093_1 Klf7_primary
+MOTIF UP00093_1 Klf7 Klf7_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -29	   -33	   -55	    77	
@@ -1585,7 +1585,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00093
 
-MOTIF UP00067_1 Lef1_primary
+MOTIF UP00067_1 Lef1 Lef1_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     17	   -22	    15	   -15	
@@ -1627,7 +1627,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00067
 
-MOTIF UP00045_1 Mafb_primary
+MOTIF UP00045_1 Mafb Mafb_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     75	   -46	   -63	    -8	
@@ -1669,7 +1669,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00045
 
-MOTIF UP00044_1 Mafk_primary
+MOTIF UP00044_1 Mafk Mafk_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     -2	   -37	   -33	    53	
@@ -1707,7 +1707,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00044
 
-MOTIF UP00060_1 Max_primary
+MOTIF UP00060_1 Max Max_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     -9	   -71	    27	    31	
@@ -1747,7 +1747,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00060
 
-MOTIF UP00097_1 Mtf1_primary
+MOTIF UP00097_1 Mtf1 Mtf1_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -18	  -128	    74	     5	
@@ -1787,7 +1787,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00097
 
-MOTIF UP00092_1 Myb_primary
+MOTIF UP00092_1 Myb Myb_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     39	   -21	   -51	    16	
@@ -1829,7 +1829,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00092
 
-MOTIF UP00081_1 Mybl1_primary
+MOTIF UP00081_1 Mybl1 Mybl1_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -19	    -4	   -35	    45	
@@ -1871,7 +1871,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00081
 
-MOTIF UP00036_1 Myf6_primary
+MOTIF UP00036_1 Myf6 Myf6_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
      0	   -30	    66	   -71	
@@ -1911,7 +1911,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00036
 
-MOTIF UP00017_1 Nkx3-1_primary
+MOTIF UP00017_1 Nkx3-1 Nkx3-1_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     36	    51	   -91	   -39	
@@ -1953,7 +1953,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00017
 
-MOTIF UP00009_1 Nr2f2_primary
+MOTIF UP00009_1 Nr2f2 Nr2f2_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
      2	   -46	    13	    22	
@@ -1993,7 +1993,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00009
 
-MOTIF UP00027_1 Osr1_primary
+MOTIF UP00027_1 Osr1 Osr1_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
      6	     2	   -16	     7	
@@ -2033,7 +2033,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00027
 
-MOTIF UP00052_1 Osr2_primary
+MOTIF UP00052_1 Osr2 Osr2_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     24	   -12	   -48	    24	
@@ -2073,7 +2073,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00052
 
-MOTIF UP00088_1 Plagl1_primary
+MOTIF UP00088_1 Plagl1 Plagl1_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
   -106	    -5	    26	    44	
@@ -2113,7 +2113,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00088
 
-MOTIF UP00048_1 Rara_primary
+MOTIF UP00048_1 Rara Rara_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -17	   -50	     9	    42	
@@ -2153,7 +2153,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00048
 
-MOTIF UP00098_1 Rfx3_primary
+MOTIF UP00098_1 Rfx3 Rfx3_primary
 
 log-odds matrix: alength= 4 w= 23 E= 0
    -20	   -11	   -71	    67	
@@ -2207,7 +2207,7 @@ letter-probability matrix: alength= 4 w= 23 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00098
 
-MOTIF UP00056_1 Rfx4_primary
+MOTIF UP00056_1 Rfx4 Rfx4_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
    -80	    34	   -27	    41	
@@ -2245,7 +2245,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00056
 
-MOTIF UP00076_1 Rfxdc2_primary
+MOTIF UP00076_1 Rfxdc2 Rfxdc2_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
    -40	    32	   -26	    21	
@@ -2283,7 +2283,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00076
 
-MOTIF UP00053_1 Rxra_primary
+MOTIF UP00053_1 Rxra Rxra_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     -9	   -17	    -7	    29	
@@ -2325,7 +2325,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00053
 
-MOTIF UP00085_1 Sfpi1_primary
+MOTIF UP00085_1 Sfpi1 Sfpi1_primary
 
 log-odds matrix: alength= 4 w= 14 E= 0
    -24	    13	    -9	    16	
@@ -2361,7 +2361,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00085
 
-MOTIF UP00008_1 Six6_primary
+MOTIF UP00008_1 Six6 Six6_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     34	   -67	    22	    -9	
@@ -2403,7 +2403,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00008
 
-MOTIF UP00000_1 Smad3_primary
+MOTIF UP00000_1 Smad3 Smad3_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     18	    73	  -112	   -40	
@@ -2445,7 +2445,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00000
 
-MOTIF UP00030_1 Sox11_primary
+MOTIF UP00030_1 Sox11 Sox11_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     49	    -7	   -80	     9	
@@ -2487,7 +2487,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00030
 
-MOTIF UP00101_1 Sox12_primary
+MOTIF UP00101_1 Sox12 Sox12_primary
 
 log-odds matrix: alength= 4 w= 14 E= 0
   -100	   -14	  -113	   109	
@@ -2523,7 +2523,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00101
 
-MOTIF UP00096_1 Sox13_primary
+MOTIF UP00096_1 Sox13 Sox13_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     11	  -104	   -59	    83	
@@ -2563,7 +2563,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00096
 
-MOTIF UP00004_1 Sox14_primary
+MOTIF UP00004_1 Sox14 Sox14_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -37	   -84	    54	    28	
@@ -2603,7 +2603,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00004
 
-MOTIF UP00075_1 Sox15_primary
+MOTIF UP00075_1 Sox15 Sox15_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     20	   -85	  -101	    85	
@@ -2645,7 +2645,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00075
 
-MOTIF UP00014_1 Sox17_primary
+MOTIF UP00014_1 Sox17 Sox17_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     62	    19	   -51	   -69	
@@ -2683,7 +2683,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00014
 
-MOTIF UP00064_1 Sox18_primary
+MOTIF UP00064_1 Sox18 Sox18_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -54	    -8	   -37	    67	
@@ -2723,7 +2723,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00064
 
-MOTIF UP00069_1 Sox1_primary
+MOTIF UP00069_1 Sox1 Sox1_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     45	   -13	  -144	    44	
@@ -2763,7 +2763,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00069
 
-MOTIF UP00071_1 Sox21_primary
+MOTIF UP00071_1 Sox21 Sox21_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
      0	     0	   -79	    51	
@@ -2803,7 +2803,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00071
 
-MOTIF UP00023_1 Sox30_primary
+MOTIF UP00023_1 Sox30 Sox30_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     58	  -128	    37	   -30	
@@ -2843,7 +2843,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00023
 
-MOTIF UP00062_1 Sox4_primary
+MOTIF UP00062_1 Sox4 Sox4_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     78	   -11	  -107	   -17	
@@ -2885,7 +2885,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00062
 
-MOTIF UP00091_1 Sox5_primary
+MOTIF UP00091_1 Sox5 Sox5_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     29	   -91	   -53	    64	
@@ -2925,7 +2925,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00091
 
-MOTIF UP00034_1 Sox7_primary
+MOTIF UP00034_1 Sox7 Sox7_primary
 
 log-odds matrix: alength= 4 w= 22 E= 0
     53	    26	  -111	   -16	
@@ -2977,7 +2977,7 @@ letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00034
 
-MOTIF UP00051_1 Sox8_primary
+MOTIF UP00051_1 Sox8 Sox8_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     -3	   -34	    15	    16	
@@ -3019,7 +3019,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00051
 
-MOTIF UP00049_1 Sp100_primary
+MOTIF UP00049_1 Sp100 Sp100_primary
 
 log-odds matrix: alength= 4 w= 14 E= 0
     67	   -93	    44	   -93	
@@ -3055,7 +3055,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00049
 
-MOTIF UP00002_1 Sp4_primary
+MOTIF UP00002_1 Sp4 Sp4_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -69	   -16	    58	    -2	
@@ -3097,7 +3097,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00002
 
-MOTIF UP00406_1 Spdef_primary
+MOTIF UP00406_1 Spdef Spdef_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     15	    11	    41	  -105	
@@ -3137,7 +3137,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00406
 
-MOTIF UP00077_1 Srf_primary
+MOTIF UP00077_1 Srf Srf_primary
 
 log-odds matrix: alength= 4 w= 14 E= 0
     16	   -53	   -87	    72	
@@ -3173,7 +3173,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00077
 
-MOTIF UP00016_1 Sry_primary
+MOTIF UP00016_1 Sry Sry_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -53	    -3	    -1	    41	
@@ -3213,7 +3213,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00016
 
-MOTIF UP00029_1 Tbp_primary
+MOTIF UP00029_1 Tbp Tbp_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -18	    11	   -21	    23	
@@ -3253,7 +3253,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00029
 
-MOTIF UP00089_1 Tcf1_primary
+MOTIF UP00089_1 Tcf1 Tcf1_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     32	     1	   -15	   -24	
@@ -3295,7 +3295,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00089
 
-MOTIF UP00058_1 Tcf3_primary
+MOTIF UP00058_1 Tcf3 Tcf3_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -43	   -31	   -44	    78	
@@ -3337,7 +3337,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00058
 
-MOTIF UP00054_1 Tcf7_primary
+MOTIF UP00054_1 Tcf7 Tcf7_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -55	   -34	   -18	    72	
@@ -3379,7 +3379,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00054
 
-MOTIF UP00083_1 Tcf7l2_primary
+MOTIF UP00083_1 Tcf7l2 Tcf7l2_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     19	   -42	     3	    12	
@@ -3421,7 +3421,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00083
 
-MOTIF UP00005_1 Tcfap2a_primary
+MOTIF UP00005_1 Tcfap2a Tcfap2a_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     76	  -127	  -106	    50	
@@ -3459,7 +3459,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00005
 
-MOTIF UP00010_1 Tcfap2b_primary
+MOTIF UP00010_1 Tcfap2b Tcfap2b_primary
 
 log-odds matrix: alength= 4 w= 14 E= 0
     -5	   -90	   -35	    78	
@@ -3495,7 +3495,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00010
 
-MOTIF UP00087_1 Tcfap2c_primary
+MOTIF UP00087_1 Tcfap2c Tcfap2c_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     86	  -125	  -139	    47	
@@ -3533,7 +3533,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00087
 
-MOTIF UP00028_1 Tcfap2e_primary
+MOTIF UP00028_1 Tcfap2e Tcfap2e_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     56	   -53	   -62	    24	
@@ -3571,7 +3571,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00028
 
-MOTIF UP00046_1 Tcfe2a_primary
+MOTIF UP00046_1 Tcfe2a Tcfe2a_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     29	   -10	    -3	   -21	
@@ -3613,7 +3613,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00046
 
-MOTIF UP00019_1 Zbtb12_primary
+MOTIF UP00019_1 Zbtb12 Zbtb12_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -61	    48	    13	   -23	
@@ -3655,7 +3655,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00019
 
-MOTIF UP00031_1 Zbtb3_primary
+MOTIF UP00031_1 Zbtb3 Zbtb3_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     68	   -79	    10	   -43	
@@ -3697,7 +3697,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00031
 
-MOTIF UP00047_1 Zbtb7b_primary
+MOTIF UP00047_1 Zbtb7b Zbtb7b_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     47	   -57	    19	   -33	
@@ -3735,7 +3735,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00047
 
-MOTIF UP00037_1 Zfp105_primary
+MOTIF UP00037_1 Zfp105 Zfp105_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     54	   -45	   -78	    31	
@@ -3773,7 +3773,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00037
 
-MOTIF UP00094_1 Zfp128_primary
+MOTIF UP00094_1 Zfp128 Zfp128_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -36	   -17	     8	    36	
@@ -3815,7 +3815,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00094
 
-MOTIF UP00065_1 Zfp161_primary
+MOTIF UP00065_1 Zfp161 Zfp161_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -81	  -117	    18	    89	
@@ -3855,7 +3855,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00065
 
-MOTIF UP00082_1 Zfp187_primary
+MOTIF UP00082_1 Zfp187 Zfp187_primary
 
 log-odds matrix: alength= 4 w= 14 E= 0
    -39	    15	    -6	    22	
@@ -3891,7 +3891,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00082
 
-MOTIF UP00021_1 Zfp281_primary
+MOTIF UP00021_1 Zfp281 Zfp281_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
    -31	   -60	   -31	    79	
@@ -3929,7 +3929,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00021
 
-MOTIF UP00033_1 Zfp410_primary
+MOTIF UP00033_1 Zfp410 Zfp410_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     28	   -91	     0	    33	
@@ -3971,7 +3971,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00033
 
-MOTIF UP00095_1 Zfp691_primary
+MOTIF UP00095_1 Zfp691 Zfp691_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
   -133	    82	   -36	     7	
@@ -4013,7 +4013,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00095
 
-MOTIF UP00022_1 Zfp740_primary
+MOTIF UP00022_1 Zfp740 Zfp740_primary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -87	    67	   -89	    41	
@@ -4053,7 +4053,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00022
 
-MOTIF UP00102_1 Zic1_primary
+MOTIF UP00102_1 Zic1 Zic1_primary
 
 log-odds matrix: alength= 4 w= 14 E= 0
    -52	    56	    11	   -41	
@@ -4089,7 +4089,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00102
 
-MOTIF UP00057_1 Zic2_primary
+MOTIF UP00057_1 Zic2 Zic2_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
    -54	    27	    14	     1	
@@ -4127,7 +4127,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00057
 
-MOTIF UP00006_1 Zic3_primary
+MOTIF UP00006_1 Zic3 Zic3_primary
 
 log-odds matrix: alength= 4 w= 15 E= 0
    -91	    58	     2	    -6	
@@ -4165,7 +4165,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00006
 
-MOTIF UP00026_1 Zscan4_primary
+MOTIF UP00026_1 Zscan4 Zscan4_primary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -29	   -67	    30	    41	
@@ -4207,7 +4207,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00026
 
-MOTIF UP00078_2 Arid3a_secondary
+MOTIF UP00078_2 Arid3a Arid3a_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     30	    14	   -63	     2	
@@ -4245,7 +4245,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00078
 
-MOTIF UP00059_2 Arid5a_secondary
+MOTIF UP00059_2 Arid5a Arid5a_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -54	    27	    13	     2	
@@ -4287,7 +4287,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00059
 
-MOTIF UP00099_2 Ascl2_secondary
+MOTIF UP00099_2 Ascl2 Ascl2_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
   -113	    47	    21	     0	
@@ -4327,7 +4327,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00099
 
-MOTIF UP00020_2 Atf1_secondary
+MOTIF UP00020_2 Atf1 Atf1_secondary
 
 log-odds matrix: alength= 4 w= 14 E= 0
    -39	   -26	    74	   -45	
@@ -4363,7 +4363,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00020
 
-MOTIF UP00012_2 Bbx_secondary
+MOTIF UP00012_2 Bbx Bbx_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -33	   -14	   -49	    67	
@@ -4405,7 +4405,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00012
 
-MOTIF UP00043_2 Bcl6b_secondary
+MOTIF UP00043_2 Bcl6b Bcl6b_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     34	    16	   -71	     1	
@@ -4445,7 +4445,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00043
 
-MOTIF UP00050_2 Bhlhb2_secondary
+MOTIF UP00050_2 Bhlhb2 Bhlhb2_secondary
 
 log-odds matrix: alength= 4 w= 23 E= 0
   -105	    46	  -101	    71	
@@ -4499,7 +4499,7 @@ letter-probability matrix: alength= 4 w= 23 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00050
 
-MOTIF UP00001_2 E2F2_secondary
+MOTIF UP00001_2 E2F2 E2F2_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     11	    17	   -46	     9	
@@ -4541,7 +4541,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00001
 
-MOTIF UP00003_2 E2F3_secondary
+MOTIF UP00003_2 E2F3 E2F3_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
      8	    10	   -16	    -4	
@@ -4583,7 +4583,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00003
 
-MOTIF UP00007_2 Egr1_secondary
+MOTIF UP00007_2 Egr1 Egr1_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -46	   -12	    15	    32	
@@ -4623,7 +4623,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00007
 
-MOTIF UP00015_2 Ehf_secondary
+MOTIF UP00015_2 Ehf Ehf_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     30	  -286	  -123	   114	
@@ -4663,7 +4663,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00015
 
-MOTIF UP00407_2 Elf3_secondary
+MOTIF UP00407_2 Elf3 Elf3_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -69	   -71	    97	   -31	
@@ -4705,7 +4705,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00407
 
-MOTIF UP00068_2 Eomes_secondary
+MOTIF UP00068_2 Eomes Eomes_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
      2	     1	    25	   -36	
@@ -4745,7 +4745,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00068
 
-MOTIF UP00079_2 Esrra_secondary
+MOTIF UP00079_2 Esrra Esrra_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
      1	    10	    49	   -97	
@@ -4787,7 +4787,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00079
 
-MOTIF UP00073_2 Foxa2_secondary
+MOTIF UP00073_2 Foxa2 Foxa2_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     43	   -11	    18	   -76	
@@ -4825,7 +4825,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00073
 
-MOTIF UP00041_2 Foxj1_secondary
+MOTIF UP00041_2 Foxj1 Foxj1_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     78	   -56	   -57	   -11	
@@ -4863,7 +4863,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00041
 
-MOTIF UP00039_2 Foxj3_secondary
+MOTIF UP00039_2 Foxj3 Foxj3_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     35	    -1	   -21	   -19	
@@ -4905,7 +4905,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00039
 
-MOTIF UP00025_2 Foxk1_secondary
+MOTIF UP00025_2 Foxk1 Foxk1_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     -5	    77	   -82	   -38	
@@ -4943,7 +4943,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00025
 
-MOTIF UP00061_2 Foxl1_secondary
+MOTIF UP00061_2 Foxl1 Foxl1_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    116	  -104	  -159	    -9	
@@ -4983,7 +4983,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00061
 
-MOTIF UP00408_2 Gabpa_secondary
+MOTIF UP00408_2 Gabpa Gabpa_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -10	   114	   -85	  -172	
@@ -5023,7 +5023,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00408
 
-MOTIF UP00032_2 Gata3_secondary
+MOTIF UP00032_2 Gata3 Gata3_secondary
 
 log-odds matrix: alength= 4 w= 22 E= 0
    -49	    36	  -112	    63	
@@ -5075,7 +5075,7 @@ letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00032
 
-MOTIF UP00080_2 Gata5_secondary
+MOTIF UP00080_2 Gata5 Gata5_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     25	   -15	    55	  -118	
@@ -5117,7 +5117,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00080
 
-MOTIF UP00100_2 Gata6_secondary
+MOTIF UP00100_2 Gata6 Gata6_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
   -138	  -167	   140	   -59	
@@ -5159,7 +5159,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00100
 
-MOTIF UP00070_2 Gcm1_secondary
+MOTIF UP00070_2 Gcm1 Gcm1_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     26	  -100	    -5	    43	
@@ -5201,7 +5201,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00070
 
-MOTIF UP00024_2 Glis2_secondary
+MOTIF UP00024_2 Glis2 Glis2_secondary
 
 log-odds matrix: alength= 4 w= 14 E= 0
     55	   -15	  -144	    34	
@@ -5237,7 +5237,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00024
 
-MOTIF UP00042_2 Gm397_secondary
+MOTIF UP00042_2 Gm397 Gm397_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     53	   -37	    -1	   -34	
@@ -5277,7 +5277,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00042
 
-MOTIF UP00084_2 Gmeb1_secondary
+MOTIF UP00084_2 Gmeb1 Gmeb1_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -54	   -85	     9	    76	
@@ -5317,7 +5317,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00084
 
-MOTIF UP00055_2 Hbp1_secondary
+MOTIF UP00055_2 Hbp1 Hbp1_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     33	   -75	   -32	    43	
@@ -5359,7 +5359,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00055
 
-MOTIF UP00035_2 Hic1_secondary
+MOTIF UP00035_2 Hic1 Hic1_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -29	   -74	    54	    17	
@@ -5399,7 +5399,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00035
 
-MOTIF UP00066_2 Hnf4a_secondary
+MOTIF UP00066_2 Hnf4a Hnf4a_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -92	   -56	    47	    49	
@@ -5439,7 +5439,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00066
 
-MOTIF UP00391_2 Hoxa3_secondary
+MOTIF UP00391_2 Hoxa3 Hoxa3_secondary
 
 log-odds matrix: alength= 4 w= 14 E= 0
    119	   -85	   -64	   -95	
@@ -5475,7 +5475,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00391
 
-MOTIF UP00072_2 IRC900814_secondary
+MOTIF UP00072_2 IRC900814 IRC900814_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     99	  -126	    -8	   -62	
@@ -5515,7 +5515,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00072
 
-MOTIF UP00086_2 Irf3_secondary
+MOTIF UP00086_2 Irf3 Irf3_secondary
 
 log-odds matrix: alength= 4 w= 14 E= 0
     -8	   -75	    73	   -32	
@@ -5551,7 +5551,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00086
 
-MOTIF UP00018_2 Irf4_secondary
+MOTIF UP00018_2 Irf4 Irf4_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     20	    -1	    20	   -50	
@@ -5589,7 +5589,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00018
 
-MOTIF UP00040_2 Irf5_secondary
+MOTIF UP00040_2 Irf5 Irf5_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
    -64	    -7	   -15	    59	
@@ -5627,7 +5627,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00040
 
-MOTIF UP00011_2 Irf6_secondary
+MOTIF UP00011_2 Irf6 Irf6_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     38	     4	   -11	   -43	
@@ -5665,7 +5665,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00011
 
-MOTIF UP00074_2 Isgf3g_secondary
+MOTIF UP00074_2 Isgf3g Isgf3g_secondary
 
 log-odds matrix: alength= 4 w= 14 E= 0
   -114	   -48	    95	   -15	
@@ -5701,7 +5701,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00074
 
-MOTIF UP00103_2 Jundm2_secondary
+MOTIF UP00103_2 Jundm2 Jundm2_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     40	    15	   -20	   -52	
@@ -5741,7 +5741,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00103
 
-MOTIF UP00093_2 Klf7_secondary
+MOTIF UP00093_2 Klf7 Klf7_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     63	     6	     2	  -133	
@@ -5783,7 +5783,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00093
 
-MOTIF UP00067_2 Lef1_secondary
+MOTIF UP00067_2 Lef1 Lef1_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -15	     9	    65	  -112	
@@ -5823,7 +5823,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00067
 
-MOTIF UP00045_2 Mafb_secondary
+MOTIF UP00045_2 Mafb Mafb_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
      1	    39	   -38	   -13	
@@ -5861,7 +5861,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00045
 
-MOTIF UP00044_2 Mafk_secondary
+MOTIF UP00044_2 Mafk Mafk_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     21	    -3	    45	  -102	
@@ -5899,7 +5899,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00044
 
-MOTIF UP00060_2 Max_secondary
+MOTIF UP00060_2 Max Max_secondary
 
 log-odds matrix: alength= 4 w= 14 E= 0
    -97	   -30	    68	    11	
@@ -5935,7 +5935,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00060
 
-MOTIF UP00097_2 Mtf1_secondary
+MOTIF UP00097_2 Mtf1 Mtf1_secondary
 
 log-odds matrix: alength= 4 w= 14 E= 0
     98	   -47	   -76	   -49	
@@ -5971,7 +5971,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00097
 
-MOTIF UP00092_2 Myb_secondary
+MOTIF UP00092_2 Myb Myb_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -28	    15	     5	     4	
@@ -6011,7 +6011,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00092
 
-MOTIF UP00081_2 Mybl1_secondary
+MOTIF UP00081_2 Mybl1 Mybl1_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
    -28	    10	     8	     7	
@@ -6049,7 +6049,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00081
 
-MOTIF UP00036_2 Myf6_secondary
+MOTIF UP00036_2 Myf6 Myf6_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     47	     6	    13	  -106	
@@ -6087,7 +6087,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00036
 
-MOTIF UP00017_2 Nkx3-1_secondary
+MOTIF UP00017_2 Nkx3-1 Nkx3-1_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     51	     2	    28	  -150	
@@ -6129,7 +6129,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00017
 
-MOTIF UP00009_2 Nr2f2_secondary
+MOTIF UP00009_2 Nr2f2 Nr2f2_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -35	    80	   -34	   -54	
@@ -6169,7 +6169,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00009
 
-MOTIF UP00027_2 Osr1_secondary
+MOTIF UP00027_2 Osr1 Osr1_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     86	  -143	    29	   -77	
@@ -6209,7 +6209,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00027
 
-MOTIF UP00052_2 Osr2_secondary
+MOTIF UP00052_2 Osr2 Osr2_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    101	  -202	     0	   -43	
@@ -6249,7 +6249,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00052
 
-MOTIF UP00088_2 Plagl1_secondary
+MOTIF UP00088_2 Plagl1 Plagl1_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     21	   -53	    39	   -25	
@@ -6291,7 +6291,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00088
 
-MOTIF UP00048_2 Rara_secondary
+MOTIF UP00048_2 Rara Rara_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     86	    -7	   -73	   -66	
@@ -6331,7 +6331,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00048
 
-MOTIF UP00098_2 Rfx3_secondary
+MOTIF UP00098_2 Rfx3 Rfx3_secondary
 
 log-odds matrix: alength= 4 w= 23 E= 0
     33	    14	     4	   -71	
@@ -6385,7 +6385,7 @@ letter-probability matrix: alength= 4 w= 23 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00098
 
-MOTIF UP00056_2 Rfx4_secondary
+MOTIF UP00056_2 Rfx4 Rfx4_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     -5	   -46	   -77	    78	
@@ -6423,7 +6423,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00056
 
-MOTIF UP00076_2 Rfxdc2_secondary
+MOTIF UP00076_2 Rfxdc2 Rfxdc2_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
   -106	    56	    16	   -12	
@@ -6465,7 +6465,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00076
 
-MOTIF UP00053_2 Rxra_secondary
+MOTIF UP00053_2 Rxra Rxra_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -90	  -126	    54	    67	
@@ -6505,7 +6505,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00053
 
-MOTIF UP00085_2 Sfpi1_secondary
+MOTIF UP00085_2 Sfpi1 Sfpi1_secondary
 
 log-odds matrix: alength= 4 w= 14 E= 0
      5	    69	  -107	   -20	
@@ -6541,7 +6541,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00085
 
-MOTIF UP00008_2 Six6_secondary
+MOTIF UP00008_2 Six6 Six6_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     41	    12	   -25	   -43	
@@ -6583,7 +6583,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00008
 
-MOTIF UP00000_2 Smad3_secondary
+MOTIF UP00000_2 Smad3 Smad3_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -73	   -92	    -3	    92	
@@ -6625,7 +6625,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00000
 
-MOTIF UP00030_2 Sox11_secondary
+MOTIF UP00030_2 Sox11 Sox11_secondary
 
 log-odds matrix: alength= 4 w= 14 E= 0
     84	   -80	   -35	   -23	
@@ -6661,7 +6661,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00030
 
-MOTIF UP00101_2 Sox12_secondary
+MOTIF UP00101_2 Sox12 Sox12_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     60	    35	   -28	  -138	
@@ -6701,7 +6701,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00101
 
-MOTIF UP00096_2 Sox13_secondary
+MOTIF UP00096_2 Sox13 Sox13_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
      7	  -112	    70	   -21	
@@ -6743,7 +6743,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00096
 
-MOTIF UP00004_2 Sox14_secondary
+MOTIF UP00004_2 Sox14 Sox14_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
    -39	    47	   -24	     1	
@@ -6781,7 +6781,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00004
 
-MOTIF UP00075_2 Sox15_secondary
+MOTIF UP00075_2 Sox15 Sox15_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
   -118	     1	    22	    47	
@@ -6819,7 +6819,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00075
 
-MOTIF UP00014_2 Sox17_secondary
+MOTIF UP00014_2 Sox17 Sox17_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -21	   -12	    68	   -71	
@@ -6861,7 +6861,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00014
 
-MOTIF UP00064_2 Sox18_secondary
+MOTIF UP00064_2 Sox18 Sox18_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -10	   -88	    85	   -46	
@@ -6901,7 +6901,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00064
 
-MOTIF UP00069_2 Sox1_secondary
+MOTIF UP00069_2 Sox1 Sox1_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     32	    36	   -57	   -32	
@@ -6939,7 +6939,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00069
 
-MOTIF UP00071_2 Sox21_secondary
+MOTIF UP00071_2 Sox21 Sox21_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     21	    23	     4	   -64	
@@ -6981,7 +6981,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00071
 
-MOTIF UP00023_2 Sox30_secondary
+MOTIF UP00023_2 Sox30 Sox30_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -52	   -27	  -129	   105	
@@ -7021,7 +7021,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00023
 
-MOTIF UP00062_2 Sox4_secondary
+MOTIF UP00062_2 Sox4 Sox4_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -22	    -1	    70	   -94	
@@ -7063,7 +7063,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00062
 
-MOTIF UP00091_2 Sox5_secondary
+MOTIF UP00091_2 Sox5 Sox5_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     -2	   -12	    -5	    17	
@@ -7101,7 +7101,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00091
 
-MOTIF UP00034_2 Sox7_secondary
+MOTIF UP00034_2 Sox7 Sox7_secondary
 
 log-odds matrix: alength= 4 w= 22 E= 0
   -189	   -93	   139	   -77	
@@ -7153,7 +7153,7 @@ letter-probability matrix: alength= 4 w= 22 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00034
 
-MOTIF UP00051_2 Sox8_secondary
+MOTIF UP00051_2 Sox8 Sox8_secondary
 
 log-odds matrix: alength= 4 w= 14 E= 0
     72	   -53	   -28	   -25	
@@ -7189,7 +7189,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00051
 
-MOTIF UP00049_2 Sp100_secondary
+MOTIF UP00049_2 Sp100 Sp100_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
   -104	    27	   -47	    67	
@@ -7227,7 +7227,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00049
 
-MOTIF UP00002_2 Sp4_secondary
+MOTIF UP00002_2 Sp4 Sp4_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
    -77	    32	    -3	    25	
@@ -7265,7 +7265,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00002
 
-MOTIF UP00406_2 Spdef_secondary
+MOTIF UP00406_2 Spdef Spdef_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
      0	   -56	    48	   -12	
@@ -7305,7 +7305,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00406
 
-MOTIF UP00077_2 Srf_secondary
+MOTIF UP00077_2 Srf Srf_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -62	    19	    82	  -117	
@@ -7347,7 +7347,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00077
 
-MOTIF UP00016_2 Sry_secondary
+MOTIF UP00016_2 Sry Sry_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -19	    22	  -107	    57	
@@ -7389,7 +7389,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00016
 
-MOTIF UP00029_2 Tbp_secondary
+MOTIF UP00029_2 Tbp Tbp_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
    -12	   108	   -38	  -238	
@@ -7427,7 +7427,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00029
 
-MOTIF UP00089_2 Tcf1_secondary
+MOTIF UP00089_2 Tcf1 Tcf1_secondary
 
 log-odds matrix: alength= 4 w= 14 E= 0
     -9	   -30	   -32	    53	
@@ -7463,7 +7463,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00089
 
-MOTIF UP00058_2 Tcf3_secondary
+MOTIF UP00058_2 Tcf3 Tcf3_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     43	   -46	    18	   -34	
@@ -7501,7 +7501,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00058
 
-MOTIF UP00054_2 Tcf7_secondary
+MOTIF UP00054_2 Tcf7 Tcf7_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     -3	    77	   -77	   -44	
@@ -7539,7 +7539,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00054
 
-MOTIF UP00083_2 Tcf7l2_secondary
+MOTIF UP00083_2 Tcf7l2 Tcf7l2_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -19	    25	    55	  -109	
@@ -7579,7 +7579,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00083
 
-MOTIF UP00005_2 Tcfap2a_secondary
+MOTIF UP00005_2 Tcfap2a Tcfap2a_secondary
 
 log-odds matrix: alength= 4 w= 14 E= 0
    -33	    -4	   -65	    67	
@@ -7615,7 +7615,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00005
 
-MOTIF UP00010_2 Tcfap2b_secondary
+MOTIF UP00010_2 Tcfap2b Tcfap2b_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     38	  -133	    20	    20	
@@ -7653,7 +7653,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00010
 
-MOTIF UP00087_2 Tcfap2c_secondary
+MOTIF UP00087_2 Tcfap2c Tcfap2c_secondary
 
 log-odds matrix: alength= 4 w= 14 E= 0
    -30	    48	   -14	   -17	
@@ -7689,7 +7689,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00087
 
-MOTIF UP00028_2 Tcfap2e_secondary
+MOTIF UP00028_2 Tcfap2e Tcfap2e_secondary
 
 log-odds matrix: alength= 4 w= 14 E= 0
     -1	   -22	   -58	    57	
@@ -7725,7 +7725,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00028
 
-MOTIF UP00046_2 Tcfe2a_secondary
+MOTIF UP00046_2 Tcfe2a Tcfe2a_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     25	    -1	   -27	     0	
@@ -7767,7 +7767,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00046
 
-MOTIF UP00019_2 Zbtb12_secondary
+MOTIF UP00019_2 Zbtb12 Zbtb12_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
     28	   -20	   -75	    40	
@@ -7805,7 +7805,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00019
 
-MOTIF UP00031_2 Zbtb3_secondary
+MOTIF UP00031_2 Zbtb3 Zbtb3_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
   -118	   106	   -62	   -27	
@@ -7845,7 +7845,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00031
 
-MOTIF UP00047_2 Zbtb7b_secondary
+MOTIF UP00047_2 Zbtb7b Zbtb7b_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -30	    30	   -30	    19	
@@ -7887,7 +7887,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00047
 
-MOTIF UP00037_2 Zfp105_secondary
+MOTIF UP00037_2 Zfp105 Zfp105_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
      9	   -25	    11	     1	
@@ -7929,7 +7929,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00037
 
-MOTIF UP00094_2 Zfp128_secondary
+MOTIF UP00094_2 Zfp128 Zfp128_secondary
 
 log-odds matrix: alength= 4 w= 14 E= 0
    -30	   -46	     6	    50	
@@ -7965,7 +7965,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00094
 
-MOTIF UP00065_2 Zfp161_secondary
+MOTIF UP00065_2 Zfp161 Zfp161_secondary
 
 log-odds matrix: alength= 4 w= 14 E= 0
    -81	  -184	   120	   -23	
@@ -8001,7 +8001,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00065
 
-MOTIF UP00082_2 Zfp187_secondary
+MOTIF UP00082_2 Zfp187 Zfp187_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -53	   -56	    82	   -21	
@@ -8041,7 +8041,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00082
 
-MOTIF UP00021_2 Zfp281_secondary
+MOTIF UP00021_2 Zfp281 Zfp281_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     89	  -202	   -10	    -5	
@@ -8083,7 +8083,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00021
 
-MOTIF UP00033_2 Zfp410_secondary
+MOTIF UP00033_2 Zfp410 Zfp410_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -62	    19	    -7	    33	
@@ -8125,7 +8125,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00033
 
-MOTIF UP00095_2 Zfp691_secondary
+MOTIF UP00095_2 Zfp691 Zfp691_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     -8	   -69	    24	    32	
@@ -8167,7 +8167,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00095
 
-MOTIF UP00022_2 Zfp740_secondary
+MOTIF UP00022_2 Zfp740 Zfp740_secondary
 
 log-odds matrix: alength= 4 w= 17 E= 0
     67	  -180	    37	   -28	
@@ -8209,7 +8209,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00022
 
-MOTIF UP00102_2 Zic1_secondary
+MOTIF UP00102_2 Zic1 Zic1_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
    -63	    70	   -54	     6	
@@ -8247,7 +8247,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00102
 
-MOTIF UP00057_2 Zic2_secondary
+MOTIF UP00057_2 Zic2 Zic2_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
    -31	    43	   -44	    15	
@@ -8285,7 +8285,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00057
 
-MOTIF UP00006_2 Zic3_secondary
+MOTIF UP00006_2 Zic3 Zic3_secondary
 
 log-odds matrix: alength= 4 w= 15 E= 0
    -15	   -16	    17	    11	
@@ -8323,7 +8323,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00006
 
-MOTIF UP00026_2 Zscan4_secondary
+MOTIF UP00026_2 Zscan4 Zscan4_secondary
 
 log-odds matrix: alength= 4 w= 16 E= 0
     14	    63	  -115	   -16	
@@ -8363,7 +8363,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00026
 
-MOTIF UP00108_1 Alx3_3418.2
+MOTIF UP00108_1 Alx3 Alx3_3418.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     24	  -289	   -98	   112	
@@ -8405,7 +8405,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00108
 
-MOTIF UP00187_1 Alx4_1744.1
+MOTIF UP00187_1 Alx4 Alx4_1744.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -67	   123	   -77	  -118	
@@ -8447,7 +8447,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00187
 
-MOTIF UP00152_1 Arx_1738.2
+MOTIF UP00152_1 Arx Arx_1738.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     -7	   -18	    67	   -82	
@@ -8489,7 +8489,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00152
 
-MOTIF UP00228_1 Bapx1_2343.1
+MOTIF UP00228_1 Bapx1 Bapx1_2343.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     27	    48	    -6	  -117	
@@ -8531,7 +8531,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00228
 
-MOTIF UP00166_1 Barhl1_2590.2
+MOTIF UP00166_1 Barhl1 Barhl1_2590.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
     90	   -25	   -83	   -46	
@@ -8571,7 +8571,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00166
 
-MOTIF UP00145_1 Barhl2_3868.1
+MOTIF UP00145_1 Barhl2 Barhl2_3868.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     89	   -16	  -107	   -36	
@@ -8611,7 +8611,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00145
 
-MOTIF UP00181_1 Barx1_2877.1
+MOTIF UP00181_1 Barx1 Barx1_2877.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
    101	     8	  -152	   -80	
@@ -8651,7 +8651,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00181
 
-MOTIF UP00151_1 Barx2_3447.2
+MOTIF UP00151_1 Barx2 Barx2_3447.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -38	   -75	   -78	   104	
@@ -8691,7 +8691,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00151
 
-MOTIF UP00138_1 Bsx_3483.2
+MOTIF UP00138_1 Bsx Bsx_3483.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
     27	    53	    15	  -206	
@@ -8731,7 +8731,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00138
 
-MOTIF UP00209_1 Cart1_0997.1
+MOTIF UP00209_1 Cart1 Cart1_0997.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -42	    83	   -53	   -35	
@@ -8773,7 +8773,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00209
 
-MOTIF UP00209_2 Cart1_1275.1
+MOTIF UP00209_2 Cart1 Cart1_1275.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -52	    70	   -31	   -19	
@@ -8815,7 +8815,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00209
 
-MOTIF UP00240_1 Cdx1_2245.1
+MOTIF UP00240_1 Cdx1 Cdx1_2245.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     22	   -72	   -48	    59	
@@ -8855,7 +8855,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00240
 
-MOTIF UP00133_1 Cdx2_4272.1
+MOTIF UP00133_1 Cdx2 Cdx2_4272.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     33	   -77	    -1	    21	
@@ -8895,7 +8895,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00133
 
-MOTIF UP00198_1 Cphx_3484.1
+MOTIF UP00198_1 Cphx Cphx_3484.1
 
 log-odds matrix: alength= 4 w= 14 E= 0
     43	   -44	     7	   -22	
@@ -8931,7 +8931,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00198
 
-MOTIF UP00176_1 Crx_3485.1
+MOTIF UP00176_1 Crx Crx_3485.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
   -146	    91	   -92	    29	
@@ -8971,7 +8971,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00176
 
-MOTIF UP00219_1 Cutl1_3494.1
+MOTIF UP00219_1 Cutl1 Cutl1_3494.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    124	  -196	    13	  -182	
@@ -9013,7 +9013,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00219
 
-MOTIF UP00219_2 Cutl1_3494.2
+MOTIF UP00219_2 Cutl1 Cutl1_3494.2
 
 log-odds matrix: alength= 4 w= 15 E= 0
    -10	  -159	   -26	    92	
@@ -9051,7 +9051,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00219
 
-MOTIF UP00255_1 Dbx1_3486.1
+MOTIF UP00255_1 Dbx1 Dbx1_3486.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -37	   -13	   -64	    74	
@@ -9093,7 +9093,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00255
 
-MOTIF UP00218_1 Dbx2_3487.1
+MOTIF UP00218_1 Dbx2 Dbx2_3487.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -85	     9	    10	    38	
@@ -9133,7 +9133,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00218
 
-MOTIF UP00202_1 Dlx1_1741.2
+MOTIF UP00202_1 Dlx1 Dlx1_1741.2
 
 log-odds matrix: alength= 4 w= 14 E= 0
    -61	    22	    13	    12	
@@ -9169,7 +9169,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00202
 
-MOTIF UP00126_1 Dlx2_2273.2
+MOTIF UP00126_1 Dlx2 Dlx2_2273.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
     38	    20	    46	  -250	
@@ -9209,7 +9209,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00126
 
-MOTIF UP00154_1 Dlx3_1030.1
+MOTIF UP00154_1 Dlx3 Dlx3_1030.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -67	   -20	    28	    36	
@@ -9251,7 +9251,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00154
 
-MOTIF UP00110_1 Dlx4_3488.2
+MOTIF UP00110_1 Dlx4 Dlx4_3488.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -75	     0	    26	    27	
@@ -9293,7 +9293,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00110
 
-MOTIF UP00230_1 Dlx5_3419.2
+MOTIF UP00230_1 Dlx5 Dlx5_3419.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
   -112	    21	    57	   -16	
@@ -9333,7 +9333,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00230
 
-MOTIF UP00111_1 Dmbx1_2277.1
+MOTIF UP00111_1 Dmbx1 Dmbx1_2277.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     45	   -92	  -110	    71	
@@ -9375,7 +9375,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00111
 
-MOTIF UP00232_1 Dobox4_3956.2
+MOTIF UP00232_1 Dobox4 Dobox4_3956.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
      8	   -24	   -53	    49	
@@ -9417,7 +9417,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00232
 
-MOTIF UP00143_1 Dobox5_3493.1
+MOTIF UP00143_1 Dobox5 Dobox5_3493.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     35	   -63	    38	   -36	
@@ -9459,7 +9459,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00143
 
-MOTIF UP00227_1 Duxl_1286.2
+MOTIF UP00227_1 Duxl Duxl_1286.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
   -208	   114	  -130	    21	
@@ -9501,7 +9501,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00227
 
-MOTIF UP00201_1 Emx2_3420.1
+MOTIF UP00201_1 Emx2 Emx2_3420.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     95	  -158	  -226	    60	
@@ -9543,7 +9543,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00201
 
-MOTIF UP00167_1 En1_3123.2
+MOTIF UP00167_1 En1 En1_3123.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -15	   -32	    71	   -61	
@@ -9583,7 +9583,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00167
 
-MOTIF UP00163_1 En2_0952.1
+MOTIF UP00163_1 En2 En2_0952.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     59	  -249	  -113	    89	
@@ -9625,7 +9625,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00163
 
-MOTIF UP00251_1 Esx1_3124.2
+MOTIF UP00251_1 Esx1 Esx1_3124.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     38	    -6	   -53	     7	
@@ -9667,7 +9667,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00251
 
-MOTIF UP00162_1 Evx1_3952.2
+MOTIF UP00162_1 Evx1 Evx1_3952.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     90	  -216	  -299	    83	
@@ -9709,7 +9709,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00162
 
-MOTIF UP00132_1 Evx2_2645.3
+MOTIF UP00132_1 Evx2 Evx2_2645.3
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -27	    29	   -12	     5	
@@ -9751,7 +9751,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00132
 
-MOTIF UP00204_1 Gbx1_2883.2
+MOTIF UP00204_1 Gbx1 Gbx1_2883.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     13	   -21	   -40	    36	
@@ -9793,7 +9793,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00204
 
-MOTIF UP00131_1 Gbx2_3110.1
+MOTIF UP00131_1 Gbx2 Gbx2_3110.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     63	  -232	     8	    26	
@@ -9835,7 +9835,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00131
 
-MOTIF UP00112_1 Gsc_2327.3
+MOTIF UP00112_1 Gsc Gsc_2327.3
 
 log-odds matrix: alength= 4 w= 17 E= 0
     92	   -68	   -94	    -5	
@@ -9877,7 +9877,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00112
 
-MOTIF UP00127_1 Gsh2_3990.2
+MOTIF UP00127_1 Gsh2 Gsh2_3990.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
     90	   -47	   -12	  -102	
@@ -9917,7 +9917,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00127
 
-MOTIF UP00148_1 Hdx_3845.3
+MOTIF UP00148_1 Hdx Hdx_3845.3
 
 log-odds matrix: alength= 4 w= 17 E= 0
     32	   -30	   -23	    12	
@@ -9959,7 +9959,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00148
 
-MOTIF UP00225_1 Hlx1_2350.1
+MOTIF UP00225_1 Hlx1 Hlx1_2350.1
 
 log-odds matrix: alength= 4 w= 15 E= 0
    -44	    96	   -65	   -57	
@@ -9997,7 +9997,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00225
 
-MOTIF UP00123_1 Hlxb9_3422.1
+MOTIF UP00123_1 Hlxb9 Hlxb9_3422.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
   -100	    -7	    57	     9	
@@ -10037,7 +10037,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00123
 
-MOTIF UP00161_1 Hmbox1_2674.1
+MOTIF UP00161_1 Hmbox1 Hmbox1_2674.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
      3	   -14	    28	   -23	
@@ -10079,7 +10079,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00161
 
-MOTIF UP00104_1 Hmx1_3423.1
+MOTIF UP00104_1 Hmx1 Hmx1_3423.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     43	    21	    -5	   -92	
@@ -10121,7 +10121,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00104
 
-MOTIF UP00155_1 Hmx2_3424.3
+MOTIF UP00155_1 Hmx2 Hmx2_3424.3
 
 log-odds matrix: alength= 4 w= 17 E= 0
     99	   -31	    -9	  -187	
@@ -10163,7 +10163,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00155
 
-MOTIF UP00157_1 Hmx3_3490.2
+MOTIF UP00157_1 Hmx3 Hmx3_3490.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     98	   -27	   -28	  -145	
@@ -10205,7 +10205,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00157
 
-MOTIF UP00114_1 Homez_1063.2
+MOTIF UP00114_1 Homez Homez_1063.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
    123	  -214	   -52	   -45	
@@ -10247,7 +10247,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00114
 
-MOTIF UP00264_1 Hoxa1_3425.1
+MOTIF UP00264_1 Hoxa1 Hoxa1_3425.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -40	    74	   -43	   -27	
@@ -10287,7 +10287,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00264
 
-MOTIF UP00217_1 Hoxa10_2318.1
+MOTIF UP00217_1 Hoxa10 Hoxa10_2318.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
      2	  -157	    22	    57	
@@ -10327,7 +10327,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00217
 
-MOTIF UP00246_1 Hoxa11_2218.1
+MOTIF UP00246_1 Hoxa11 Hoxa11_2218.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
      0	   -22	   -85	    67	
@@ -10367,7 +10367,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00246
 
-MOTIF UP00183_1 Hoxa13_3126.1
+MOTIF UP00183_1 Hoxa13 Hoxa13_3126.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     48	   -53	   -61	    33	
@@ -10407,7 +10407,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00183
 
-MOTIF UP00174_1 Hoxa2_3079.1
+MOTIF UP00174_1 Hoxa2 Hoxa2_3079.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
    123	  -172	    -4	  -143	
@@ -10447,7 +10447,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00174
 
-MOTIF UP00391_3 Hoxa3_2783.2
+MOTIF UP00391_3 Hoxa3 Hoxa3_2783.2
 
 log-odds matrix: alength= 4 w= 14 E= 0
    -48	  -117	   -25	   100	
@@ -10483,7 +10483,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00391
 
-MOTIF UP00196_1 Hoxa4_3426.1
+MOTIF UP00196_1 Hoxa4 Hoxa4_3426.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -10	   -53	    59	   -19	
@@ -10525,7 +10525,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00196
 
-MOTIF UP00189_1 Hoxa5_3415.1
+MOTIF UP00189_1 Hoxa5 Hoxa5_3415.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
    140	  -111	   -71	  -181	
@@ -10565,7 +10565,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00189
 
-MOTIF UP00182_1 Hoxa6_1040.1
+MOTIF UP00182_1 Hoxa6 Hoxa6_1040.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
    122	   -77	   -34	  -179	
@@ -10605,7 +10605,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00182
 
-MOTIF UP00164_1 Hoxa7_2668.2
+MOTIF UP00164_1 Hoxa7 Hoxa7_2668.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -42	    85	     0	  -113	
@@ -10647,7 +10647,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00164
 
-MOTIF UP00164_2 Hoxa7_3750.1
+MOTIF UP00164_2 Hoxa7 Hoxa7_3750.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
   -224	   -10	    90	    -1	
@@ -10687,7 +10687,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00164
 
-MOTIF UP00213_1 Hoxa9_2622.2
+MOTIF UP00213_1 Hoxa9 Hoxa9_2622.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     63	  -103	    43	   -69	
@@ -10729,7 +10729,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00213
 
-MOTIF UP00134_1 Hoxb13_3479.1
+MOTIF UP00134_1 Hoxb13 Hoxb13_3479.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     59	    12	   -31	   -75	
@@ -10769,7 +10769,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00134
 
-MOTIF UP00137_1 Hoxb3_1720.2
+MOTIF UP00137_1 Hoxb3 Hoxb3_1720.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     60	  -234	  -228	   106	
@@ -10811,7 +10811,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00137
 
-MOTIF UP00144_1 Hoxb4_2627.1
+MOTIF UP00144_1 Hoxb4 Hoxb4_2627.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -73	   124	   -53	  -152	
@@ -10853,7 +10853,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00144
 
-MOTIF UP00214_1 Hoxb5_3122.2
+MOTIF UP00214_1 Hoxb5 Hoxb5_3122.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
    106	   -15	   -84	  -113	
@@ -10893,7 +10893,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00214
 
-MOTIF UP00259_1 Hoxb6_3428.2
+MOTIF UP00259_1 Hoxb6 Hoxb6_3428.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
     19	   -82	  -218	   105	
@@ -10933,7 +10933,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00259
 
-MOTIF UP00206_1 Hoxb7_3953.1
+MOTIF UP00206_1 Hoxb7 Hoxb7_3953.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
   -138	    21	    86	   -63	
@@ -10973,7 +10973,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00206
 
-MOTIF UP00263_1 Hoxb8_3780.2
+MOTIF UP00263_1 Hoxb8 Hoxb8_3780.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
     66	   -10	  -155	    19	
@@ -11013,7 +11013,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00263
 
-MOTIF UP00207_1 Hoxb9_3413.1
+MOTIF UP00207_1 Hoxb9 Hoxb9_3413.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     56	   -39	    58	  -192	
@@ -11053,7 +11053,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00207
 
-MOTIF UP00245_1 Hoxc10_2779.2
+MOTIF UP00245_1 Hoxc10 Hoxc10_2779.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
     -6	    -5	   -97	    65	
@@ -11093,7 +11093,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00245
 
-MOTIF UP00235_1 Hoxc11_3718.2
+MOTIF UP00235_1 Hoxc11 Hoxc11_3718.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -10	    -1	   -88	    61	
@@ -11133,7 +11133,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00235
 
-MOTIF UP00135_1 Hoxc12_3480.1
+MOTIF UP00135_1 Hoxc12 Hoxc12_3480.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -45	     4	  -123	    86	
@@ -11175,7 +11175,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00135
 
-MOTIF UP00173_1 Hoxc13_3127.1
+MOTIF UP00173_1 Hoxc13 Hoxc13_3127.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     40	   -19	   -99	    38	
@@ -11215,7 +11215,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00173
 
-MOTIF UP00113_1 Hoxc4_3491.1
+MOTIF UP00113_1 Hoxc4 Hoxc4_3491.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -82	   147	  -137	  -183	
@@ -11257,7 +11257,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00113
 
-MOTIF UP00252_1 Hoxc5_2630.2
+MOTIF UP00252_1 Hoxc5 Hoxc5_2630.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -95	   130	   -58	  -150	
@@ -11299,7 +11299,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00252
 
-MOTIF UP00260_1 Hoxc6_3954.2
+MOTIF UP00260_1 Hoxc6 Hoxc6_3954.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -83	    85	   -67	     2	
@@ -11341,7 +11341,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00260
 
-MOTIF UP00242_1 Hoxc8_3429.2
+MOTIF UP00242_1 Hoxc8 Hoxc8_3429.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -27	   -15	    -4	    38	
@@ -11381,7 +11381,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00242
 
-MOTIF UP00197_1 Hoxc9_2367.2
+MOTIF UP00197_1 Hoxc9 Hoxc9_2367.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
     16	   -28	    43	   -50	
@@ -11421,7 +11421,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00197
 
-MOTIF UP00140_1 Hoxd1_3448.1
+MOTIF UP00140_1 Hoxd1 Hoxd1_3448.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     62	  -230	  -120	    86	
@@ -11463,7 +11463,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00140
 
-MOTIF UP00121_1 Hoxd10_2368.2
+MOTIF UP00121_1 Hoxd10 Hoxd10_2368.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     70	    23	   -18	  -164	
@@ -11505,7 +11505,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00121
 
-MOTIF UP00117_1 Hoxd11_3873.1
+MOTIF UP00117_1 Hoxd11 Hoxd11_3873.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -36	    26	  -183	    80	
@@ -11547,7 +11547,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00117
 
-MOTIF UP00177_1 Hoxd12_3481.1
+MOTIF UP00177_1 Hoxd12 Hoxd12_3481.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -39	    49	  -122	    48	
@@ -11589,7 +11589,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00177
 
-MOTIF UP00180_1 Hoxd13_2356.1
+MOTIF UP00180_1 Hoxd13 Hoxd13_2356.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     16	    34	   -39	   -23	
@@ -11629,7 +11629,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00180
 
-MOTIF UP00241_1 Hoxd3_1742.2
+MOTIF UP00241_1 Hoxd3 Hoxd3_1742.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -38	    56	  -222	    62	
@@ -11669,7 +11669,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00241
 
-MOTIF UP00168_1 Hoxd8_2644.1
+MOTIF UP00168_1 Hoxd8 Hoxd8_2644.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
   -100	  -105	   -32	   115	
@@ -11711,7 +11711,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00168
 
-MOTIF UP00124_1 Ipf1_3815.1
+MOTIF UP00124_1 Ipf1 Ipf1_3815.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     59	    24	   -35	   -91	
@@ -11751,7 +11751,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00124
 
-MOTIF UP00236_1 Irx2_0900.3
+MOTIF UP00236_1 Irx2 Irx2_0900.3
 
 log-odds matrix: alength= 4 w= 17 E= 0
     66	  -162	  -131	    76	
@@ -11793,7 +11793,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00236
 
-MOTIF UP00223_1 Irx3_0920.1
+MOTIF UP00223_1 Irx3 Irx3_0920.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     56	  -154	   -29	    44	
@@ -11835,7 +11835,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00223
 
-MOTIF UP00223_2 Irx3_2226.1
+MOTIF UP00223_2 Irx3 Irx3_2226.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     69	  -122	   -66	    41	
@@ -11877,7 +11877,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00223
 
-MOTIF UP00194_1 Irx4_2242.3
+MOTIF UP00194_1 Irx4 Irx4_2242.3
 
 log-odds matrix: alength= 4 w= 17 E= 0
     84	  -160	   -82	    39	
@@ -11919,7 +11919,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00194
 
-MOTIF UP00250_1 Irx5_2385.1
+MOTIF UP00250_1 Irx5 Irx5_2385.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     56	  -118	   -69	    56	
@@ -11961,7 +11961,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00250
 
-MOTIF UP00150_1 Irx6_2623.2
+MOTIF UP00150_1 Irx6 Irx6_2623.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     51	   -46	  -106	    45	
@@ -12003,7 +12003,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00150
 
-MOTIF UP00170_1 Isl2_3430.1
+MOTIF UP00170_1 Isl2 Isl2_3430.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     61	    89	  -184	  -155	
@@ -12043,7 +12043,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00170
 
-MOTIF UP00243_1 Isx_3445.1
+MOTIF UP00243_1 Isx Isx_3445.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     46	     4	  -104	    14	
@@ -12083,7 +12083,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00243
 
-MOTIF UP00120_1 Lbx2_3869.2
+MOTIF UP00120_1 Lbx2 Lbx2_3869.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     -9	  -213	  -215	   138	
@@ -12125,7 +12125,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00120
 
-MOTIF UP00262_1 Lhx1_2240.2
+MOTIF UP00262_1 Lhx1 Lhx1_2240.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     33	    55	   -16	  -141	
@@ -12167,7 +12167,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00262
 
-MOTIF UP00115_1 Lhx2_0953.2
+MOTIF UP00115_1 Lhx2 Lhx2_0953.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     29	  -184	  -105	   101	
@@ -12209,7 +12209,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00115
 
-MOTIF UP00130_1 Lhx3_3431.1
+MOTIF UP00130_1 Lhx3 Lhx3_3431.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -14	    21	    57	  -116	
@@ -12251,7 +12251,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00130
 
-MOTIF UP00261_1 Lhx4_1719.2
+MOTIF UP00261_1 Lhx4 Lhx4_1719.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     -7	  -128	    20	    57	
@@ -12293,7 +12293,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00261
 
-MOTIF UP00212_1 Lhx5_2279.1
+MOTIF UP00212_1 Lhx5 Lhx5_2279.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -38	    48	    27	   -66	
@@ -12335,7 +12335,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00212
 
-MOTIF UP00256_1 Lhx6_2272.1
+MOTIF UP00256_1 Lhx6 Lhx6_2272.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -67	    32	    59	   -69	
@@ -12377,7 +12377,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00256
 
-MOTIF UP00256_2 Lhx6_3432.1
+MOTIF UP00256_2 Lhx6 Lhx6_3432.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     31	  -192	  -201	   117	
@@ -12419,7 +12419,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00256
 
-MOTIF UP00184_1 Lhx8_2247.2
+MOTIF UP00184_1 Lhx8 Lhx8_2247.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     61	   -29	   -85	    15	
@@ -12461,7 +12461,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00184
 
-MOTIF UP00175_1 Lhx9_3492.1
+MOTIF UP00175_1 Lhx9 Lhx9_3492.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -80	   113	   -87	   -52	
@@ -12503,7 +12503,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00175
 
-MOTIF UP00188_1 Lmx1a_2238.2
+MOTIF UP00188_1 Lmx1a Lmx1a_2238.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -62	   102	    -2	  -157	
@@ -12545,7 +12545,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00188
 
-MOTIF UP00169_1 Lmx1b_3433.2
+MOTIF UP00169_1 Lmx1b Lmx1b_3433.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     43	   -18	    29	   -88	
@@ -12587,7 +12587,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00169
 
-MOTIF UP00186_1 Meis1_2335.1
+MOTIF UP00186_1 Meis1 Meis1_2335.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     79	  -112	   -93	    37	
@@ -12627,7 +12627,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00186
 
-MOTIF UP00233_1 Meox1_2310.2
+MOTIF UP00233_1 Meox1 Meox1_2310.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
     26	   -33	    79	  -185	
@@ -12667,7 +12667,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00233
 
-MOTIF UP00226_1 Mrg1_2246.2
+MOTIF UP00226_1 Mrg1 Mrg1_2246.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
     60	   -78	  -129	    58	
@@ -12707,7 +12707,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00226
 
-MOTIF UP00210_1 Mrg2_2302.1
+MOTIF UP00210_1 Mrg2 Mrg2_2302.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     85	   -95	   -84	    16	
@@ -12747,7 +12747,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00210
 
-MOTIF UP00234_1 Msx1_3031.2
+MOTIF UP00234_1 Msx1 Msx1_3031.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -50	    -6	     9	    34	
@@ -12787,7 +12787,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00234
 
-MOTIF UP00156_1 Msx2_3449.1
+MOTIF UP00156_1 Msx2 Msx2_3449.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     14	     4	    32	   -68	
@@ -12829,7 +12829,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00156
 
-MOTIF UP00171_1 Msx3_3206.1
+MOTIF UP00171_1 Msx3 Msx3_3206.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     35	    50	   -11	  -135	
@@ -12869,7 +12869,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00171
 
-MOTIF UP00220_1 Nkx1-1_3856.3
+MOTIF UP00220_1 Nkx1-1 Nkx1-1_3856.3
 
 log-odds matrix: alength= 4 w= 17 E= 0
     50	  -188	  -105	    87	
@@ -12911,7 +12911,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00220
 
-MOTIF UP00139_1 Nkx1-2_3214.1
+MOTIF UP00139_1 Nkx1-2 Nkx1-2_3214.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
      4	   -65	    25	    20	
@@ -12953,7 +12953,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00139
 
-MOTIF UP00231_1 Nkx2-2_2823.1
+MOTIF UP00231_1 Nkx2-2 Nkx2-2_2823.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     26	     5	   -82	    26	
@@ -12995,7 +12995,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00231
 
-MOTIF UP00190_1 Nkx2-3_3435.1
+MOTIF UP00190_1 Nkx2-3 Nkx2-3_3435.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
   -115	    78	  -176	    62	
@@ -13035,7 +13035,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00190
 
-MOTIF UP00107_1 Nkx2-4_3074.1
+MOTIF UP00107_1 Nkx2-4 Nkx2-4_3074.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     14	   -26	   -64	    51	
@@ -13075,7 +13075,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00107
 
-MOTIF UP00249_1 Nkx2-5_3436.1
+MOTIF UP00249_1 Nkx2-5 Nkx2-5_3436.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     19	    17	   -86	    25	
@@ -13115,7 +13115,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00249
 
-MOTIF UP00147_1 Nkx2-6_3437.1
+MOTIF UP00147_1 Nkx2-6 Nkx2-6_3437.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -20	   -35	   -16	    54	
@@ -13155,7 +13155,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00147
 
-MOTIF UP00119_1 Nkx2-9_3082.1
+MOTIF UP00119_1 Nkx2-9 Nkx2-9_3082.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     -2	  -162	   -60	   102	
@@ -13197,7 +13197,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00119
 
-MOTIF UP00017_3 Nkx3-1_2923.2
+MOTIF UP00017_3 Nkx3-1 Nkx3-1_2923.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -12	   -95	   -22	    77	
@@ -13239,7 +13239,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00017
 
-MOTIF UP00200_1 Nkx6-1_2825.1
+MOTIF UP00200_1 Nkx6-1 Nkx6-1_2825.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -13	   -80	    92	   -69	
@@ -13281,7 +13281,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00200
 
-MOTIF UP00200_2 Nkx6-1_2825.2
+MOTIF UP00200_2 Nkx6-1 Nkx6-1_2825.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
     58	   -12	     2	   -82	
@@ -13321,7 +13321,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00200
 
-MOTIF UP00238_1 Nkx6-3_3446.1
+MOTIF UP00238_1 Nkx6-3 Nkx6-3_3446.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -24	   -54	    79	   -43	
@@ -13363,7 +13363,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00238
 
-MOTIF UP00216_1 Obox1_3970.2
+MOTIF UP00216_1 Obox1 Obox1_3970.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     -6	   -93	    -4	    63	
@@ -13405,7 +13405,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00216
 
-MOTIF UP00239_1 Obox2_3438.2
+MOTIF UP00239_1 Obox2 Obox2_3438.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     23	  -100	   -81	    81	
@@ -13447,7 +13447,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00239
 
-MOTIF UP00160_1 Obox3_3439.1
+MOTIF UP00160_1 Obox3 Obox3_3439.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
      9	   -53	   -70	    70	
@@ -13489,7 +13489,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00160
 
-MOTIF UP00208_1 Obox5_2284.1
+MOTIF UP00208_1 Obox5 Obox5_2284.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     17	   -40	   -87	    65	
@@ -13531,7 +13531,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00208
 
-MOTIF UP00208_2 Obox5_3963.2
+MOTIF UP00208_2 Obox5 Obox5_3963.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -57	   -21	    43	    16	
@@ -13573,7 +13573,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00208
 
-MOTIF UP00109_1 Obox6_3440.2
+MOTIF UP00109_1 Obox6 Obox6_3440.2
 
 log-odds matrix: alength= 4 w= 15 E= 0
    102	    -4	  -119	   -82	
@@ -13611,7 +13611,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00109
 
-MOTIF UP00178_1 Og2x_3719.1
+MOTIF UP00178_1 Og2x Og2x_3719.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -52	   101	   -35	  -100	
@@ -13653,7 +13653,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00178
 
-MOTIF UP00237_1 Otp_3496.1
+MOTIF UP00237_1 Otp Otp_3496.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -11	    59	   -23	   -47	
@@ -13695,7 +13695,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00237
 
-MOTIF UP00229_1 Otx1_2325.1
+MOTIF UP00229_1 Otx1 Otx1_2325.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     27	   -74	    28	    -3	
@@ -13737,7 +13737,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00229
 
-MOTIF UP00267_1 Otx2_3441.1
+MOTIF UP00267_1 Otx2 Otx2_3441.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -13	   -25	    12	    22	
@@ -13779,7 +13779,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00267
 
-MOTIF UP00247_1 Pax4_3989.2
+MOTIF UP00247_1 Pax4 Pax4_3989.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     74	  -166	  -185	    79	
@@ -13821,7 +13821,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00247
 
-MOTIF UP00224_1 Pax6_3838.3
+MOTIF UP00224_1 Pax6 Pax6_3838.3
 
 log-odds matrix: alength= 4 w= 16 E= 0
   -215	   -77	  -114	   145	
@@ -13861,7 +13861,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00224
 
-MOTIF UP00248_1 Pax7_3783.1
+MOTIF UP00248_1 Pax7 Pax7_3783.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     35	    55	   -84	   -51	
@@ -13903,7 +13903,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00248
 
-MOTIF UP00185_1 Pbx1_3203.1
+MOTIF UP00185_1 Pbx1 Pbx1_3203.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -24	    16	   -71	    51	
@@ -13945,7 +13945,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00185
 
-MOTIF UP00221_1 Phox2a_3947.1
+MOTIF UP00221_1 Phox2a Phox2a_3947.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -55	    35	   -14	    18	
@@ -13985,7 +13985,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00221
 
-MOTIF UP00149_1 Phox2b_3948.1
+MOTIF UP00149_1 Phox2b Phox2b_3948.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     11	    60	    18	  -190	
@@ -14027,7 +14027,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00149
 
-MOTIF UP00153_1 Pitx1_2312.1
+MOTIF UP00153_1 Pitx1 Pitx1_2312.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -27	    -2	   -58	    60	
@@ -14069,7 +14069,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00153
 
-MOTIF UP00125_1 Pitx2_2274.3
+MOTIF UP00125_1 Pitx2 Pitx2_2274.3
 
 log-odds matrix: alength= 4 w= 17 E= 0
     -4	   -12	     5	    10	
@@ -14111,7 +14111,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00125
 
-MOTIF UP00265_1 Pitx3_3497.2
+MOTIF UP00265_1 Pitx3 Pitx3_3497.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
     59	   -13	    38	  -184	
@@ -14151,7 +14151,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00265
 
-MOTIF UP00203_1 Pknox1_2364.2
+MOTIF UP00203_1 Pknox1 Pknox1_2364.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
     80	  -153	   -56	    30	
@@ -14191,7 +14191,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00203
 
-MOTIF UP00205_1 Pknox2_3077.2
+MOTIF UP00205_1 Pknox2 Pknox2_3077.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
     78	   -35	   -62	   -23	
@@ -14231,7 +14231,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00205
 
-MOTIF UP00158_1 Pou1f1_3818.1
+MOTIF UP00158_1 Pou1f1 Pou1f1_3818.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     24	   -86	    39	    -7	
@@ -14273,7 +14273,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00158
 
-MOTIF UP00254_1 Pou2f1_3081.2
+MOTIF UP00254_1 Pou2f1 Pou2f1_3081.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
     30	   -84	    17	    11	
@@ -14313,7 +14313,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00254
 
-MOTIF UP00191_1 Pou2f2_3748.1
+MOTIF UP00191_1 Pou2f2 Pou2f2_3748.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -80	    10	   -24	    59	
@@ -14353,7 +14353,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00191
 
-MOTIF UP00179_1 Pou2f3_3986.2
+MOTIF UP00179_1 Pou2f3 Pou2f3_3986.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -61	   -33	   -35	    82	
@@ -14393,7 +14393,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00179
 
-MOTIF UP00129_1 Pou3f1_3819.1
+MOTIF UP00129_1 Pou3f1 Pou3f1_3819.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     62	   -95	    23	   -37	
@@ -14435,7 +14435,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00129
 
-MOTIF UP00128_1 Pou3f2_2824.1
+MOTIF UP00128_1 Pou3f2 Pou3f2_2824.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -70	     4	    86	   -87	
@@ -14477,7 +14477,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00128
 
-MOTIF UP00211_1 Pou3f3_3235.2
+MOTIF UP00211_1 Pou3f3 Pou3f3_3235.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     69	   -45	   -94	    19	
@@ -14519,7 +14519,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00211
 
-MOTIF UP00105_1 Pou3f4_3773.1
+MOTIF UP00105_1 Pou3f4 Pou3f4_3773.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     41	   -92	    21	    -3	
@@ -14561,7 +14561,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00105
 
-MOTIF UP00118_1 Pou4f3_2791.1
+MOTIF UP00118_1 Pou4f3 Pou4f3_2791.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     62	   -32	   -66	     5	
@@ -14601,7 +14601,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00118
 
-MOTIF UP00146_1 Pou6f1_1731.2
+MOTIF UP00146_1 Pou6f1 Pou6f1_1731.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     14	    16	    46	  -130	
@@ -14643,7 +14643,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00146
 
-MOTIF UP00146_2 Pou6f1_3733.1
+MOTIF UP00146_2 Pou6f1 Pou6f1_3733.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     60	   -24	    24	  -115	
@@ -14685,7 +14685,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00146
 
-MOTIF UP00172_1 Prop1_3949.1
+MOTIF UP00172_1 Prop1 Prop1_3949.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     -6	    62	   -23	   -60	
@@ -14727,7 +14727,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00172
 
-MOTIF UP00266_1 Prrx1_3442.1
+MOTIF UP00266_1 Prrx1 Prrx1_3442.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
      2	    14	    32	   -64	
@@ -14769,7 +14769,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00266
 
-MOTIF UP00136_1 Prrx2_3072.1
+MOTIF UP00136_1 Prrx2 Prrx2_3072.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    121	  -256	  -101	     3	
@@ -14811,7 +14811,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00136
 
-MOTIF UP00253_1 Rax_3443.1
+MOTIF UP00253_1 Rax Rax_3443.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     71	  -216	  -143	    82	
@@ -14853,7 +14853,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00253
 
-MOTIF UP00193_1 Rhox11_1765.2
+MOTIF UP00193_1 Rhox11 Rhox11_1765.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
    111	   -95	   -76	   -44	
@@ -14895,7 +14895,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00193
 
-MOTIF UP00193_2 Rhox11_2205.1
+MOTIF UP00193_2 Rhox11 Rhox11_2205.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    101	   -83	   -88	   -19	
@@ -14937,7 +14937,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00193
 
-MOTIF UP00116_1 Rhox6_4251.1
+MOTIF UP00116_1 Rhox6 Rhox6_4251.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
     53	  -224	  -231	   110	
@@ -14979,7 +14979,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00116
 
-MOTIF UP00257_1 Shox2_2641.2
+MOTIF UP00257_1 Shox2 Shox2_2641.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -31	    76	   -11	   -81	
@@ -15021,7 +15021,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00257
 
-MOTIF UP00192_1 Six1_0935.2
+MOTIF UP00192_1 Six1 Six1_0935.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     35	   -94	    68	   -73	
@@ -15063,7 +15063,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00192
 
-MOTIF UP00159_1 Six2_2307.2
+MOTIF UP00159_1 Six2 Six2_2307.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     86	  -133	    22	   -67	
@@ -15105,7 +15105,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00159
 
-MOTIF UP00195_1 Six3_1732.2
+MOTIF UP00195_1 Six3 Six3_1732.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     42	  -142	    54	   -26	
@@ -15147,7 +15147,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00195
 
-MOTIF UP00199_1 Six4_2860.1
+MOTIF UP00199_1 Six4 Six4_2860.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    107	   -57	   -83	   -58	
@@ -15189,7 +15189,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00199
 
-MOTIF UP00008_3 Six6_2267.4
+MOTIF UP00008_3 Six6 Six6_2267.4
 
 log-odds matrix: alength= 4 w= 17 E= 0
     40	  -108	    16	    12	
@@ -15231,7 +15231,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00008
 
-MOTIF UP00008_4 Six6_2267.5
+MOTIF UP00008_4 Six6 Six6_2267.5
 
 log-odds matrix: alength= 4 w= 17 E= 0
     52	  -139	    47	   -31	
@@ -15273,7 +15273,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00008
 
-MOTIF UP00089_3 Tcf1_2666.2
+MOTIF UP00089_3 Tcf1 Tcf1_2666.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -62	    50	   -84	    46	
@@ -15315,7 +15315,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00089
 
-MOTIF UP00222_1 Tcf2_0913.2
+MOTIF UP00222_1 Tcf2 Tcf2_0913.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     33	   -80	     8	    15	
@@ -15357,7 +15357,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00222
 
-MOTIF UP00122_1 Tgif1_2342.2
+MOTIF UP00122_1 Tgif1 Tgif1_2342.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     13	   -65	    19	    18	
@@ -15399,7 +15399,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00122
 
-MOTIF UP00258_1 Tgif2_3451.1
+MOTIF UP00258_1 Tgif2 Tgif2_3451.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
    106	   -82	  -116	   -14	
@@ -15439,7 +15439,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00258
 
-MOTIF UP00165_1 Titf1_1722.2
+MOTIF UP00165_1 Titf1 Titf1_1722.2
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -81	    38	   -76	    62	
@@ -15479,7 +15479,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00165
 
-MOTIF UP00244_1 Tlx2_3498.2
+MOTIF UP00244_1 Tlx2 Tlx2_3498.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
   -124	   -32	    14	    74	
@@ -15521,7 +15521,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00244
 
-MOTIF UP00142_1 Uncx4.1_2281.2
+MOTIF UP00142_1 Uncx4.1 Uncx4.1_2281.2
 
 log-odds matrix: alength= 4 w= 17 E= 0
     28	    32	    11	  -112	
@@ -15563,7 +15563,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00142
 
-MOTIF UP00215_1 Vax1_3499.1
+MOTIF UP00215_1 Vax1 Vax1_3499.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
     99	    -4	   -49	  -160	
@@ -15603,7 +15603,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00215
 
-MOTIF UP00106_1 Vax2_3500.1
+MOTIF UP00106_1 Vax2 Vax2_3500.1
 
 log-odds matrix: alength= 4 w= 16 E= 0
    -65	    -8	    29	    25	
@@ -15643,7 +15643,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 20 E= 0
 
 URL http://the_brain.bwh.harvard.edu/uniprobe/details2.php?id=00106
 
-MOTIF UP00141_1 Vsx1_1728.1
+MOTIF UP00141_1 Vsx1 Vsx1_1728.1
 
 log-odds matrix: alength= 4 w= 17 E= 0
    -12	   107	  -120	   -88	
