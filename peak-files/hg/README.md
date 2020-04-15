@@ -24,7 +24,7 @@ The metadata file for the above experiments were downloaded as below;
   curl -L $(head -n1 hg-GGR-files.txt) -o hg-GGR-metadata.tsv
   ```
 ## Extracting IDR peaks from the metadata files
-IDR peaks called using ghr38 reference were selected and if not availablr then hg19 were selected.
+IDR peaks called using __*GRCh38*__ reference were selected and if not availablr then __*Hg19*__ were selected.
 
 The narrowpeak files from ENCODE were extracted using a custom script [`encode-get.sh`](https://github.com/Fnyasimi/Msc_Project/blob/master/Scripts/encode-get.sh).
 
