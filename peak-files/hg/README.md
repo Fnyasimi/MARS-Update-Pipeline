@@ -28,7 +28,15 @@ IDR peaks called using __*GRCh38*__ reference were selected and if not availablr
 
 The narrowpeak files from ENCODE were extracted using a custom script [`encode-get.sh`](https://github.com/Fnyasimi/Msc_Project/blob/master/Scripts/encode-get.sh).
 
-Narrowpeak files from GGR are still being processed
+Narrowpeak files from GGR are still being processed;
+```
+Peaks Metadata file...
+awk -F "\t" '($3=="optimal IDR thresholded peaks" || $3=="peaks") && $44=="GRCh38" {print$0}' hg-GGR-metadata.tsv > hg-GGR-narrowpeaks-metadata.tsv
+
+Individual peak file links...
+awk -F "\t" '($3=="optimal IDR thresholded peaks" || $3=="peaks") && $44=="GRCh38" {print$43}' hg-GGR-metadata.tsv > hg-GGR-narrowpeaks.txt
+```
+**NB:** Peaks from GGR are in form of biological replicates thus resulting to more peak files (307) than experiments (116).
 
 ## Download the peakfiles
 Finally download the peak files to be used to extract the posneg as below;
