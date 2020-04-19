@@ -3,13 +3,13 @@
 The individual databases were manipulated by an assortment of tools to fit into the database.
 
 These tools include;
-	- Sed
-	- Grep
-	- Awk
-	- csvtool
+- Sed
+- Grep	
+- Awk
+- csvtool
 
 
-Some of the commands implemented are
+Some of the commands implemented are as below:
 ```
 ## Add motif table
 echo "INSERT INTO Motif VALUES" >> ../MARS-update.sql
