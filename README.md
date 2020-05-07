@@ -25,15 +25,35 @@ Activate the pipeline's conda environment
 Install additional tools to the pipeline
   >> `conda install --file requirements.txt`
   
-## Download experiments data from GEO datasets
+## Search and download experiments data from GEO datasets
+GEO experiments were searched and downloaded in the *soft file format* using a custom script [`geo_search.sh`]().
+
 Edit the `input.json` file with the organism you are working with i.e _Drosophila melanogaster_ or _Homo sapiens_.
+
 >> `"organism" : "Drosophila melanogaster"`
 
 ## Pre-processing the data
-This step involves excluding experiments which do not contain ChIP-Seq data and cleaning experiments with mixed data to remain with experiments containing only ChiP-seq data. 
+This step involves excluding experiments which do not contain ChIP-Seq data and cleaning experiments with mixed data to remain with experiments containing only ChiP-seq data.
 
-## Extract metadata
-For each experiment extract the metadata to create a json file for each TF target and the samples associated. Also extract the links to raw read files in SRA for later downloading when running the experiment
+The downloaded experiments were cleaned using a build custom script [`filesort.py`]() which separates experiments which dont contain ChIP-Seq data from those that contain ChIP-Seq data. The script also separates data in GEO experiments soft files which have mixed data i.e RNA Seq data and ChIP-Seq data to only retain ChIP-Seq Data.
+
+## Extract experiment data and convert to json file
+For each GEO experiment soft file, the experimental data (TF antibody targets, experimental description and GSM accessions) was extracted and used to create a json file for each antibody target in the experiment and the GSM samples accessions associated.
+
+For each antibody target in the experiment the metadata (GEO acc, Ab Target, cell line, tissue, cell type and the json file name) were recorded in a metadata.tsv file for later processing.
+
+The SRA accessions associated to each GSM accession were also extracted for later downloading of the raw reads in fastq format when processing the data uniformly using the Encode ChIP-Seq pipeline.
+
+All of the processes in this step are perfomed by a custom build module [`geosoft_extractor.py`]() which uses support modules at dufferent steps.
+
+## Curation of the extracted experiments
+In our study we are intereted in TF experiments only and not other type of  experiments. Some of the downloaded experiments contain Epigenetic targets and Cell signalling pathways which were not of interest to us. 
+
+We used the metadata file to find antibody targets which are not for transcription factors and remove the while  alsp droping the json files asoociated with them.
+
+This step involved manual curation of the each record in the generated metadata file to assign the correct Antibody Target for each record. After this curation step the Epigenetics targets, Cell signalling Targets, RNA targets and other targets which were not TF targets were removed from the metadata file using a custom script [`cleanjson.sh`]().
 
 ## Download Reads and Run the Pipeline
-Download the .sra reads and convert them to fastq.gz files, run the ChIP-Seq analysis. 
+The raw reads of each curated experiment were download in `.sra` file format then dumped into fastq.gz format using the Ncbi's sra-tool kit.
+
+
