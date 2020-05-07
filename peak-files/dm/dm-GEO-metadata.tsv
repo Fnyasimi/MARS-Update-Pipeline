@@ -1,0 +1,394 @@
+Expt Accession	TF-Target	Target	Tissue	Cell line	Cell type	Generic peak name	New Peak Name
+GSE100613	TFIIB	Drosophila TFIIB antibody from Jim Kadonaga	-	-	-	GSE100613_Drosophila_TFIIB_antibody_from_Jim_Kadonaga	GSE100613_TFIIB
+GSE100614	TFIIB	Drosophila TFIIB antibody from Jim Kadonaga	-	-	-	GSE100614_Drosophila_TFIIB_antibody_from_Jim_Kadonaga	GSE100614_TFIIB
+GSE101365	AG02	AGO2	-	Kc167	-	GSE101365_AGO2	GSE101365_AG02
+GSE101554	E	E	-	late embryo-derived cell line stably transfected with HA::AbdA	-	GSE101554_E	GSE101554_E
+GSE101554	GAGA	GAGA	-	late embryo-derived cell line stably transfected with HA::AbdA	-	GSE101554_GAGA	GSE101554_GAGA
+GSE101554	M1bp	M1BP	-	late embryo-derived cell line stably transfected with HA::AbdA	-	GSE101554_M1BP	GSE101554_M1bp
+GSE101554	Ring	dRing	-	late embryo-derived cell line stably transfected with HA::AbdA	-	GSE101554_dRing	GSE101554_Ring
+GSE101557	E	E	-	late embryo-derived cell line stably transfected with HA::Ubx	-	GSE101557_E	GSE101557_E
+GSE101557	GAGA	GAGA	-	late embryo-derived cell line stably transfected with HA::Ubx	-	GSE101557_GAGA	GSE101557_GAGA
+GSE101557	M1bp	M1BP	-	late embryo-derived cell line stably transfected with HA::Ubx	-	GSE101557_M1BP	GSE101557_M1bp
+GSE101557	Ring	dRing	-	late embryo-derived cell line stably transfected with HA::Ubx	-	GSE101557_dRing	GSE101557_Ring
+GSE101646	BRWD2	BRWD2 833	-	v6.5	-	GSE101646_BRWD2_833	GSE101646_BRWD2
+GSE101646	BRWD2	dBRWD2	-	v6.5	-	GSE101646_dBRWD2	GSE101646_dBRWD2
+GSE102043	DP	anti-DP	flight muscles	-	-	GSE102043_anti-DP	GSE102043_DP
+GSE102043	Rbf	anti-Rbf	flight muscles	-	-	GSE102043_anti-Rbf	GSE102043_Rbf
+GSE102550	Grh	rabbit anti-Grh antibody	-	-	-	GSE102550_rabbit_anti-Grh_antibody	GSE102550_grh
+GSE103291	BigH1	anti-dBigH1	-	-	-	GSE103291_anti-dBigH1	GSE103291_BigH1	
+GSE103453	Ada2b	ada2b	1-3 hr embryo	-	-	GSE103453_ada2b	GSE103453_Ada2b
+GSE103601	Clamp	clamp-abcam	-	Kc167	-	GSE103601_clamp-abcam	GSE103601-ab_clamp
+GSE103601	Clamp	clamp	-	Kc167	-	GSE103601_clamp	GSE103601_clamp
+GSE103601	cp190	cp190	-	Kc167	-	GSE103601_cp190	GSE103601_cp190
+GSE103601	Mod	mod	-	Kc167	-	GSE103601_mod	GSE103601_Mod
+GSE103601	SuHw	suhw	-	Kc167	-	GSE103601_suhw	GSE103601_SuHw
+GSE103695	Bcd	House-made Bicoid antibody	-	-	-	GSE103695_House-made_Bicoid_antibody	GSE103695_Bcd
+GSE104839	Cic	anti-cic rabbit polyclonal, custom	embryo	-	-	GSE104839_anti-cic_rabbit_polyclonal_custom	GSE104839_Cic
+GSE104839	dl	anti-dl rabbit polyclonal, custom	embryo	-	-	GSE104839_anti-dl_rabbit_polyclonal_custom	GSE104839_dl
+GSE107059	Clamp	rabbit anti-CLAMP	-	-	-	GSE107059_rabbit_anti-CLAMP	GSE107059_clamp
+GSE107059	GAF	rabbit anti-GAF	-	-	-	GSE107059_rabbit_anti-GAF	GSE107059_GAF
+GSE107059	MSL3	goat anti-MSL3	-	-	-	GSE107059_goat_anti-MSL3	GSE107059_Msl3
+GSE109384	Brca2	Brca2	CNS-derived cell-line	ML-DmBG3-c2	-	GSE109384_Brca2	GSE109384_Brca2
+GSE109384	NipB	Nipped-B	CNS-derived cell-line	ML-DmBG3-c2	-	GSE109384_Nipped-B	GSE109384_NipB
+GSE109384	Pds5	Pds5	CNS-derived cell-line	ML-DmBG3-c2	-	GSE109384_Pds5	GSE109384_Pds5
+GSE109384	RAD21	Rad21	CNS-derived cell-line	ML-DmBG3-c2	-	GSE109384_Rad21	GSE109384_RAD21
+GSE109384	SA	SA	CNS-derived cell-line	ML-DmBG3-c2	-	GSE109384_SA	GSE109384_SA
+GSE109384	Wapl	Wapl	CNS-derived cell-line	ML-DmBG3-c2	-	GSE109384_Wapl	GSE109384_Wapl
+GSE109898	Mle	Rat-anti-MLE	-	-	-	GSE109898_Rat-anti-MLE	GSE109898_Mle
+GSE111000	CTCF	CTCF	-	-	liver hepatocellular carcinoma	GSE111000_CTCF	GSE111000_CTCF
+GSE111000	p300	p300	-	-	liver hepatocellular carcinoma	GSE111000_p300	GSE111000_p300
+GSE112608	AFF1CT	homemade AFF1CT	-	-	Human embryonic kidney cells	GSE112608_homemade_AFF1CT	GSE112608_AFF1CT
+GSE112608	AFF4NT	homemade AFF4NT	-	-	Human embryonic kidney cells	GSE112608_homemade_AFF4NT	GSE112608_AFF4NT
+GSE112608	c-myc	c-Myc	-	-	Human embryonic kidney cells	GSE112608_c-Myc	GSE112608_c-myc
+GSE112608	Ell2	homemade ELL2	-	-	Human embryonic kidney cells	GSE112608_homemade_ELL2	GSE112608_Ell2
+GSE112868	ey	anti-ey antibody	eye antennal discs	-	-	GSE112868_anti-ey_antibody	GSE112868_ey
+GSE113470	Spt16	Spt16	-	-	-	GSE113470_Spt16	GSE113470_Spt16
+GSE113470	SSRP1	SSRP1	-	-	-	GSE113470_SSRP1	GSE113470_SSRP1
+GSE113574	Dll	ChIP with anti-Dll	leg imaginal disc	-	-	GSE113574_ChIP_with_anti-Dll	GSE113574_Dll
+GSE114092	E-spl-m9	anti-Groucho antibody	-	-	-	GSE114092_anti-Groucho_antibody	GSE114092_E-spl-m9
+GSE114092	Yan	Guinea pig anti-Yan antibody	-	-	-	GSE114092_Guinea_pig_anti-Yan_antibody	GSE114092_Yan
+GSE114467	IntS12	IntS12	-	DL1 cells	-	GSE114467_IntS12	GSE114467_IntS12
+GSE114467	IntS1	IntS1	-	DL1 cells	-	GSE114467_IntS1	GSE114467_IntS1
+GSE116806	UPF1	UPF1 Antibody	-	S2	-	GSE116806_UPF1_Antibody	GSE116806_UPF1
+GSE116808	UPF1	UPF1 Antibody	-	S2	-	GSE116808_UPF1_Antibody	GSE116808_UPF1
+GSE116882	CDK9	CDK9	-	Kc167	-	GSE116882_CDK9	GSE116882_CDK9
+GSE116883	NELF-E	NELF-E	-	Kc167	-	GSE116883_NELF-E	GSE116883_NELF-E
+GSE116887	AG02	AGO2	-	Kc167	-	GSE116887_AGO2	GSE116887_AG02
+GSE118047	EcR	EcR	-	Kc167	Drosophila Embryonic Cell Line	GSE118047_EcR	GSE118047_EcR
+GSE118047	Iswi	ISWI	-	Kc167	Drosophila Embryonic Cell Line	GSE118047_ISWI	GSE118047_Iswi
+GSE118047	Pc	Pc	-	Kc167	Drosophila Embryonic Cell Line	GSE118047_Pc	GSE118047_Pc
+GSE118047	Psq	Psq-BTB	-	Kc167	Drosophila Embryonic Cell Line	GSE118047_Psq-BTB	GSE118047_Psq
+GSE118047	Psq	Psq-M	-	Kc167	Drosophila Embryonic Cell Line	GSE118047_Psq-M	GSE118047_Psq-M
+GSE118291	HMR	ChIP anti-HMR	SL2 cells	-	-	GSE118291_ChIP_anti-HMR	GSE118291_HMR
+GSE118484	Fs	Fs	-	-	-	GSE118484_Fs	GSE118484_Fs
+GSE118484	Med	MED1, rabbit	-	-	-	GSE118484_MED1_rabbit	GSE118484-r_Med
+GSE118484	Med	MED30, guinea pig	-	-	-	GSE118484_MED30_guinea_pig	GSE118484_Med
+GSE118484	NipB	Nipped-B, rabbit	-	-	-	GSE118484_Nipped-B_rabbit	GSE118484_NipB
+GSE118484	RAD21	Rad21, rabbit	-	-	-	GSE118484_Rad21_rabbit	GSE118484_RAD21
+GSE118484	SA	SA, guinea pig	-	-	-	GSE118484_SA_guinea_pig	GSE118484_SA
+GSE118484	Smc1	Smc1, rabbit	-	-	-	GSE118484_Smc1_rabbit	GSE118484_Smc1
+GSE118699	clamp	CLAMP, rabbit, Rieder et al., 2017	-	Kc167	-	GSE118699_CLAMP_rabbit_Rieder_et_al_2017	GSE118699_clamp
+GSE118699	cp190	CP190, rabbit, Pai et al., 2004	-	Kc167	-	GSE118699_CP190_rabbit_Pai_et_al_2004	GSE118699_cp190
+GSE118756	RAD21	Rad21	-	Kc167	Embryonic Cell Line	GSE118756_Rad21	GSE118756_RAD21
+GSE119448	Clamp	CLAMP	-	-	-	GSE119448_CLAMP	GSE119448_clamp
+GSE119618	CBX7	CBX7	-	Ring1a-/-;Ring1bfl/fl	-	GSE119618_CBX7	GSE119618_CBX7
+GSE119618	PCGF1	PCGF1	-	Ring1a-/-;Ring1bfl/fl	-	GSE119618_PCGF1	GSE119618_PCGF1
+GSE119618	PCGF2	PCGF2	-	Ring1a-/-;Ring1bfl/fl	-	GSE119618_PCGF2	GSE119618_PCGF2
+GSE119618	PHC1	PHC1	-	Ring1a-/-;Ring1bfl/fl	-	GSE119618_PHC1	GSE119618_PHC1
+GSE119618	RING1B	RING1B	-	Ring1a-/-;Ring1bfl/fl	-	GSE119618_RING1B	GSE119618_RING1B
+GSE119618	Suz12	SUZ12	-	Ring1a-/-;Ring1bfl/fl	-	GSE119618_SUZ12	GSE119618_Suz12
+GSE119620	CBX7	CBX7	-	Ring1a-/-;Ring1bfl/fl	-	GSE119620_CBX7	GSE119620_CBX7
+GSE119620	PCGF1	PCGF1	-	Ring1a-/-;Ring1bfl/fl	-	GSE119620_PCGF1	GSE119620_PCGF1
+GSE119620	PCGF2	PCGF2	-	Ring1a-/-;Ring1bfl/fl	-	GSE119620_PCGF2	GSE119620_PCGF2
+GSE119620	PHC1	PHC1	-	Ring1a-/-;Ring1bfl/fl	-	GSE119620_PHC1	GSE119620_PHC1
+GSE119620	RING1B	RING1B	-	Ring1a-/-;Ring1bfl/fl	-	GSE119620_RING1B	GSE119620_RING1B
+GSE119620	Suz12	SUZ12	-	Ring1a-/-;Ring1bfl/fl	-	GSE119620_SUZ12	GSE119620_Suz12
+GSE119708	Clamp	CLAMP	-	S2	-	GSE119708_CLAMP	GSE119708_clamp
+GSE119708	Msl2	MSL2	-	S2	-	GSE119708_MSL2	GSE119708_Msl2
+GSE120881	RBP1	RBP1	-	S2R+ Cells	Embryonic	GSE120881_RBP1	GSE120881_RBP1
+GSE121752	Pho	Rb-Pho 2-382	-	-	mesoderm	GSE121752_Rb-Pho_2-382	GSE121752_Pho
+GSE121752	Ubx	gp-Ubx	-	-	mesoderm	GSE121752_gp-Ubx	GSE121752_Ubx
+GSE125604	Hth	anti-Hth	-	-	-	GSE125604_anti-Hth	GSE125604_Hth
+GSE125604	V5	anti-V5	-	-	-	GSE125604_anti-V5	GSE125604_V5
+GSE126415	Ku	Ku	-	-	-	GSE126415_Ku	GSE126415_Ku
+GSE126985	Psc	PSC Ab	Eye Disc	-	-	GSE126985_PSC_Ab	GSE126985_Psc
+GSE126985	Su	SU	Eye Disc	-	-	GSE126985_SU	GSE126985_Su
+GSE127117	AEBP2	AEBP2	-	-	Embryonic stem cell and NT2 cell line	GSE127117_AEBP2	GSE127117_AEBP2
+GSE127117	CBX7	CBX7	-	-	Embryonic stem cell and NT2 cell line	GSE127117_CBX7	GSE127117_CBX7
+GSE127117	Epop	EPOP	-	-	Embryonic stem cell and NT2 cell line	GSE127117_EPOP	GSE127117_Epop
+GSE127117	Jarid2	JARID2	-	-	Embryonic stem cell and NT2 cell line	GSE127117_JARID2	GSE127117_Jarid2
+GSE127117	PCL2	PCL2	-	-	Embryonic stem cell and NT2 cell line	GSE127117_PCL2	GSE127117_PCL2
+GSE127117	Suz12	SUZ12	-	-	Embryonic stem cell and NT2 cell line	GSE127117_SUZ12	GSE127117_Suz12
+GSE127175	Mof	MOF	embryo	-	-	GSE127175_MOF	GSE127175_Mof
+GSE127175	Msl2	MSL2	embryo	-	-	GSE127175_MSL2	GSE127175_Msl2
+GSE128455	Jil-1	JIL-1	-	S2	-	GSE128455_JIL-1	GSE128455_Jil-1
+GSE128455	Msl3	MSL3	-	S2	-	GSE128455_MSL3	GSE128455_Msl3
+GSE130112	Msl3	MSL3	-	S2	-	GSE130112_MSL3	GSE130112_Msl3
+GSE131160	Elba1	Elba1 antibody in ChIP	early embyro	-	-	GSE131160_Elba1_antibody_in_ChIP	GSE131160_Elba1
+GSE131160	Elba2	Elba2 antibody in ChIP	early embyro	-	-	GSE131160_Elba2_antibody_in_ChIP	GSE131160_Elba2
+GSE131160	Elba3	Elba3 antibody in ChIP	early embyro	-	-	GSE131160_Elba3_antibody_in_ChIP	GSE131160_Elba3
+GSE131160	Insv	Insv antibody in ChIP	early embyro	-	-	GSE131160_Insv_antibody_in_ChIP	GSE131160_Insv
+GSE133637	Clamp	CLAMP	embryo	-	-	GSE133637_CLAMP	GSE133637_clamp
+GSE133637	Msl3	MSL3	embryo	-	-	GSE133637_MSL3	GSE133637_Msl3
+GSE135610	Elys	Elys	-	S2	Embryonic cells	GSE135610_Elys	GSE135610_Elys
+GSE135610	Nup	Nup107	-	S2	Embryonic cells	GSE135610_Nup107	GSE135610_Nup
+GSE135610	Nup	Nup93	-	S2	Embryonic cells	GSE135610_Nup93	GSE135610_Nup93
+GSE136407	CTCF	rat anti-dCTCF	Whole body	-	-	GSE136407_rat_anti-dCTCF	GSE136407_CTCF
+GSE136407	ZAF1	rat anti-ZAF1	Whole body	-	-	GSE136407_rat_anti-ZAF1	GSE136407_ZAF1
+GSE137194	HMR	HMR	-	L2-4 Flag-HA-HMR/pMT Hygro+Myc-LHR/pMT Hygro	-	GSE137194_HMR	GSE137194_HMR
+GSE15292	p300	CBP	Embryos	-	-	GSE15292_CBP	GSE15292_p300
+GSE16013	p300	CBP	Embryos	-	-	GSE16013_CBP	GSE16013_p300
+GSE17697	Psc	PSC	-	-	-	GSE17697_PSC	GSE17697_Psc
+GSE17729	Msl3	MSL3-TAP ChIP	-	-	-	GSE17729_MSL3-TAP_ChIP	GSE17729_Msl3
+GSE20000	Cad	Caudal	-	S2	-	GSE20000_Caudal	GSE20000_Cad
+GSE20000	CTCF	CTCF	-	S2	-	GSE20000_CTCF	GSE20000_CTCF
+GSE20000	HDAC11	HDAC11	-	S2	-	GSE20000_HDAC11	GSE20000_HDAC11
+GSE20000	HDAC1	HDAC1	-	S2	-	GSE20000_HDAC1	GSE20000_HDAC1
+GSE20000	HDAC3	HDAC3	-	S2	-	GSE20000_HDAC3	GSE20000_HDAC3
+GSE20000	HDAC4a	HDAC4a	-	S2	-	GSE20000_HDAC4a	GSE20000_HDAC4a
+GSE20000	HDAC6	HDAC6	-	S2	-	GSE20000_HDAC6	GSE20000_HDAC6
+GSE22623	AG02	anti-AGO2 mAb 9D6	-	S2	-	GSE22623_anti-AGO2_mAb_9D6	GSE22623-mAb_AG02
+GSE22623	AG02	antiAGO2 pAb Mueller [PMID:16934003]	-	S2	-	GSE22623_antiAGO2_pAb_Mueller_PMID16934003	GSE22623_AG02
+GSE24521	Pc	Pc	-	DRSC-S2	-	GSE24521_Pc	GSE24521_Pc
+GSE24521	Ph	Ph	-	DRSC-S2	-	GSE24521_Ph	GSE24521_Ph
+GSE24521	Psc	Psc	-	DRSC-S2	-	GSE24521_Psc	GSE24521_Psc
+GSE24521	Trx-C	Trx-C	-	DRSC-S2	-	GSE24521_Trx-C	GSE24521_Trx-C
+GSE27078	Lid	lid	wing imaginal discs	-	-	GSE27078_lid	GSE27078_Lid
+GSE29206	L	guinea pig 1 anti-l	third instar larval brain and wing/haltere/third leg imaginal discs	-	-	GSE29206_guinea_pig_1_anti-l	GSE29206_L
+GSE30740	BEAF32B	anti-BEAF32B	-	-	Kc167 Drosophila Embryonic Cell line	GSE30740_anti-BEAF32B	GSE30740_BEAF32B
+GSE30740	cp190	anti-CP190	-	-	Kc167 Drosophila Embryonic Cell line	GSE30740_anti-CP190	GSE30740_cp190
+GSE30740	CTCF	anti-dCTCF	-	-	Kc167 Drosophila Embryonic Cell line	GSE30740_anti-dCTCF	GSE30740_CTCF
+GSE30740	Su	anti-Su	-	-	Kc167 Drosophila Embryonic Cell line	GSE30740_anti-Su	GSE30740_Su
+GSE30757	Zld	anti-ZLD	embryo	-	-	GSE30757_anti-ZLD	GSE30757_zld
+GSE30820	Ash1C	Ash1C	-	DRSC-S2 cell line	-	GSE30820_Ash1C	GSE30820_Ash1C
+GSE30820	Ash1N	Ash1N	-	DRSC-S2 cell line	-	GSE30820_Ash1N	GSE30820_Ash1N
+GSE30820	FSH-L	FSH_ID166 [raised against the N-terminal, common part of FSH-S and FSH-L, protein 1.2]	-	DRSC-S2 cell line	-	GSE30820_FSH_ID166_raised_against_the_N-terminal_common_part_of_FSH-S_and_FSH-L_protein_1_2	GSE30820_FSH-L
+GSE30820	FSH	FSH_ID173 [raised against protein 4.1	-	DRSC-S2 cell line	-	GSE30820_FSH_ID173_raised_against_protein_4_1	GSE30820_FSH
+GSE31226	Hsp90	Hsp90	-	DRSC-S2	-	GSE31226_Hsp90	GSE31226_Hsp90
+GSE31899	Orc2	orc2	third instar salivary gland	-	-	GSE31899_orc2	GSE31899_Orc2
+GSE32120	Ell	custom ELL, see Lin et al. 2010	-	S2	C57BL/6 (female)  x 129/S (male)	GSE32120_custom_ELL_see_Lin_et_al_2010	GSE32120_Ell
+GSE32120	Ell	in house Rabbit anti-ELL-fl	-	S2	C57BL/6 (female)  x 129/S (male)	GSE32120_in_house_Rabbit_anti-ELL-fl	GSE32120_Ell-fl
+GSE32120	Ell	in house Rabbit anti-ELL-MR	-	S2	C57BL/6 (female)  x 129/S (male)	GSE32120_in_house_Rabbit_anti-ELL-MR	GSE32120_Ell-MR
+GSE32120	Ice1	in house Rabbit anti-Ice1	-	S2	C57BL/6 (female)  x 129/S (male)	GSE32120_in_house_Rabbit_anti-Ice1	GSE32120_Ice1
+GSE32120	Lilli	in house Guinea Pig anti-Lilli-CT	-	S2	C57BL/6 (female)  x 129/S (male)	GSE32120_in_house_Guinea_Pig_anti-Lilli-CT	GSE32120_Lilli
+GSE32584	BEAF	BEAF	-	Kc167 Drosophila Embryonic	-	GSE32584_BEAF	GSE32584_BEAF
+GSE32584	cp190	CP190	-	Kc167 Drosophila Embryonic	-	GSE32584_CP190	GSE32584_cp190
+GSE32584	CTCF	dCTCF	-	Kc167 Drosophila Embryonic	-	GSE32584_dCTCF	GSE32584_CTCF
+GSE32584	Su	Su	-	Kc167 Drosophila Embryonic	-	GSE32584_Su	GSE32584_Su
+GSE33052	Su	anti-Su	ovary	-	-	GSE33052_anti-Su	GSE33052_Su
+GSE33546	Jarid2	rb-α-Jarid2	eye-antanna imaginal discs	-	-	GSE33546_rb-α-Jarid2	GSE33546_Jarid2
+GSE33546	Su	rb-α-Su	eye-antanna imaginal discs	-	-	GSE33546_rb-α-Su	GSE33546_Su
+GSE34040	Yan	gp anti-Yan	embryo	-	-	GSE34040_gp_anti-Yan	GSE34040_Yan
+GSE34221	Cbp	rabbit anti-Drosophila CBP	-	-	-	GSE34221_rabbit_anti-Drosophila_CBP	GSE34221_Cbp
+GSE36374	Jil-1	JIL-1	-	Kc167	-	GSE36374_JIL-1	GSE36374_Jil-1
+GSE36404	Ash1C	ASH1C	-	S2-DRSC cells	-	GSE36404_ASH1C	GSE36404_Ash1C
+GSE36404	Ash1N	ASH1N	-	S2-DRSC cells	-	GSE36404_ASH1N	GSE36404_Ash1N
+GSE36404	FSH-L	FSH-S and FSH-L	-	S2-DRSC cells	-	GSE36404_FSH-S_and_FSH-L	GSE36404_FSH-L
+GSE36404	FSH-S	FSH-S	-	S2-DRSC cells	-	GSE36404_FSH-S	GSE36404_FSH-S
+GSE36450	Ash1C	ASH1C	-	S2-DRSC cells	-	GSE36450_ASH1C	GSE36450_Ash1C
+GSE36450	Ash1N	ASH1N	-	S2-DRSC cells	-	GSE36450_ASH1N	GSE36450_Ash1N
+GSE36450	FSH-L	FSH-S and FSH-L	-	S2-DRSC cells	-	GSE36450_FSH-S_and_FSH-L	GSE36450_FSH-L
+GSE36450	FSH-S	FSH-S	-	S2-DRSC cells	-	GSE36450_FSH-S	GSE36450_FSH-S
+GSE36735	BEAF-32B	BEAF-32B	L3 Wing imaginal disc-3rd instar	-	-	GSE36735_BEAF-32B	GSE36735_BEAF-32B
+GSE38166	Psc	PSC custom made rabbit polyclonal antibody that was affinity purified	-	S2 experssing biotin-PH	-	GSE38166_PSC_custom_made_rabbit_polyclonal_antibody_that_was_affinity_purified	GSE38166_Psc
+GSE38402	Lmd1	Lmd1 [Cunha et al. 2010 PLoS Genet 6	-	-	sorted primary mesodermal	GSE38402_Lmd1_Cunha_et_al_2010_PLoS_Genet_6	GSE38402_Lmd1
+GSE38402	Lmd2	Lmd2 [Cunha et al. 2010 PLoS Genet 6	-	-	sorted primary mesodermal	GSE38402_Lmd2_Cunha_et_al_2010_PLoS_Genet_6	GSE38402_Lmd2
+GSE38594	Trl	anti-Trl	Wing imaginal disc	-	-	GSE38594_anti-Trl	GSE38594_Trl
+GSE38594	Yki	anti-Yki	Wing imaginal disc	-	-	GSE38594_anti-Yki	GSE38594_Yki
+GSE39393	Dp1	rabbit anti-Dp1	-	-	embryonic cells	GSE39393_rabbit_anti-Dp1	GSE39393_Dp1
+GSE39521	Myc	Myc	-	-	Kc cells in mitosis	GSE39521_Myc	GSE39521_Myc
+GSE39664	Dref	DREF Rabbit polyclonal	-	Kc167	Embryonic Cell	GSE39664_DREF_Rabbit_polyclonal	GSE39664_Dref
+GSE40467	V5	V5	-	-	-	GSE40467_V5	GSE40467_V5
+GSE40646	GAF	anti-GAF	-	ModENCODE S2-DRSC (lot 181A1)	-	GSE40646_anti-GAF	GSE40646_GAF
+GSE40664	Twist	Anti Twist	whole-embryo	-	-	GSE40664_Anti_Twist	GSE40664_Twist
+GSE40797	Mod	Mod	-	-	-	GSE40797_Mod	GSE40797_Mod
+GSE40797	Shep	Shep, guinea pig	-	-	-	GSE40797_Shep_guinea_pig	GSE40797_Shep
+GSE40797	Shep	Shep, rabbit	-	-	-	GSE40797_Shep_rabbit	GSE40797-r_Shep
+GSE40797	Su	Su	-	-	-	GSE40797_Su	GSE40797_Su
+GSE40957	Brk	Brinker	wing imaginal disc	-	-	GSE40957_Brinker	GSE40957_Brk
+GSE41700	TBP	TBP	-	-	-	GSE41700_TBP	GSE41700_TBP
+GSE41703	TBP	TBP	-	-	-	GSE41703_TBP	GSE41703_TBP
+GSE41950	Rrp40	Rrp40	-	-	S3 late embryonic cells	GSE41950_Rrp40	GSE41950_Rrp40
+GSE41950	Rrp6	Rrp6	-	-	S3 late embryonic cells	GSE41950_Rrp6	GSE41950_Rrp6
+GSE41950	Su	Su	-	-	S3 late embryonic cells	GSE41950_Su	GSE41950_Su
+GSE42025	PAP	PAP antibody	-	-	-	GSE42025_PAP_antibody	GSE42025_PAP
+GSE42086	Fs	rabbit polyclonal antibody specific to Fs	-	Kc167	female late embryo-derived cell line	GSE42086_rabbit_polyclonal_antibody_specific_to_Fs	GSE42086_Fs
+GSE42086	Fs	rabbit polyclonal antibody to both isoforms of Fs	-	Kc167	female late embryo-derived cell line	GSE42086_rabbit_polyclonal_antibody_to_both_isoforms_of_Fs	GSE42086-iso_Fs
+GSE42928	Ab	anti-Abrupt	Eye/antennal imaginal discs	-	-	GSE42928_anti-Abrupt	GSE42928_Ab
+GSE45293	BEAF	BEAF	-	Kc167	embryonic (established from 6-12hours embryo)	GSE45293_BEAF	GSE45293_BEAF
+GSE45293	cp190	CP190	-	Kc167	embryonic (established from 6-12hours embryo)	GSE45293_CP190	GSE45293_cp190
+GSE45293	CTCF	CTCF	-	Kc167	embryonic (established from 6-12hours embryo)	GSE45293_CTCF	GSE45293_CTCF
+GSE45293	SuHw	SuHw	-	Kc167	embryonic (established from 6-12hours embryo)	GSE45293_SuHw	GSE45293_SuHw
+GSE46305	Yki	anti-Yki	-	S2	-	GSE46305_anti-Yki	GSE46305_Yki
+GSE46614	CG8436	CG8436	-	S2	-	GSE46614_CG8436	GSE46614_CG8436
+GSE46614	CG9740	CG9740	-	S2	-	GSE46614_CG9740	GSE46614_CG9740
+GSE46614	cp190	CP190	-	S2	-	GSE46614_CP190	GSE46614_cp190
+GSE47691	EcR	anti-EcR monoclonal antibody	-	-	S2 cells	GSE47691_anti-EcR_monoclonal_antibody	GSE47691_EcR
+GSE47938	AFF4	anti-AFF4	-	HCT116	S2; Schneider's Drosophila Line 2;  Marco Blanchette's Lab	GSE47938_anti-AFF4	GSE47938_AFF4
+GSE47938	ELL1	anti-ELL1	-	HCT116	S2; Schneider's Drosophila Line 2;  Marco Blanchette's Lab	GSE47938_anti-ELL1	GSE47938_ELL1
+GSE47938	Ice1	anti-Ice1	-	HCT116	S2; Schneider's Drosophila Line 2;  Marco Blanchette's Lab	GSE47938_anti-Ice1	GSE47938_Ice1
+GSE47938	Ice1	ICE1-CT	-	HCT116	S2; Schneider's Drosophila Line 2;  Marco Blanchette's Lab	GSE47938_ICE1-CT	GSE47938_Ice1-CT
+GSE47938	Ice2	ICE2 NT	-	HCT116	S2; Schneider's Drosophila Line 2;  Marco Blanchette's Lab	GSE47938_ICE2_NT	GSE47938_Ice2
+GSE47938	ZC3H8	ZC3H8	-	HCT116	S2; Schneider's Drosophila Line 2;  Marco Blanchette's Lab	GSE47938_ZC3H8	GSE47938_ZC3H8
+GSE49102	Z4	guinea pig αZ4	-	S2 cells	-	GSE49102_guinea_pig_αZ4	GSE49102_Z4
+GSE49102	αDsk2	rabbit αDsk2	-	S2 cells	-	GSE49102_rabbit_αDsk2	GSE49102_alphaDsk2
+GSE49102	αHP1c	rabbit αHP1c	-	S2 cells	-	GSE49102_rabbit_αHP1c	GSE49102_alphaHP1c
+GSE49102	αROW	rabbit αROW	-	S2 cells	-	GSE49102_rabbit_αROW	GSE49102_alphaROW
+GSE49102	αWOC	rabbit αWOC	-	S2 cells	-	GSE49102_rabbit_αWOC	GSE49102_alphaWOC
+GSE49480	V5	anti-V5	Adult abdominal fatbody with associated abdominal cuticle, oenocytes and cuticular muscles	S2	-	GSE49480_anti-V5	GSE49480_V5
+GSE49511	V5	anti-V5	-	S2	-	GSE49511_anti-V5	GSE49511_V5
+GSE49842	M1bp	M1BP antisera generated in a rabbit using recombinant M1BP isolated from E. coli.	-	S2R+	-	GSE49842_M1BP_antisera_generated_in_a_rabbit_using_recombinant_M1BP_isolated_from_E_coli_	GSE49842_M1bp
+GSE50771	Bcd	Bicoid, counter-purified agians D. virilis protein	-	-	-	GSE50771_Bicoid_counter-purified_agians_D_virilis_protein	GSE50771-purified_Bcd
+GSE50771	Bcd	Bicoid	-	-	-	GSE50771_Bicoid	GSE50771_Bcd
+GSE50771	GT	GT	-	-	-	GSE50771_GT	GSE50771_GT
+GSE50771	Hb	HB, counter-purified agians D. virilis protein	-	-	-	GSE50771_HB_counter-purified_agians_D_virilis_protein	GSE50771-purified_Hb
+GSE50771	Hb	HB	-	-	-	GSE50771_HB	GSE50771_Hb
+GSE50771	Kr	KR, counter-purified agians D. virilis protein	-	-	-	GSE50771_KR_counter-purified_agians_D_virilis_protein	GSE50771-purified_Kr
+GSE50771	Kr	KR	-	-	-	GSE50771_KR	GSE50771_Kr
+GSE51134	AG02	Mouse monoclonal to Ago2, gift from M. Siomi	-	S2	-	GSE51134_Mouse_monoclonal_to_Ago2_gift_from_M_Siomi	GSE51134_AG02
+GSE51462	cp190	CP190 rabbit	-	Kc167	-	GSE51462_CP190_rabbit	GSE51462_cp190
+GSE51462	Mod	Mod	-	Kc167	-	GSE51462_Mod	GSE51462_Mod
+GSE51462	Rump	Rump 10c3	-	Kc167	-	GSE51462_Rump_10c3	GSE51462_Rump
+GSE51462	Rump	Rump 5g4	-	Kc167	-	GSE51462_Rump_5g4	GSE51462_Rump_5g4
+GSE51462	Shep	Shep guinea pig	-	Kc167	-	GSE51462_Shep_guinea_pig	GSE51462_Shep
+GSE51462	Shep	Shep rabbit	-	Kc167	-	GSE51462_Shep_rabbit	GSE51462-r_Shep
+GSE51462	Su	Su	-	Kc167	-	GSE51462_Su	GSE51462_Su
+GSE52029	TBP	anti-TBP 517 Antibody	-	-	-	GSE52029_anti-TBP_517_Antibody	GSE52029_TBP-517
+GSE52029	TBP	anti-TBP 518 Antibody	-	-	-	GSE52029_anti-TBP_518_Antibody	GSE52029_TBP-518
+GSE52029	Trf2	anti-Trf2 274 Antibody	-	-	-	GSE52029_anti-Trf2_274_Antibody	GSE52029_Trf2-274
+GSE52029	Trf2	anti-Trf2 275 Antibody	-	-	-	GSE52029_anti-Trf2_275_Antibody	GSE52029_Trf2-275
+GSE52240	cp190	CP190	-	-	-	GSE52240_CP190	GSE52240_cp190
+GSE52886	cp190	CP190	-	S2	-	GSE52886_CP190	GSE52886_cp190
+GSE52943	So	guinea pig anti-So	eye-antennal imaginal disc	-	-	GSE52943_guinea_pig_anti-So	GSE52943_So
+GSE52962	BEAF32	anti-Beaf32	-	-	Late embryonic derived S2 cells	GSE52962_anti-Beaf32	GSE52962_BEAF32
+GSE54337	Pita	anti-Pita	-	S2	-	GSE54337_anti-Pita	GSE54337_Pita
+GSE54337	ZIPIC	anti-ZIPIC	-	S2	-	GSE54337_anti-ZIPIC	GSE54337_ZIPIC
+GSE54438	Jil-1	JIL-1 monoclonal antibody 5C9	-	-	Salivary Gland Cells	GSE54438_JIL-1_monoclonal_antibody_5C9	GSE54438_Jil-1
+GSE54529	cp190	CP190	-	Kc167	-	GSE54529_CP190	GSE54529_cp190
+GSE54529	TFIIIC	dTFIIIC220	-	Kc167	-	GSE54529_dTFIIIC220	GSE54529_TFIIIC
+GSE55256	Bcd	Bcd	embryo	-	-	GSE55256_Bcd	GSE55256_Bcd
+GSE55257	cp190	anti-CP190	embryo	-	-	GSE55257_anti-CP190	GSE55257_cp190
+GSE55257	CTCF	anti-CTCF	embryo	-	-	GSE55257_anti-CTCF	GSE55257_CTCF
+GSE55257	Pc	anti-Pc	embryo	-	-	GSE55257_anti-Pc	GSE55257_Pc
+GSE55257	Ph	anti-Ph	embryo	-	-	GSE55257_anti-Ph	GSE55257_Ph
+GSE55257	Su	anti-SU	embryo	-	-	GSE55257_anti-SU	GSE55257_Su
+GSE55303	Pc	Polycomb	-	S2	-	GSE55303_Polycomb	GSE55303_Pc
+GSE55303	Sumo	SUMO	-	S2	-	GSE55303_SUMO	GSE55303_Sumo
+GSE55303	Velo	Velo	-	S2	-	GSE55303_Velo	GSE55303_Velo
+GSE55306	dl	anti-Dorsal rabbit polyclonal, custom	whole-embryo	K562 cells	-	GSE55306_anti-Dorsal_rabbit_polyclonal_custom	GSE55306_dl
+GSE55306	Max	anti-Max rabbit polyclonal, Santa Cruz Technology, catalog # sc-28209, lot # D-2504	whole-embryo	K562 cells	-	GSE55306_anti-Max_rabbit_polyclonal_Santa_Cruz_Technology_catalog_#_sc-28209_lot_#_D-2504	GSE55306_Max
+GSE55306	TBP	anti-TBP rabbit polyclonal, Santa Cruz Technology, catalog # sc-204X	whole-embryo	K562 cells	-	GSE55306_anti-TBP_rabbit_polyclonal_Santa_Cruz_Technology_catalog_#_sc-204X	GSE55306_TBP
+GSE55306	Twist	anti-Twist rabbit polyclonal, custom	whole-embryo	K562 cells	-	GSE55306_anti-Twist_rabbit_polyclonal_custom	GSE55306_Twist
+GSE55932	CDC45	Cdc45	egg chamber	-	-	GSE55932_Cdc45	GSE55932_CDC45
+GSE55932	SuUR	SUUR	egg chamber	-	-	GSE55932_SUUR	GSE55932_SuUR
+GSE56120	PARP-1	PARP-1	-	-	late embryonic cells	GSE56120_PARP-1	GSE56120_PARP-1
+GSE56347	HP1	anti-HP1	Ovaries	-	-	GSE56347_anti-HP1	GSE56347_HP1
+GSE58768	Mof	MOF	salivary gland	-	-	GSE58768_MOF	GSE58768_Mof
+GSE58768	Msl1	MSL1	salivary gland	-	-	GSE58768_MSL1	GSE58768_Msl1
+GSE58768	Msl2	MSL2	salivary gland	-	-	GSE58768_MSL2	GSE58768_Msl2
+GSE58821	Mof	in house MOF antibody raised in rabbit	whole larva	-	-	GSE58821_in_house_MOF_antibody_raised_in_rabbit	GSE58821_Mof
+GSE58821	MSL1	polyclonal MSL1 antibody raised against the N-terminus	whole larva	-	-	GSE58821_polyclonal_MSL1_antibody_raised_against_the_N-terminus	GSE58821_Msl1
+GSE58935	zld	anti-Zelda antibody	embryo	-	-	GSE58935_anti-Zelda_antibody	GSE58935_zld
+GSE59078	CTCF	CTCF	Eye-Antennal disc	-	-	GSE59078_CTCF	GSE59078_CTCF
+GSE59726	Su-H	Santa cruz goat polyclonal #sc-15813	embryo	-	-	GSE59726_Santa_cruz_goat_polyclonal_#sc-15813	GSE59726_Su-H
+GSE59726	Su-H	Santa cruz rabbit polyclonal #sc-25761	embryo	-	-	GSE59726_Santa_cruz_rabbit_polyclonal_#sc-25761	GSE59726-r_Su-H
+GSE60428	DSP1	DSP1	Embryo	-	-	GSE60428_DSP1	GSE60428_DSP1
+GSE60428	Pc	PC	Embryo	-	-	GSE60428_PC	GSE60428_Pc
+GSE60428	Ph	PH	Embryo	-	-	GSE60428_PH	GSE60428_Ph
+GSE61308	Pc	Pc	-	EZ2-2 ; E(z) temperature sensitive cells	-	GSE61308_Pc	GSE61308_Pc
+GSE61340	MSL1	polyclonal MSL1 antibody raised against the N-terminus	-	-	-	GSE61340_polyclonal_MSL1_antibody_raised_against_the_N-terminus	GSE61340_Msl1
+GSE63323	Elav	ELAV	-	-	-	GSE63323_ELAV	GSE63323_Elav
+GSE64284	V5	anti-V5 agarose affinity gel	-	-	-	GSE64284_anti-V5_agarose_affinity_gel	GSE64284_V5
+GSE64464	CBP	affinity-purified guinea-pig antibody raised against aa 1-178 in Drosophila CBP	-	S2	-	GSE64464_affinity-purified_guinea-pig_antibody_raised_against_aa_1-178_in_Drosophila_CBP	GSE64464_Cbp
+GSE64464	CBP	affinity-purified rabbit antibody raised against aa 2540-3190 in Drosophila CBP	-	S2	-	GSE64464_affinity-purified_rabbit_antibody_raised_against_aa_2540-3190_in_Drosophila_CBP	GSE64464-r_Cbp
+GSE65150	Su	goat anti-Su	-	S2	-	GSE65150_goat_anti-Su	GSE65150_Su
+GSE65441	Dl	Dl	-	-	-	GSE65441_Dl	GSE65441_dl
+GSE65441	Zld	Zld	-	-	-	GSE65441_Zld	GSE65441_zld
+GSE66183	Pc	Pc-C-BioTAP	Embryo-derived cell-line	-	-	GSE66183_Pc-C-BioTAP	GSE66183_Pc
+GSE66639	V5	Anti-V5 antibody	-	S2	-	GSE66639_Anti-V5_antibody	GSE66639_V5
+GSE66640	V5	Anti-V5 antibody	-	S2	-	GSE66640_Anti-V5_antibody	GSE66640_V5
+GSE67323	Rb1	ACF1-Rb1	-	-	-	GSE67323_ACF1-Rb1	GSE67323_Rb1
+GSE67323	Rb2	ACF1-Rb2	-	-	-	GSE67323_ACF1-Rb2	GSE67323_Rb2
+GSE67323	Rb2	ACF1-Preimmune-Rb2	-	-	-	GSE67323_ACF1-Preimmune-Rb2	GSE67323-preimmune_Rb2
+GSE67323	Rb	ACF1-Preimmune-Rb	-	-	-	GSE67323_ACF1-Preimmune-Rb	GSE67323_Rb
+GSE67323	RSF1	RSF1-Rb	-	-	-	GSE67323_RSF1-Rb	GSE67323_RSF1
+GSE67346	STAT92E	mouse-raised STAT92E antibody	intestines	-	-	GSE67346_mouse-raised_STAT92E_antibody	GSE67346_STAT92E
+GSE67454	CTCF	CTCF	-	K562 cells	-	GSE67454_CTCF	GSE67454_CTCF
+GSE67805	Col	Mix of 3 anti-COL home made monoclonal antibodies	-	-	-	GSE67805_Mix_of_3_anti-COL_home_made_monoclonal_antibodies	GSE67805_Col
+GSE68654	CTCF	CTCF guinea-pig polyclonal	-	-	-	GSE68654_CTCF_guinea-pig_polyclonal	GSE68654_CTCF
+GSE68654	dSmad2	dSmad2 sheep polyclonal	-	-	-	GSE68654_dSmad2_sheep_polyclonal	GSE68654_dSmad2
+GSE68654	Mad	Mad rabbit polyclonal	-	-	-	GSE68654_Mad_rabbit_polyclonal	GSE68654_Mad
+GSE68654	Med	Medea rabbit polyclonal	-	-	-	GSE68654_Medea_rabbit_polyclonal	GSE68654_Med
+GSE68654	Shn	Schnurri rabbit polyclonal	-	-	-	GSE68654_Schnurri_rabbit_polyclonal	GSE68654_Shn
+GSE68983	Dl	Custom GenScript Dl	-	-	-	GSE68983_Custom_GenScript_Dl	GSE68983_dl
+GSE68983	Mad	Custom GenScript Mad	-	-	-	GSE68983_Custom_GenScript_Mad	GSE68983_Mad
+GSE68983	Pc	Pc	-	-	-	GSE68983_Pc	GSE68983_Pc
+GSE68983	Sna	Custom GenScript Sna	-	-	-	GSE68983_Custom_GenScript_Sna	GSE68983_Sna
+GSE68983	Trl	Custom GenScript Trl	-	-	-	GSE68983_Custom_GenScript_Trl	GSE68983_Trl
+GSE68983	Twi	Custom Covance Twi	-	-	-	GSE68983_Custom_Covance_Twi	GSE68983_Twi
+GSE68983	Zen	Custom GenScript Zen	-	-	-	GSE68983_Custom_GenScript_Zen	GSE68983_Zen
+GSE70408	AFF4	AFF4	-	S2	Drosophila melanogaster cell line	GSE70408_AFF4	GSE70408_AFF4
+GSE70408	CDK9	CDK9	-	S2	Drosophila melanogaster cell line	GSE70408_CDK9	GSE70408_CDK9
+GSE70408	Ell2	ELL2	-	S2	Drosophila melanogaster cell line	GSE70408_ELL2	GSE70408_Ell2
+GSE70408	Leo1	LEO1	-	S2	Drosophila melanogaster cell line	GSE70408_LEO1	GSE70408_Leo1
+GSE70408	PAF1	PAF1	-	S2	Drosophila melanogaster cell line	GSE70408_PAF1	GSE70408_PAF1
+GSE70589	KDM5	KDM5	whole animal	-	-	GSE70589_KDM5	GSE70589_KDM5
+GSE72666	Cbp	anti-CBP, custom-made antibodies	-	-	-	GSE72666_anti-CBP_custom-made_antibodies	GSE72666_Cbp
+GSE72666	SMARC	anti-SMARCAD1	-	-	-	GSE72666_anti-SMARCAD1	GSE72666_SMARC
+GSE73386	CREB	anti-CREB	-	-	-	GSE73386_anti-CREB	GSE73386_CREB
+GSE73386	CRTC	anti-CRTC	-	-	-	GSE73386_anti-CRTC	GSE73386_CRTC
+GSE73675	HNF4	rat anti-dHNF4 3600	whole animal	-	-	GSE73675_rat_anti-dHNF4_3600	GSE73675_HNF4
+GSE74080	Pc	PC	-	-	-	GSE74080_PC	GSE74080_Pc
+GSE74080	Ph	PH	-	-	-	GSE74080_PH	GSE74080_Ph
+GSE74097	HP1	anti-HP1, Covance	-	-	-	GSE74097_anti-HP1_Covance	GSE74097-Covance_HP1
+GSE74097	HP1	anti-HP1, DSHB	-	-	-	GSE74097_anti-HP1_DSHB	GSE74097_HP1
+GSE75031	Msl2	MSL2	-	Kc	-	GSE75031_MSL2	GSE75031_Msl2
+GSE75032	Msl2	MSL2	-	S2	-	GSE75032_MSL2	GSE75032_Msl2
+GSE76892	En	anti-En	CNS and imaginal disks	-	-	GSE76892_anti-En	GSE76892_En
+GSE76892	Ph	anti-Ph	CNS and imaginal disks	-	-	GSE76892_anti-Ph	GSE76892_Ph
+GSE76892	Pho	anti-Pho	CNS and imaginal disks	-	-	GSE76892_anti-Pho	GSE76892_Pho
+GSE76997	Pita	Pita	Embryo	-	-	GSE76997_Pita	GSE76997_Pita
+GSE76997	ZIPIC	ZIPIC	Embryo	-	-	GSE76997_ZIPIC	GSE76997_ZIPIC
+GSE76997	Zw5	Zw5	Embryo	-	-	GSE76997_Zw5	GSE76997_Zw5
+GSE77341	Ph	anti-Ph	CNS and imaginal disks	-	-	GSE77341_anti-Ph	GSE77341_Ph
+GSE77341	Pho	anti-Pho	CNS and imaginal disks	-	-	GSE77341_anti-Pho	GSE77341_Pho
+GSE77342	En	anti-En	CNS and imaginal disks	-	-	GSE77342_anti-En	GSE77342_En
+GSE77342	Ph	anti-Ph	CNS and imaginal disks	-	-	GSE77342_anti-Ph	GSE77342_Ph
+GSE77342	Pho	anti-Pho	CNS and imaginal disks	-	-	GSE77342_anti-Pho	GSE77342_Pho
+GSE77582	Cg	antiCg	CNS and imaginal discs	-	-	GSE77582_antiCg	GSE77582_Cg
+GSE77582	Ph	anti-Ph	CNS and imaginal discs	-	-	GSE77582_anti-Ph	GSE77582_Ph
+GSE80700	GAF	GAF	-	Kc167	Drosophila Embryonic Cell Line	GSE80700_GAF	GSE80700_GAF
+GSE80700	Ibf1	Ibf1	-	Kc167	Drosophila Embryonic Cell Line	GSE80700_Ibf1	GSE80700_Ibf1
+GSE80700	Ibf2	Ibf2	-	Kc167	Drosophila Embryonic Cell Line	GSE80700_Ibf2	GSE80700_Ibf2
+GSE80700	Nup	Nup98	-	Kc167	Drosophila Embryonic Cell Line	GSE80700_Nup98	GSE80700_Nup
+GSE80700	Pita	Pita	-	Kc167	Drosophila Embryonic Cell Line	GSE80700_Pita	GSE80700_Pita
+GSE80700	ZIPIC	ZIPIC	-	Kc167	Drosophila Embryonic Cell Line	GSE80700_ZIPIC	GSE80700_ZIPIC
+GSE80702	GAF	GAF	-	Kc167	Drosophila Embryonic Cell Line	GSE80702_GAF	GSE80702_GAF
+GSE80702	Ibf1	Ibf1	-	Kc167	Drosophila Embryonic Cell Line	GSE80702_Ibf1	GSE80702_Ibf1
+GSE80702	Ibf2	Ibf2	-	Kc167	Drosophila Embryonic Cell Line	GSE80702_Ibf2	GSE80702_Ibf2
+GSE80702	Nup	Nup98	-	Kc167	Drosophila Embryonic Cell Line	GSE80702_Nup98	GSE80702_Nup
+GSE80702	Pita	Pita	-	Kc167	Drosophila Embryonic Cell Line	GSE80702_Pita	GSE80702_Pita
+GSE80702	ZIPIC	ZIPIC	-	Kc167	Drosophila Embryonic Cell Line	GSE80702_ZIPIC	GSE80702_ZIPIC
+GSE81434	HP1a	anti-HP1a antibody	-	-	Ovarian Somatic Cells (OSC)	GSE81434_anti-HP1a_antibody	GSE81434_HP1a
+GSE81456	CREB	anti-CREB	-	-	-	GSE81456_anti-CREB	GSE81456_CREB
+GSE81456	CRTC	anti-CRTC	-	-	-	GSE81456_anti-CRTC	GSE81456_CRTC
+GSE83305	Grh	1-441GRH	-	-	-	GSE83305_1-441GRH	GSE83305_grh1
+GSE83305	Grh	GRH	-	-	-	GSE83305_GRH	GSE83305_grh
+GSE83408	Gcn5	Gcn5 rabbit polyclonal antibody	-	-	S2 cells	GSE83408_Gcn5_rabbit_polyclonal_antibody	GSE83408_Gcn5
+GSE83409	Gcn5	Gcn5 rabbit polyclonal antibody	-	-	S2 cells	GSE83409_Gcn5_rabbit_polyclonal_antibody	GSE83409_Gcn5
+GSE83435	CLAMP	anti-CLAMP	-	-	-	GSE83435_anti-CLAMP	GSE83435_clamp
+GSE83959	Lark	Lark	-	-	-	GSE83959_Lark	GSE83959_Lark
+GSE83959	NipB	Nipped-B	-	-	-	GSE83959_Nipped-B	GSE83959_NipB
+GSE83959	SA	SA	-	-	-	GSE83959_SA	GSE83959_SA
+GSE83959	TBPH	TBPH	-	-	-	GSE83959_TBPH	GSE83959_TBPH
+GSE85191	SA	SA-Cohesin	-	S2	-	GSE85191_SA-Cohesin	GSE85191_SA
+GSE85374	HP1a	anti-HP1a	-	-	-	GSE85374_anti-HP1a	GSE85374_HP1a
+GSE85404	CTCF	CTCF	-	-	-	GSE85404_CTCF	GSE85404_CTCF
+GSE85740	TFIIA	anti-TFIIA rabbit polyclonal, Kadonaga lab	-	Kc167 cells	-	GSE85740_anti-TFIIA_rabbit_polyclonal_Kadonaga_lab	GSE85740_TFIIA
+GSE85740	TFIIB	anti-TFIIB rabbit polyclonal, Kadonaga lab	-	Kc167 cells	-	GSE85740_anti-TFIIB_rabbit_polyclonal_Kadonaga_lab	GSE85740_TFIIB
+GSE85741	TFIIA	anti-TFIIA rabbit polyclonal, Kadonaga lab	-	Kc167 cells	-	GSE85741_anti-TFIIA_rabbit_polyclonal_Kadonaga_lab	GSE85741_TFIIA
+GSE85741	TFIIB	anti-TFIIB rabbit polyclonal, Kadonaga lab	-	Kc167 cells	-	GSE85741_anti-TFIIB_rabbit_polyclonal_Kadonaga_lab	GSE85741_TFIIB
+GSE87022	DnaJ-1	DnaJ1	-	S2	-	GSE87022_DnaJ1	GSE87022_DnaJ-1
+GSE87022	Mlf	MLF	-	S2	-	GSE87022_MLF	GSE87022_Mlf
+GSE87471	HES2	Antibody 4H6 raised against the peptide SRQSPLHPVP in Drosophila Atro	-	-	-	GSE87471_Antibody_4H6_raised_against_the_peptide_SRQSPLHPVP_in_Drosophila_Atro	GSE87471_HES2
+GSE87509	Atro	Rabbit anti-Atro sera	-	S2 cells	-	GSE87509_Rabbit_anti-Atro_sera	GSE87509_Atro
+GSE89459	Trr	anti_Trr	head	-	-	GSE89459_anti_Trr	GSE89459_Trr
+GSE90916	Orc2	anti-ORC2	fat body	-	-	GSE90916_anti-ORC2	GSE90916_Orc2
+GSE90917	Orc2	anti-ORC2	fat body	-	-	GSE90917_anti-ORC2	GSE90917_Orc2
+GSE92389	RBP1	RBP1	-	S2R+ Cells	Embryonic	GSE92389_RBP1	GSE92389_RBP1
+GSE93100	Ash1	polyclonal antibody against fly Ash1 from rabbit	late embryos (20h-24h AEL)	Schneider 2 cell-line	somatic cell	GSE93100_polyclonal_antibody_against_fly_Ash1_from_rabbit	GSE93100_Ash1
+GSE93100	Mrg15	polyclonal antibody against fly Mrg15 from rabbit	late embryos (20h-24h AEL)	Schneider 2 cell-line	somatic cell	GSE93100_polyclonal_antibody_against_fly_Mrg15_from_rabbit	GSE93100_Mrg15
+GSE94115	MSL2	anti-MSL2	-	Kc	-	GSE94115_anti-MSL2	GSE94115_Msl2
+GSE94922	Elys	Elys	brains	-	embryonic cells	GSE94922_Elys	GSE94922_Elys
+GSE94922	Nup	Nup93	brains	-	embryonic cells	GSE94922_Nup93	GSE94922_Nup93
+GSE94922	Nup	Nup98	brains	-	embryonic cells	GSE94922_Nup98	GSE94922_Nup98
+GSE95236	Brm	Monoclonal against Drosophila BRM	-	S2 cells	-	GSE95236_Monoclonal_against_Drosophila_BRM	GSE95236_Brm
+GSE95781	LPT	anti-LPT	wing imaginal discs from 3rd instar larvae	-	v6.5 mouse embryonic stem cells	GSE95781_anti-LPT	GSE95781_LPT
+GSE95781	Trr	anti-TRR-NT	wing imaginal discs from 3rd instar larvae	-	v6.5 mouse embryonic stem cells	GSE95781_anti-TRR-NT	GSE95781_Trr
+GSE96581	cp190	anti-CP190	-	S2 cells	-	GSE96581_anti-CP190	GSE96581_cp190
+GSE96581	CTCF	Anti-dCTCF	-	S2 cells	-	GSE96581_Anti-dCTCF	GSE96581_CTCF
+GSE96959	BigH1	anti-dBigH1	whole testes	-	-	GSE96959_anti-dBigH1	GSE96959_BigH1
+GSE98635	Cuff	Cuff	ovary	-	-	GSE98635_Cuff	GSE98635_Cuff
+GSE98862	Ada2b	rabbit-anti-ada2b	-	-	-	GSE98862_rabbit-anti-ada2b	GSE98862_Ada2b
+GSE98862	Sgf11	rabbit-anti-sgf11	-	-	-	GSE98862_rabbit-anti-sgf11	GSE98862_Sgf11
+GSE98862	Spt3	rabbit-anti-spt3	-	-	-	GSE98862_rabbit-anti-spt3	GSE98862_Spt3
