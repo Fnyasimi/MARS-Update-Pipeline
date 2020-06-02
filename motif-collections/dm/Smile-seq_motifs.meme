@@ -7,7 +7,7 @@ strands: + -
 Background letter frequencies (from uniform background):
 A 0.25000 C 0.25000 G 0.25000 T 0.25000 
 
-MOTIF 17615|Bcd(SMILE-seq 1.0) Bcd
+MOTIF 17615_Bcd_SMILE-seq1.0 Bcd
 
 letter-probability matrix: alength= 4 w= 7 nsites= 1 E= 0
   0.207921	  0.267327	  0.099010	  0.425743	
@@ -18,7 +18,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 1 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
   0.000000	  0.720000	  0.000000	  0.280000	
 
-MOTIF 17629|Gsc(SMILE-seq 1.0) Gsc
+MOTIF 17629_Gsc_SMILE-seq1.0 Gsc
 
 letter-probability matrix: alength= 4 w= 11 nsites= 1 E= 0
   0.040000	  0.000000	  0.000000	  0.960000	
@@ -33,7 +33,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 1 E= 0
   0.450000	  0.060000	  0.050000	  0.440000	
   0.730000	  0.040000	  0.110000	  0.120000	
 
-MOTIF 17630|Gt(SMILE-seq 1.0) Gt
+MOTIF 17630_Gt_SMILE-seq1.0 Gt
 
 letter-probability matrix: alength= 4 w= 11 nsites= 1 E= 0
   0.910000	  0.020000	  0.070000	  0.000000	
@@ -48,7 +48,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 1 E= 0
   0.000000	  0.554455	  0.049505	  0.396040	
   0.606061	  0.303030	  0.090909	  0.000000	
 
-MOTIF 17670|Opa(SMILE-seq 1.0) Opa
+MOTIF 17670_Opa_SMILE-seq1.0 Opa
 
 letter-probability matrix: alength= 4 w= 13 nsites= 1 E= 0
   0.187000	  0.659000	  0.135000	  0.019000	
@@ -65,7 +65,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 1 E= 0
   0.055055	  0.009009	  0.843844	  0.092092	
   0.004000	  0.298000	  0.178000	  0.520000	
 
-MOTIF 17694|Sna(SMILE-seq 1.0) Sna
+MOTIF 17694_Sna_SMILE-seq1.0 Sna
 
 letter-probability matrix: alength= 4 w= 13 nsites= 1 E= 0
   0.241000	  0.200000	  0.309000	  0.250000	
@@ -82,7 +82,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 1 E= 0
   0.535000	  0.139000	  0.147000	  0.179000	
   0.290000	  0.244000	  0.230000	  0.236000	
 
-MOTIF 17697|Ttk(SMILE-seq 1.0) Ttk
+MOTIF 17697_Ttk_SMILE-seq1.0 Ttk
 
 letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   0.245754	  0.201798	  0.269730	  0.282717	
