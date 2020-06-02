@@ -7,7 +7,7 @@ strands: + -
 Background letter frequencies (from uniform background):
 A 0.25000 C 0.25000 G 0.25000 T 0.25000 
 
-MOTIF 4932|Abd-B(DrosophilaTF 1.1) Abd-B
+MOTIF 4932_Abd-B_DrosophilaTF Abd-B
 
 letter-probability matrix: alength= 4 w= 14 nsites= 1 E= 0
   0.333333	  0.208321	  0.333333	  0.125013	
@@ -25,7 +25,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 1 E= 0
   0.354800	  0.258100	  0.258100	  0.129000	
   0.185200	  0.333300	  0.259300	  0.222200	
 
-MOTIF 4933|Adf1(DrosophilaTF 1.1) Adf1
+MOTIF 4933_Adf1_DrosophilaTF Adf1
 
 letter-probability matrix: alength= 4 w= 12 nsites= 1 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
@@ -41,7 +41,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 1 E= 0
   0.000000	  0.500000	  0.000000	  0.500000	
   0.333333	  0.333333	  0.000000	  0.333333	
 
-MOTIF 4934|Aef1(DrosophilaTF 1.1) Aef1
+MOTIF 4934_Aef1_DrosophilaTF Aef1
 
 letter-probability matrix: alength= 4 w= 6 nsites= 1 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
@@ -51,7 +51,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 1 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF 4935|Cf2(DrosophilaTF 1.1) Cf2
+MOTIF 4935_Cf2_DrosophilaTF Cf2
 
 letter-probability matrix: alength= 4 w= 9 nsites= 1 E= 0
   0.330000	  0.150000	  0.510000	  0.010000	
@@ -64,7 +64,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 1 E= 0
   0.020000	  0.130000	  0.020000	  0.830000	
   0.630000	  0.060000	  0.260000	  0.050000	
 
-MOTIF 4936|Dip3(DrosophilaTF 1.1) Dip3
+MOTIF 4936_Dip3_DrosophilaTF Dip3
 
 letter-probability matrix: alength= 4 w= 12 nsites= 1 E= 0
   0.040000	  0.640000	  0.080000	  0.240000	
@@ -80,7 +80,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 1 E= 0
   0.076900	  0.653800	  0.038500	  0.230800	
   0.047600	  0.666700	  0.190500	  0.095200	
 
-MOTIF 4937|Dref(DrosophilaTF 1.1) Dref
+MOTIF 4937_Dref_DrosophilaTF Dref
 
 letter-probability matrix: alength= 4 w= 8 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -92,7 +92,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF 4938|EcR/usp(DrosophilaTF 1.1) EcR/usp
+MOTIF 4938_EcR/usp_DrosophilaTF EcR/usp
 
 letter-probability matrix: alength= 4 w= 15 nsites= 1 E= 0
   0.250000	  0.170000	  0.580000	  0.000000	
@@ -111,7 +111,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 1 E= 0
   0.040000	  0.380000	  0.040000	  0.540000	
   0.040000	  0.750000	  0.040000	  0.170000	
 
-MOTIF 4939|Eip74EF(DrosophilaTF 1.1) Eip74EF
+MOTIF 4939_Eip74EF_DrosophilaTF Eip74EF
 
 letter-probability matrix: alength= 4 w= 17 nsites= 1 E= 0
   0.285700	  0.357100	  0.142900	  0.214300	
@@ -132,7 +132,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 1 E= 0
   0.142900	  0.071400	  0.428600	  0.357100	
   0.166700	  0.250000	  0.500000	  0.083300	
 
-MOTIF 4940|Hr46(DrosophilaTF 1.1) Hr46
+MOTIF 4940_Hr46_DrosophilaTF Hr46
 
 letter-probability matrix: alength= 4 w= 6 nsites= 1 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
@@ -142,7 +142,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 1 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF 4941|Kr(DrosophilaTF 1.1) Kr
+MOTIF 4941_Kr_DrosophilaTF Kr
 
 letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
@@ -156,7 +156,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF 4942|Rel(DrosophilaTF 1.1) Rel
+MOTIF 4942_Rel_DrosophilaTF Rel
 
 letter-probability matrix: alength= 4 w= 11 nsites= 1 E= 0
   0.060000	  0.130000	  0.710000	  0.100000	
@@ -171,7 +171,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 1 E= 0
   0.000000	  0.940000	  0.000000	  0.060000	
   0.190000	  0.390000	  0.230000	  0.190000	
 
-MOTIF 4943|Stat92E(DrosophilaTF 1.1) Stat92E
+MOTIF 4943_Stat92E_DrosophilaTF Stat92E
 
 letter-probability matrix: alength= 4 w= 21 nsites= 1 E= 0
   0.250000	  0.178600	  0.321400	  0.250000	
@@ -196,7 +196,7 @@ letter-probability matrix: alength= 4 w= 21 nsites= 1 E= 0
   0.230800	  0.307700	  0.076900	  0.384600	
   0.346200	  0.115400	  0.269200	  0.269200	
 
-MOTIF 4944|Su(H)(DrosophilaTF 1.1) Su(H)
+MOTIF 4944_Su(H)_DrosophilaTF Su(H)
 
 letter-probability matrix: alength= 4 w= 7 nsites= 1 E= 0
   0.500000	  0.000000	  0.500000	  0.000000	
@@ -207,7 +207,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 1 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   0.500000	  0.000000	  0.500000	  0.000000	
 
-MOTIF 4945|TFAM(DrosophilaTF 1.1) TFAM
+MOTIF 4945_TFAM_DrosophilaTF TFAM
 
 letter-probability matrix: alength= 4 w= 5 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -216,7 +216,7 @@ letter-probability matrix: alength= 4 w= 5 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.000000	  0.818200	  0.181800	  0.000000	
 
-MOTIF 4946|Ubx(DrosophilaTF 1.1) Ubx
+MOTIF 4946_Ubx_DrosophilaTF Ubx
 
 letter-probability matrix: alength= 4 w= 19 nsites= 1 E= 0
   0.148115	  0.148115	  0.444444	  0.259326	
@@ -239,7 +239,7 @@ letter-probability matrix: alength= 4 w= 19 nsites= 1 E= 0
   0.200000	  0.166700	  0.500000	  0.133300	
   0.166683	  0.124988	  0.291671	  0.416658	
 
-MOTIF 4947|ap(DrosophilaTF 1.1) ap
+MOTIF 4947_ap_DrosophilaTF ap
 
 letter-probability matrix: alength= 4 w= 6 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -249,7 +249,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 1 E= 0
   0.250000	  0.250000	  0.250000	  0.250000	
   0.250000	  0.250000	  0.250000	  0.250000	
 
-MOTIF 4948|bab1(DrosophilaTF 1.1) bab1
+MOTIF 4948_bab1_DrosophilaTF bab1
 
 letter-probability matrix: alength= 4 w= 12 nsites= 1 E= 0
   0.272700	  0.000000	  0.090900	  0.636400	
@@ -265,7 +265,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 1 E= 0
   0.111111	  0.111111	  0.333333	  0.444444	
   0.000000	  0.000000	  0.666700	  0.333300	
 
-MOTIF 4949|bcd(DrosophilaTF 1.1) bcd
+MOTIF 4949_bcd_DrosophilaTF bcd
 
 letter-probability matrix: alength= 4 w= 11 nsites= 1 E= 0
   0.208300	  0.458300	  0.291700	  0.041700	
@@ -280,7 +280,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 1 E= 0
   0.041700	  0.833300	  0.041700	  0.083300	
   0.208300	  0.291700	  0.250000	  0.250000	
 
-MOTIF 4950|bin(DrosophilaTF 1.1) bin
+MOTIF 4950_bin_DrosophilaTF bin
 
 letter-probability matrix: alength= 4 w= 7 nsites= 1 E= 0
   0.500000	  0.000000	  0.500000	  0.000000	
@@ -291,7 +291,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF 4951|br-Z1(DrosophilaTF 1.1) br-Z1
+MOTIF 4951_br-Z1_DrosophilaTF br-Z1
 
 letter-probability matrix: alength= 4 w= 12 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -307,7 +307,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 1 E= 0
   0.500000	  0.000000	  0.500000	  0.000000	
   0.500000	  0.000000	  0.000000	  0.500000	
 
-MOTIF 4952|br-Z2(DrosophilaTF 1.1) br-Z2
+MOTIF 4952_br-Z2_DrosophilaTF br-Z2
 
 letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -321,7 +321,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.000000	  0.000000	  0.000000	  1.000000	
 
-MOTIF 4953|br-Z3(DrosophilaTF 1.1) br-Z3
+MOTIF 4953_br-Z3_DrosophilaTF br-Z3
 
 letter-probability matrix: alength= 4 w= 9 nsites= 1 E= 0
   0.500000	  0.000000	  0.000000	  0.500000	
@@ -334,7 +334,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 1 E= 0
   0.500000	  0.000000	  0.500000	  0.000000	
   0.500000	  0.000000	  0.000000	  0.500000	
 
-MOTIF 4954|br-Z4(DrosophilaTF 1.1) br-Z4
+MOTIF 4954_br-Z4_DrosophilaTF br-Z4
 
 letter-probability matrix: alength= 4 w= 7 nsites= 1 E= 0
   0.500000	  0.000000	  0.500000	  0.000000	
@@ -345,7 +345,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 1 E= 0
   0.000000	  0.500000	  0.500000	  0.000000	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF 4955|brk(DrosophilaTF 1.1) brk
+MOTIF 4955_brk_DrosophilaTF brk
 
 letter-probability matrix: alength= 4 w= 7 nsites= 1 E= 0
   0.000000	  0.000000	  0.083300	  0.916700	
@@ -356,7 +356,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 1 E= 0
   0.000000	  0.583300	  0.000000	  0.416700	
   0.000000	  0.250000	  0.000000	  0.750000	
 
-MOTIF 4956|byn(DrosophilaTF 1.1) byn
+MOTIF 4956_byn_DrosophilaTF byn
 
 letter-probability matrix: alength= 4 w= 12 nsites= 1 E= 0
   0.500000	  0.000000	  0.500000	  0.000000	
@@ -372,7 +372,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 1 E= 0
   0.000000	  0.500000	  0.000000	  0.500000	
   0.000000	  0.000000	  0.000000	  1.000000	
 
-MOTIF 4957|cad(DrosophilaTF 1.1) cad
+MOTIF 4957_cad_DrosophilaTF cad
 
 letter-probability matrix: alength= 4 w= 6 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -382,7 +382,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.000000	  0.000000	  1.000000	  0.000000	
 
-MOTIF 4958|croc(DrosophilaTF 1.1) croc
+MOTIF 4958_croc_DrosophilaTF croc
 
 letter-probability matrix: alength= 4 w= 6 nsites= 1 E= 0
   0.666700	  0.000000	  0.333300	  0.000000	
@@ -392,7 +392,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 1 E= 0
   0.800000	  0.200000	  0.000000	  0.000000	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF 4959|dif/Rel(DrosophilaTF 1.1) dif/Rel
+MOTIF 4959_dif/Rel_DrosophilaTF dif/Rel
 
 letter-probability matrix: alength= 4 w= 11 nsites= 1 E= 0
   0.090000	  0.000000	  0.880000	  0.030000	
@@ -407,7 +407,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 1 E= 0
   0.030000	  0.940000	  0.000000	  0.030000	
   0.160000	  0.500000	  0.090000	  0.250000	
 
-MOTIF 4960|dl-A(DrosophilaTF 1.1) dl-A
+MOTIF 4960_dl-A_DrosophilaTF dl-A
 
 letter-probability matrix: alength= 4 w= 11 nsites= 1 E= 0
   0.000000	  0.090900	  0.818200	  0.090900	
@@ -422,7 +422,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 1 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
   0.227300	  0.363600	  0.318200	  0.090900	
 
-MOTIF 4961|dl-B(DrosophilaTF 1.1) dl-B
+MOTIF 4961_dl-B_DrosophilaTF dl-B
 
 letter-probability matrix: alength= 4 w= 11 nsites= 1 E= 0
   0.130000	  0.040000	  0.600000	  0.230000	
@@ -437,7 +437,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 1 E= 0
   0.000000	  0.560000	  0.070000	  0.370000	
   0.170000	  0.470000	  0.300000	  0.060000	
 
-MOTIF 4962|dsx(DrosophilaTF 1.1) dsx
+MOTIF 4962_dsx_DrosophilaTF dsx
 
 letter-probability matrix: alength= 4 w= 17 nsites= 1 E= 0
   0.086991	  0.260874	  0.391261	  0.260874	
@@ -458,7 +458,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 1 E= 0
   0.269200	  0.192300	  0.230800	  0.307700	
   0.192300	  0.269200	  0.230800	  0.307700	
 
-MOTIF 4963|ems(DrosophilaTF 1.1) ems
+MOTIF 4963_ems_DrosophilaTF ems
 
 letter-probability matrix: alength= 4 w= 13 nsites= 1 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
@@ -475,7 +475,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 1 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF 4964|en(DrosophilaTF 1.1) en
+MOTIF 4964_en_DrosophilaTF en
 
 letter-probability matrix: alength= 4 w= 6 nsites= 1 E= 0
   0.038804	  0.029103	  0.000000	  0.932093	
@@ -485,7 +485,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 1 E= 0
   0.028803	  0.019202	  0.067307	  0.884688	
   0.647765	  0.000000	  0.238624	  0.113611	
 
-MOTIF 4965|esg(DrosophilaTF 1.1) esg
+MOTIF 4965_esg_DrosophilaTF esg
 
 letter-probability matrix: alength= 4 w= 12 nsites= 1 E= 0
   0.262626	  0.262626	  0.212121	  0.262626	
@@ -501,7 +501,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 1 E= 0
   0.333333	  0.202020	  0.232323	  0.232323	
   0.200000	  0.280000	  0.320000	  0.200000	
 
-MOTIF 4966|eve(DrosophilaTF 1.1) eve
+MOTIF 4966_eve_DrosophilaTF eve
 
 letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -515,7 +515,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   0.500000	  0.500000	  0.000000	  0.000000	
   0.000000	  0.000000	  0.000000	  1.000000	
 
-MOTIF 4967|eyg(DrosophilaTF 1.1) eyg
+MOTIF 4967_eyg_DrosophilaTF eyg
 
 letter-probability matrix: alength= 4 w= 19 nsites= 1 E= 0
   0.150000	  0.150000	  0.420000	  0.280000	
@@ -538,7 +538,7 @@ letter-probability matrix: alength= 4 w= 19 nsites= 1 E= 0
   0.230000	  0.040000	  0.430000	  0.300000	
   0.160000	  0.370000	  0.180000	  0.290000	
 
-MOTIF 4968|ftz(DrosophilaTF 1.1) ftz
+MOTIF 4968_ftz_DrosophilaTF ftz
 
 letter-probability matrix: alength= 4 w= 13 nsites= 1 E= 0
   0.285671	  0.190481	  0.380962	  0.142886	
@@ -555,7 +555,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 1 E= 0
   0.333300	  0.428600	  0.095200	  0.142900	
   0.190481	  0.190481	  0.238076	  0.380962	
 
-MOTIF 4969|gcm(DrosophilaTF 1.1) gcm
+MOTIF 4969_gcm_DrosophilaTF gcm
 
 letter-probability matrix: alength= 4 w= 8 nsites= 1 E= 0
   0.866700	  0.022200	  0.088900	  0.022200	
@@ -567,7 +567,7 @@ letter-probability matrix: alength= 4 w= 8 nsites= 1 E= 0
   0.020800	  0.000000	  0.979200	  0.000000	
   0.000000	  0.322600	  0.000000	  0.677400	
 
-MOTIF 4970|grh(DrosophilaTF 1.1) grh
+MOTIF 4970_grh_DrosophilaTF grh
 
 letter-probability matrix: alength= 4 w= 16 nsites= 1 E= 0
   0.000000	  0.500000	  0.000000	  0.500000	
@@ -587,7 +587,7 @@ letter-probability matrix: alength= 4 w= 16 nsites= 1 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.000000	  0.000000	  1.000000	  0.000000	
 
-MOTIF 4971|h(DrosophilaTF 1.1) h
+MOTIF 4971_h_DrosophilaTF h
 
 letter-probability matrix: alength= 4 w= 14 nsites= 1 E= 0
   0.200000	  0.300000	  0.350000	  0.150000	
@@ -605,7 +605,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 1 E= 0
   0.470000	  0.210000	  0.110000	  0.210000	
   0.151515	  0.151515	  0.313131	  0.383838	
 
-MOTIF 4972|hb(DrosophilaTF 1.1) hb
+MOTIF 4972_hb_DrosophilaTF hb
 
 letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   0.000000	  0.500000	  0.500000	  0.000000	
@@ -619,7 +619,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF 4973|mirr(DrosophilaTF 1.1) mirr
+MOTIF 4973_mirr_DrosophilaTF mirr
 
 letter-probability matrix: alength= 4 w= 15 nsites= 1 E= 0
   0.363600	  0.142900	  0.363600	  0.129900	
@@ -638,7 +638,7 @@ letter-probability matrix: alength= 4 w= 15 nsites= 1 E= 0
   0.428557	  0.337666	  0.129887	  0.103890	
   0.506449	  0.142886	  0.116888	  0.233777	
 
-MOTIF 4974|oc(DrosophilaTF 1.1) oc
+MOTIF 4974_oc_DrosophilaTF oc
 
 letter-probability matrix: alength= 4 w= 13 nsites= 1 E= 0
   0.296300	  0.296300	  0.222200	  0.185200	
@@ -655,7 +655,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 1 E= 0
   0.222200	  0.296300	  0.185200	  0.296300	
   0.222200	  0.185200	  0.185200	  0.407400	
 
-MOTIF 4975|ovo(DrosophilaTF 1.1) ovo
+MOTIF 4975_ovo_DrosophilaTF ovo
 
 letter-probability matrix: alength= 4 w= 9 nsites= 1 E= 0
   0.523800	  0.190500	  0.000000	  0.285700	
@@ -668,7 +668,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 1 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
   0.250000	  0.200000	  0.100000	  0.450000	
 
-MOTIF 4976|pan(DrosophilaTF 1.1) pan
+MOTIF 4976_pan_DrosophilaTF pan
 
 letter-probability matrix: alength= 4 w= 11 nsites= 1 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
@@ -683,7 +683,7 @@ letter-probability matrix: alength= 4 w= 11 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.000000	  0.000000	  0.000000	  1.000000	
 
-MOTIF 4977|pho(DrosophilaTF 1.1) pho
+MOTIF 4977_pho_DrosophilaTF pho
 
 letter-probability matrix: alength= 4 w= 6 nsites= 1 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
@@ -693,7 +693,7 @@ letter-probability matrix: alength= 4 w= 6 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.000000	  0.000000	  0.000000	  1.000000	
 
-MOTIF 4978|pnr(DrosophilaTF 1.1) pnr
+MOTIF 4978_pnr_DrosophilaTF pnr
 
 letter-probability matrix: alength= 4 w= 18 nsites= 1 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
@@ -715,7 +715,7 @@ letter-probability matrix: alength= 4 w= 18 nsites= 1 E= 0
   0.250000	  0.250000	  0.330000	  0.170000	
   0.080000	  0.250000	  0.250000	  0.420000	
 
-MOTIF 4979|prd-HD(DrosophilaTF 1.1) prd-HD
+MOTIF 4979_prd-HD_DrosophilaTF prd-HD
 
 letter-probability matrix: alength= 4 w= 14 nsites= 1 E= 0
   0.000000	  0.241376	  0.689631	  0.068993	
@@ -733,7 +733,7 @@ letter-probability matrix: alength= 4 w= 14 nsites= 1 E= 0
   0.172400	  0.172400	  0.275900	  0.379300	
   0.103410	  0.448345	  0.310331	  0.137914	
 
-MOTIF 4980|prd-PD(DrosophilaTF 1.1) prd-PD
+MOTIF 4980_prd-PD_DrosophilaTF prd-PD
 
 letter-probability matrix: alength= 4 w= 17 nsites= 1 E= 0
   0.181800	  0.090900	  0.318200	  0.409100	
@@ -754,7 +754,7 @@ letter-probability matrix: alength= 4 w= 17 nsites= 1 E= 0
   0.090900	  0.545500	  0.181800	  0.181800	
   0.409100	  0.272700	  0.227300	  0.090900	
 
-MOTIF 4981|pros(DrosophilaTF 1.1) pros
+MOTIF 4981_pros_DrosophilaTF pros
 
 letter-probability matrix: alength= 4 w= 7 nsites= 1 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
@@ -765,7 +765,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 1 E= 0
   0.066700	  0.933300	  0.000000	  0.000000	
   0.000000	  0.200000	  0.000000	  0.800000	
 
-MOTIF 4982|retn(DrosophilaTF 1.1) retn
+MOTIF 4982_retn_DrosophilaTF retn
 
 letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   0.214279	  0.166683	  0.166683	  0.452355	
@@ -779,7 +779,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   0.214300	  0.119000	  0.142900	  0.523800	
   0.285700	  0.261900	  0.238100	  0.214300	
 
-MOTIF 4983|sd(DrosophilaTF 1.1) sd
+MOTIF 4983_sd_DrosophilaTF sd
 
 letter-probability matrix: alength= 4 w= 9 nsites= 1 E= 0
   0.500000	  0.000000	  0.000000	  0.500000	
@@ -792,7 +792,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 1 E= 0
   0.250000	  0.250000	  0.250000	  0.250000	
   0.000000	  0.000000	  0.000000	  1.000000	
 
-MOTIF 4984|shn-ZFP1(DrosophilaTF 1.1) shn-ZFP1
+MOTIF 4984_shn-ZFP1_DrosophilaTF shn-ZFP1
 
 letter-probability matrix: alength= 4 w= 12 nsites= 1 E= 0
   0.000000	  0.000000	  1.000000	  0.000000	
@@ -808,7 +808,7 @@ letter-probability matrix: alength= 4 w= 12 nsites= 1 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
   0.070000	  0.800000	  0.000000	  0.130000	
 
-MOTIF 4986|slbo(DrosophilaTF 1.1) slbo
+MOTIF 4986_slbo_DrosophilaTF slbo
 
 letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
@@ -822,7 +822,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   0.000000	  0.000000	  0.000000	  1.000000	
   0.500000	  0.500000	  0.000000	  0.000000	
 
-MOTIF 4987|sna(DrosophilaTF 1.1) sna
+MOTIF 4987_sna_DrosophilaTF sna
 
 letter-probability matrix: alength= 4 w= 13 nsites= 1 E= 0
   0.318200	  0.272700	  0.318200	  0.090900	
@@ -839,7 +839,7 @@ letter-probability matrix: alength= 4 w= 13 nsites= 1 E= 0
   0.562500	  0.250000	  0.062500	  0.125000	
   0.233300	  0.366700	  0.233300	  0.166700	
 
-MOTIF 4988|srp(DrosophilaTF 1.1) srp
+MOTIF 4988_srp_DrosophilaTF srp
 
 letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   0.090000	  0.130000	  0.500000	  0.280000	
@@ -853,7 +853,7 @@ letter-probability matrix: alength= 4 w= 10 nsites= 1 E= 0
   0.470000	  0.090000	  0.410000	  0.030000	
   0.190000	  0.340000	  0.190000	  0.280000	
 
-MOTIF 4989|tin(DrosophilaTF 1.1) tin
+MOTIF 4989_tin_DrosophilaTF tin
 
 letter-probability matrix: alength= 4 w= 7 nsites= 1 E= 0
   0.000000	  1.000000	  0.000000	  0.000000	
@@ -864,7 +864,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 1 E= 0
   0.500000	  0.000000	  0.500000	  0.000000	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF 4990|tll(DrosophilaTF 1.1) tll
+MOTIF 4990_tll_DrosophilaTF tll
 
 letter-probability matrix: alength= 4 w= 7 nsites= 1 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
@@ -875,7 +875,7 @@ letter-probability matrix: alength= 4 w= 7 nsites= 1 E= 0
   1.000000	  0.000000	  0.000000	  0.000000	
   1.000000	  0.000000	  0.000000	  0.000000	
 
-MOTIF 4991|usp(DrosophilaTF 1.1) usp
+MOTIF 4991_usp_DrosophilaTF usp
 
 letter-probability matrix: alength= 4 w= 9 nsites= 1 E= 0
   0.030000	  0.030000	  0.940000	  0.000000	
@@ -888,7 +888,7 @@ letter-probability matrix: alength= 4 w= 9 nsites= 1 E= 0
   0.110000	  0.680000	  0.050000	  0.160000	
   0.130000	  0.240000	  0.550000	  0.080000	
 
-MOTIF 4992|vnd(DrosophilaTF 1.1) vnd
+MOTIF 4992_vnd_DrosophilaTF vnd
 
 letter-probability matrix: alength= 4 w= 14 nsites= 1 E= 0
   0.257426	  0.227723	  0.257426	  0.257426	
