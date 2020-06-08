@@ -28,7 +28,7 @@ The matrices were converted to MEME format using `jaspar2meme -cm matrices`
 Motifs were downloaded from [here](http://floresta.eead.csic.es/footprintdb/index.php?database=20&type=motif&page=1) in the transfac format into `smile-seq` folder on 24 Feb 2020.
 The motifs were concatenated into a single file `all_motifs.transfac` then converted into MEME format.
 
-## Fly Vector
+## Fly Factor
 The motif collation was downloaded from [here](http://mccb.umassmed.edu/ffs/DownloadData.php) on 21 Feb 2020 in the form of CM format `Flyvector_survey_UmassPGFE_PWMfreq_PublicDatasetB_20200221.txt`.
 Downloaded dataset B. The collation was converted to MEME format using a custom script `converter.sh`.
 
