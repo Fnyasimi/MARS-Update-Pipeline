@@ -1,0 +1,10 @@
+Motif	AUC	MNCP	Pearson	Spearman
+4991_usp_DrosophilaTF	0.353	0.968	nan	nan
+M02709_2.00	0.336	0.949	nan	nan
+M03934_2.00	0.591	1.235	nan	nan
+M06426_2.00	0.585	1.259	nan	nan
+M09689_2.00	0.619	1.308	nan	nan
+M11191_2.00	0.367	0.994	nan	nan
+M11192_2.00	0.355	0.966	nan	nan
+usp_SANGER_5_FBgn0003964	0.585	1.259	nan	nan
+MA0016.1	0.336	0.949	nan	nan
