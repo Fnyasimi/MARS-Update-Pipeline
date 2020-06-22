@@ -49,7 +49,7 @@ def run_tomtom(tf, meme_file, results_folder, figure=False):
     clean_tomtom("%s_raw.tomtom" % results_path, "%s.tomtom" % results_path)
     if figure:
         plot_tomtom("%s.tomtom" % results_path, "%s_tomtom.png" % results_path)
-        plot_tomtom("%s.tomtom" % results_path, "%s_tomtom.eps" % results_path)
+        #plot_tomtom("%s.tomtom" % results_path, "%s_tomtom.eps" % results_path)
 
 
 def clean_tomtom(tom_in, tom_out):
@@ -105,13 +105,21 @@ def plot_tomtom(tom_in, figure_output):
 
     tomtom_normalized = pd.read_csv(tom_in, index_col="Target_ID", sep ="\t")
 
-    cg = sns.clustermap(tomtom_normalized, method='single', metric="euclidean",
-                        row_cluster=False, linewidths=.15)
+    no_rows, no_cols = tomtom_normalized.shape
+    if no_rows <= 30:
+        cg = sns.clustermap(tomtom_normalized, method='single', metric="euclidean",row_cluster=False, linewidth=.005,
+                      cbar_pos=(0.05, .25, .03, .5),cmap="vlag",standard_scale=1)
+    elif no_rows <= 60:
+        cg = sns.clustermap(tomtom_normalized, method='single', metric="euclidean",row_cluster=False, linewidth=.005,
+                      figsize=(13, 13),cbar_pos=(0.05, .25, .03, .5),cmap="vlag",standard_scale=1)
+    else:
+        cg = sns.clustermap(tomtom_normalized, method='single', metric="euclidean",row_cluster=False, linewidth=.005,
+                      figsize=(16, 16),cbar_pos=(0.05, .25, .03, .5),cmap="vlag",standard_scale=1)
     test = plt.setp(cg.ax_heatmap.yaxis.get_majorticklabels(), rotation=0)
     test = plt.setp(cg.ax_heatmap.xaxis.get_majorticklabels(), rotation=90)
 
     fig = plt.gcf()
-    fig.savefig(figure_output, bbox_inches='tight')
+    fig.savefig(figure_output, bbox_inches='tight', dpi=100)
 
 if __name__ == '__main__':
     if len(sys.argv) < 4:

@@ -30,7 +30,7 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 
-from utils import tab2fasta, mkdir_p, meme_path, BASE_DIR
+from utils import tab2fasta, mkdir_p
 
 
 def run_centrimo(tf_name, chip_seq_list, test_meme_input, files_path, figure=False):
@@ -71,7 +71,8 @@ def run_centrimo(tf_name, chip_seq_list, test_meme_input, files_path, figure=Fal
                     continue
                 else:
                     if len(line.split()) != 0:
-                        temp_dict[line.split()[1]] = float(line.split()[5])#*-1
+                        #print(line.split()[6])
+                        temp_dict[line.split()[1]] = float(line.split("\t")[6].strip())*-1
 
         for mot in range(len(test_list)):
             if test_list[mot][0] in temp_dict:
@@ -126,6 +127,7 @@ def run_centrimo(tf_name, chip_seq_list, test_meme_input, files_path, figure=Fal
     centrimo_normalized = centrimo_df.div(centrimo_df.max())
     centrimo_normalized = centrimo_normalized.replace([np.inf, -np.inf], np.nan)
     centrimo_normalized = centrimo_normalized.replace(np.nan, value=0)
+    centrimo_normalized = centrimo_normalized.replace(-0, value=0)
     average_column = centrimo_normalized.T.mean()
     average_column = average_column.to_frame(name="Average")
 
@@ -150,13 +152,14 @@ def plot_centrimo(centrimo_in, figure_output):
     """
     centrimo_table = pd.read_table(centrimo_in, index_col=0)
     centrimo_table.sort_values(by="Average", axis=0, ascending=False, inplace=True)
+    no_rows,no_cols = centrimo_table[centrimo_table['Average'] != 0].shape
+    if no_rows == 0:
+        return "No enrichment deteted in your files"
 
-    cg = sns.clustermap(centrimo_table, method='single', metric="euclidean",
-                        row_cluster=False, linewidths=.15,standard_scale=1)
+    cg = sns.clustermap(centrimo_table, method='single', metric="euclidean",row_cluster=False,                                  linewidth=.005,cbar_pos=(0.05, .25, .03, .5),cmap="vlag")
     test = plt.setp(cg.ax_heatmap.yaxis.get_majorticklabels(), rotation=0)
     test = plt.setp(cg.ax_heatmap.xaxis.get_majorticklabels(), rotation=90)
 
-    test
     f = plt.gcf()
     f.savefig(figure_output, bbox_inches='tight')
     

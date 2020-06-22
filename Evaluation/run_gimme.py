@@ -85,18 +85,24 @@ def plot_histogram_gimme(gimme_in, gimme_out, figure_out):
     elif len(labels) < 10:
         x = 5
 
-    f, (ax1, ax2, ax3, ax4) = plt.subplots(4, 1, figsize=(x, 10), sharex=True)
+    f, (ax1, ax2, ax3, ax4, ax5) = plt.subplots(5, 1, figsize=(x, 10), sharex=True, dpi=100)
     a = sns.barplot(x=labels, y=new_gimme["ROC AUC"],
                     palette='colorblind', order=labels, ax=ax1)
     b = sns.barplot(x=labels, y=new_gimme["PR AUC"],
                     palette="colorblind", order=labels, ax=ax2)
     c = sns.barplot(x=labels, y=new_gimme["Enr. at 1% FPR"],
                     palette="colorblind", order=labels, ax=ax3)
-    d = sns.barplot(x=labels, y=new_gimme["P-value"],
-                     palette="colorblind", order=labels, ax=ax4)
-    e = sns.barplot(x=labels, y=new_gimme["Recall at 10% FDR"],
+    d = sns.barplot(x=labels, y=new_gimme["Recall at 10% FDR"],
                     palette="colorblind", order=labels, ax=ax4)
+    e = sns.barplot(x=labels, y=new_gimme["P-value"],
+                     palette="colorblind", order=labels, ax=ax5)
+
+    a.set_xlabel("")
+    b.set_xlabel("")
+    c.set_xlabel("")
+    d.set_xlabel("")
     e.set_xticklabels(labels, rotation=90)
+    e.set_xlabel("Motif",fontdict={'fontsize': 12, 'fontweight': 'semibold'})
     sns.despine()
     f.savefig(figure_out, bbox_inches='tight')
 
