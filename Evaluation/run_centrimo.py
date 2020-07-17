@@ -161,7 +161,7 @@ def plot_centrimo(centrimo_in, figure_output):
     test = plt.setp(cg.ax_heatmap.xaxis.get_majorticklabels(), rotation=90)
 
     f = plt.gcf()
-    f.savefig(figure_output, bbox_inches='tight')
+    f.savefig(figure_output, bbox_inches='tight', dpi=100)
     
 
 if __name__ == '__main__':
