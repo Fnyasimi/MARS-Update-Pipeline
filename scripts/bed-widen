@@ -1,0 +1,107 @@
+#!/usr/bin/perl -w
+# -d:DProf
+#!@WHICHPERL@  #FIXME: move to top line
+
+=head
+
+Author: Philip Machanick
+  Date: 28/06/2010
+
+  Desc: Converts coordinates in a BED file to a given width, centred on the
+        existing coordinates
+        Reads from STDIN, outputs to STDOUT
+
+=cut
+
+my $PGM = $0;      # name of program
+$PGM =~ s#.*/##;                # remove part up to last slash
+#@args = @ARGV;      # arguments to program
+my @args = ();
+
+my $width = 300;
+
+use strict;
+use warnings;
+use Scalar::Util qw(looks_like_number);
+
+use Data::Dumper;
+
+my $usage = <<USAGE;    # usage message
+USAGE: $PGM @args [options]
+    options:
+        -width N          new width (centred on existing coordinates)
+                          default: $width
+        -h                print this message
+    For a BED file.
+
+    reads:  STDIN
+    writes: STDOUT
+    
+    Given a BED file in STDIN, writes to STDOUT a BED file with all
+    entries either the default width $width or the width specified
+    on the command line, centred on the original coordinates
+    
+USAGE
+
+while ($#ARGV >= 0) {
+  $_ = shift;
+  if ($_ eq "-h") {        # help
+    &print_usage("$usage", 0);
+  } elsif ($_ eq "-width") {
+    $width = shift; # final trimmed width; check width later
+    &print_usage("$usage", 1) unless (looks_like_number($width) && $width > 0 && int($width) == $width);
+  } else {
+    &print_usage("bad arg: `$_'\n$usage", 1);
+  }
+}
+
+while (<>) {
+    chomp;
+#    my ($chr, $start, $end, $name, $score, $strand);
+    my ($chr, $start, $end);
+    die "badly formed line `$_'" unless
+	(($chr, $start, $end) = /\s*(\S+)\s+(\d+)\s+(\d+)/);
+    my $mid = ($start + $end) / 2;
+    my ($new_start, $new_end) = (int($mid - $width/2+0.5), int($mid + $width/2+0.5));
+    print "$chr\t$new_start\t$new_end\n"; # \t$name\t$score\t$strand
+}
+
+###############################################################################
+#                       Subroutines                                            #
+################################################################################
+
+
+################################################################################
+#
+#       print_usage
+#
+#  Print the usage message and exit.
+#
+################################################################################
+sub print_usage {
+  my($usage, $status) = @_;
+ 
+  if (-c STDOUT) {      # standard output is a terminal
+    open(C, "| more");
+    print C $usage;
+    close C;
+  } else {        # standard output not a terminal
+    print STDERR $usage;
+  }
+
+  exit $status;
+}
+ 
+################################################################################
+#
+#       cleanup
+#
+#       cleanup stuff
+#
+################################################################################
+sub cleanup {
+  my($status, $msg) = @_;
+  if ($status && "$msg") {print STDERR "$msg: $status\n";}
+  exit($status);
+}
+
