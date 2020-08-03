@@ -1,0 +1,15 @@
+configfile: "input.json"
+
+rule data_download:
+    input:
+        script="input.json"
+    output:
+        touch("analyses/download_data/download.done")
+    params:
+        org=config["organism"]
+    log:
+        "logs/data_download/download.log"
+    benchmark:
+        "benchmarks/data_download/log.txt"
+    shell:
+        'bash geo_search.sh "{params.org}" 2> {log}'

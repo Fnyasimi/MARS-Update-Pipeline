@@ -1,0 +1,19 @@
+configfile: "input.json"
+
+JSONFILES, = glob_wildcards("Jsonfiles/{jsonfile}.json")
+
+rule all:
+    input:
+        expand("analyses/chip_analysis/{jsonfile}.done", jsonfile=JSONFILES)
+
+rule chip_analysis:
+    input:
+        json="Jsonfiles/{jsonfile}.json"
+    output:
+        touch("analyses/chip_analysis/{jsonfile}.done")
+    log:
+        "logs/chip_analysis/{jsonfile}.log"
+    benchmark:
+        "benchmarks/chip_analysis/{jsonfile}.txt"
+    shell:
+        "bash chip_analysis.sh {input.json} 2> {log}"

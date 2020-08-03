@@ -1,0 +1,25 @@
+#! /bin/bash
+
+# Add path to scripts to your path
+PATH=$PATH:/path/to/your/scripts
+
+# Ensure pipeline environment is activated and all modules available
+conda deactivate 
+
+conda activate encode-chip-seq-pipeline
+
+# Download the data
+snakemake -s Snakefile0 -np
+
+# Data cleaning
+snakemake -s Snakefile1 -np
+
+# Create json files
+snakemake -s Snakefile2  -j 2 -np
+
+#Run analysis
+snakemake -s Snakefile3 -j 240 -np
+
+echo "Sucessfully Completed the analysis"
+
+

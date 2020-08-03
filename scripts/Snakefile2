@@ -1,0 +1,18 @@
+
+SOFTFILES, = glob_wildcards("Processed_Data/Cleaned_experiments/{softfile}_family.soft")
+
+rule all:
+    input:
+        expand("analyses/create_jsons/{softfile}.done", softfile=SOFTFILES)
+
+rule create_jsons:
+    input:
+        soft="Processed_Data/Cleaned_experiments/{softfile}_family.soft"
+    output:
+        touch("analyses/create_jsons/{softfile}.done"),
+    log:
+        "logs/create_jsons/{softfile}.log"
+    benchmark:
+        "benchmarks/create_jsons/{softfile}.txt"
+    shell:
+        "python3 geosoft_extractor.py {input.soft} 2> {log}"

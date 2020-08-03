@@ -1,0 +1,19 @@
+
+SOFTFILES, = glob_wildcards("Softfiles/{softfile}_family.soft")
+
+rule all:
+    input:
+        expand("analyses/data_cleaning/{softfile}.done", softfile=SOFTFILES)
+
+rule data_cleaning:
+    input:
+        soft="Softfiles/{softfile}_family.soft"
+    output:
+        touch("analyses/data_cleaning/{softfile}.done"),
+    log:
+        "logs/data_cleaning/{softfile}.log"
+    benchmark:
+        "benchmarks/data_cleaning/{softfile}.txt"
+    shell:
+        "python3 filesort.py {input.soft} 2> {log}"
+
