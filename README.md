@@ -47,13 +47,29 @@ The SRA accessions associated to each GSM accession were also extracted for late
 All of the processes in this step are perfomed by a custom build module [`geosoft_extractor.py`](https://github.com/Fnyasimi/MARS-Update-Pipeline/blob/master/scripts/geosoft_extractor.py) which uses support modules at different steps.
 
 ## Curation of the extracted experiments
-In our study we are intereted in TF experiments only and not other type of  experiments. Some of the downloaded experiments contain Epigenetic targets and Cell signalling pathways which were not of interest to us. 
+In our study we are intereted in TF experiments only and not other type of  experiments. Some of the downloaded experiments contain Epigenetic targets and Cell signalling pathways which were not of interest to us. We developed custom scripts to filter out non-TF targets.  
 
 We used the metadata file to find antibody targets which are not for transcription factors and remove the while  alsp droping the json files asoociated with them.
 
 This step involved manual curation of the each record in the generated metadata file to assign the correct Antibody Target for each record. After this curation step the Epigenetics targets, Cell signalling Targets, RNA targets and other targets which were not TF targets were removed from the metadata file using a custom script [`cleanjson.sh`](https://github.com/Fnyasimi/MARS-Update-Pipeline/blob/master/scripts/cleanjson.sh).
 
-## Download Reads and Run the Pipeline
+## Download Reads
 The raw reads of each curated experiment were download in `.sra` file format then dumped into fastq.gz format using the Ncbi's sra-tool kit.
+
+We develop a custom  script [`links_download.sh`](https://github.com/Fnyasimi/MARS-Update-Pipeline/blob/master/scripts/links-parallel-p.sh) that downloads the raw reads from sra. It donwloads the SRA accessions from a list.
+
+Once downloaded the reads are dumped using a custom script [`dumper.sh`](https://github.com/Fnyasimi/MARS-Update-Pipeline/blob/master/scripts/dumper-p.sh), this converts them from .sra to .fastq.
+
+## Run analysis pipeline
+The analysis pipeline was run using a custom script [`chip_analysis.sh`](https://github.com/Fnyasimi/MARS-Update-Pipeline/blob/master/scripts/chip_analysis.sh). This script invokes the chipseq analysis and outputs the results in the results dir. The peak files are also colleted in the `peak-files` directory for easy collection and retrieval.
+
+# Reproducible pipeline
+
+All the steps above are wrapped up in a reproducible snakemake environments which starts from experiment search to analysis of the data.
+
+The steps have been tied up in a job submission script `analyze_chip.pbs` for working on an hpc environment.
+
+
+
 
 
