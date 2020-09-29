@@ -1,0 +1,2295 @@
+1	17615|Bcd(SMILE-seq	Bcd	Smile-Seq	428
+2	17629|Gsc(SMILE-seq	Gsc	Smile-Seq	566
+3	17630|Gt(SMILE-seq	Gt	Smile-Seq	69
+4	17670|Opa(SMILE-seq	Opa	Smile-Seq	301
+5	17694|Sna(SMILE-seq	Sna	Smile-Seq	325
+6	17697|Ttk(SMILE-seq	Ttk	Smile-Seq	343
+7	4932|Abd-B(DrosophilaTF	Abd-B	Bergman's Lab	426
+8	4933|Adf1(DrosophilaTF	Adf1	Bergman's Lab	449
+9	4934|Aef1(DrosophilaTF	Aef1	Bergman's Lab	83
+10	4935|Cf2(DrosophilaTF	Cf2	Bergman's Lab	95
+11	4936|Dip3(DrosophilaTF	Dip3	Bergman's Lab	450
+12	4937|Dref(DrosophilaTF	Dref	Bergman's Lab	256
+13	4938|EcR/usp(DrosophilaTF	EcR/usp	Bergman's Lab	493::509
+14	4939|Eip74EF(DrosophilaTF	Eip74EF	Bergman's Lab	368
+15	4940|Hr46(DrosophilaTF	Hr46	Bergman's Lab	
+16	4941|Kr(DrosophilaTF	Kr	Bergman's Lab	278
+17	4942|Rel(DrosophilaTF	Rel	Bergman's Lab	490
+18	4943|Stat92E(DrosophilaTF	Stat92E	Bergman's Lab	543
+19	4944|Su(H)(DrosophilaTF	Su(H)	Bergman's Lab	545
+20	4945|TFAM(DrosophilaTF	TFAM	Bergman's Lab	422
+21	4946|Ubx(DrosophilaTF	Ubx	Bergman's Lab	439
+22	4947|ap(DrosophilaTF	ap	Bergman's Lab	442
+23	4948|bab1(DrosophilaTF	bab1	Bergman's Lab	579
+24	4949|bcd(DrosophilaTF	bcd	Bergman's Lab	428
+25	4950|bin(DrosophilaTF	bin	Bergman's Lab	375
+26	4951|br-Z1(DrosophilaTF	br-Z1	Bergman's Lab	513
+27	4952|br-Z2(DrosophilaTF	br-Z2	Bergman's Lab	513
+28	4953|br-Z3(DrosophilaTF	br-Z3	Bergman's Lab	513
+29	4954|br-Z4(DrosophilaTF	br-Z4	Bergman's Lab	513
+30	4955|brk(DrosophilaTF	brk	Bergman's Lab	513
+31	4956|byn(DrosophilaTF	byn	Bergman's Lab	618
+32	4957|cad(DrosophilaTF	cad	Bergman's Lab	430
+33	4958|croc(DrosophilaTF	croc	Bergman's Lab	379
+34	4959|dif/Rel(DrosophilaTF	dif/Rel	Bergman's Lab	488/490
+35	4960|dl-A(DrosophilaTF	dl-A	Bergman's Lab	489
+36	4961|dl-B(DrosophilaTF	dl-B	Bergman's Lab	489
+37	4962|dsx(DrosophilaTF	dsx	Bergman's Lab	363
+38	4963|ems(DrosophilaTF	ems	Bergman's Lab	471
+39	4964|en(DrosophilaTF	en	Bergman's Lab	472
+40	4965|esg(DrosophilaTF	esg	Bergman's Lab	260
+41	4966|eve(DrosophilaTF	eve	Bergman's Lab	432
+42	4967|eyg(DrosophilaTF	eyg	Bergman's Lab	554
+43	4968|ftz(DrosophilaTF	ftz	Bergman's Lab	433
+44	4969|gcm(DrosophilaTF	gcm	Bergman's Lab	399
+45	4970|grh(DrosophilaTF	grh	Bergman's Lab	530
+46	4971|h(DrosophilaTF	h	Bergman's Lab	29
+47	4972|hb(DrosophilaTF	hb	Bergman's Lab	267
+48	4973|mirr(DrosophilaTF	mirr	Bergman's Lab	615
+49	4974|oc(DrosophilaTF	oc	Bergman's Lab	568
+50	4975|ovo(DrosophilaTF	ovo	Bergman's Lab	304
+51	4976|pan(DrosophilaTF	pan	Bergman's Lab	412
+52	4977|pho(DrosophilaTF	pho	Bergman's Lab	307
+53	4978|pnr(DrosophilaTF	pnr	Bergman's Lab	397
+54	4979|prd-HD(DrosophilaTF	prd-HD	Bergman's Lab	557
+55	4980|prd-PD(DrosophilaTF	prd-PD	Bergman's Lab	557
+56	4981|pros(DrosophilaTF	pros	Bergman's Lab	597
+57	4982|retn(DrosophilaTF	retn	Bergman's Lab	1
+58	4983|sd(DrosophilaTF	sd	Bergman's Lab	625
+59	4984|shn-ZFP1(DrosophilaTF	shn-ZFP1	Bergman's Lab	324
+60	4986|slbo(DrosophilaTF	slbo	Bergman's Lab	78
+61	4987|sna(DrosophilaTF	sna	Bergman's Lab	325
+62	4988|srp(DrosophilaTF	srp	Bergman's Lab	398
+63	4989|tin(DrosophilaTF	tin	Bergman's Lab	485
+64	4990|tll(DrosophilaTF	tll	Bergman's Lab	508
+65	4991|usp(DrosophilaTF	usp	Bergman's Lab	509
+66	4992|vnd(DrosophilaTF	vnd	Bergman's Lab	487
+67	abd-A	abd-A	Daniel Pollard's Lab	425
+68	Abd-B	Abd-B	Daniel Pollard's Lab	426
+69	Adf1	Adf1	Daniel Pollard's Lab	449
+70	Aef1	Aef1	Daniel Pollard's Lab	83
+71	Antp	Antp	Daniel Pollard's Lab	427
+72	ap	ap	Daniel Pollard's Lab	442
+73	ara	ara	Daniel Pollard's Lab	610
+74	bab1	bab1	Daniel Pollard's Lab	579
+75	bcd	bcd	Daniel Pollard's Lab	428
+76	BEAF-32	BEAF-32	Daniel Pollard's Lab	
+77	BEAF-32B	BEAF-32B	Daniel Pollard's Lab	
+78	bin	bin	Daniel Pollard's Lab	375
+79	br-Z1	br-Z1	Daniel Pollard's Lab	513
+80	br-Z2	br-Z2	Daniel Pollard's Lab	513
+81	br-Z3	br-Z3	Daniel Pollard's Lab	513
+82	br-Z4	br-Z4	Daniel Pollard's Lab	513
+83	brk	brk	Daniel Pollard's Lab	513
+84	byn	byn	Daniel Pollard's Lab	618
+85	cad	cad	Daniel Pollard's Lab	430
+86	Cf2-II	Cf2-II	Daniel Pollard's Lab	95
+87	Deaf1	Deaf1	Daniel Pollard's Lab	523
+88	Dfd	Dfd	Daniel Pollard's Lab	431
+89	dl	dl	Daniel Pollard's Lab	489
+90	Dref	Dref	Daniel Pollard's Lab	256
+91	dsx-F	dsx-F	Daniel Pollard's Lab	363
+92	dsx-M	dsx-M	Daniel Pollard's Lab	363
+93	Eip74EF	Eip74EF	Daniel Pollard's Lab	368
+94	ems	ems	Daniel Pollard's Lab	471
+95	en	en	Daniel Pollard's Lab	472
+96	Espl	Espl	Daniel Pollard's Lab	
+97	eve	eve	Daniel Pollard's Lab	432
+98	exd	exd	Daniel Pollard's Lab	613
+99	ey	ey	Daniel Pollard's Lab	553
+100	ftz-f1	ftz-f1	Daniel Pollard's Lab	497
+101	ftz	ftz	Daniel Pollard's Lab	433
+102	gl	gl	Daniel Pollard's Lab	262
+103	grh	grh	Daniel Pollard's Lab	530
+104	gsb-n	gsb-n	Daniel Pollard's Lab	556
+105	gsb	gsb	Daniel Pollard's Lab	555
+106	gt	gt	Daniel Pollard's Lab	69
+107	hb	hb	Daniel Pollard's Lab	267
+108	His2B	His2B	Daniel Pollard's Lab	
+109	hkb	hkb	Daniel Pollard's Lab	269
+110	HLHm5	HLHm5	Daniel Pollard's Lab	18
+111	Hr46	Hr46	Daniel Pollard's Lab	
+112	Hsf	Hsf	Daniel Pollard's Lab	531
+113	kni	kni	Daniel Pollard's Lab	511
+114	Kr	Kr	Daniel Pollard's Lab	278
+115	Mad	Mad	Daniel Pollard's Lab	452
+116	Med	Med	Daniel Pollard's Lab	453
+117	nub	nub	Daniel Pollard's Lab	593
+118	ovo	ovo	Daniel Pollard's Lab	304
+119	p120	p120	Daniel Pollard's Lab	
+120	pan	pan	Daniel Pollard's Lab	412
+121	pho	pho	Daniel Pollard's Lab	307
+122	prd	prd	Daniel Pollard's Lab	557
+123	sd	sd	Daniel Pollard's Lab	625
+124	shn	shn	Daniel Pollard's Lab	324
+125	slbo	slbo	Daniel Pollard's Lab	78
+126	sna	sna	Daniel Pollard's Lab	325
+127	srp	srp	Daniel Pollard's Lab	398
+128	SuH	SuH	Daniel Pollard's Lab	545
+129	suHw	suHw	Daniel Pollard's Lab	334
+130	tin	tin	Daniel Pollard's Lab	485
+131	tll	tll	Daniel Pollard's Lab	508
+132	Top2	Top2	Daniel Pollard's Lab	
+133	toy	toy	Daniel Pollard's Lab	559
+134	Trl	Trl	Daniel Pollard's Lab	341
+135	ttk	ttk	Daniel Pollard's Lab	343
+136	twi	twi	Daniel Pollard's Lab	58
+137	Ubx	Ubx	Daniel Pollard's Lab	439
+138	vnd	vnd	Daniel Pollard's Lab	487
+139	vvl	vvl	Daniel Pollard's Lab	596
+140	z	z	Daniel Pollard's Lab	459
+141	zen	zen	Daniel Pollard's Lab	440
+142	AbdA	AbdA	Wolf's Lab	425
+143	AbdB	AbdB	Wolf's Lab	426
+144	Achi	Achi	Wolf's Lab	609
+145	Al	Al	Wolf's Lab	560
+146	Antp	Antp	Wolf's Lab	427
+147	Ap	Ap	Wolf's Lab	442
+148	Ara	Ara	Wolf's Lab	610
+149	Awh	Awh	Wolf's Lab	443
+150	Bap	Bap	Wolf's Lab	458
+151	Bcd	Bcd	Wolf's Lab	428
+152	BH1	BH1	Wolf's Lab	459
+153	BH2	BH2	Wolf's Lab	460
+154	Bsh	Bsh	Wolf's Lab	461
+155	Btn	Btn	Wolf's Lab	429
+156	C15	C15	Wolf's Lab	462
+157	Cad	Cad	Wolf's Lab	430
+158	Caup	Caup	Wolf's Lab	611
+159	CG11085	CG11085	Wolf's Lab	463
+160	CG11294	CG11294	Wolf's Lab	562
+161	CG11617	CG11617	Wolf's Lab	612
+162	CG12361	CG12361	Wolf's Lab	
+163	CG13424	CG13424	Wolf's Lab	
+164	CG15696	CG15696	Wolf's Lab	464
+165	CG18599	CG18599	Wolf's Lab	465
+166	CG32105	CG32105	Wolf's Lab	
+167	CG32532	CG32532	Wolf's Lab	563
+168	CG33980	CG33980	Wolf's Lab	
+169	CG34031	CG34031	Wolf's Lab	466
+170	CG4136	CG4136	Wolf's Lab	
+171	CG4328	CG4328	Wolf's Lab	444
+172	CG7056	CG7056	Wolf's Lab	
+173	CG9876	CG9876	Wolf's Lab	561
+174	Ct	Ct	Wolf's Lab	357
+175	Dfd	Dfd	Wolf's Lab	431
+176	Dll	Dll	Wolf's Lab	468
+177	Dr	Dr	Wolf's Lab	469
+178	E5	E5	Wolf's Lab	470
+179	Ems	Ems	Wolf's Lab	471
+180	En	En	Wolf's Lab	472
+181	Eve	Eve	Wolf's Lab	432
+182	Exd	Exd	Wolf's Lab	613
+183	Exex	Exex	Wolf's Lab	473
+184	Ftz	Ftz	Wolf's Lab	433
+185	Gsc	Gsc	Wolf's Lab	566
+186	H2	H2	Wolf's Lab	474
+187	Hbn	Hbn	Wolf's Lab	567
+188	Hgtx	Hgtx	Wolf's Lab	475
+189	Hmx	Hmx	Wolf's Lab	477
+190	Hth	Hth	Wolf's Lab	614
+191	Ind	Ind	Wolf's Lab	434
+192	Inv	Inv	Wolf's Lab	478
+193	Lab	Lab	Wolf's Lab	435
+194	Lbe	Lbe	Wolf's Lab	479
+195	Lbl	Lbl	Wolf's Lab	480
+196	Lim1	Lim1	Wolf's Lab	445
+197	Lim3	Lim3	Wolf's Lab	446
+198	Mirr	Mirr	Wolf's Lab	615
+199	NK7	NK7	Wolf's Lab	482
+200	Oc	Oc	Wolf's Lab	568
+201	Oct	Oct	Wolf's Lab	
+202	Odsh	Odsh	Wolf's Lab	569
+203	onecut	onecut	Wolf's Lab	359
+204	Optix	Optix	Wolf's Lab	606
+205	Otp	Otp	Wolf's Lab	570
+206	Pb	Pb	Wolf's Lab	436
+207	PhdP	PhdP	Wolf's Lab	571
+208	Pph13	Pph13	Wolf's Lab	572
+209	Ptx1	Ptx1	Wolf's Lab	573
+210	Repo	Repo	Wolf's Lab	574
+211	Ro	Ro	Wolf's Lab	437
+212	Rx	Rx	Wolf's Lab	575
+213	Scr	Scr	Wolf's Lab	438
+214	Six4	Six4	Wolf's Lab	607
+215	Slou	Slou	Wolf's Lab	484
+216	So	So	Wolf's Lab	608
+217	Tin	Tin	Wolf's Lab	485
+218	Tup	Tup	Wolf's Lab	448
+219	Ubx	Ubx	Wolf's Lab	439
+220	Unc4	Unc4	Wolf's Lab	576
+221	Unpg	Unpg	Wolf's Lab	486
+222	Vis	Vis	Wolf's Lab	616
+223	Vnd	Vnd	Wolf's Lab	487
+224	Zen	Zen	Wolf's Lab	440
+225	Zen2	Zen2	Wolf's Lab	441
+226	MA0206.1	abd-A	Jaspar	425
+227	MA0165.1	Abd-B	Jaspar	426
+228	MA0207.1	achi	Jaspar	609
+229	MA0208.1	al	Jaspar	560
+230	MA0166.1	Antp	Jaspar	427
+231	MA0209.1	ap	Jaspar	442
+232	MA0210.1	ara	Jaspar	610
+233	MA0167.1	Awh	Jaspar	443
+234	MA0168.1	B-H1	Jaspar	459
+235	MA0169.1	B-H2	Jaspar	460
+236	MA0211.1	bap	Jaspar	458
+237	MA0212.1	bcd	Jaspar	428
+238	MA0529.2	BEAF-32	Jaspar	
+239	MA0242.1	Bgb::run	Jaspar	599
+240	MA0010.1	br	Jaspar	89
+241	MA0011.1	br(var.2)	Jaspar	513
+242	MA0012.1	br(var.3)	Jaspar	513
+243	MA0013.1	br(var.4)	Jaspar	513
+244	MA0213.1	brk	Jaspar	513
+245	MA0214.1	bsh	Jaspar	461
+246	MA0443.1	btd	Jaspar	91
+247	MA0215.1	btn	Jaspar	429
+248	MA0170.1	C15	Jaspar	462
+249	MA0216.2	cad	Jaspar	430
+250	MA0217.1	caup	Jaspar	611
+251	MA0015.1	Cf2	Jaspar	95
+252	MA0171.1	CG11085	Jaspar	463
+253	MA0172.1	CG11294	Jaspar	562
+254	MA0173.1	CG11617	Jaspar	612
+255	MA0176.1	CG15696-RA	Jaspar	464
+256	MA0177.1	CG18599	Jaspar	465
+257	MA0178.1	CG32105	Jaspar	
+258	MA0179.1	CG32532	Jaspar	563
+259	MA0444.1	CG34031	Jaspar	466
+260	MA0182.1	CG4328-RA	Jaspar	444
+261	MA0184.1	CG9876	Jaspar	561
+262	MA1700.1	Clamp	Jaspar	244
+263	MA0530.1	cnc::maf-S	Jaspar	65::73
+264	MA0218.1	ct	Jaspar	357
+265	MA0531.1	CTCF	Jaspar	247
+266	MA0445.1	D	Jaspar	406
+267	MA0174.1	Dbx	Jaspar	467
+268	MA0185.1	Deaf1	Jaspar	523
+269	MA0186.1	Dfd	Jaspar	431
+270	MA0022.1	dl	Jaspar	489
+271	MA0023.1	dl(var.2)	Jaspar	489
+272	MA0187.1	Dll	Jaspar	468
+273	MA1455.1	dmrt99B	Jaspar	362
+274	MA0188.1	Dr	Jaspar	469
+275	MA1456.1	Dref	Jaspar	256
+276	MA0915.1	dve	Jaspar	358
+277	MA0189.1	E5	Jaspar	470
+278	MA0534.1	EcR::usp	Jaspar	493::509
+279	MA0026.1	Eip74EF	Jaspar	368
+280	MA0219.1	ems	Jaspar	471
+281	MA0220.1	en	Jaspar	472
+282	MA0916.1	Ets21C	Jaspar	369
+283	MA0221.1	eve	Jaspar	432
+284	MA0222.1	exd	Jaspar	613
+285	MA0224.1	exex	Jaspar	473
+286	MA0446.1	fkh	Jaspar	386
+287	MA0225.1	ftz	Jaspar	433
+288	MA0917.1	gcm2	Jaspar	400
+289	MA1457.1	grh	Jaspar	530
+290	MA0190.1	Gsc	Jaspar	566
+291	MA0447.1	gt	Jaspar	69
+292	MA0449.1	h	Jaspar	29
+293	MA0448.1	H2.0	Jaspar	474
+294	MA0049.1	hb	Jaspar	267
+295	MA0226.1	hbn	Jaspar	567
+296	MA0191.1	HGTX	Jaspar	475
+297	MA0183.1	HHEX	Jaspar	476
+298	MA0450.1	hkb	Jaspar	269
+299	MA0192.1	Hmx	Jaspar	477
+300	MA1458.1	Hsf	Jaspar	531
+301	MA0227.1	hth	Jaspar	614
+302	MA0228.1	ind	Jaspar	434
+303	MA0229.1	inv	Jaspar	478
+304	MA0451.1	kni	Jaspar	511
+305	MA0452.2	Kr	Jaspar	278
+306	MA0230.1	lab	Jaspar	435
+307	MA0231.1	lbe	Jaspar	479
+308	MA0232.1	lbl	Jaspar	480
+309	MA0194.1	Lim1	Jaspar	445
+310	MA0195.1	Lim3	Jaspar	446
+311	MA0175.1	lms	Jaspar	481
+312	MA1459.1	M1BP	Jaspar	285
+313	MA0535.1	Mad	Jaspar	452
+314	MA0233.1	mirr	Jaspar	615
+315	MA0196.1	NK7.1	Jaspar	482
+316	MA0197.2	nub	Jaspar	593
+317	MA0234.1	oc	Jaspar	568
+318	MA0454.1	odd	Jaspar	299
+319	MA0198.1	OdsH	Jaspar	569
+320	MA0235.1	onecut	Jaspar	359
+321	MA0456.1	opa	Jaspar	301
+322	MA0199.1	Optix	Jaspar	606
+323	MA0236.1	otp	Jaspar	570
+324	MA0126.1	ovo	Jaspar	304
+325	MA0237.2	pan	Jaspar	412
+326	MA0238.1	pb	Jaspar	436
+327	MA1702.1	Pdp1	Jaspar	74
+328	MA0457.1	PHDP	Jaspar	571
+329	MA1460.1	pho	Jaspar	307
+330	MA0536.1	pnr	Jaspar	397
+331	MA0200.1	Pph13	Jaspar	572
+332	MA0239.1	prd	Jaspar	557
+333	MA0201.1	Ptx1	Jaspar	573
+334	MA0240.1	repo	Jaspar	574
+335	MA0241.1	ro	Jaspar	437
+336	MA0202.1	Rx	Jaspar	575
+337	MA0193.1	schlank	Jaspar	
+338	MA0203.1	Scr	Jaspar	438
+339	MA0243.1	sd	Jaspar	625
+340	MA0204.1	Six4	Jaspar	607
+341	MA0244.1	slbo	Jaspar	78
+342	MA0245.1	slou	Jaspar	484
+343	MA0458.1	slp1	Jaspar	392
+344	MA0086.2	sna	Jaspar	325
+345	MA0246.1	so	Jaspar	608
+346	MA0532.1	Stat92E	Jaspar	543
+347	MA0085.1	Su(H)	Jaspar	545
+348	MA0533.1	su(Hw)	Jaspar	334
+349	MA1461.1	sv	Jaspar	552
+350	MA0247.2	tin	Jaspar	485
+351	MA0459.1	tll	Jaspar	508
+352	MA0205.2	Trl	Jaspar	341
+353	MA0460.1	ttk	Jaspar	343
+354	MA0248.1	tup	Jaspar	448
+355	MA0249.2	twi	Jaspar	58
+356	MA0094.2	Ubx	Jaspar	439
+357	MA0250.1	unc-4	Jaspar	576
+358	MA0251.1	unpg	Jaspar	486
+359	MA0016.1	usp	Jaspar	509
+360	MA1462.1	vfl	Jaspar	353
+361	MA0252.1	vis	Jaspar	616
+362	MA0253.1	vnd	Jaspar	487
+363	MA0181.1	Vsx1	Jaspar	577
+364	MA0180.1	Vsx2	Jaspar	578
+365	MA0254.1	vvl	Jaspar	596
+366	MA0255.1	z	Jaspar	459
+367	MA0256.1	zen	Jaspar	440
+368	MA0257.1	zen2	Jaspar	441
+369	ab_SANGER_10_FBgn0259750	ab	Flyvector	82
+370	ab_SOLEXA_5_FBgn0259750	ab	Flyvector	82
+371	Abd-A_FlyReg_FBgn0000014	Abd-A	Flyvector	425
+372	Abd-B_FlyReg_FBgn0000015	Abd-B	Flyvector	426
+373	AbdA_Cell_FBgn0000014	AbdA	Flyvector	425
+374	AbdA_SOLEXA_FBgn0000014	AbdA	Flyvector	425
+375	AbdB_Cell_FBgn0000015	AbdB	Flyvector	426
+376	AbdB_SOLEXA_FBgn0000015	AbdB	Flyvector	426
+377	ac_da_SANGER_5_FBgn0000022	ac_da	Flyvector	2
+378	ac_da_SANGER_5_FBgn0000413	ac_da	Flyvector	2
+379	Achi_Cell_FBgn0033749	Achi	Flyvector	609
+380	Achi_SOLEXA_FBgn0033749	Achi	Flyvector	609
+381	acj6_SOLEXA_5_FBgn0000028	acj6	Flyvector	592
+382	Adf1_FlyReg_FBgn0000054	Adf1	Flyvector	449
+383	Adf1_SANGER_5_FBgn0000054	Adf1	Flyvector	449
+384	Aef1_FlyReg_FBgn0005694	Aef1	Flyvector	83
+385	Aef1_SANGER_5_FBgn0005694	Aef1	Flyvector	83
+386	Aef1_SOLEXA_FBgn0005694	Aef1	Flyvector	83
+387	Al_Cell_FBgn0000061	Al	Flyvector	560
+388	Al_SOLEXA_FBgn0000061	Al	Flyvector	560
+389	amos_da_SANGER_10_FBgn0000413	amos_da	Flyvector	3
+390	amos_da_SANGER_10_FBgn0003270	amos_da	Flyvector	3
+391	Antp_Cell_FBgn0000095	Antp	Flyvector	427
+392	Antp_FlyReg_FBgn0000095	Antp	Flyvector	427
+393	Antp_SOLEXA_FBgn0000095	Antp	Flyvector	427
+394	aop_SANGER_10_FBgn0000097	aop	Flyvector	367
+395	Ap_Cell_FBgn0000099	Ap	Flyvector	442
+396	ap_FlyReg_FBgn0000099	ap	Flyvector	442
+397	Ap_SOLEXA_FBgn0000099	Ap	Flyvector	442
+398	Ara_Cell_FBgn0015904	Ara	Flyvector	610
+399	Ara_SOLEXA_FBgn0015904	Ara	Flyvector	610
+400	ase_da_SANGER_10_FBgn0000137	ase_da	Flyvector	4
+401	ase_da_SANGER_10_FBgn0000413	ase_da	Flyvector	4
+402	Atf-2_SANGER_5_FBgn0050420	Atf-2	Flyvector	61
+403	Atf6_SANGER_5_FBgn0033010	Atf6	Flyvector	63
+404	ato_da_SANGER_10_FBgn0000413	ato_da	Flyvector	5
+405	ato_da_SANGER_10_FBgn0010433	ato_da	Flyvector	5
+406	ato_da_SANGER_5_2_FBgn0000413	ato_da	Flyvector	5
+407	ato_da_SANGER_5_2_FBgn0010433	ato_da	Flyvector	5
+408	ato_da_SANGER_5_3_FBgn0000413	ato_da	Flyvector	5
+409	ato_da_SANGER_5_3_FBgn0010433	ato_da	Flyvector	5
+410	Awh_Cell_FBgn0013751	Awh	Flyvector	443
+411	Awh_SOLEXA_FBgn0013751	Awh	Flyvector	443
+412	bab1_FlyReg_FBgn0004870	bab1	Flyvector	579
+413	bab1_SANGER_5_FBgn0004870	bab1	Flyvector	579
+414	Bap_Cell_FBgn0004862	Bap	Flyvector	458
+415	Bap_SOLEXA_FBgn0004862	Bap	Flyvector	458
+416	Bcd_Cell_FBgn0000166	Bcd	Flyvector	428
+417	bcd_FlyReg_FBgn0000166	bcd	Flyvector	428
+418	bcd_NAR_FBgn0000166	bcd	Flyvector	428
+419	Bcd_SOLEXA_FBgn0000166	Bcd	Flyvector	428
+420	BH1_Cell_FBgn0011758	BH1	Flyvector	459
+421	BH1_SOLEXA_FBgn0011758	BH1	Flyvector	459
+422	BH2_Cell_FBgn0004854	BH2	Flyvector	460
+423	BH2_SOLEXA_FBgn0004854	BH2	Flyvector	460
+424	bin_FlyReg_FBgn0045759	bin	Flyvector	375
+425	bin_SANGER_5_FBgn0045759	bin	Flyvector	375
+426	Blimp-1_NAR_FBgn0035625	Blimp-1	Flyvector	87
+427	Blimp-1_SANGER_5_FBgn0035625	Blimp-1	Flyvector	87
+428	Blimp-1_SOLEXA_FBgn0035625	Blimp-1	Flyvector	87
+429	bowl_SANGER_5_FBgn0004893	bowl	Flyvector	88
+430	bowl_SOLEXA_FBgn0004893	bowl	Flyvector	88
+431	br-PA_SANGER_5_FBgn0000210	br-PA	Flyvector	513
+432	br-PA_SOLEXA_FBgn0000210	br-PA	Flyvector	513
+433	br-PE_SANGER_5_FBgn0000210	br-PE	Flyvector	513
+434	br-PE_SOLEXA_FBgn0000210	br-PE	Flyvector	513
+435	br-PL_SANGER_5_FBgn0000210	br-PL	Flyvector	513
+436	br-PL_SOLEXA_FBgn0000210	br-PL	Flyvector	513
+437	br-Z1_FlyReg_FBgn0000210	br-Z1	Flyvector	513
+438	br-Z2_FlyReg_FBgn0000210	br-Z2	Flyvector	513
+439	br-Z3_FlyReg_FBgn0000210	br-Z3	Flyvector	513
+440	br-Z4_FlyReg_FBgn0000210	br-Z4	Flyvector	513
+441	br_SANGER_10_FBgn0000210	br	Flyvector	89
+442	br_SOLEXA_10_FBgn0000210	br	Flyvector	89
+443	brk_FlyReg_FBgn0024250	brk	Flyvector	513
+444	Bsh_Cell_FBgn0000529	Bsh	Flyvector	461
+445	Bsh_SOLEXA_FBgn0000529	Bsh	Flyvector	461
+446	BtbVII_SANGER_5_FBgn0012049	BtbVII	Flyvector	581
+447	btd_NAR_FBgn0000233	btd	Flyvector	91
+448	Bteb2_SANGER_2.5_FBgn0025679	Bteb2	Flyvector	275
+449	Bteb2_SOLEXA_2.5_FBgn0025679	Bteb2	Flyvector	275
+450	Btn_Cell_FBgn0014949	Btn	Flyvector	429
+451	Btn_SOLEXA_FBgn0014949	Btn	Flyvector	429
+452	byn_FlyReg_FBgn0011723	byn	Flyvector	618
+453	C15_Cell_FBgn0004863	C15	Flyvector	462
+454	C15_SOLEXA_FBgn0004863	C15	Flyvector	462
+455	Cad_Cell_FBgn0000251	Cad	Flyvector	430
+456	cad_FlyReg_FBgn0000251	cad	Flyvector	430
+457	Cad_SOLEXA_FBgn0000251	Cad	Flyvector	430
+458	cato_da_SANGER_10_FBgn0000413	cato_da	Flyvector	7
+459	cato_da_SANGER_10_FBgn0024249	cato_da	Flyvector	7
+460	Caup_Cell_FBgn0015919	Caup	Flyvector	611
+461	Caup_SOLEXA_FBgn0015919	Caup	Flyvector	611
+462	Cf2-II_FlyReg_FBgn0000286	Cf2-II	Flyvector	95
+463	Cf2-PA_SANGER_2.5_FBgn0000286	Cf2-PA	Flyvector	95
+464	Cf2-PA_SOLEXA_FBgn0000286	Cf2-PA	Flyvector	95
+465	Cf2-PB_SANGER_5_FBgn0000286	Cf2-PB	Flyvector	95
+466	Cf2-PB_SOLEXA_FBgn0000286	Cf2-PB	Flyvector	95
+467	CG10267_SANGER_5_FBgn0037446	CG10267	Flyvector	
+468	CG10267_SOLEXA_5_FBgn0037446	CG10267	Flyvector	
+469	CG10904_SANGER_5_FBgn0034945	CG10904	Flyvector	
+470	CG11071_SANGER_5_FBgn0030532	CG11071	Flyvector	
+471	CG11071_SOLEXA_FBgn0030532	CG11071	Flyvector	
+472	CG11085_Cell_FBgn0030408	CG11085	Flyvector	463
+473	CG11085_SOLEXA_FBgn0030408	CG11085	Flyvector	463
+474	CG11294_Cell_FBgn0030058	CG11294	Flyvector	562
+475	CG11294_SOLEXA_FBgn0030058	CG11294	Flyvector	562
+476	CG11504_SANGER_5_FBgn0039733	CG11504	Flyvector	
+477	CG11617_Cell_FBgn0031232	CG11617	Flyvector	612
+478	CG11617_SOLEXA_FBgn0031232	CG11617	Flyvector	612
+479	CG12029_SANGER_10_FBgn0035454	CG12029	Flyvector	
+480	CG12029_SOLEXA_5_FBgn0035454	CG12029	Flyvector	
+481	CG12155_SANGER_5_FBgn0029957	CG12155	Flyvector	
+482	CG12236-PB_SANGER_2.5_FBgn0029822	CG12236-PB	Flyvector	181
+483	CG12236-PB_SOLEXA_FBgn0029822	CG12236-PB	Flyvector	181
+484	CG12236_SANGER_10_FBgn0029822	CG12236	Flyvector	181
+485	CG12236_SOLEXA_5_FBgn0029822	CG12236	Flyvector	181
+486	CG12361_Cell_FBgn0250756	CG12361	Flyvector	
+487	CG12361_SOLEXA_2_FBgn0250756	CG12361	Flyvector	
+488	CG12361_SOLEXA_FBgn0250756	CG12361	Flyvector	
+489	CG12605_SANGER_10_FBgn0035481	CG12605	Flyvector	184
+490	CG12605_SOLEXA_5_FBgn0035481	CG12605	Flyvector	184
+491	CG12768_SANGER_5_FBgn0037206	CG12768	Flyvector	
+492	CG13424_Cell_FBgn0034520	CG13424	Flyvector	
+493	CG13424_SOLEXA_2_FBgn0034520	CG13424	Flyvector	
+494	CG13424_SOLEXA_FBgn0034520	CG13424	Flyvector	
+495	CG13897_SANGER_5_FBgn0035160	CG13897	Flyvector	
+496	CG14962_SANGER_5_FBgn0035407	CG14962	Flyvector	
+497	CG14962_SOLEXA_5_FBgn0035407	CG14962	Flyvector	
+498	CG15601_SANGER_5_FBgn0030673	CG15601	Flyvector	
+499	CG15696_Cell_FBgn0038833	CG15696	Flyvector	464
+500	CG15696_SOLEXA_FBgn0038833	CG15696	Flyvector	464
+501	CG1621_SANGER_5_FBgn0033182	CG1621	Flyvector	
+502	CG16778_SANGER_5_FBgn0003715	CG16778	Flyvector	
+503	CG16899_SANGER_5_FBgn0037735	CG16899	Flyvector	
+504	CG17181_SANGER_5_FBgn0035144	CG17181	Flyvector	
+505	CG17181_SOLEXA_5_FBgn0035144	CG17181	Flyvector	
+506	CG18599_Cell_FBgn0038592	CG18599	Flyvector	465
+507	CG18599_SOLEXA_FBgn0038592	CG18599	Flyvector	465
+508	CG2052_SANGER_2.5_FBgn0039905	CG2052	Flyvector	
+509	CG2052_SOLEXA_2.5_FBgn0039905	CG2052	Flyvector	
+510	CG3065_F1-3_SANGER_2.5_FBgn0034946	CG3065	Flyvector	114
+511	CG3065_F1-3_SOLEXA_2.5_FBgn0034946	CG3065	Flyvector	114
+512	CG3065_F1-5_SOLEXA_2.5_FBgn0034946	CG3065	Flyvector	114
+513	CG31670_SANGER_5_FBgn0031375	CG31670	Flyvector	
+514	CG31670_SOLEXA_5_FBgn0031375	CG31670	Flyvector	
+515	CG31782-F9-11_SOLEXA_FBgn0051782	CG31782-F9-11	Flyvector	
+516	CG31782_F9-11_SANGER_5_FBgn0051782	CG31782	Flyvector	
+517	CG32105_Cell_FBgn0052105	CG32105	Flyvector	
+518	CG32105_SOLEXA_FBgn0052105	CG32105	Flyvector	
+519	CG32532_Cell_FBgn0052532	CG32532	Flyvector	563
+520	CG32532_SOLEXA_FBgn0052532	CG32532	Flyvector	563
+521	CG32830_SANGER_10_FBgn0052830	CG32830	Flyvector	
+522	CG32830_SOLEXA_5_FBgn0052830	CG32830	Flyvector	
+523	CG33557_da_SANGER_5_FBgn0000413	CG33557_da	Flyvector	8
+524	CG33557_da_SANGER_5_FBgn0053557	CG33557_da	Flyvector	8
+525	CG33980_Cell_FBgn0053980	CG33980	Flyvector	
+526	CG33980_SOLEXA_2_0_FBgn0053980	CG33980	Flyvector	
+527	CG33980_SOLEXA_2_10_FBgn0053980	CG33980	Flyvector	
+528	CG33980_SOLEXA_FBgn0053980	CG33980	Flyvector	
+529	CG34031_Cell_FBgn0054031	CG34031	Flyvector	466
+530	CG34031_SOLEXA_FBgn0054031	CG34031	Flyvector	466
+531	CG3407_SANGER_2.5_FBgn0031573	CG3407	Flyvector	116
+532	CG3407_SOLEXA_2.5_FBgn0031573	CG3407	Flyvector	116
+533	CG3838_SANGER_5_FBgn0032130	CG3838	Flyvector	
+534	CG3919_SANGER_5_FBgn0036423	CG3919	Flyvector	
+535	CG4136_Cell_FBgn0029775	CG4136	Flyvector	
+536	CG4136_SOLEXA_FBgn0029775	CG4136	Flyvector	
+537	CG4328_Cell_FBgn0036274	CG4328	Flyvector	444
+538	CG4328_SOLEXA_FBgn0036274	CG4328	Flyvector	444
+539	CG4360-F1-3_SOLEXA_FBgn0038787	CG4360-F1-3	Flyvector	121
+540	CG4360_F1-3_SANGER_2.5_FBgn0038787	CG4360	Flyvector	121
+541	CG4404_SANGER_5_FBgn0030432	CG4404	Flyvector	
+542	CG4854_SANGER_10_FBgn0038766	CG4854	Flyvector	128
+543	CG4854_SOLEXA_5_FBgn0038766	CG4854	Flyvector	128
+544	CG5180_SANGER_5_FBgn0043457	CG5180	Flyvector	
+545	CG5669_SANGER_10_FBgn0039169	CG5669	Flyvector	
+546	CG5669_SOLEXA_5_FBgn0039169	CG5669	Flyvector	
+547	CG5953_SANGER_5_FBgn0032587	CG5953	Flyvector	
+548	CG6276_SANGER_5_FBgn0038316	CG6276	Flyvector	
+549	CG7056_Cell_FBgn0038852	CG7056	Flyvector	
+550	CG7056_SOLEXA_FBgn0038852	CG7056	Flyvector	
+551	CG7368_SANGER_5_FBgn0036179	CG7368	Flyvector	140
+552	CG7368_SOLEXA_2.5_FBgn0036179	CG7368	Flyvector	140
+553	CG7745_SANGER_5_FBgn0033616	CG7745	Flyvector	
+554	CG7928_SANGER_10_FBgn0039740	CG7928	Flyvector	
+555	CG7928_SOLEXA_5_FBgn0039740	CG7928	Flyvector	
+556	CG8281_SANGER_5_FBgn0035824	CG8281	Flyvector	
+557	CG8319_SANGER_2.5_FBgn0037722	CG8319	Flyvector	148
+558	CG8319_SOLEXA_2.5_FBgn0037722	CG8319	Flyvector	148
+559	CG8765_SANGER_5_FBgn0036900	CG8765	Flyvector	
+560	CG9437_SANGER_5_FBgn0034599	CG9437	Flyvector	
+561	CG9876_Cell_FBgn0034821	CG9876	Flyvector	561
+562	CG9876_SOLEXA_FBgn0034821	CG9876	Flyvector	561
+563	CG9895_SANGER_10_FBgn0034810	CG9895	Flyvector	
+564	CG9895_SOLEXA_5_FBgn0034810	CG9895	Flyvector	
+565	chinmo_SOLEXA_FBgn0086758	chinmo	Flyvector	240
+566	Ci_SANGER_5_FBgn0004859	Ci	Flyvector	242
+567	ci_SOLEXA_FBgn0004859	ci	Flyvector	242
+568	cic_SANGER_5_FBgn0028386	cic	Flyvector	405
+569	Clk_cyc_SANGER_5_FBgn0023076	Clk_cyc	Flyvector	9
+570	Clk_cyc_SANGER_5_FBgn0023094	Clk_cyc	Flyvector	9
+571	Crc_CG6272_SANGER_5_FBgn0000370	Crc	Flyvector	66
+572	Crc_CG6272_SANGER_5_FBgn0036126	Crc	Flyvector	66
+573	CrebA_SANGER_5_FBgn0004396	CrebA	Flyvector	67
+574	crol-F7-16_SOLEXA_FBgn0020309	crol-F7-16	Flyvector	246
+575	crol_F7-16_SANGER_5_FBgn0020309	crol	Flyvector	246
+576	crp_SANGER_10_FBgn0001994	crp	Flyvector	10
+577	Ct_Cell_FBgn0004198	Ct	Flyvector	357
+578	Ct_SOLEXA_FBgn0004198	Ct	Flyvector	357
+579	cwo_SANGER_5_FBgn0259938	cwo	Flyvector	11
+580	D19A_F10-12_SANGER_5_FBgn0022935	D19A	Flyvector	248
+581	D19B-F10-12_SOLEXA_FBgn0022699	D19B-F10-12	Flyvector	249
+582	D19B_F10-12_SANGER_5_FBgn0022699	D19B	Flyvector	249
+583	D_NAR_FBgn0000411	D	Flyvector	406
+584	da_SANGER_10_FBgn0000413	da	Flyvector	13
+585	Deaf1_FlyReg_FBgn0013799	Deaf1	Flyvector	523
+586	dei_da_SANGER_5_FBgn0000413	dei_da	Flyvector	59
+587	dei_da_SANGER_5_FBgn0008649	dei_da	Flyvector	59
+588	Dfd_Cell_FBgn0000439	Dfd	Flyvector	431
+589	Dfd_FlyReg_FBgn0000439	Dfd	Flyvector	431
+590	Dfd_SOLEXA_FBgn0000439	Dfd	Flyvector	431
+591	dimm_da_SANGER_5_FBgn0000413	dimm_da	Flyvector	14
+592	dimm_da_SANGER_5_FBgn0023091	dimm_da	Flyvector	14
+593	Dip3_SANGER_5_FBgn0040465	Dip3	Flyvector	450
+594	disco-r-Cl1_SANGER_5_FBgn0042650	disco-r-Cl1	Flyvector	254
+595	disco-r-F1-2_SOLEXA_FBgn0042650	disco-r-F1-2	Flyvector	254
+596	disco_SANGER_5_FBgn0000459	disco	Flyvector	253
+597	disco_SOLEXA_5_FBgn0000459	disco	Flyvector	253
+598	dl_FlyReg_FBgn0000462	dl	Flyvector	489
+599	dl_NBT_FBgn0000462	dl	Flyvector	489
+600	Dll_Cell_FBgn0000157	Dll	Flyvector	468
+601	Dll_SOLEXA_FBgn0000157	Dll	Flyvector	468
+602	dm_Max_SANGER_10_FBgn0000472	dm	Flyvector	
+603	dm_Max_SANGER_10_FBgn0017578	dm	Flyvector	
+604	Doc2_SANGER_5_FBgn0035956	Doc2	Flyvector	620
+605	dpn_SANGER_10_FBgn0010109	dpn	Flyvector	15
+606	Dr_Cell_FBgn0000492	Dr	Flyvector	469
+607	Dr_SOLEXA_FBgn0000492	Dr	Flyvector	469
+608	Dref_FlyReg_FBgn0015664	Dref	Flyvector	256
+609	dsf_SANGER_5_FBgn0015381	dsf	Flyvector	492
+610	dsx-F_FlyReg_FBgn0000504	dsx-F	Flyvector	363
+611	dsx-M_FlyReg_FBgn0000504	dsx-M	Flyvector	363
+612	dys_tgo_SANGER_5_FBgn0015014	dys_tgo	Flyvector	16
+613	dys_tgo_SANGER_5_FBgn0039411	dys_tgo	Flyvector	16
+614	E(spl)_SANGER_5_FBgn0000591	E(spl)	Flyvector	
+615	E5_Cell_FBgn0008646	E5	Flyvector	470
+616	E5_SOLEXA_FBgn0008646	E5	Flyvector	470
+617	EcR_SANGER_5_FBgn0000546	EcR	Flyvector	493
+618	eg_SANGER_5_FBgn0000560	eg	Flyvector	510
+619	Eip74EF_FlyReg_FBgn0000567	Eip74EF	Flyvector	368
+620	Eip74EF_SANGER_5_FBgn0000567	Eip74EF	Flyvector	368
+621	Eip75B_SANGER_5_FBgn0000568	Eip75B	Flyvector	494
+622	Eip78C_SANGER_5_FBgn0004865	Eip78C	Flyvector	495
+623	Eip93F_SANGER_10_FBgn0013948	Eip93F	Flyvector	588
+624	Ems_Cell_FBgn0000576	Ems	Flyvector	471
+625	ems_FlyReg_FBgn0000576	ems	Flyvector	471
+626	Ems_SOLEXA_FBgn0000576	Ems	Flyvector	471
+627	En_Cell_FBgn0000577	En	Flyvector	472
+628	en_FlyReg_FBgn0000577	en	Flyvector	472
+629	en_SOLEXA_2_FBgn0000577	en	Flyvector	472
+630	En_SOLEXA_FBgn0000577	En	Flyvector	472
+631	ERR_SANGER_5_FBgn0035849	ERR	Flyvector	496
+632	esg-F3-5_SOLEXA_FBgn0001981	esg-F3-5	Flyvector	260
+633	esg_SANGER_2.5_FBgn0001981	esg	Flyvector	260
+634	Espl_FlyReg_FBgn0000591	Espl	Flyvector	
+635	Ets21c_SANGER_5_FBgn0005660	Ets21c	Flyvector	369
+636	Ets65A_SANGER_10_FBgn0005658	Ets65A	Flyvector	370
+637	Ets96B_SANGER_5_FBgn0039225	Ets96B	Flyvector	371
+638	Ets97D_SANGER_10_FBgn0004510	Ets97D	Flyvector	372
+639	Ets98B_SANGER_10_FBgn0005659	Ets98B	Flyvector	373
+640	Eve_Cell_FBgn0000606	Eve	Flyvector	432
+641	eve_FlyReg_FBgn0000606	eve	Flyvector	432
+642	Eve_SOLEXA_FBgn0000606	Eve	Flyvector	432
+643	Exd_Cell_FBgn0000611	Exd	Flyvector	613
+644	exd_FlyReg_FBgn0000611	exd	Flyvector	613
+645	exd_SOLEXA_2_FBgn0000611	exd	Flyvector	613
+646	Exd_SOLEXA_FBgn0000611	Exd	Flyvector	613
+647	Exex_Cell_FBgn0041156	Exex	Flyvector	473
+648	Exex_SOLEXA_FBgn0041156	Exex	Flyvector	473
+649	ey_FlyReg_FBgn0005558	ey	Flyvector	553
+650	ey_SOLEXA_5_FBgn0005558	ey	Flyvector	553
+651	fd64A_SANGER_5_FBgn0004895	fd64A	Flyvector	388
+652	Fer1_da_SANGER_10_FBgn0000413	Fer1_da	Flyvector	25
+653	Fer1_da_SANGER_10_FBgn0037475	Fer1_da	Flyvector	25
+654	Fer1_SANGER_5_FBgn0037475	Fer1	Flyvector	25
+655	Fer2_da_SANGER_5_FBgn0000413	Fer2_da	Flyvector	26
+656	Fer2_da_SANGER_5_FBgn0038402	Fer2_da	Flyvector	26
+657	Fer3_da_SANGER_5_FBgn0000413	Fer3_da	Flyvector	27
+658	Fer3_da_SANGER_5_FBgn0037937	Fer3_da	Flyvector	27
+659	fkh_NAR_FBgn0000659	fkh	Flyvector	386
+660	foxo_SANGER_10_FBgn0038197	foxo	Flyvector	389
+661	fru_SANGER_10_FBgn0004652	fru	Flyvector	261
+662	fru_SOLEXA_5_FBgn0004652	fru	Flyvector	261
+663	ftz-f1_FlyReg_FBgn0001078	ftz-f1	Flyvector	497
+664	ftz-f1_SANGER_5_FBgn0001078	ftz-f1	Flyvector	497
+665	Ftz_Cell_FBgn0001077	Ftz	Flyvector	433
+666	ftz_FlyReg_FBgn0001077	ftz	Flyvector	433
+667	Ftz_SOLEXA_FBgn0001077	Ftz	Flyvector	433
+668	GATAd_SANGER_5_FBgn0032223	GATAd	Flyvector	394
+669	GATAe_SANGER_5_FBgn0038391	GATAe	Flyvector	395
+670	gce_Clk_SANGER_5_FBgn0023076	gce	Flyvector	28
+671	gce_Clk_SANGER_5_FBgn0030627	gce	Flyvector	28
+672	gl_FlyReg_FBgn0004618	gl	Flyvector	262
+673	gl_SANGER_5_FBgn0004618	gl	Flyvector	262
+674	gl_SOLEXA_5_FBgn0004618	gl	Flyvector	262
+675	grh_FlyReg_FBgn0259211	grh	Flyvector	530
+676	gsb-n_SOLEXA_5_FBgn0001147	gsb-n	Flyvector	556
+677	gsb_SOLEXA_5_FBgn0001148	gsb	Flyvector	555
+678	Gsc_Cell_FBgn0010323	Gsc	Flyvector	566
+679	Gsc_SOLEXA_FBgn0010323	Gsc	Flyvector	566
+680	gt_FlyReg_FBgn0001150	gt	Flyvector	69
+681	gt_NAR_FBgn0001150	gt	Flyvector	69
+682	H2.0_Cell_FBgn0001170	H2.0	Flyvector	474
+683	H2.0_SOLEXA_FBgn0001170	H2.0	Flyvector	474
+684	h_NAR_FBgn0001168	h	Flyvector	29
+685	h_SANGER_5_FBgn0001168	h	Flyvector	29
+686	Hand_da_SANGER_5_FBgn0000413	Hand_da	Flyvector	30
+687	Hand_da_SANGER_5_FBgn0032209	Hand_da	Flyvector	30
+688	hb_FlyReg_FBgn0001180	hb	Flyvector	267
+689	hb_NAR_FBgn0001180	hb	Flyvector	267
+690	hb_SANGER_2.5_FBgn0001180	hb	Flyvector	267
+691	hb_SOLEXA_5_FBgn0001180	hb	Flyvector	267
+692	Hbn_Cell_FBgn0008636	Hbn	Flyvector	567
+693	Hbn_SOLEXA_FBgn0008636	Hbn	Flyvector	567
+694	her_SANGER_10_FBgn0001185	her	Flyvector	268
+695	Her_SANGER_5_FBgn0030899	Her	Flyvector	268
+696	her_SOLEXA_10_FBgn0001185	her	Flyvector	268
+697	Hey_SANGER_5_FBgn0027788	Hey	Flyvector	32
+698	Hgtx_Cell_FBgn0040318	Hgtx	Flyvector	475
+699	Hgtx_SOLEXA_FBgn0040318	Hgtx	Flyvector	475
+700	hkb_NAR_FBgn0001204	hkb	Flyvector	269
+701	HLH106_SANGER_10_FBgn0015234	HLH106	Flyvector	52
+702	HLH106_SANGER_5_1_FBgn0015234	HLH106	Flyvector	52
+703	HLH106_SANGER_5_2_FBgn0015234	HLH106	Flyvector	52
+704	HLH106_SANGER_5_3_FBgn0015234	HLH106	Flyvector	52
+705	HLH4C_da_SANGER_5_3_FBgn0000413	HLH4C_da	Flyvector	34
+706	HLH4C_da_SANGER_5_3_FBgn0011277	HLH4C_da	Flyvector	34
+707	HLH4C_da_SANGER_5_4_FBgn0000413	HLH4C_da	Flyvector	34
+708	HLH4C_da_SANGER_5_4_FBgn0011277	HLH4C_da	Flyvector	34
+709	HLH4C_da_SANGER_5_FBgn0000413	HLH4C_da	Flyvector	34
+710	HLH4C_da_SANGER_5_FBgn0011277	HLH4C_da	Flyvector	34
+711	HLH4C_SANGER_5_FBgn0011277	HLH4C	Flyvector	34
+712	HLH54F_da_SANGER_5_FBgn0000413	HLH54F_da	Flyvector	35
+713	HLH54F_da_SANGER_5_FBgn0022740	HLH54F_da	Flyvector	35
+714	HLHm3_SANGER_5_FBgn0002609	HLHm3	Flyvector	17
+715	HLHm5_FlyReg_FBgn0002631	HLHm5	Flyvector	18
+716	HLHm5_SANGER_5_FBgn0002631	HLHm5	Flyvector	18
+717	HLHm7_SANGER_5_FBgn0002633	HLHm7	Flyvector	19
+718	HLHmbeta_SANGER_10_FBgn0002733	HLHmbeta	Flyvector	21
+719	HLHmdelta_SANGER_10_FBgn0002734	HLHmdelta	Flyvector	22
+720	HLHmgamma_SANGER_10_FBgn0002735	HLHmgamma	Flyvector	23
+721	HLHmgamma_SANGER_5_2_FBgn0002735	HLHmgamma	Flyvector	23
+722	Hmx_Cell_FBgn0085448	Hmx	Flyvector	477
+723	Hmx_SOLEXA_FBgn0085448	Hmx	Flyvector	477
+724	Hnf4_SANGER_10_FBgn0004914	Hnf4	Flyvector	498
+725	Hnf4_SANGER_5_FBgn0004914	Hnf4	Flyvector	498
+726	Hr39_SANGER_5_FBgn0010229	Hr39	Flyvector	502
+727	Hr46_FlyReg_FBgn0000448	Hr46	Flyvector	
+728	Hr46_SANGER_5_FBgn0000448	Hr46	Flyvector	
+729	Hr4_SANGER_5_FBgn0023546	Hr4	Flyvector	500
+730	Hr51_SANGER_5_FBgn0034012	Hr51	Flyvector	503
+731	Hr78_SANGER_5_FBgn0015239	Hr78	Flyvector	504
+732	Hr83_SANGER_5_FBgn0037436	Hr83	Flyvector	505
+733	Hsf_FlyReg_FBgn0001222	Hsf	Flyvector	531
+734	Hth_Cell_FBgn0001235	Hth	Flyvector	614
+735	hth_SOLEXA_2_FBgn0001235	hth	Flyvector	614
+736	Hth_SOLEXA_FBgn0001235	Hth	Flyvector	614
+737	Ind_Cell_FBgn0025776	Ind	Flyvector	434
+738	Inv_Cell_FBgn0001269	Inv	Flyvector	478
+739	inv_SOLEXA_2_FBgn0001269	inv	Flyvector	478
+740	inv_SOLEXA_5_FBgn0001269	inv	Flyvector	478
+741	jigr1_SANGER_5_FBgn0039350	jigr1	Flyvector	
+742	jim_F1-9_SOLEXA_2.5_FBgn0027339	jim	Flyvector	271
+743	jim_SANGER_2.5_FBgn0027339	jim	Flyvector	271
+744	kay_Jra_SANGER_5_FBgn0001291	kay	Flyvector	72
+745	kay_Jra_SANGER_5_FBgn0001297	kay	Flyvector	72
+746	ken_SANGER_10_FBgn0011236	ken	Flyvector	274
+747	ken_SOLEXA_5_FBgn0011236	ken	Flyvector	274
+748	klu_SANGER_10_FBgn0013469	klu	Flyvector	276
+749	klu_SOLEXA_5_FBgn0013469	klu	Flyvector	276
+750	kni_FlyReg_FBgn0001320	kni	Flyvector	511
+751	kni_NAR_FBgn0001320	kni	Flyvector	511
+752	kni_SANGER_5_FBgn0001320	kni	Flyvector	511
+753	knrl_SANGER_5_FBgn0001323	knrl	Flyvector	512
+754	Kr_FlyReg_FBgn0001325	Kr	Flyvector	278
+755	Kr_NAR_FBgn0001325	Kr	Flyvector	278
+756	Kr_SANGER_5_FBgn0001325	Kr	Flyvector	278
+757	Kr_SOLEXA_FBgn0001325	Kr	Flyvector	278
+758	l(1)sc_da_SANGER_5_FBgn0000413	l(1)sc_da	Flyvector	37
+759	l(1)sc_da_SANGER_5_FBgn0002561	l(1)sc_da	Flyvector	37
+760	l(3)neo38_SANGER_2.5_FBgn0086910	l(3)neo38	Flyvector	280
+761	l(3)neo38_SOLEXA_2.5_FBgn0086910	l(3)neo38	Flyvector	280
+762	Lab_Cell_FBgn0002522	Lab	Flyvector	435
+763	Lab_SOLEXA_FBgn0002522	Lab	Flyvector	435
+764	Lag1_Cell_FBgn0040918	Lag1	Flyvector	
+765	Lag1_SOLEXA_FBgn0040918	Lag1	Flyvector	
+766	Lbe_Cell_FBgn0011278	Lbe	Flyvector	479
+767	Lbe_SOLEXA_FBgn0011278	Lbe	Flyvector	479
+768	Lbl_Cell_FBgn0008651	Lbl	Flyvector	480
+769	Lbl_SOLEXA_FBgn0008651	Lbl	Flyvector	480
+770	Lim1_Cell_FBgn0026411	Lim1	Flyvector	445
+771	Lim1_SOLEXA_FBgn0026411	Lim1	Flyvector	445
+772	Lim3_Cell_FBgn0002023	Lim3	Flyvector	446
+773	Lim3_SOLEXA_FBgn0002023	Lim3	Flyvector	446
+774	lim_SOLEXA_2_FBgn0026411	lim	Flyvector	
+775	lmd_SANGER_5_FBgn0039039	lmd	Flyvector	282
+776	lmd_SOLEXA_5_FBgn0039039	lmd	Flyvector	282
+777	lola-PA_SANGER_5_FBgn0005630	lola-PA	Flyvector	283
+778	lola-PA_SOLEXA_FBgn0005630	lola-PA	Flyvector	283
+779	lola-PC_SANGER_5_FBgn0005630	lola-PC	Flyvector	283
+780	lola-PC_SOLEXA_FBgn0005630	lola-PC	Flyvector	283
+781	lola-PD_SANGER_5_FBgn0005630	lola-PD	Flyvector	283
+782	lola-PD_SOLEXA_FBgn0005630	lola-PD	Flyvector	283
+783	lola-PF_SANGER_5_FBgn0005630	lola-PF	Flyvector	283
+784	lola-PF_SOLEXA_FBgn0005630	lola-PF	Flyvector	283
+785	lola-PG_SANGER_2.5_FBgn0005630	lola-PG	Flyvector	283
+786	lola-PG_SOLEXA_FBgn0005630	lola-PG	Flyvector	283
+787	lola-PJ_SANGER_5_FBgn0005630	lola-PJ	Flyvector	283
+788	lola-PJ_SOLEXA_FBgn0005630	lola-PJ	Flyvector	283
+789	lola-PK_SOLEXA_FBgn0005630	lola-PK	Flyvector	283
+790	lola-PL_SANGER_2.5_FBgn0005630	lola-PL	Flyvector	283
+791	lola-PL_SOLEXA_FBgn0005630	lola-PL	Flyvector	283
+792	lola-PO_SANGER_5_FBgn0005630	lola-PO	Flyvector	283
+793	lola-PO_SOLEXA_FBgn0005630	lola-PO	Flyvector	283
+794	lola-PQ_SANGER_5_FBgn0005630	lola-PQ	Flyvector	283
+795	lola-PQ_SOLEXA_FBgn0005630	lola-PQ	Flyvector	283
+796	lola-PT_SANGER_5_FBgn0005630	lola-PT	Flyvector	283
+797	lola-PT_SOLEXA_FBgn0005630	lola-PT	Flyvector	283
+798	lola-PU_SANGER_5_FBgn0005630	lola-PU	Flyvector	283
+799	lola-PU_SOLEXA_FBgn0005630	lola-PU	Flyvector	283
+800	lola-PW_SANGER_5_FBgn0005630	lola-PW	Flyvector	283
+801	lola-PW_SOLEXA_FBgn0005630	lola-PW	Flyvector	283
+802	lola-PY_SANGER_2.5_FBgn0005630	lola-PY	Flyvector	283
+803	lola-PY_SOLEXA_FBgn0005630	lola-PY	Flyvector	283
+804	lola_PK_SANGER_5_FBgn0005630	lola	Flyvector	283
+805	lola_SANGER_5_FBgn0005630	lola	Flyvector	283
+806	lola_SOLEXA_5_FBgn0005630	lola	Flyvector	283
+807	luna_SANGER_5_FBgn0040765	luna	Flyvector	284
+808	luna_SOLEXA_5_FBgn0040765	luna	Flyvector	284
+809	Mad_FlyReg_FBgn0011648	Mad	Flyvector	452
+810	Max_Mnt_SANGER_5_FBgn0017578	Max	Flyvector	38
+811	Max_Mnt_SANGER_5_FBgn0023215	Max	Flyvector	38
+812	Med_FlyReg_FBgn0011655	Med	Flyvector	453
+813	Mes2_SANGER_5_FBgn0037207	Mes2	Flyvector	
+814	Met_Clk_SANGER_5_FBgn0002723	Met	Flyvector	39
+815	Met_Clk_SANGER_5_FBgn0023076	Met	Flyvector	39
+816	Met_SANGER_5_FBgn0002723	Met	Flyvector	39
+817	Mio_bigmax_SANGER_5_FBgn0032940	Mio_bigmax	Flyvector	42
+818	Mio_bigmax_SANGER_5_FBgn0039509	Mio_bigmax	Flyvector	42
+819	Mirr_Cell_FBgn0014343	Mirr	Flyvector	615
+820	Mirr_SOLEXA_FBgn0014343	Mirr	Flyvector	615
+821	Mitf_SANGER_5_FBgn0263112	Mitf	Flyvector	40
+822	nau_da_SANGER_5_FBgn0000413	nau_da	Flyvector	44
+823	nau_da_SANGER_5_FBgn0002922	nau_da	Flyvector	44
+824	nau_SANGER_5_FBgn0002922	nau	Flyvector	44
+825	net_da_SANGER_10_FBgn0000413	net_da	Flyvector	45
+826	net_da_SANGER_10_FBgn0002931	net_da	Flyvector	45
+827	NFAT_SANGER_5_FBgn0030505	NFAT	Flyvector	491
+828	NK7.1_Cell_FBgn0024321	NK7.1	Flyvector	482
+829	NK7.1_SOLEXA_FBgn0024321	NK7.1	Flyvector	482
+830	nub_FlyReg_FBgn0085424	nub	Flyvector	593
+831	nub_NAR_FBgn0085424	nub	Flyvector	593
+832	nub_SOLEXA_5_FBgn0085424	nub	Flyvector	593
+833	Oc_Cell_FBgn0004102	Oc	Flyvector	568
+834	Oc_SOLEXA_FBgn0004102	Oc	Flyvector	568
+835	odd_NAR_FBgn0002985	odd	Flyvector	299
+836	odd_NBT_1.5_FBgn0002985	odd	Flyvector	299
+837	odd_NBT_2.5_FBgn0002985	odd	Flyvector	299
+838	odd_NBT_5_FBgn0002985	odd	Flyvector	299
+839	Odsh_Cell_FBgn0026058	Odsh	Flyvector	569
+840	Odsh_SOLEXA_FBgn0026058	Odsh	Flyvector	569
+841	Oli_da_SANGER_5_1_FBgn0000413	Oli_da	Flyvector	46
+842	Oli_da_SANGER_5_1_FBgn0032651	Oli_da	Flyvector	46
+843	Oli_da_SANGER_5_2_FBgn0000413	Oli_da	Flyvector	46
+844	Oli_da_SANGER_5_2_FBgn0032651	Oli_da	Flyvector	46
+845	Oli_da_SANGER_5_3_FBgn0000413	Oli_da	Flyvector	46
+846	Oli_da_SANGER_5_3_FBgn0032651	Oli_da	Flyvector	46
+847	onecut_Cell_FBgn0028996	onecut	Flyvector	359
+848	onecut_SOLEXA_FBgn0028996	onecut	Flyvector	359
+849	opa_NAR_FBgn0003002	opa	Flyvector	301
+850	Opa_SANGER_5_FBgn0003002	Opa	Flyvector	301
+851	opa_SOLEXA_FBgn0003002	opa	Flyvector	301
+852	Optix_Cell_FBgn0025360	Optix	Flyvector	606
+853	Optix_SOLEXA_FBgn0025360	Optix	Flyvector	606
+854	Otp_Cell_FBgn0015524	Otp	Flyvector	570
+855	Otp_SOLEXA_FBgn0015524	Otp	Flyvector	570
+856	ovo_FlyReg_FBgn0003028	ovo	Flyvector	304
+857	ovo_SANGER_5_FBgn0003028	ovo	Flyvector	304
+858	ovo_SOLEXA_5_FBgn0003028	ovo	Flyvector	304
+859	pad_SANGER_5_FBgn0038418	pad	Flyvector	305
+860	pad_SOLEXA_5_FBgn0038418	pad	Flyvector	305
+861	pan_FlyReg_FBgn0085432	pan	Flyvector	412
+862	Pb_Cell_FBgn0051481	Pb	Flyvector	436
+863	Pb_SOLEXA_FBgn0051481	Pb	Flyvector	436
+864	pdm2_SOLEXA_5_FBgn0004394	pdm2	Flyvector	594
+865	pdm3_SOLEXA_5_FBgn0033288	pdm3	Flyvector	595
+866	peb-F1-3_SANGER_2.5_FBgn0003053	peb-F1-3	Flyvector	306
+867	peb-F1-3_SOLEXA_FBgn0003053	peb-F1-3	Flyvector	306
+868	peb-F5-7_SOLEXA_FBgn0003053	peb-F5-7	Flyvector	306
+869	pfk_SANGER_5_FBgn0035405	pfk	Flyvector	584
+870	PhdP_Cell_FBgn0025334	PhdP	Flyvector	571
+871	PhdP_SOLEXA_FBgn0025334	PhdP	Flyvector	571
+872	pho_FlyReg_FBgn0002521	pho	Flyvector	307
+873	pho_SANGER_10_FBgn0002521	pho	Flyvector	307
+874	pho_SOLEXA_5_FBgn0002521	pho	Flyvector	307
+875	phol_SANGER_5_FBgn0035997	phol	Flyvector	308
+876	phol_SOLEXA_5_FBgn0035997	phol	Flyvector	308
+877	pnr_SANGER_5_FBgn0003117	pnr	Flyvector	397
+878	pnt_SANGER_5_FBgn0003118	pnt	Flyvector	374
+879	Poxm_SOLEXA_5_FBgn0003129	Poxm	Flyvector	550
+880	Poxn_SOLEXA_5_FBgn0003130	Poxn	Flyvector	551
+881	Pph13_Cell_FBgn0023489	Pph13	Flyvector	572
+882	Pph13_SOLEXA_FBgn0023489	Pph13	Flyvector	572
+883	prd_FlyReg_FBgn0003145	prd	Flyvector	557
+884	prd_NAR_FBgn0003145	prd	Flyvector	557
+885	prd_SOLEXA_5_FBgn0003145	prd	Flyvector	557
+886	Ptx1_Cell_FBgn0020912	Ptx1	Flyvector	573
+887	Ptx1_SOLEXA_FBgn0020912	Ptx1	Flyvector	573
+888	Rel_SANGER_5_FBgn0014018	Rel	Flyvector	490
+889	Repo_Cell_FBgn0011701	Repo	Flyvector	574
+890	Repo_SOLEXA_FBgn0011701	Repo	Flyvector	574
+891	retn_SANGER_5_FBgn0004795	retn	Flyvector	1
+892	rib_SANGER_5_FBgn0003254	rib	Flyvector	591
+893	rn_SANGER_10_FBgn0259172	rn	Flyvector	317
+894	rn_SOLEXA_5_FBgn0259172	rn	Flyvector	317
+895	Ro_Cell_FBgn0003267	Ro	Flyvector	437
+896	Ro_SOLEXA_FBgn0003267	Ro	Flyvector	437
+897	run_Bgb_NBT_FBgn0003300	run	Flyvector	599
+898	run_Bgb_NBT_FBgn0013753	run	Flyvector	599
+899	Rx_Cell_FBgn0020617	Rx	Flyvector	575
+900	Rx_SOLEXA_FBgn0020617	Rx	Flyvector	575
+901	sage_da_SANGER_5_FBgn0000413	sage_da	Flyvector	47
+902	sage_da_SANGER_5_FBgn0037672	sage_da	Flyvector	47
+903	salr-F3-5_SOLEXA_FBgn0000287	salr-F3-5	Flyvector	319
+904	sc_da_SANGER_10_FBgn0000413	sc_da	Flyvector	48
+905	sc_da_SANGER_10_FBgn0004170	sc_da	Flyvector	48
+906	Scr_Cell_FBgn0003339	Scr	Flyvector	438
+907	Scr_SOLEXA_FBgn0003339	Scr	Flyvector	438
+908	scrt_SANGER_2.5_FBgn0004880	scrt	Flyvector	320
+909	scrt_SOLEXA_2.5_1_FBgn0004880	scrt	Flyvector	320
+910	scrt_SOLEXA_2.5_2_FBgn0004880	scrt	Flyvector	320
+911	sd_FlyReg_FBgn0003345	sd	Flyvector	625
+912	sens-2_SANGER_2.5_FBgn0051632	sens-2	Flyvector	322
+913	sens2_SOLEXA_FBgn0051632	sens2	Flyvector	322
+914	sens_SANGER_10_FBgn0002573	sens	Flyvector	321
+915	sens_SOLEXA_5_FBgn0002573	sens	Flyvector	321
+916	shn-F1-2_SANGER_5_FBgn0003396	shn-F1-2	Flyvector	324
+917	shn-F1-2_SOLEXA_FBgn0003396	shn-F1-2	Flyvector	324
+918	Side_SANGER_5_FBgn0032741	Side	Flyvector	49
+919	Six4_Cell_FBgn0027364	Six4	Flyvector	607
+920	Six4_SOLEXA_2_FBgn0027364	Six4	Flyvector	607
+921	Six4_SOLEXA_FBgn0027364	Six4	Flyvector	607
+922	slbo_FlyReg_FBgn0005638	slbo	Flyvector	78
+923	slbo_SANGER_5_FBgn0005638	slbo	Flyvector	78
+924	Slou_Cell_FBgn0002941	Slou	Flyvector	484
+925	Slou_SOLEXA_FBgn0002941	Slou	Flyvector	484
+926	slp1_NAR_FBgn0003430	slp1	Flyvector	392
+927	slp2_SANGER_5_FBgn0004567	slp2	Flyvector	393
+928	sna_FlyReg_FBgn0003448	sna	Flyvector	325
+929	sna_SANGER_10_FBgn0003448	sna	Flyvector	325
+930	sna_SOLEXA_5_FBgn0003448	sna	Flyvector	325
+931	So_Cell_FBgn0003460	So	Flyvector	608
+932	So_SOLEXA_FBgn0003460	So	Flyvector	608
+933	sob_SANGER_10_FBgn0004892	sob	Flyvector	326
+934	sob_SOLEXA_5_FBgn0004892	sob	Flyvector	326
+935	Sox14_SANGER_10_FBgn0005612	Sox14	Flyvector	414
+936	Sox15_SANGER_5_FBgn0005613	Sox15	Flyvector	415
+937	Sp1_SANGER_5_FBgn0020378	Sp1	Flyvector	327
+938	Sp1_SOLEXA_2.5_FBgn0020378	Sp1	Flyvector	327
+939	sqz_SANGER_5_FBgn0010768	sqz	Flyvector	329
+940	sqz_SOLEXA_5_FBgn0010768	sqz	Flyvector	329
+941	sr_SANGER_5_FBgn0003499	sr	Flyvector	330
+942	sr_SOLEXA_5_FBgn0003499	sr	Flyvector	330
+943	srp_FlyReg_FBgn0003507	srp	Flyvector	398
+944	srp_SANGER_5_FBgn0003507	srp	Flyvector	398
+945	ss_tgo_SANGER_10_FBgn0003513	ss_tgo	Flyvector	53
+946	ss_tgo_SANGER_10_FBgn0015014	ss_tgo	Flyvector	53
+947	sug_SANGER_5_FBgn0033782	sug	Flyvector	335
+948	sug_SOLEXA_5_FBgn0033782	sug	Flyvector	335
+949	SuH_FlyReg_FBgn0004837	SuH	Flyvector	545
+950	suHw_FlyReg_FBgn0003567	suHw	Flyvector	334
+951	sv_SOLEXA_5_FBgn0005561	sv	Flyvector	552
+952	svp_SANGER_5_FBgn0003651	svp	Flyvector	507
+953	tai_Clk_SANGER_5_FBgn0023076	tai	Flyvector	54
+954	tai_Clk_SANGER_5_FBgn0041092	tai	Flyvector	54
+955	tai_SANGER_5_FBgn0041092	tai	Flyvector	54
+956	tap_da_SANGER_5_2_FBgn0000413	tap_da	Flyvector	55
+957	tap_da_SANGER_5_2_FBgn0015550	tap_da	Flyvector	55
+958	tap_da_SANGER_5_FBgn0000413	tap_da	Flyvector	55
+959	tap_da_SANGER_5_FBgn0015550	tap_da	Flyvector	55
+960	tgo_cyc_SANGER_5_FBgn0015014	tgo_cyc	Flyvector	56
+961	tgo_cyc_SANGER_5_FBgn0023094	tgo_cyc	Flyvector	56
+962	tgo_sim_SANGER_5_FBgn0004666	tgo_sim	Flyvector	56
+963	tgo_sim_SANGER_5_FBgn0015014	tgo_sim	Flyvector	56
+964	tgo_sima_SANGER_5_FBgn0015014	tgo_sima	Flyvector	56
+965	tgo_sima_SANGER_5_FBgn0015542	tgo_sima	Flyvector	56
+966	tgo_ss_SANGER_5_FBgn0003513	tgo_ss	Flyvector	56
+967	tgo_ss_SANGER_5_FBgn0015014	tgo_ss	Flyvector	56
+968	tgo_tai_SANGER_5_FBgn0015014	tgo_tai	Flyvector	56
+969	tgo_tai_SANGER_5_FBgn0041092	tgo_tai	Flyvector	56
+970	tgo_trh_SANGER_5_FBgn0015014	tgo_trh	Flyvector	56
+971	Tin_Cell_FBgn0004110	Tin	Flyvector	485
+972	tin_FlyReg_FBgn0004110	tin	Flyvector	485
+973	Tin_SOLEXA_FBgn0004110	Tin	Flyvector	485
+974	tj_SANGER_5_FBgn0000964	tj	Flyvector	79
+975	tll_FlyReg_FBgn0003720	tll	Flyvector	508
+976	tll_NAR_FBgn0003720	tll	Flyvector	508
+977	toy_FlyReg_FBgn0019650	toy	Flyvector	559
+978	Trl_FlyReg_FBgn0013263	Trl	Flyvector	341
+979	ttk-PA_SANGER_5_FBgn0003870	ttk-PA	Flyvector	343
+980	ttk-PA_SOLEXA_FBgn0003870	ttk-PA	Flyvector	343
+981	ttk-PF_SANGER_5_FBgn0003870	ttk-PF	Flyvector	343
+982	ttk-PF_SOLEXA_FBgn0003870	ttk-PF	Flyvector	343
+983	ttk_FlyReg_FBgn0003870	ttk	Flyvector	343
+984	ttk_NAR_FBgn0003870	ttk	Flyvector	343
+985	Tup_Cell_FBgn0003896	Tup	Flyvector	448
+986	tup_SOLEXA_10_FBgn0003896	tup	Flyvector	448
+987	Tup_SOLEXA_FBgn0003896	Tup	Flyvector	448
+988	twi_da_SANGER_5_FBgn0000413	twi_da	Flyvector	58
+989	twi_da_SANGER_5_FBgn0003900	twi_da	Flyvector	58
+990	twi_FlyReg_FBgn0003900	twi	Flyvector	58
+991	Ubx_Cell_FBgn0003944	Ubx	Flyvector	439
+992	Ubx_FlyReg_FBgn0003944	Ubx	Flyvector	439
+993	Ubx_SOLEXA_FBgn0003944	Ubx	Flyvector	439
+994	Unc4_Cell_FBgn0024184	Unc4	Flyvector	576
+995	Unc4_SOLEXA_FBgn0024184	Unc4	Flyvector	576
+996	Unpg_Cell_FBgn0015561	Unpg	Flyvector	486
+997	Unpg_SOLEXA_FBgn0015561	Unpg	Flyvector	486
+998	Usf_SANGER_5_FBgn0029711	Usf	Flyvector	60
+999	usp_SANGER_5_FBgn0003964	usp	Flyvector	509
+1000	vfl_SANGER_5_FBgn0259789	vfl	Flyvector	353
+1001	vfl_SOLEXA_5_FBgn0259789	vfl	Flyvector	353
+1002	Vis_Cell_FBgn0033748	Vis	Flyvector	616
+1003	Vis_SOLEXA_FBgn0033748	Vis	Flyvector	616
+1004	Vnd_Cell_FBgn0003986	Vnd	Flyvector	487
+1005	vnd_FlyReg_FBgn0003986	vnd	Flyvector	487
+1006	Vnd_SOLEXA_FBgn0003986	Vnd	Flyvector	487
+1007	vri_SANGER_5_FBgn0016076	vri	Flyvector	80
+1008	vvl_FlyReg_FBgn0086680	vvl	Flyvector	596
+1009	vvl_SOLEXA_5_FBgn0086680	vvl	Flyvector	596
+1010	wor_SANGER_2.5_FBgn0001983	wor	Flyvector	347
+1011	wor_SOLEXA_2.5_FBgn0001983	wor	Flyvector	347
+1012	Xrp1_CG6272_SANGER_5_FBgn0036126	Xrp1	Flyvector	
+1013	Xrp1_CG6272_SANGER_5_FBgn0261113	Xrp1	Flyvector	
+1014	z_FlyReg_FBgn0004050	z	Flyvector	459
+1015	Zen2_Cell_FBgn0004054	Zen2	Flyvector	441
+1016	zen2_SOLEXA_2_FBgn0004054	zen2	Flyvector	441
+1017	Zen2_SOLEXA_FBgn0004054	Zen2	Flyvector	441
+1018	Zen_Cell_FBgn0004053	Zen	Flyvector	440
+1019	zen_FlyReg_FBgn0004053	zen	Flyvector	440
+1020	Zen_SOLEXA_FBgn0004053	Zen	Flyvector	440
+1021	M01091_2.00	bnl	Cis-BP	
+1022	M03584_2.00	AP-2	Cis-BP	546
+1023	M03585_2.00	AP-2	Cis-BP	546
+1024	M03586_2.00	AP-2	Cis-BP	546
+1025	M03587_2.00	AP-2	Cis-BP	546
+1026	M03588_2.00	AP-2	Cis-BP	546
+1027	M03589_2.00	AP-2	Cis-BP	546
+1028	M01664_2.00	retn	Cis-BP	1
+1029	M03590_2.00	retn	Cis-BP	1
+1030	M05899_2.00	retn	Cis-BP	1
+1031	M09768_2.00	retn	Cis-BP	1
+1032	M01690_2.00	D1	Cis-BP	521
+1033	M01686_2.00	Xrp1	Cis-BP	
+1034	M05900_2.00	Xrp1	Cis-BP	
+1035	M08403_2.00	BEAF-32	Cis-BP	
+1036	M05901_2.00	Dref	Cis-BP	256
+1037	M03592_2.00	ac	Cis-BP	2
+1038	M05902_2.00	ac	Cis-BP	2
+1039	M05903_2.00	ase	Cis-BP	4
+1040	M03593_2.00	da	Cis-BP	13
+1041	M05904_2.00	da	Cis-BP	13
+1042	M05905_2.00	da	Cis-BP	13
+1043	M05906_2.00	da	Cis-BP	13
+1044	M05907_2.00	da	Cis-BP	13
+1045	M05908_2.00	da	Cis-BP	13
+1046	M05909_2.00	da	Cis-BP	13
+1047	M05910_2.00	da	Cis-BP	13
+1048	M05911_2.00	da	Cis-BP	13
+1049	M05912_2.00	da	Cis-BP	13
+1050	M05913_2.00	da	Cis-BP	13
+1051	M05914_2.00	da	Cis-BP	13
+1052	M05915_2.00	da	Cis-BP	13
+1053	M05916_2.00	da	Cis-BP	13
+1054	M05917_2.00	da	Cis-BP	13
+1055	M05918_2.00	da	Cis-BP	13
+1056	M05919_2.00	da	Cis-BP	13
+1057	M05920_2.00	da	Cis-BP	13
+1058	M05921_2.00	da	Cis-BP	13
+1059	M05922_2.00	da	Cis-BP	13
+1060	M05923_2.00	da	Cis-BP	13
+1061	M05924_2.00	da	Cis-BP	13
+1062	M05925_2.00	da	Cis-BP	13
+1063	M05926_2.00	da	Cis-BP	13
+1064	M05927_2.00	da	Cis-BP	13
+1065	M05928_2.00	da	Cis-BP	13
+1066	M05929_2.00	da	Cis-BP	13
+1067	M05930_2.00	da	Cis-BP	13
+1068	M05931_2.00	da	Cis-BP	13
+1069	M05932_2.00	da	Cis-BP	13
+1070	M05933_2.00	da	Cis-BP	13
+1071	M05934_2.00	E(spl)m8-HLH	Cis-BP	20
+1072	M03594_2.00	h	Cis-BP	29
+1073	M05935_2.00	h	Cis-BP	29
+1074	M05936_2.00	h	Cis-BP	29
+1075	M06463_2.00	h	Cis-BP	29
+1076	M09656_2.00	h	Cis-BP	29
+1077	M09891_2.00	h	Cis-BP	29
+1078	M03595_2.00	crp	Cis-BP	10
+1079	M05937_2.00	crp	Cis-BP	10
+1080	M05938_2.00	l(1)sc	Cis-BP	37
+1081	M03596_2.00	E(spl)m3-HLH	Cis-BP	17
+1082	M05939_2.00	E(spl)m3-HLH	Cis-BP	17
+1083	M05940_2.00	E(spl)m5-HLH	Cis-BP	18
+1084	M05941_2.00	E(spl)m5-HLH	Cis-BP	18
+1085	M05942_2.00	E(spl)m7-HLH	Cis-BP	19
+1086	M05943_2.00	Met	Cis-BP	39
+1087	M05944_2.00	Met	Cis-BP	39
+1088	M03597_2.00	E(spl)mbeta-HLH	Cis-BP	21
+1089	M05945_2.00	E(spl)mbeta-HLH	Cis-BP	21
+1090	M03598_2.00	E(spl)mdelta-HLH	Cis-BP	22
+1091	M05946_2.00	E(spl)mdelta-HLH	Cis-BP	22
+1092	M03599_2.00	E(spl)mgamma-HLH	Cis-BP	23
+1093	M05947_2.00	E(spl)mgamma-HLH	Cis-BP	23
+1094	M05948_2.00	E(spl)mgamma-HLH	Cis-BP	23
+1095	M03600_2.00	nau	Cis-BP	44
+1096	M03601_2.00	nau	Cis-BP	44
+1097	M03602_2.00	nau	Cis-BP	44
+1098	M05949_2.00	nau	Cis-BP	44
+1099	M05950_2.00	nau	Cis-BP	44
+1100	M05951_2.00	net	Cis-BP	45
+1101	M03603_2.00	amos	Cis-BP	3
+1102	M03604_2.00	amos	Cis-BP	3
+1103	M05952_2.00	amos	Cis-BP	3
+1104	M05953_2.00	ss	Cis-BP	53
+1105	M05954_2.00	ss	Cis-BP	53
+1106	M03605_2.00	twi	Cis-BP	58
+1107	M03606_2.00	twi	Cis-BP	58
+1108	M05955_2.00	twi	Cis-BP	58
+1109	M05956_2.00	twi	Cis-BP	58
+1110	M07538_2.00	twi	Cis-BP	58
+1111	M09657_2.00	twi	Cis-BP	58
+1112	M03607_2.00	sc	Cis-BP	48
+1113	M05957_2.00	sc	Cis-BP	48
+1114	M05958_2.00	sim	Cis-BP	50
+1115	M03608_2.00	dpn	Cis-BP	15
+1116	M05959_2.00	dpn	Cis-BP	15
+1117	M05960_2.00	ato	Cis-BP	5
+1118	M05961_2.00	ato	Cis-BP	5
+1119	M05962_2.00	ato	Cis-BP	5
+1120	M08734_2.00	HLH3B	Cis-BP	33
+1121	M03609_2.00	HLH4C	Cis-BP	34
+1122	M03610_2.00	HLH4C	Cis-BP	34
+1123	M03611_2.00	HLH4C	Cis-BP	34
+1124	M05963_2.00	HLH4C	Cis-BP	34
+1125	M05964_2.00	HLH4C	Cis-BP	34
+1126	M05965_2.00	HLH4C	Cis-BP	34
+1127	M05966_2.00	HLH4C	Cis-BP	34
+1128	M05967_2.00	tap	Cis-BP	55
+1129	M05968_2.00	tap	Cis-BP	55
+1130	M03612_2.00	Max	Cis-BP	38
+1131	M05969_2.00	Max	Cis-BP	38
+1132	M05970_2.00	Max	Cis-BP	38
+1133	M05971_2.00	HLH54F	Cis-BP	35
+1134	M05972_2.00	Clk	Cis-BP	9
+1135	M05973_2.00	Clk	Cis-BP	9
+1136	M05974_2.00	Clk	Cis-BP	9
+1137	M05975_2.00	Clk	Cis-BP	9
+1138	M03613_2.00	dimm	Cis-BP	14
+1139	M03614_2.00	dimm	Cis-BP	14
+1140	M05976_2.00	dimm	Cis-BP	14
+1141	M03615_2.00	cyc	Cis-BP	12
+1142	M05977_2.00	cyc	Cis-BP	12
+1143	M05978_2.00	cyc	Cis-BP	12
+1144	M05979_2.00	Mnt	Cis-BP	41
+1145	M05980_2.00	cato	Cis-BP	7
+1146	M03616_2.00	Hey	Cis-BP	32
+1147	M03617_2.00	Hey	Cis-BP	32
+1148	M05981_2.00	Hey	Cis-BP	32
+1149	M05982_2.00	Usf	Cis-BP	60
+1150	M05983_2.00	Her	Cis-BP	268
+1151	M05984_2.00	Hand	Cis-BP	30
+1152	M03618_2.00	Oli	Cis-BP	46
+1153	M05985_2.00	Oli	Cis-BP	46
+1154	M05986_2.00	Oli	Cis-BP	46
+1155	M05987_2.00	Oli	Cis-BP	46
+1156	M03619_2.00	Side	Cis-BP	49
+1157	M05988_2.00	Side	Cis-BP	49
+1158	M05989_2.00	Mio	Cis-BP	42
+1159	M03620_2.00	Fer1	Cis-BP	25
+1160	M05990_2.00	Fer1	Cis-BP	25
+1161	M05991_2.00	Fer1	Cis-BP	25
+1162	M03621_2.00	sage	Cis-BP	47
+1163	M05992_2.00	sage	Cis-BP	47
+1164	M05993_2.00	Fer3	Cis-BP	27
+1165	M05994_2.00	Fer2	Cis-BP	26
+1166	M05995_2.00	dys	Cis-BP	16
+1167	M03622_2.00	bigmax	Cis-BP	6
+1168	M05996_2.00	bigmax	Cis-BP	6
+1169	M05997_2.00	tai	Cis-BP	54
+1170	M05998_2.00	tai	Cis-BP	54
+1171	M05999_2.00	tai	Cis-BP	54
+1172	M06000_2.00	CG33557	Cis-BP	8
+1173	M03623_2.00	cwo	Cis-BP	11
+1174	M03624_2.00	cwo	Cis-BP	11
+1175	M03625_2.00	cwo	Cis-BP	11
+1176	M06001_2.00	cwo	Cis-BP	11
+1177	M03626_2.00	HLH106	Cis-BP	52
+1178	M03627_2.00	HLH106	Cis-BP	52
+1179	M06002_2.00	dm	Cis-BP	
+1180	M06003_2.00	Mitf	Cis-BP	40
+1181	M06004_2.00	tx	Cis-BP	59
+1182	M06005_2.00	tgo	Cis-BP	56
+1183	M06006_2.00	tgo	Cis-BP	56
+1184	M06007_2.00	tgo	Cis-BP	56
+1185	M06008_2.00	tgo	Cis-BP	56
+1186	M06009_2.00	tgo	Cis-BP	56
+1187	M06010_2.00	tgo	Cis-BP	56
+1188	M06011_2.00	tgo	Cis-BP	56
+1189	M06012_2.00	tgo	Cis-BP	56
+1190	M03628_2.00	brk	Cis-BP	513
+1191	M03629_2.00	brk	Cis-BP	513
+1192	M03630_2.00	brk	Cis-BP	513
+1193	M06013_2.00	brk	Cis-BP	513
+1194	M07539_2.00	brk	Cis-BP	513
+1195	M09658_2.00	brk	Cis-BP	513
+1196	M03631_2.00	crc	Cis-BP	66
+1197	M06014_2.00	crc	Cis-BP	66
+1198	M03632_2.00	tj	Cis-BP	79
+1199	M03633_2.00	tj	Cis-BP	79
+1200	M06015_2.00	tj	Cis-BP	79
+1201	M03634_2.00	gt	Cis-BP	69
+1202	M03635_2.00	gt	Cis-BP	69
+1203	M05843_2.00	gt	Cis-BP	69
+1204	M06016_2.00	gt	Cis-BP	69
+1205	M06017_2.00	gt	Cis-BP	69
+1206	M06464_2.00	gt	Cis-BP	69
+1207	M09659_2.00	gt	Cis-BP	69
+1208	M03636_2.00	Jra	Cis-BP	71
+1209	M06018_2.00	Jra	Cis-BP	71
+1210	M03637_2.00	kay	Cis-BP	72
+1211	M03638_2.00	kay	Cis-BP	72
+1212	M06019_2.00	kay	Cis-BP	72
+1213	M03639_2.00	CrebA	Cis-BP	67
+1214	M03640_2.00	CrebA	Cis-BP	67
+1215	M03641_2.00	CrebA	Cis-BP	67
+1216	M06020_2.00	CrebA	Cis-BP	67
+1217	M03642_2.00	slbo	Cis-BP	78
+1218	M03643_2.00	slbo	Cis-BP	78
+1219	M06021_2.00	slbo	Cis-BP	78
+1220	M06022_2.00	slbo	Cis-BP	78
+1221	M07540_2.00	slbo	Cis-BP	78
+1222	M03644_2.00	vri	Cis-BP	80
+1223	M06023_2.00	vri	Cis-BP	80
+1224	M03645_2.00	Pdp1	Cis-BP	74
+1225	M03646_2.00	Pdp1	Cis-BP	74
+1226	M03647_2.00	Xbp1	Cis-BP	81
+1227	M03648_2.00	Atf3	Cis-BP	62
+1228	M03649_2.00	CG18619	Cis-BP	
+1229	M03650_2.00	Atf6	Cis-BP	63
+1230	M03651_2.00	Atf6	Cis-BP	63
+1231	M03652_2.00	Atf6	Cis-BP	63
+1232	M06024_2.00	Atf6	Cis-BP	63
+1233	M03653_2.00	CG7786	Cis-BP	64
+1234	M06025_2.00	CG6272	Cis-BP	
+1235	M06026_2.00	CG6272	Cis-BP	
+1236	M03654_2.00	cnc_1	Cis-BP	65
+1237	M03655_2.00	cnc_2	Cis-BP	65
+1238	M03656_2.00	cnc_3	Cis-BP	65
+1239	M08189_2.00	Mf3	Cis-BP	
+1240	M03657_2.00	Atf-2	Cis-BP	61
+1241	M03658_2.00	Atf-2	Cis-BP	61
+1242	M06027_2.00	Atf-2	Cis-BP	61
+1243	M03659_2.00	CrebB-17A	Cis-BP	68
+1244	M03660_2.00	CrebB-17A	Cis-BP	68
+1245	M10097_2.00	BRC1_DROME	Cis-BP	89
+1246	M06028_2.00	br	Cis-BP	89
+1247	M06029_2.00	br	Cis-BP	89
+1248	M06030_2.00	br	Cis-BP	89
+1249	M06031_2.00	br	Cis-BP	89
+1250	M06032_2.00	br	Cis-BP	89
+1251	M06033_2.00	br	Cis-BP	89
+1252	M06034_2.00	br	Cis-BP	89
+1253	M06035_2.00	br	Cis-BP	89
+1254	M06036_2.00	br	Cis-BP	89
+1255	M08446_2.00	br	Cis-BP	89
+1256	M08447_2.00	br	Cis-BP	89
+1257	M08448_2.00	br	Cis-BP	89
+1258	M08449_2.00	br	Cis-BP	89
+1259	M10365_2.00	br	Cis-BP	89
+1260	M10366_2.00	br	Cis-BP	89
+1261	M10367_2.00	br	Cis-BP	89
+1262	M03661_2.00	btd	Cis-BP	91
+1263	M06037_2.00	btd	Cis-BP	91
+1264	M06466_2.00	btd	Cis-BP	91
+1265	M02670_2.00	Cf2	Cis-BP	95
+1266	M06038_2.00	Cf2	Cis-BP	95
+1267	M06039_2.00	Cf2	Cis-BP	95
+1268	M06040_2.00	Cf2	Cis-BP	95
+1269	M10368_2.00	Cf2	Cis-BP	95
+1270	M10369_2.00	Cf2	Cis-BP	95
+1271	M06041_2.00	hb	Cis-BP	267
+1272	M06042_2.00	hb	Cis-BP	267
+1273	M06043_2.00	hb	Cis-BP	267
+1274	M06044_2.00	hb	Cis-BP	267
+1275	M08450_2.00	hb	Cis-BP	267
+1276	M09660_2.00	hb	Cis-BP	267
+1277	M10370_2.00	hb	Cis-BP	267
+1278	M03662_2.00	her	Cis-BP	268
+1279	M06045_2.00	her	Cis-BP	268
+1280	M06046_2.00	her	Cis-BP	268
+1281	M03663_2.00	Kr	Cis-BP	278
+1282	M06047_2.00	Kr	Cis-BP	278
+1283	M06048_2.00	Kr	Cis-BP	278
+1284	M06049_2.00	Kr	Cis-BP	278
+1285	M08411_2.00	Kr	Cis-BP	278
+1286	M09661_2.00	Kr	Cis-BP	278
+1287	M10371_2.00	Kr	Cis-BP	278
+1288	M06050_2.00	esg	Cis-BP	260
+1289	M03664_2.00	wor	Cis-BP	347
+1290	M03665_2.00	wor	Cis-BP	347
+1291	M06051_2.00	wor	Cis-BP	347
+1292	M06052_2.00	wor	Cis-BP	347
+1293	M06053_2.00	pho	Cis-BP	307
+1294	M06054_2.00	pho	Cis-BP	307
+1295	M06055_2.00	pho	Cis-BP	307
+1296	M03666_2.00	sens	Cis-BP	321
+1297	M06056_2.00	sens	Cis-BP	321
+1298	M06057_2.00	sens	Cis-BP	321
+1299	M03667_2.00	odd	Cis-BP	299
+1300	M06058_2.00	odd	Cis-BP	299
+1301	M06059_2.00	odd	Cis-BP	299
+1302	M06060_2.00	odd	Cis-BP	299
+1303	M06061_2.00	odd	Cis-BP	299
+1304	M06467_2.00	odd	Cis-BP	299
+1305	M03668_2.00	opa	Cis-BP	301
+1306	M05861_2.00	opa	Cis-BP	301
+1307	M06062_2.00	opa	Cis-BP	301
+1308	M06063_2.00	opa	Cis-BP	301
+1309	M06468_2.00	opa	Cis-BP	301
+1310	M02671_2.00	ovo	Cis-BP	304
+1311	M03669_2.00	ovo	Cis-BP	304
+1312	M06064_2.00	ovo	Cis-BP	304
+1313	M06065_2.00	ovo	Cis-BP	304
+1314	M06066_2.00	ovo	Cis-BP	304
+1315	M09662_2.00	ovo	Cis-BP	304
+1316	M10373_2.00	ovo	Cis-BP	304
+1317	M03582_2.00	peb	Cis-BP	306
+1318	M03583_2.00	peb	Cis-BP	306
+1319	M06067_2.00	peb	Cis-BP	306
+1320	M06068_2.00	shn	Cis-BP	324
+1321	M09663_2.00	shn	Cis-BP	324
+1322	M03670_2.00	sna	Cis-BP	325
+1323	M05862_2.00	sna	Cis-BP	325
+1324	M06069_2.00	sna	Cis-BP	325
+1325	M06070_2.00	sna	Cis-BP	325
+1326	M06071_2.00	sna	Cis-BP	325
+1327	M09664_2.00	sna	Cis-BP	325
+1328	M10375_2.00	sna	Cis-BP	325
+1329	M10376_2.00	sna	Cis-BP	325
+1330	M06072_2.00	sr	Cis-BP	330
+1331	M06073_2.00	sr	Cis-BP	330
+1332	M08412_2.00	su(Hw)	Cis-BP	334
+1333	M05863_2.00	ttk	Cis-BP	343
+1334	M06074_2.00	ttk	Cis-BP	343
+1335	M06075_2.00	ttk	Cis-BP	343
+1336	M06076_2.00	ttk	Cis-BP	343
+1337	M06077_2.00	ttk	Cis-BP	343
+1338	M06469_2.00	ttk	Cis-BP	343
+1339	M09665_2.00	ttk	Cis-BP	343
+1340	M10378_2.00	ttk	Cis-BP	343
+1341	M03671_2.00	gl	Cis-BP	262
+1342	M06078_2.00	gl	Cis-BP	262
+1343	M06079_2.00	gl	Cis-BP	262
+1344	M06080_2.00	gl	Cis-BP	262
+1345	M06081_2.00	fru	Cis-BP	261
+1346	M06082_2.00	fru	Cis-BP	261
+1347	M06083_2.00	fru	Cis-BP	261
+1348	M02644_2.00	ci	Cis-BP	242
+1349	M03672_2.00	ci	Cis-BP	242
+1350	M06084_2.00	ci	Cis-BP	242
+1351	M03673_2.00	scrt	Cis-BP	320
+1352	M06085_2.00	scrt	Cis-BP	320
+1353	M06086_2.00	scrt	Cis-BP	320
+1354	M06087_2.00	scrt	Cis-BP	320
+1355	M03674_2.00	sob	Cis-BP	326
+1356	M03675_2.00	sob	Cis-BP	326
+1357	M06088_2.00	sob	Cis-BP	326
+1358	M06089_2.00	sob	Cis-BP	326
+1359	M03676_2.00	bowl	Cis-BP	88
+1360	M03677_2.00	bowl	Cis-BP	88
+1361	M06090_2.00	bowl	Cis-BP	88
+1362	M06091_2.00	lola	Cis-BP	283
+1363	M06092_2.00	lola	Cis-BP	283
+1364	M06093_2.00	lola	Cis-BP	283
+1365	M06094_2.00	lola	Cis-BP	283
+1366	M06095_2.00	lola	Cis-BP	283
+1367	M06096_2.00	lola	Cis-BP	283
+1368	M06097_2.00	lola	Cis-BP	283
+1369	M06098_2.00	lola	Cis-BP	283
+1370	M06099_2.00	lola	Cis-BP	283
+1371	M06100_2.00	lola	Cis-BP	283
+1372	M06101_2.00	lola	Cis-BP	283
+1373	M06102_2.00	lola	Cis-BP	283
+1374	M06103_2.00	lola	Cis-BP	283
+1375	M06104_2.00	lola	Cis-BP	283
+1376	M06105_2.00	lola	Cis-BP	283
+1377	M06106_2.00	lola	Cis-BP	283
+1378	M03678_2.00	Aef1	Cis-BP	83
+1379	M06107_2.00	Aef1	Cis-BP	83
+1380	M06108_2.00	Aef1	Cis-BP	83
+1381	M06109_2.00	sqz	Cis-BP	329
+1382	M06110_2.00	sqz	Cis-BP	329
+1383	M06111_2.00	ken	Cis-BP	274
+1384	M06112_2.00	ken	Cis-BP	274
+1385	M03679_2.00	Trl	Cis-BP	341
+1386	M06113_2.00	Trl	Cis-BP	341
+1387	M07541_2.00	Trl	Cis-BP	341
+1388	M03680_2.00	klu	Cis-BP	276
+1389	M03681_2.00	klu	Cis-BP	276
+1390	M06114_2.00	klu	Cis-BP	276
+1391	M06115_2.00	klu	Cis-BP	276
+1392	M06116_2.00	crol	Cis-BP	246
+1393	M03682_2.00	Sp1	Cis-BP	327
+1394	M06117_2.00	Sp1	Cis-BP	327
+1395	M06118_2.00	Sp1	Cis-BP	327
+1396	M06119_2.00	D19B	Cis-BP	249
+1397	M06120_2.00	D19A	Cis-BP	248
+1398	M03683_2.00	Bteb2	Cis-BP	275
+1399	M06121_2.00	Bteb2	Cis-BP	275
+1400	M06122_2.00	Bteb2	Cis-BP	275
+1401	M06123_2.00	jim	Cis-BP	271
+1402	M06124_2.00	jim	Cis-BP	271
+1403	M03684_2.00	seq	Cis-BP	323
+1404	M03685_2.00	seq	Cis-BP	323
+1405	M06125_2.00	CG12236	Cis-BP	181
+1406	M06126_2.00	CG12236	Cis-BP	181
+1407	M06127_2.00	CG12236	Cis-BP	181
+1408	M03686_2.00	erm	Cis-BP	259
+1409	M06128_2.00	erm	Cis-BP	259
+1410	M06129_2.00	erm	Cis-BP	259
+1411	M06130_2.00	CG3407	Cis-BP	116
+1412	M06131_2.00	CG3407	Cis-BP	116
+1413	M01043_2.00	Clamp	Cis-BP	244
+1414	M01044_2.00	Clamp	Cis-BP	244
+1415	M03687_2.00	CG12769	Cis-BP	186
+1416	M03688_2.00	sug	Cis-BP	335
+1417	M06132_2.00	sug	Cis-BP	335
+1418	M06133_2.00	sug	Cis-BP	335
+1419	M03689_2.00	pita	Cis-BP	310
+1420	M06134_2.00	CG3065	Cis-BP	114
+1421	M06135_2.00	CG3065	Cis-BP	114
+1422	M06136_2.00	CG3065	Cis-BP	114
+1423	M03690_2.00	Kah	Cis-BP	273
+1424	M06137_2.00	Kah	Cis-BP	273
+1425	M06138_2.00	Kah	Cis-BP	273
+1426	M03691_2.00	CG12605	Cis-BP	184
+1427	M06139_2.00	CG12605	Cis-BP	184
+1428	M06140_2.00	CG12605	Cis-BP	184
+1429	M03692_2.00	Blimp-1	Cis-BP	87
+1430	M06141_2.00	Blimp-1	Cis-BP	87
+1431	M06142_2.00	Blimp-1	Cis-BP	87
+1432	M06143_2.00	CG7386	Cis-BP	141
+1433	M08193_2.00	CTCF	Cis-BP	247
+1434	M08194_2.00	CTCF	Cis-BP	247
+1435	M08413_2.00	CTCF	Cis-BP	247
+1436	M06144_2.00	phol	Cis-BP	308
+1437	M06145_2.00	phol	Cis-BP	308
+1438	M06146_2.00	CG7368	Cis-BP	140
+1439	M06147_2.00	CG7368	Cis-BP	140
+1440	M03693_2.00	CG10654	Cis-BP	166
+1441	M03694_2.00	CG14667	Cis-BP	195
+1442	M06148_2.00	Zif	Cis-BP	351
+1443	M06149_2.00	Zif	Cis-BP	351
+1444	M03695_2.00	CG8145	Cis-BP	
+1445	M03696_2.00	CG8145	Cis-BP	
+1446	M03697_2.00	CG8145	Cis-BP	
+1447	M03698_2.00	CG8319	Cis-BP	148
+1448	M06150_2.00	CG8319	Cis-BP	148
+1449	M06151_2.00	CG8319	Cis-BP	148
+1450	M06152_2.00	pad	Cis-BP	305
+1451	M06153_2.00	pad	Cis-BP	305
+1452	M03699_2.00	CG17802	Cis-BP	215
+1453	M03700_2.00	CG4424	Cis-BP	123
+1454	M06154_2.00	CG4854	Cis-BP	128
+1455	M06155_2.00	CG4854	Cis-BP	128
+1456	M03701_2.00	CG4360	Cis-BP	121
+1457	M06156_2.00	CG4360	Cis-BP	121
+1458	M00564_2.00	lmd	Cis-BP	282
+1459	M03702_2.00	lmd	Cis-BP	282
+1460	M06157_2.00	lmd	Cis-BP	282
+1461	M06158_2.00	lmd	Cis-BP	282
+1462	M06159_2.00	Spps	Cis-BP	328
+1463	M06160_2.00	Spps	Cis-BP	328
+1464	M03703_2.00	CG7928	Cis-BP	
+1465	M06161_2.00	CG7928	Cis-BP	
+1466	M06162_2.00	CG7928	Cis-BP	
+1467	M03704_2.00	luna	Cis-BP	284
+1468	M06163_2.00	luna	Cis-BP	284
+1469	M06164_2.00	luna	Cis-BP	284
+1470	M03705_2.00	cbt	Cis-BP	94
+1471	M03706_2.00	cbt	Cis-BP	94
+1472	M03707_2.00	CG12219	Cis-BP	180
+1473	M03708_2.00	CG12219	Cis-BP	180
+1474	M03709_2.00	CG31388	Cis-BP	228
+1475	M06165_2.00	sens-2	Cis-BP	322
+1476	M06166_2.00	vfl	Cis-BP	353
+1477	M06167_2.00	vfl	Cis-BP	353
+1478	M03710_2.00	hkb	Cis-BP	269
+1479	M06168_2.00	hkb	Cis-BP	269
+1480	M06470_2.00	hkb	Cis-BP	269
+1481	M09666_2.00	hkb	Cis-BP	269
+1482	M06169_2.00	CG42741	Cis-BP	236
+1483	M06170_2.00	CG42741	Cis-BP	236
+1484	M03711_2.00	CG2052	Cis-BP	
+1485	M06171_2.00	dar1	Cis-BP	250
+1486	M06172_2.00	dar1	Cis-BP	250
+1487	M06173_2.00	ab	Cis-BP	82
+1488	M06174_2.00	ab	Cis-BP	82
+1489	M06175_2.00	ab	Cis-BP	82
+1490	M06176_2.00	ab	Cis-BP	82
+1491	M06177_2.00	l(3)neo38	Cis-BP	280
+1492	M06178_2.00	l(3)neo38	Cis-BP	280
+1493	M06179_2.00	mamo	Cis-BP	286
+1494	M03712_2.00	rn	Cis-BP	317
+1495	M06180_2.00	rn	Cis-BP	317
+1496	M06181_2.00	rn	Cis-BP	317
+1497	M06182_2.00	Q8IP13_DROME	Cis-BP	
+1498	M00650_2.00	CG43689	Cis-BP	238
+1499	M08104_2.00	Nf-YA	Cis-BP	354
+1500	M01897_2.00	danr	Cis-BP	586
+1501	M01896_2.00	dan	Cis-BP	585
+1502	M04661_2.00	yps	Cis-BP	
+1503	M03713_2.00	lin-28	Cis-BP	
+1504	M08455_2.00	Su(H)	Cis-BP	545
+1505	M10415_2.00	Su(H)	Cis-BP	545
+1506	M06471_2.00	ct	Cis-BP	357
+1507	M03716_2.00	onecut	Cis-BP	359
+1508	M03717_2.00	onecut	Cis-BP	359
+1509	M06472_2.00	onecut	Cis-BP	359
+1510	M01907_2.00	Kdm2	Cis-BP	
+1511	M06183_2.00	dsx	Cis-BP	363
+1512	M06184_2.00	dsx	Cis-BP	363
+1513	M01931_2.00	dmrt11E	Cis-BP	360
+1514	M03718_2.00	dmrt93B	Cis-BP	361
+1515	M03719_2.00	dmrt93B	Cis-BP	361
+1516	M01211_2.00	dmrt99B	Cis-BP	362
+1517	M01935_2.00	dmrt99B	Cis-BP	362
+1518	M03720_2.00	dmrt99B	Cis-BP	362
+1519	M08108_2.00	Dp	Cis-BP	364
+1520	M08196_2.00	E2f	Cis-BP	365
+1521	M01225_2.00	E2f2	Cis-BP	366
+1522	M03721_2.00	kn	Cis-BP	36
+1523	M03722_2.00	aop	Cis-BP	367
+1524	M06185_2.00	aop	Cis-BP	367
+1525	M02679_2.00	Eip74EF	Cis-BP	368
+1526	M03723_2.00	Eip74EF	Cis-BP	368
+1527	M03724_2.00	Eip74EF	Cis-BP	368
+1528	M06186_2.00	Eip74EF	Cis-BP	368
+1529	M06187_2.00	Eip74EF	Cis-BP	368
+1530	M09667_2.00	Eip74EF	Cis-BP	368
+1531	M10521_2.00	Eip74EF	Cis-BP	368
+1532	M03725_2.00	pnt	Cis-BP	374
+1533	M06188_2.00	pnt	Cis-BP	374
+1534	M06189_2.00	Ets97D	Cis-BP	372
+1535	M03726_2.00	Ets65A	Cis-BP	370
+1536	M06190_2.00	Ets65A	Cis-BP	370
+1537	M03727_2.00	Ets98B	Cis-BP	373
+1538	M03728_2.00	Ets98B	Cis-BP	373
+1539	M03729_2.00	Ets98B	Cis-BP	373
+1540	M03730_2.00	Ets98B	Cis-BP	373
+1541	M03731_2.00	Ets98B	Cis-BP	373
+1542	M06191_2.00	Ets98B	Cis-BP	373
+1543	M01972_2.00	Ets21C	Cis-BP	369
+1544	M03732_2.00	Ets21C	Cis-BP	369
+1545	M06192_2.00	Ets21C	Cis-BP	369
+1546	M03733_2.00	Ets96B	Cis-BP	371
+1547	M06193_2.00	Ets96B	Cis-BP	371
+1548	M03734_2.00	fkh	Cis-BP	386
+1549	M03735_2.00	fkh	Cis-BP	386
+1550	M06194_2.00	fkh	Cis-BP	386
+1551	M06473_2.00	fkh	Cis-BP	386
+1552	M08200_2.00	fkh	Cis-BP	386
+1553	M09668_2.00	fkh	Cis-BP	386
+1554	M01986_2.00	slp1	Cis-BP	392
+1555	M03736_2.00	slp1	Cis-BP	392
+1556	M03737_2.00	slp1	Cis-BP	392
+1557	M06195_2.00	slp1	Cis-BP	392
+1558	M06474_2.00	slp1	Cis-BP	392
+1559	M09669_2.00	slp1	Cis-BP	392
+1560	M03738_2.00	slp2	Cis-BP	393
+1561	M06196_2.00	slp2	Cis-BP	393
+1562	M06197_2.00	fd64A	Cis-BP	388
+1563	M03739_2.00	fd59A	Cis-BP	382
+1564	M03740_2.00	fd59A	Cis-BP	382
+1565	M03741_2.00	fd59A	Cis-BP	382
+1566	M03742_2.00	fd59A	Cis-BP	382
+1567	M03743_2.00	fd96Ca	Cis-BP	383
+1568	M03743_2.00	fd96Cb	Cis-BP	384
+1569	M03744_2.00	croc	Cis-BP	379
+1570	M10571_2.00	croc	Cis-BP	379
+1571	M01012_2.00	jumu	Cis-BP	391
+1572	M01013_2.00	CHES-1-like	Cis-BP	377
+1573	M03745_2.00	CHES-1-like	Cis-BP	377
+1574	M03746_2.00	CHES-1-like	Cis-BP	377
+1575	M03747_2.00	CHES-1-like	Cis-BP	377
+1576	M03748_2.00	CHES-1-like	Cis-BP	377
+1577	M03749_2.00	CHES-1-like	Cis-BP	377
+1578	M03738_2.00	fd19B	Cis-BP	381
+1579	M00163_2.00	fd68A	Cis-BP	387
+1580	M06198_2.00	foxo	Cis-BP	389
+1581	M03750_2.00	fd102C	Cis-BP	385
+1582	M03751_2.00	fd102C	Cis-BP	385
+1583	M03752_2.00	bin	Cis-BP	375
+1584	M06199_2.00	bin	Cis-BP	375
+1585	M06200_2.00	bin	Cis-BP	375
+1586	M03753_2.00	FoxP	Cis-BP	390
+1587	M06201_2.00	FoxP	Cis-BP	390
+1588	M06202_2.00	FoxP	Cis-BP	390
+1589	M06203_2.00	FoxP	Cis-BP	390
+1590	M03754_2.00	grn	Cis-BP	396
+1591	M03755_2.00	grn	Cis-BP	396
+1592	M03756_2.00	grn	Cis-BP	396
+1593	M03757_2.00	pnr	Cis-BP	397
+1594	M03758_2.00	pnr	Cis-BP	397
+1595	M06204_2.00	pnr	Cis-BP	397
+1596	M08204_2.00	pnr	Cis-BP	397
+1597	M08418_2.00	pnr	Cis-BP	397
+1598	M03759_2.00	srp	Cis-BP	398
+1599	M03760_2.00	srp	Cis-BP	398
+1600	M06205_2.00	srp	Cis-BP	398
+1601	M06206_2.00	srp	Cis-BP	398
+1602	M09670_2.00	srp	Cis-BP	398
+1603	M06207_2.00	GATAd	Cis-BP	394
+1604	M03761_2.00	GATAe	Cis-BP	395
+1605	M03762_2.00	GATAe	Cis-BP	395
+1606	M03763_2.00	GATAe	Cis-BP	395
+1607	M06208_2.00	GATAe	Cis-BP	395
+1608	M03764_2.00	gcm	Cis-BP	399
+1609	M03765_2.00	gcm	Cis-BP	399
+1610	M03766_2.00	gcm	Cis-BP	399
+1611	M10605_2.00	gcm	Cis-BP	399
+1612	M02026_2.00	gcm2	Cis-BP	400
+1613	M03767_2.00	gcm2	Cis-BP	400
+1614	M03768_2.00	gcm2	Cis-BP	400
+1615	M03769_2.00	gem	Cis-BP	529
+1616	M06209_2.00	grh	Cis-BP	530
+1617	M10616_2.00	grh	Cis-BP	530
+1618	M03770_2.00	abd-A	Cis-BP	425
+1619	M03771_2.00	abd-A	Cis-BP	425
+1620	M06210_2.00	abd-A	Cis-BP	425
+1621	M06475_2.00	abd-A	Cis-BP	425
+1622	M09671_2.00	abd-A	Cis-BP	425
+1623	M00554_2.00	Abd-B	Cis-BP	426
+1624	M03772_2.00	Abd-B	Cis-BP	426
+1625	M03773_2.00	Abd-B	Cis-BP	426
+1626	M03774_2.00	Abd-B	Cis-BP	426
+1627	M03775_2.00	Abd-B	Cis-BP	426
+1628	M06211_2.00	Abd-B	Cis-BP	426
+1629	M06476_2.00	Abd-B	Cis-BP	426
+1630	M09672_2.00	Abd-B	Cis-BP	426
+1631	M10779_2.00	Abd-B	Cis-BP	426
+1632	M03776_2.00	al	Cis-BP	560
+1633	M06212_2.00	al	Cis-BP	560
+1634	M06213_2.00	al	Cis-BP	560
+1635	M06477_2.00	al	Cis-BP	560
+1636	M06214_2.00	ap	Cis-BP	442
+1637	M06215_2.00	ap	Cis-BP	442
+1638	M06216_2.00	ap	Cis-BP	442
+1639	M06478_2.00	ap	Cis-BP	442
+1640	M02112_2.00	Dll	Cis-BP	468
+1641	M03777_2.00	Dll	Cis-BP	468
+1642	M03778_2.00	Dll	Cis-BP	468
+1643	M06217_2.00	Dll	Cis-BP	468
+1644	M06218_2.00	Dll	Cis-BP	468
+1645	M06479_2.00	Dll	Cis-BP	468
+1646	M03779_2.00	bcd	Cis-BP	428
+1647	M05872_2.00	bcd	Cis-BP	428
+1648	M06219_2.00	bcd	Cis-BP	428
+1649	M06220_2.00	bcd	Cis-BP	428
+1650	M06221_2.00	bcd	Cis-BP	428
+1651	M06222_2.00	bcd	Cis-BP	428
+1652	M06480_2.00	bcd	Cis-BP	428
+1653	M09673_2.00	bcd	Cis-BP	428
+1654	M10782_2.00	bcd	Cis-BP	428
+1655	M03780_2.00	cad	Cis-BP	430
+1656	M03781_2.00	cad	Cis-BP	430
+1657	M03782_2.00	cad	Cis-BP	430
+1658	M03783_2.00	cad	Cis-BP	430
+1659	M06223_2.00	cad	Cis-BP	430
+1660	M06224_2.00	cad	Cis-BP	430
+1661	M06225_2.00	cad	Cis-BP	430
+1662	M08420_2.00	cad	Cis-BP	430
+1663	M09580_2.00	cad	Cis-BP	430
+1664	M09674_2.00	cad	Cis-BP	430
+1665	M03784_2.00	Dfd	Cis-BP	431
+1666	M03785_2.00	Dfd	Cis-BP	431
+1667	M06226_2.00	Dfd	Cis-BP	431
+1668	M06227_2.00	Dfd	Cis-BP	431
+1669	M06228_2.00	Dfd	Cis-BP	431
+1670	M06481_2.00	Dfd	Cis-BP	431
+1671	M09675_2.00	Dfd	Cis-BP	431
+1672	M10784_2.00	Dfd	Cis-BP	431
+1673	M00555_2.00	Dr	Cis-BP	469
+1674	M06229_2.00	Dr	Cis-BP	469
+1675	M06230_2.00	Dr	Cis-BP	469
+1676	M06482_2.00	Dr	Cis-BP	469
+1677	M02113_2.00	bsh	Cis-BP	461
+1678	M03786_2.00	bsh	Cis-BP	461
+1679	M03787_2.00	bsh	Cis-BP	461
+1680	M03788_2.00	bsh	Cis-BP	461
+1681	M06231_2.00	bsh	Cis-BP	461
+1682	M06232_2.00	bsh	Cis-BP	461
+1683	M06483_2.00	bsh	Cis-BP	461
+1684	M02114_2.00	ems	Cis-BP	471
+1685	M03789_2.00	ems	Cis-BP	471
+1686	M03790_2.00	ems	Cis-BP	471
+1687	M03791_2.00	ems	Cis-BP	471
+1688	M03792_2.00	ems	Cis-BP	471
+1689	M06233_2.00	ems	Cis-BP	471
+1690	M06234_2.00	ems	Cis-BP	471
+1691	M06235_2.00	ems	Cis-BP	471
+1692	M06484_2.00	ems	Cis-BP	471
+1693	M09676_2.00	ems	Cis-BP	471
+1694	M03793_2.00	en	Cis-BP	472
+1695	M06236_2.00	en	Cis-BP	472
+1696	M06237_2.00	en	Cis-BP	472
+1697	M06238_2.00	en	Cis-BP	472
+1698	M06239_2.00	en	Cis-BP	472
+1699	M06485_2.00	en	Cis-BP	472
+1700	M09677_2.00	en	Cis-BP	472
+1701	M00556_2.00	eve	Cis-BP	432
+1702	M02115_2.00	eve	Cis-BP	432
+1703	M03794_2.00	eve	Cis-BP	432
+1704	M06240_2.00	eve	Cis-BP	432
+1705	M06241_2.00	eve	Cis-BP	432
+1706	M06242_2.00	eve	Cis-BP	432
+1707	M06486_2.00	eve	Cis-BP	432
+1708	M09678_2.00	eve	Cis-BP	432
+1709	M06243_2.00	exd	Cis-BP	613
+1710	M06244_2.00	exd	Cis-BP	613
+1711	M06245_2.00	exd	Cis-BP	613
+1712	M06246_2.00	exd	Cis-BP	613
+1713	M06487_2.00	exd	Cis-BP	613
+1714	M03795_2.00	ftz	Cis-BP	433
+1715	M06247_2.00	ftz	Cis-BP	433
+1716	M06248_2.00	ftz	Cis-BP	433
+1717	M06249_2.00	ftz	Cis-BP	433
+1718	M06488_2.00	ftz	Cis-BP	433
+1719	M09679_2.00	ftz	Cis-BP	433
+1720	M10787_2.00	ftz	Cis-BP	433
+1721	M06250_2.00	H2.0	Cis-BP	474
+1722	M06251_2.00	H2.0	Cis-BP	474
+1723	M06489_2.00	H2.0	Cis-BP	474
+1724	M06252_2.00	hth	Cis-BP	614
+1725	M06253_2.00	hth	Cis-BP	614
+1726	M06254_2.00	hth	Cis-BP	614
+1727	M06490_2.00	hth	Cis-BP	614
+1728	M06255_2.00	inv	Cis-BP	478
+1729	M06256_2.00	inv	Cis-BP	478
+1730	M06257_2.00	inv	Cis-BP	478
+1731	M06491_2.00	inv	Cis-BP	478
+1732	M02116_2.00	Lim3	Cis-BP	446
+1733	M03796_2.00	Lim3	Cis-BP	446
+1734	M06258_2.00	Lim3	Cis-BP	446
+1735	M06259_2.00	Lim3	Cis-BP	446
+1736	M06492_2.00	Lim3	Cis-BP	446
+1737	M03797_2.00	lab	Cis-BP	435
+1738	M06260_2.00	lab	Cis-BP	435
+1739	M06261_2.00	lab	Cis-BP	435
+1740	M06493_2.00	lab	Cis-BP	435
+1741	M00557_2.00	slou	Cis-BP	484
+1742	M03798_2.00	slou	Cis-BP	484
+1743	M06262_2.00	slou	Cis-BP	484
+1744	M06263_2.00	slou	Cis-BP	484
+1745	M06494_2.00	slou	Cis-BP	484
+1746	M06264_2.00	ro	Cis-BP	437
+1747	M06265_2.00	ro	Cis-BP	437
+1748	M06495_2.00	ro	Cis-BP	437
+1749	M03799_2.00	Scr	Cis-BP	438
+1750	M06266_2.00	Scr	Cis-BP	438
+1751	M06267_2.00	Scr	Cis-BP	438
+1752	M06496_2.00	Scr	Cis-BP	438
+1753	M02117_2.00	so	Cis-BP	608
+1754	M03800_2.00	so	Cis-BP	608
+1755	M03801_2.00	so	Cis-BP	608
+1756	M03802_2.00	so	Cis-BP	608
+1757	M03803_2.00	so	Cis-BP	608
+1758	M06268_2.00	so	Cis-BP	608
+1759	M06269_2.00	so	Cis-BP	608
+1760	M06497_2.00	so	Cis-BP	608
+1761	M06270_2.00	tup	Cis-BP	448
+1762	M06271_2.00	tup	Cis-BP	448
+1763	M06272_2.00	tup	Cis-BP	448
+1764	M06498_2.00	tup	Cis-BP	448
+1765	M00558_2.00	Ubx	Cis-BP	439
+1766	M03804_2.00	Ubx	Cis-BP	439
+1767	M06273_2.00	Ubx	Cis-BP	439
+1768	M06274_2.00	Ubx	Cis-BP	439
+1769	M06275_2.00	Ubx	Cis-BP	439
+1770	M06499_2.00	Ubx	Cis-BP	439
+1771	M09680_2.00	Ubx	Cis-BP	439
+1772	M10788_2.00	Ubx	Cis-BP	439
+1773	M03805_2.00	zen	Cis-BP	440
+1774	M06276_2.00	zen	Cis-BP	440
+1775	M06277_2.00	zen	Cis-BP	440
+1776	M06278_2.00	zen	Cis-BP	440
+1777	M06500_2.00	zen	Cis-BP	440
+1778	M02118_2.00	zen2	Cis-BP	441
+1779	M03806_2.00	zen2	Cis-BP	441
+1780	M03807_2.00	zen2	Cis-BP	441
+1781	M06279_2.00	zen2	Cis-BP	441
+1782	M06280_2.00	zen2	Cis-BP	441
+1783	M06281_2.00	zen2	Cis-BP	441
+1784	M06501_2.00	zen2	Cis-BP	441
+1785	M03808_2.00	oc	Cis-BP	568
+1786	M06282_2.00	oc	Cis-BP	568
+1787	M06283_2.00	oc	Cis-BP	568
+1788	M06502_2.00	oc	Cis-BP	568
+1789	M09681_2.00	oc	Cis-BP	568
+1790	M00559_2.00	tin	Cis-BP	485
+1791	M03809_2.00	tin	Cis-BP	485
+1792	M06284_2.00	tin	Cis-BP	485
+1793	M06285_2.00	tin	Cis-BP	485
+1794	M06286_2.00	tin	Cis-BP	485
+1795	M08421_2.00	tin	Cis-BP	485
+1796	M03810_2.00	B-H2	Cis-BP	460
+1797	M03811_2.00	B-H2	Cis-BP	460
+1798	M06503_2.00	B-H2	Cis-BP	460
+1799	M00560_2.00	bap	Cis-BP	458
+1800	M02119_2.00	bap	Cis-BP	458
+1801	M03812_2.00	bap	Cis-BP	458
+1802	M06287_2.00	bap	Cis-BP	458
+1803	M06288_2.00	bap	Cis-BP	458
+1804	M06504_2.00	bap	Cis-BP	458
+1805	M06289_2.00	C15	Cis-BP	462
+1806	M06290_2.00	C15	Cis-BP	462
+1807	M06505_2.00	C15	Cis-BP	462
+1808	M03813_2.00	hbn	Cis-BP	567
+1809	M06291_2.00	hbn	Cis-BP	567
+1810	M06292_2.00	hbn	Cis-BP	567
+1811	M06506_2.00	hbn	Cis-BP	567
+1812	M03814_2.00	E5	Cis-BP	470
+1813	M06293_2.00	E5	Cis-BP	470
+1814	M06294_2.00	E5	Cis-BP	470
+1815	M06507_2.00	E5	Cis-BP	470
+1816	M00561_2.00	lbl	Cis-BP	480
+1817	M03815_2.00	lbl	Cis-BP	480
+1818	M03816_2.00	lbl	Cis-BP	480
+1819	M06295_2.00	lbl	Cis-BP	480
+1820	M06296_2.00	lbl	Cis-BP	480
+1821	M06508_2.00	lbl	Cis-BP	480
+1822	M02120_2.00	Gsc	Cis-BP	566
+1823	M03817_2.00	Gsc	Cis-BP	566
+1824	M03818_2.00	Gsc	Cis-BP	566
+1825	M03819_2.00	Gsc	Cis-BP	566
+1826	M03820_2.00	Gsc	Cis-BP	566
+1827	M03821_2.00	Gsc	Cis-BP	566
+1828	M05873_2.00	Gsc	Cis-BP	566
+1829	M06297_2.00	Gsc	Cis-BP	566
+1830	M06298_2.00	Gsc	Cis-BP	566
+1831	M06509_2.00	Gsc	Cis-BP	566
+1832	M03822_2.00	lbe	Cis-BP	479
+1833	M03823_2.00	lbe	Cis-BP	479
+1834	M03824_2.00	lbe	Cis-BP	479
+1835	M03825_2.00	lbe	Cis-BP	479
+1836	M06299_2.00	lbe	Cis-BP	479
+1837	M06300_2.00	lbe	Cis-BP	479
+1838	M06510_2.00	lbe	Cis-BP	479
+1839	M03826_2.00	repo	Cis-BP	574
+1840	M03827_2.00	repo	Cis-BP	574
+1841	M03828_2.00	repo	Cis-BP	574
+1842	M06301_2.00	repo	Cis-BP	574
+1843	M06302_2.00	repo	Cis-BP	574
+1844	M06511_2.00	repo	Cis-BP	574
+1845	M03829_2.00	B-H1	Cis-BP	459
+1846	M03830_2.00	B-H1	Cis-BP	459
+1847	M06512_2.00	B-H1	Cis-BP	459
+1848	M02121_2.00	Awh	Cis-BP	443
+1849	M03831_2.00	Awh	Cis-BP	443
+1850	M06303_2.00	Awh	Cis-BP	443
+1851	M06304_2.00	Awh	Cis-BP	443
+1852	M06513_2.00	Awh	Cis-BP	443
+1853	M06305_2.00	mirr	Cis-BP	615
+1854	M06306_2.00	mirr	Cis-BP	615
+1855	M06514_2.00	mirr	Cis-BP	615
+1856	M03832_2.00	btn	Cis-BP	429
+1857	M03833_2.00	btn	Cis-BP	429
+1858	M06307_2.00	btn	Cis-BP	429
+1859	M06308_2.00	btn	Cis-BP	429
+1860	M06515_2.00	btn	Cis-BP	429
+1861	M03834_2.00	otp	Cis-BP	570
+1862	M03835_2.00	otp	Cis-BP	570
+1863	M06309_2.00	otp	Cis-BP	570
+1864	M06310_2.00	otp	Cis-BP	570
+1865	M06516_2.00	otp	Cis-BP	570
+1866	M03836_2.00	unpg	Cis-BP	486
+1867	M06311_2.00	unpg	Cis-BP	486
+1868	M06312_2.00	unpg	Cis-BP	486
+1869	M06517_2.00	unpg	Cis-BP	486
+1870	M06313_2.00	ara	Cis-BP	610
+1871	M06314_2.00	ara	Cis-BP	610
+1872	M06518_2.00	ara	Cis-BP	610
+1873	M06315_2.00	caup	Cis-BP	611
+1874	M06316_2.00	caup	Cis-BP	611
+1875	M06519_2.00	caup	Cis-BP	611
+1876	M02122_2.00	dve	Cis-BP	358
+1877	M03837_2.00	dve	Cis-BP	358
+1878	M03838_2.00	dve	Cis-BP	358
+1879	M03839_2.00	dve	Cis-BP	358
+1880	M03840_2.00	Rx	Cis-BP	575
+1881	M03841_2.00	Rx	Cis-BP	575
+1882	M06317_2.00	Rx	Cis-BP	575
+1883	M06318_2.00	Rx	Cis-BP	575
+1884	M06520_2.00	Rx	Cis-BP	575
+1885	M00562_2.00	Ptx1	Cis-BP	573
+1886	M02123_2.00	Ptx1	Cis-BP	573
+1887	M03842_2.00	Ptx1	Cis-BP	573
+1888	M03843_2.00	Ptx1	Cis-BP	573
+1889	M03844_2.00	Ptx1	Cis-BP	573
+1890	M06319_2.00	Ptx1	Cis-BP	573
+1891	M06320_2.00	Ptx1	Cis-BP	573
+1892	M06521_2.00	Ptx1	Cis-BP	573
+1893	M03845_2.00	Pph13	Cis-BP	572
+1894	M06321_2.00	Pph13	Cis-BP	572
+1895	M06322_2.00	Pph13	Cis-BP	572
+1896	M06522_2.00	Pph13	Cis-BP	572
+1897	M03846_2.00	unc-4	Cis-BP	576
+1898	M06523_2.00	unc-4	Cis-BP	576
+1899	M03847_2.00	NK7.1	Cis-BP	482
+1900	M03848_2.00	NK7.1	Cis-BP	482
+1901	M06323_2.00	NK7.1	Cis-BP	482
+1902	M06324_2.00	NK7.1	Cis-BP	482
+1903	M06524_2.00	NK7.1	Cis-BP	482
+1904	M03849_2.00	PHDP	Cis-BP	571
+1905	M06325_2.00	PHDP	Cis-BP	571
+1906	M06326_2.00	PHDP	Cis-BP	571
+1907	M06525_2.00	PHDP	Cis-BP	571
+1908	M02124_2.00	Optix	Cis-BP	606
+1909	M03850_2.00	Optix	Cis-BP	606
+1910	M06327_2.00	Optix	Cis-BP	606
+1911	M06328_2.00	Optix	Cis-BP	606
+1912	M06526_2.00	Optix	Cis-BP	606
+1913	M06329_2.00	ind	Cis-BP	434
+1914	M06527_2.00	ind	Cis-BP	434
+1915	M03851_2.00	OdsH	Cis-BP	569
+1916	M03852_2.00	OdsH	Cis-BP	569
+1917	M06330_2.00	OdsH	Cis-BP	569
+1918	M06331_2.00	OdsH	Cis-BP	569
+1919	M06528_2.00	OdsH	Cis-BP	569
+1920	M03853_2.00	Lim1	Cis-BP	445
+1921	M06332_2.00	Lim1	Cis-BP	445
+1922	M06333_2.00	Lim1	Cis-BP	445
+1923	M06529_2.00	Lim1	Cis-BP	445
+1924	M00563_2.00	Six4	Cis-BP	607
+1925	M06334_2.00	Six4	Cis-BP	607
+1926	M06335_2.00	Six4	Cis-BP	607
+1927	M06336_2.00	Six4	Cis-BP	607
+1928	M06530_2.00	Six4	Cis-BP	607
+1929	M03854_2.00	scro	Cis-BP	483
+1930	M03855_2.00	CG11294	Cis-BP	562
+1931	M03856_2.00	CG11294	Cis-BP	562
+1932	M06337_2.00	CG11294	Cis-BP	562
+1933	M06338_2.00	CG11294	Cis-BP	562
+1934	M06531_2.00	CG11294	Cis-BP	562
+1935	M03857_2.00	CG11085	Cis-BP	463
+1936	M03858_2.00	CG11085	Cis-BP	463
+1937	M06339_2.00	CG11085	Cis-BP	463
+1938	M06340_2.00	CG11085	Cis-BP	463
+1939	M06532_2.00	CG11085	Cis-BP	463
+1940	M06341_2.00	CG11617	Cis-BP	612
+1941	M06342_2.00	CG11617	Cis-BP	612
+1942	M06533_2.00	CG11617	Cis-BP	612
+1943	M03859_2.00	vis	Cis-BP	616
+1944	M06343_2.00	vis	Cis-BP	616
+1945	M06344_2.00	vis	Cis-BP	616
+1946	M06534_2.00	vis	Cis-BP	616
+1947	M03860_2.00	achi	Cis-BP	609
+1948	M03861_2.00	achi	Cis-BP	609
+1949	M03862_2.00	achi	Cis-BP	609
+1950	M06345_2.00	achi	Cis-BP	609
+1951	M06346_2.00	achi	Cis-BP	609
+1952	M06535_2.00	achi	Cis-BP	609
+1953	M03863_2.00	lms	Cis-BP	481
+1954	M03864_2.00	lms	Cis-BP	481
+1955	M06347_2.00	lms	Cis-BP	481
+1956	M06348_2.00	lms	Cis-BP	481
+1957	M06349_2.00	lms	Cis-BP	481
+1958	M06536_2.00	lms	Cis-BP	481
+1959	M03865_2.00	CG9876	Cis-BP	561
+1960	M03866_2.00	CG9876	Cis-BP	561
+1961	M03867_2.00	CG9876	Cis-BP	561
+1962	M03868_2.00	CG9876	Cis-BP	561
+1963	M06350_2.00	CG9876	Cis-BP	561
+1964	M06351_2.00	CG9876	Cis-BP	561
+1965	M06537_2.00	CG9876	Cis-BP	561
+1966	M06352_2.00	CG4328	Cis-BP	444
+1967	M06353_2.00	CG4328	Cis-BP	444
+1968	M06538_2.00	CG4328	Cis-BP	444
+1969	M06354_2.00	CG18599	Cis-BP	465
+1970	M06355_2.00	CG18599	Cis-BP	465
+1971	M06539_2.00	CG18599	Cis-BP	465
+1972	M02125_2.00	CG15696	Cis-BP	464
+1973	M06356_2.00	CG15696	Cis-BP	464
+1974	M06357_2.00	CG15696	Cis-BP	464
+1975	M06540_2.00	CG15696	Cis-BP	464
+1976	M06358_2.00	HHEX	Cis-BP	476
+1977	M06359_2.00	HHEX	Cis-BP	476
+1978	M06541_2.00	HHEX	Cis-BP	476
+1979	M03869_2.00	HGTX	Cis-BP	475
+1980	M03870_2.00	HGTX	Cis-BP	475
+1981	M06360_2.00	HGTX	Cis-BP	475
+1982	M06361_2.00	HGTX	Cis-BP	475
+1983	M06542_2.00	HGTX	Cis-BP	475
+1984	M06362_2.00	schlank	Cis-BP	
+1985	M06363_2.00	schlank	Cis-BP	
+1986	M06543_2.00	schlank	Cis-BP	
+1987	M03871_2.00	exex	Cis-BP	473
+1988	M06364_2.00	exex	Cis-BP	473
+1989	M06365_2.00	exex	Cis-BP	473
+1990	M06544_2.00	exex	Cis-BP	473
+1991	M03872_2.00	pb	Cis-BP	436
+1992	M06366_2.00	pb	Cis-BP	436
+1993	M06367_2.00	pb	Cis-BP	436
+1994	M06545_2.00	pb	Cis-BP	436
+1995	M03873_2.00	CG32105	Cis-BP	
+1996	M06368_2.00	CG32105	Cis-BP	
+1997	M06369_2.00	CG32105	Cis-BP	
+1998	M06546_2.00	CG32105	Cis-BP	
+1999	M03874_2.00	CG32532	Cis-BP	563
+2000	M06370_2.00	CG32532	Cis-BP	563
+2001	M06371_2.00	CG32532	Cis-BP	563
+2002	M06547_2.00	CG32532	Cis-BP	563
+2003	M02126_2.00	CG34031	Cis-BP	466
+2004	M06372_2.00	CG34031	Cis-BP	466
+2005	M06373_2.00	CG34031	Cis-BP	466
+2006	M06548_2.00	CG34031	Cis-BP	466
+2007	M03875_2.00	CG2808	Cis-BP	
+2008	M03876_2.00	CG5369	Cis-BP	
+2009	M03877_2.00	CG5369	Cis-BP	
+2010	M03878_2.00	CG5369	Cis-BP	
+2011	M06374_2.00	Antp	Cis-BP	427
+2012	M06375_2.00	Antp	Cis-BP	427
+2013	M06376_2.00	Antp	Cis-BP	427
+2014	M06549_2.00	Antp	Cis-BP	427
+2015	M09682_2.00	Antp	Cis-BP	427
+2016	M02127_2.00	pdm3	Cis-BP	595
+2017	M02128_2.00	Dbx	Cis-BP	467
+2018	M06550_2.00	Dbx	Cis-BP	467
+2019	M06377_2.00	vnd	Cis-BP	487
+2020	M06378_2.00	vnd	Cis-BP	487
+2021	M06379_2.00	vnd	Cis-BP	487
+2022	M06551_2.00	vnd	Cis-BP	487
+2023	M09683_2.00	vnd	Cis-BP	487
+2024	M02129_2.00	Vsx1	Cis-BP	577
+2025	M03879_2.00	Vsx1	Cis-BP	577
+2026	M06380_2.00	Vsx1	Cis-BP	577
+2027	M06381_2.00	Vsx1	Cis-BP	577
+2028	M06552_2.00	Vsx1	Cis-BP	577
+2029	M02130_2.00	Vsx2	Cis-BP	578
+2030	M03880_2.00	Vsx2	Cis-BP	578
+2031	M03881_2.00	Vsx2	Cis-BP	578
+2032	M06382_2.00	Vsx2	Cis-BP	578
+2033	M06383_2.00	Vsx2	Cis-BP	578
+2034	M06384_2.00	Vsx2	Cis-BP	578
+2035	M06385_2.00	Vsx2	Cis-BP	578
+2036	M06553_2.00	Vsx2	Cis-BP	578
+2037	M03882_2.00	Hmx	Cis-BP	477
+2038	M06386_2.00	Hmx	Cis-BP	477
+2039	M06387_2.00	Hmx	Cis-BP	477
+2040	M06554_2.00	Hmx	Cis-BP	477
+2041	M02126_2.00	Q2PE40_DROME	Cis-BP	
+2042	M03887_2.00	eyg	Cis-BP	554
+2043	M03888_2.00	gsb-n	Cis-BP	556
+2044	M03889_2.00	gsb	Cis-BP	555
+2045	M03890_2.00	gsb	Cis-BP	555
+2046	M03891_2.00	gsb	Cis-BP	555
+2047	M03892_2.00	gsb	Cis-BP	555
+2048	M03893_2.00	gsb	Cis-BP	555
+2049	M03894_2.00	prd	Cis-BP	557
+2050	M03895_2.00	prd	Cis-BP	557
+2051	M06555_2.00	prd	Cis-BP	557
+2052	M09684_2.00	prd	Cis-BP	557
+2053	M03896_2.00	ey	Cis-BP	553
+2054	M03897_2.00	ey	Cis-BP	553
+2055	M03898_2.00	ey	Cis-BP	553
+2056	M03899_2.00	toy	Cis-BP	559
+2057	M03900_2.00	toy	Cis-BP	559
+2058	M03901_2.00	toy	Cis-BP	559
+2059	M03902_2.00	toe	Cis-BP	558
+2060	M03903_2.00	toe	Cis-BP	558
+2061	M02241_2.00	acj6	Cis-BP	592
+2062	M03904_2.00	pdm2	Cis-BP	594
+2063	M03905_2.00	pdm2	Cis-BP	594
+2064	M03906_2.00	nub	Cis-BP	593
+2065	M06556_2.00	nub	Cis-BP	593
+2066	M09685_2.00	nub	Cis-BP	593
+2067	M03907_2.00	vvl	Cis-BP	596
+2068	M07542_2.00	vvl	Cis-BP	596
+2069	M03908_2.00	Hsf	Cis-BP	531
+2070	M03909_2.00	Hsf	Cis-BP	531
+2071	M03910_2.00	Hsf	Cis-BP	531
+2072	M03911_2.00	Hsf	Cis-BP	531
+2073	M06388_2.00	Hsf	Cis-BP	531
+2074	M10869_2.00	Hsf	Cis-BP	531
+2075	M10870_2.00	Hsf	Cis-BP	531
+2076	M10871_2.00	Hsf	Cis-BP	531
+2077	M10872_2.00	Hsf	Cis-BP	531
+2078	M10873_2.00	Hsf	Cis-BP	531
+2079	M03912_2.00	Adf1	Cis-BP	449
+2080	M06389_2.00	Adf1	Cis-BP	449
+2081	M06390_2.00	Adf1	Cis-BP	449
+2082	M10899_2.00	Adf1	Cis-BP	449
+2083	M06391_2.00	CG12155	Cis-BP	
+2084	M06392_2.00	CG4404	Cis-BP	
+2085	M06393_2.00	CG15601	Cis-BP	
+2086	M06394_2.00	CG3838	Cis-BP	
+2087	M06395_2.00	CG5953	Cis-BP	
+2088	M06396_2.00	CG7745	Cis-BP	
+2089	M03913_2.00	hng1	Cis-BP	
+2090	M06397_2.00	hng1	Cis-BP	
+2091	M06398_2.00	CG10904	Cis-BP	
+2092	M06399_2.00	hng3	Cis-BP	
+2093	M06400_2.00	CG8281	Cis-BP	
+2094	M06401_2.00	CG3919	Cis-BP	
+2095	M06402_2.00	CG8765	Cis-BP	
+2096	M06403_2.00	CG12768	Cis-BP	
+2097	M06404_2.00	Mes2	Cis-BP	
+2098	M06405_2.00	CG6276	Cis-BP	
+2099	M06406_2.00	jigr1	Cis-BP	
+2100	M06407_2.00	CG11504	Cis-BP	
+2101	M03914_2.00	Dip3	Cis-BP	450
+2102	M06408_2.00	Dip3	Cis-BP	450
+2103	M06409_2.00	CG5180	Cis-BP	
+2104	M06410_2.00	Coop	Cis-BP	
+2105	M03915_2.00	bs	Cis-BP	456
+2106	M03916_2.00	bs	Cis-BP	456
+2107	M08214_2.00	Mef2	Cis-BP	457
+2108	M03917_2.00	egg	Cis-BP	
+2109	M03918_2.00	Myb	Cis-BP	604
+2110	M03919_2.00	Myb	Cis-BP	604
+2111	M03920_2.00	Myb	Cis-BP	604
+2112	M03921_2.00	Myb	Cis-BP	604
+2113	M08215_2.00	Myb	Cis-BP	604
+2114	M06411_2.00	z	Cis-BP	459
+2115	M07543_2.00	z	Cis-BP	459
+2116	M09686_2.00	z	Cis-BP	459
+2117	M11049_2.00	Cdc5	Cis-BP	
+2118	M03922_2.00	stc	Cis-BP	544
+2119	M02406_2.00	Hr46	Cis-BP	
+2120	M03926_2.00	Hr46	Cis-BP	
+2121	M06412_2.00	Hr46	Cis-BP	
+2122	M06413_2.00	Hr46	Cis-BP	
+2123	M06414_2.00	EcR	Cis-BP	493
+2124	M03927_2.00	eg	Cis-BP	510
+2125	M06415_2.00	eg	Cis-BP	510
+2126	M03928_2.00	Eip75B	Cis-BP	494
+2127	M03929_2.00	Eip75B	Cis-BP	494
+2128	M06416_2.00	Eip75B	Cis-BP	494
+2129	M02407_2.00	ftz-f1	Cis-BP	497
+2130	M06417_2.00	ftz-f1	Cis-BP	497
+2131	M06418_2.00	ftz-f1	Cis-BP	497
+2132	M06419_2.00	kni	Cis-BP	511
+2133	M06420_2.00	kni	Cis-BP	511
+2134	M06421_2.00	kni	Cis-BP	511
+2135	M06557_2.00	kni	Cis-BP	511
+2136	M08225_2.00	kni	Cis-BP	511
+2137	M09687_2.00	kni	Cis-BP	511
+2138	M03930_2.00	knrl	Cis-BP	512
+2139	M03931_2.00	knrl	Cis-BP	512
+2140	M06422_2.00	knrl	Cis-BP	512
+2141	M06423_2.00	svp	Cis-BP	507
+2142	M02408_2.00	tll	Cis-BP	508
+2143	M03932_2.00	tll	Cis-BP	508
+2144	M03933_2.00	tll	Cis-BP	508
+2145	M06424_2.00	tll	Cis-BP	508
+2146	M06425_2.00	tll	Cis-BP	508
+2147	M06558_2.00	tll	Cis-BP	508
+2148	M09688_2.00	tll	Cis-BP	508
+2149	M02709_2.00	usp	Cis-BP	509
+2150	M03934_2.00	usp	Cis-BP	509
+2151	M06426_2.00	usp	Cis-BP	509
+2152	M09689_2.00	usp	Cis-BP	509
+2153	M11191_2.00	usp	Cis-BP	509
+2154	M11192_2.00	usp	Cis-BP	509
+2155	M06427_2.00	Eip78C	Cis-BP	495
+2156	M03935_2.00	Hnf4	Cis-BP	498
+2157	M03936_2.00	Hnf4	Cis-BP	498
+2158	M03937_2.00	Hnf4	Cis-BP	498
+2159	M03938_2.00	Hnf4	Cis-BP	498
+2160	M06428_2.00	Hnf4	Cis-BP	498
+2161	M06429_2.00	Hnf4	Cis-BP	498
+2162	M03939_2.00	Hr38	Cis-BP	501
+2163	M06430_2.00	Hr78	Cis-BP	504
+2164	M03940_2.00	Hr96	Cis-BP	506
+2165	M06431_2.00	dsf	Cis-BP	492
+2166	M06432_2.00	Hr51	Cis-BP	503
+2167	M03941_2.00	ERR	Cis-BP	496
+2168	M06433_2.00	ERR	Cis-BP	496
+2169	M06434_2.00	Hr83	Cis-BP	505
+2170	M03942_2.00	Hr39	Cis-BP	502
+2171	M03943_2.00	Hr39	Cis-BP	502
+2172	M06435_2.00	Hr4	Cis-BP	500
+2173	M03944_2.00	Poxm	Cis-BP	550
+2174	M03945_2.00	Poxm	Cis-BP	550
+2175	M06436_2.00	Poxm	Cis-BP	550
+2176	M03946_2.00	Poxn	Cis-BP	551
+2177	M03947_2.00	Poxn	Cis-BP	551
+2178	M03948_2.00	Poxn	Cis-BP	551
+2179	M06437_2.00	Poxn	Cis-BP	551
+2180	M01302_2.00	sv	Cis-BP	552
+2181	M03949_2.00	sv	Cis-BP	552
+2182	M06438_2.00	sv	Cis-BP	552
+2183	M03950_2.00	rib	Cis-BP	591
+2184	M06439_2.00	rib	Cis-BP	591
+2185	M06440_2.00	bab1	Cis-BP	579
+2186	M06441_2.00	bab1	Cis-BP	579
+2187	M09690_2.00	bab1	Cis-BP	579
+2188	M06440_2.00	bab2	Cis-BP	580
+2189	M06442_2.00	pfk	Cis-BP	584
+2190	M03951_2.00	BtbVII	Cis-BP	581
+2191	M03952_2.00	BtbVII	Cis-BP	581
+2192	M06443_2.00	Eip93F	Cis-BP	588
+2193	M03953_2.00	Dif	Cis-BP	488
+2194	M03954_2.00	Dif	Cis-BP	488
+2195	M03955_2.00	Dif	Cis-BP	488
+2196	M03956_2.00	Dif	Cis-BP	488
+2197	M03957_2.00	Rel	Cis-BP	490
+2198	M03958_2.00	Rel	Cis-BP	490
+2199	M02712_2.00	dl	Cis-BP	489
+2200	M02713_2.00	dl	Cis-BP	489
+2201	M09691_2.00	dl	Cis-BP	489
+2202	M11243_2.00	dl	Cis-BP	489
+2203	M11244_2.00	dl	Cis-BP	489
+2204	M03959_2.00	Rfx	Cis-BP	540
+2205	M03960_2.00	Rfx	Cis-BP	540
+2206	M03961_2.00	Rfx	Cis-BP	540
+2207	M03962_2.00	Rfx	Cis-BP	540
+2208	M03963_2.00	Rfx	Cis-BP	540
+2209	M00187_2.00	CG9727	Cis-BP	516
+2210	M03964_2.00	lz	Cis-BP	598
+2211	M03965_2.00	lz	Cis-BP	598
+2212	M03966_2.00	lz	Cis-BP	598
+2213	M03967_2.00	lz	Cis-BP	598
+2214	M06444_2.00	run	Cis-BP	599
+2215	M02751_2.00	RunxA	Cis-BP	600
+2216	M03964_2.00	RunxB	Cis-BP	601
+2217	M06445_2.00	Deaf1	Cis-BP	523
+2218	M07544_2.00	Deaf1	Cis-BP	523
+2219	M06446_2.00	Mad	Cis-BP	452
+2220	M08427_2.00	Mad	Cis-BP	452
+2221	M09692_2.00	Mad	Cis-BP	452
+2222	M06447_2.00	Med	Cis-BP	453
+2223	M09693_2.00	Med	Cis-BP	453
+2224	M03968_2.00	NfI	Cis-BP	454
+2225	M03969_2.00	D	Cis-BP	406
+2226	M03970_2.00	D	Cis-BP	406
+2227	M06448_2.00	D	Cis-BP	406
+2228	M06559_2.00	D	Cis-BP	406
+2229	M09694_2.00	D	Cis-BP	406
+2230	M03971_2.00	Sox14	Cis-BP	414
+2231	M03972_2.00	Sox14	Cis-BP	414
+2232	M06449_2.00	Sox14	Cis-BP	414
+2233	M03973_2.00	Sox15	Cis-BP	415
+2234	M03974_2.00	Sox15	Cis-BP	415
+2235	M06450_2.00	Sox15	Cis-BP	415
+2236	M02490_2.00	HmgZ	Cis-BP	410
+2237	M03975_2.00	bbx	Cis-BP	402
+2238	M00826_2.00	Sox100B	Cis-BP	418
+2239	M03976_2.00	SoxN	Cis-BP	420
+2240	M03977_2.00	SoxN	Cis-BP	420
+2241	M03978_2.00	Sox21a	Cis-BP	416
+2242	M03979_2.00	Sox21a	Cis-BP	416
+2243	M11336_2.00	TFAM	Cis-BP	422
+2244	M03980_2.00	CG7045	Cis-BP	
+2245	M03980_2.00	CG7046	Cis-BP	
+2246	M03981_2.00	Sox102F	Cis-BP	419
+2247	M03982_2.00	Sox102F	Cis-BP	419
+2248	M03983_2.00	Sox21b	Cis-BP	417
+2249	M06451_2.00	pan	Cis-BP	412
+2250	M08428_2.00	pan	Cis-BP	412
+2251	M11337_2.00	pan	Cis-BP	412
+2252	M06452_2.00	cic	Cis-BP	405
+2253	M08430_2.00	Stat92E	Cis-BP	543
+2254	M11372_2.00	Stat92E	Cis-BP	543
+2255	M01029_2.00	bi	Cis-BP	617
+2256	M03984_2.00	byn	Cis-BP	618
+2257	M03985_2.00	byn	Cis-BP	618
+2258	M03986_2.00	byn	Cis-BP	618
+2259	M03987_2.00	byn	Cis-BP	618
+2260	M06453_2.00	byn	Cis-BP	618
+2261	M03994_2.00	H15	Cis-BP	622
+2262	M03988_2.00	org-1	Cis-BP	624
+2263	M03989_2.00	org-1	Cis-BP	624
+2264	M03990_2.00	Doc1	Cis-BP	619
+2265	M03990_2.00	Doc3	Cis-BP	621
+2266	M03991_2.00	Doc3	Cis-BP	621
+2267	M03992_2.00	Doc2	Cis-BP	620
+2268	M03993_2.00	Doc2	Cis-BP	620
+2269	M06454_2.00	Doc2	Cis-BP	620
+2270	M03994_2.00	mid	Cis-BP	623
+2271	M00216_2.00	Tbp	Cis-BP	
+2272	M02529_2.00	tomb	Cis-BP	
+2273	M02529_2.00	mip120	Cis-BP	
+2274	M03995_2.00	sd	Cis-BP	625
+2275	M03996_2.00	sd	Cis-BP	625
+2276	M06455_2.00	sd	Cis-BP	625
+2277	M07545_2.00	sd	Cis-BP	625
+2278	M03997_2.00	CG14860	Cis-BP	627
+2279	M03998_2.00	CG14860	Cis-BP	627
+2280	M03999_2.00	ash2	Cis-BP	
+2281	M06456_2.00	disco	Cis-BP	253
+2282	M06457_2.00	disco	Cis-BP	253
+2283	M06458_2.00	Bgb	Cis-BP	
+2284	M04000_2.00	CG7818	Cis-BP	
+2285	M04001_2.00	YL-1	Cis-BP	
+2286	M04002_2.00	YL-1	Cis-BP	
+2287	M04003_2.00	YL-1	Cis-BP	
+2288	M04004_2.00	YL-1	Cis-BP	
+2289	M04005_2.00	maf-S	Cis-BP	73
+2290	M06459_2.00	Asciz	Cis-BP	84
+2291	M06460_2.00	Asciz	Cis-BP	84
+2292	M04006_2.00	CG4956	Cis-BP	
+2293	M06461_2.00	disco-r	Cis-BP	254
+2294	M04007_2.00	Chrac-14	Cis-BP	
+2295	M06462_2.00	sima	Cis-BP	51

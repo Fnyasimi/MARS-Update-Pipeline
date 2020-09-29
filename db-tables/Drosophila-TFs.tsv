@@ -1,0 +1,631 @@
+1	retn	dri, dead ringer, l(2)02535, Dead Ringer/Retain	ARID-TF
+2	ac	Hw, T5, AS-C T5, EG:125H10.3, achaete-scute	BHLH
+3	amos	Tft, Roi	BHLH
+4	ase	T1a, EG:165H7.2, T8, AS-C T8	BHLH
+5	ato	-	BHLH
+6	bigmax	mlx	BHLH
+7	cato	-	BHLH
+8	CG33557	-	BHLH
+9	Clk	dClk, dClock, Jrk	BHLH
+10	crp	dAP-4, l(2)35Fd, BG:DS02740.3, AP-4	BHLH
+11	cwo	-	BHLH
+12	cyc	dbmal1, Bmal1, dCYC	BHLH
+13	da	-	BHLH
+14	dimm	Mistr, c929	BHLH
+15	dpn	44C	BHLH
+16	dysf	dys, cranky, dNXFL	BHLH
+17	E(spl)m3-HLH	m3, E(spl)m3, HLHm3, E(spl)C m3, E(spl)-m3	BHLH
+18	E(spl)m5-HLH	m5, E(spl)m5, HLHm5, HLH-m5, E(spl) region transcript m5	BHLH
+19	E(spl)m7-HLH	m7, E(spl)m7, HLHm7, E(spl) region transcript m7, E(spl)-m7	BHLH
+20	E(spl)m8-HLH	m8, E(spl)m8, E(spl), Enhancer of split, E(spl)-m8	BHLH
+21	E(spl)mβ-HLH	E(spl)mβ, mβ, HLHmβ, HLHmbeta, E(spl)mbeta	BHLH
+22	E(spl)mδ-HLH	mδ, E(spl)mδ, HLHmdelta, HLHmδ, E(spl)mdelta	BHLH
+23	E(spl)mγ-HLH	mγ, E(spl)mγ, HLHmγ, HLHmgamma, E(spl) region transcript mγ	BHLH
+24	emc	ms(3)61CD, l(3)05592, extramacrochaete, gov, Ach	BHLH
+25	Fer1	-	BHLH
+26	Fer2	-	BHLH
+27	Fer3	nephew of atonal 3	BHLH
+28	gce	germ-cell expressed, Germ cell-expressed	BHLH
+29	h	l(3)08247	BHLH
+30	Hand	dHand, hand-C	BHLH
+31	Hesr	Her	BHLH
+32	Hey	Hesr-1	BHLH
+33	HLH3B	EG:155E2.2	BHLH
+34	HLH4C	-	BHLH
+35	HLH54F	bHLH54F	BHLH
+36	kn	col, collier, knotted, collier/knot	BHLH
+37	l(1)sc	l'sc, T3, AS-C T3, lsc, EG:198A6.2	BHLH
+38	Max	dMax	BHLH
+39	Met	Rst(1)JH, Resistance to Juvenile Hormone, DmMet	BHLH
+40	Mitf	TFEB	BHLH
+41	Mnt	dMnt, dMad, Mad, Mad-3E, EG:114E2.2	BHLH
+42	Mondo	Mio, ChREBP, Mlx interactor	BHLH
+43	Myc	dMyc, dm, diminutive, d-myc, dmyc1	BHLH
+44	nau	MyoD, Dmyd	BHLH
+45	net	-	BHLH
+46	Oli	Doli	BHLH
+47	sage	-	BHLH
+48	sc	sis-b, sisB, T4, Hw, DROACS2	BHLH
+49	Sidpn	Side	BHLH
+50	sim	S8, l(3)S8, shm	BHLH
+51	sima	HIF-1α, l(3)j11B7, HIF-1, HIF1A, Hif1α	BHLH
+52	SREBP	dSREBP, HLH106, l(3)76BDw, SREBF1, Helix loop helix protein 106	BHLH
+53	ss	aristapedia	BHLH
+54	tai	l(2)01351, l(2)k05809, DAIB1, l(2)k05802	BHLH
+55	tap	biparous, bps	BHLH
+56	tgo	dARNT, ARNT, jaywalker, HIF-1	BHLH
+57	trh	l(3)10512	BHLH
+58	twi	-	BHLH
+59	tx	dei, delilah, del	BHLH
+60	Usf	dUSF	BHLH
+61	Atf-2	ATF2, dATF-2, dATF2	BZIP
+62	Atf3	A3-3, EG:33C11.1, dATF3	BZIP
+63	Atf6	-	BZIP
+64	CG7786	-	BZIP
+65	cnc	Nrf2, CncC, cap and collar, Cap 'n' collar, l(3)03921	BZIP
+66	crc	ATF4, l(2)crc, dATF4, ATF-4	BZIP
+67	CrebA	dCREB-A, CREB, BBF-2, dCREBA, Creb-A	BZIP
+68	CrebB	dCREB2, CREB, CrebB-17A, dCREB2-b, dCREB2-a	BZIP
+69	gt	EG:BACH7M4.5	BZIP
+70	Irbp18	-	BZIP
+71	Jra	jun, Djun, D-Jun, AP-1, c-Jun	BZIP
+72	kay	Fos, Dfos, AP-1, D-Fos, AP1	BZIP
+73	maf-S	maf2	BZIP
+74	Pdp1	Pdp1ε, pdp, Pdp-1, Pdp1e, Par domain protein 1ε	BZIP
+75	REPTOR	-	BZIP
+76	REPTOR-BP	-	BZIP
+77	sisA	sis-a, sis a	BZIP
+78	slbo	C/EBP, DmC/EBP, slobo	BZIP
+79	tj	maf1	BZIP
+80	vri	jf23	BZIP
+81	Xbp1	l(2)k13803, xbp-1	BZIP
+82	ab	clu, clueless	ZF-C2H2
+83	Aef1	AEF-1	ZF-C2H2
+84	Asciz	dASCIZ	ZF-C2H2
+85	ATbp	-	ZF-C2H2
+86	az2	-	ZF-C2H2
+87	Blimp-1	dBlimp-1, dBlimp1	ZF-C2H2
+88	bowl	bowel, Su(tor)2-1	ZF-C2H2
+89	br	BR-C, Broad Complex, ecs, rbp, npr1	ZF-C2H2
+90	Br140	-	ZF-C2H2
+91	btd	-	ZF-C2H2
+92	BuGZ	lincRNA.S1359, Dm_2L:87597	ZF-C2H2
+93	cas	ming, l(3)neo33	ZF-C2H2
+94	cbt	EP2237, dTIEG	ZF-C2H2
+95	Cf2	-	ZF-C2H2
+96	cg	mig, l(2)07659	ZF-C2H2
+97	CG1024	-	ZF-C2H2
+98	CG1233	-	ZF-C2H2
+99	CG1529	-	ZF-C2H2
+100	CG1602	-	ZF-C2H2
+101	CG1603	-	ZF-C2H2
+102	CG1647	-	ZF-C2H2
+103	CG1663	-	ZF-C2H2
+104	CG1792	-	ZF-C2H2
+105	CG2116	-	ZF-C2H2
+106	CG2120	-	ZF-C2H2
+107	CG2129	-	ZF-C2H2
+108	CG2199	-	ZF-C2H2
+109	CG2202	-	ZF-C2H2
+110	CG2678	-	ZF-C2H2
+111	CG2712	EG:95B7.7, anon-3Be	ZF-C2H2
+112	CG2889	-	ZF-C2H2
+113	CG3032	-	ZF-C2H2
+114	CG3065	-	ZF-C2H2
+115	CG3281	anon-87Aa, 87A7-9/1	ZF-C2H2
+116	CG3407	-	ZF-C2H2
+117	CG3847	-	ZF-C2H2
+118	CG3995	-	ZF-C2H2
+119	CG4282	-	ZF-C2H2
+120	CG4318	-	ZF-C2H2
+121	CG4360	-	ZF-C2H2
+122	CG4374	-	ZF-C2H2
+123	CG4424	-	ZF-C2H2
+124	CG4496	-	ZF-C2H2
+125	CG4707	-	ZF-C2H2
+126	CG4730	-	ZF-C2H2
+127	CG4820	-	ZF-C2H2
+128	CG4854	-	ZF-C2H2
+129	CG4936	-	ZF-C2H2
+130	CG5245	-	ZF-C2H2
+131	CG6254	-	ZF-C2H2
+132	CG6654	-	ZF-C2H2
+133	CG6689	-	ZF-C2H2
+134	CG6765	-	ZF-C2H2
+135	CG6791	-	ZF-C2H2
+136	CG6808	-	ZF-C2H2
+137	CG6813	-	ZF-C2H2
+138	CG7101	-	ZF-C2H2
+139	CG7271	-	ZF-C2H2
+140	CG7368	-	ZF-C2H2
+141	CG7386	-	ZF-C2H2
+142	CG7691	-	ZF-C2H2
+143	CG7963	-	ZF-C2H2
+144	CG7987	-	ZF-C2H2
+145	CG8089	-	ZF-C2H2
+146	CG8159	-	ZF-C2H2
+147	CG8301	-	ZF-C2H2
+148	CG8319	-	ZF-C2H2
+149	CG8388	-	ZF-C2H2
+150	CG8478	-	ZF-C2H2
+151	CG8944	-	ZF-C2H2
+152	CG9215	-	ZF-C2H2
+153	CG9609	-	ZF-C2H2
+154	CG9650	-	ZF-C2H2
+155	CG9890	-	ZF-C2H2
+156	CG9932	-	ZF-C2H2
+157	CG10147	-	ZF-C2H2
+158	CG10274	-	ZF-C2H2
+159	CG10321	-	ZF-C2H2
+160	CG10348	lincRNA.186	ZF-C2H2
+161	CG10366	-	ZF-C2H2
+162	CG10431	-	ZF-C2H2
+163	CG10462	-	ZF-C2H2
+164	CG10543	-	ZF-C2H2
+165	CG10631	-	ZF-C2H2
+166	CG10654	-	ZF-C2H2
+167	CG10669	-	ZF-C2H2
+168	CG10959	-	ZF-C2H2
+169	CG10979	-	ZF-C2H2
+170	CG11247	-	ZF-C2H2
+171	CG11398	EG:BACR42I17.11	ZF-C2H2
+172	CG11456	-	ZF-C2H2
+173	CG11560	-	ZF-C2H2
+174	CG11695	-	ZF-C2H2
+175	CG11696	-	ZF-C2H2
+176	CG11902	-	ZF-C2H2
+177	CG11906	-	ZF-C2H2
+178	CG12054	-	ZF-C2H2
+179	CG12071	-	ZF-C2H2
+180	CG12219	BEST:LD26135	ZF-C2H2
+181	CG12236	-	ZF-C2H2
+182	CG12299	-	ZF-C2H2
+183	CG12391	-	ZF-C2H2
+184	CG12605	-	ZF-C2H2
+185	CG12744	-	ZF-C2H2
+186	CG12769	-	ZF-C2H2
+187	CG12942	-	ZF-C2H2
+188	CG13123	-	ZF-C2H2
+189	CG13287	-	ZF-C2H2
+190	CG13617	-	ZF-C2H2
+191	CG13775	-	ZF-C2H2
+192	CG14050	EG:BACH48C10.1	ZF-C2H2
+193	CG14441	-	ZF-C2H2
+194	CG14655	-	ZF-C2H2
+195	CG14667	-	ZF-C2H2
+196	CG14710	-	ZF-C2H2
+197	CG14711	-	ZF-C2H2
+198	CG15073	-	ZF-C2H2
+199	CG15269	BG:DS04929.3	ZF-C2H2
+200	CG15336	-	ZF-C2H2
+201	CG15435	-	ZF-C2H2
+202	CG15436	-	ZF-C2H2
+203	CG15514	-	ZF-C2H2
+204	CG15710	-	ZF-C2H2
+205	CG16779	-	ZF-C2H2
+206	CG16863	BG:DS00797.6	ZF-C2H2
+207	CG17186	-	ZF-C2H2
+208	CG17328	BG:DS02740.8, DS02740.8	ZF-C2H2
+209	CG17359	-	ZF-C2H2
+210	CG17361	-	ZF-C2H2
+211	CG17385	-	ZF-C2H2
+212	CG17568	-	ZF-C2H2
+213	CG17612	-	ZF-C2H2
+214	CG17801	-	ZF-C2H2
+215	CG17802	-	ZF-C2H2
+216	CG17803	-	ZF-C2H2
+217	CG17806	-	ZF-C2H2
+218	CG17829	EG:115C2.6	ZF-C2H2
+219	CG18011	-	ZF-C2H2
+220	CG18262	-	ZF-C2H2
+221	CG18265	-	ZF-C2H2
+222	CG18476	-	ZF-C2H2
+223	CG18764	-	ZF-C2H2
+224	CG30020	p190	ZF-C2H2
+225	CG30431	-	ZF-C2H2
+226	CG31224	-	ZF-C2H2
+227	CG31365	-	ZF-C2H2
+228	CG31388	-	ZF-C2H2
+229	CG31441	-	ZF-C2H2
+230	CG31612	-	ZF-C2H2
+231	CG32121	-	ZF-C2H2
+232	CG32767	-	ZF-C2H2
+233	CG33213	-	ZF-C2H2
+234	CG34376	-	ZF-C2H2
+235	CG42726	-	ZF-C2H2
+236	CG42741	-	ZF-C2H2
+237	CG43347	-	ZF-C2H2
+238	CG43689	-	ZF-C2H2
+239	CG44002	-	ZF-C2H2
+240	chinmo	-	ZF-C2H2
+241	chn	l(2)02064	ZF-C2H2
+242	ci	l(4)17, ciD, CID, ci-D, l(4)13	ZF-C2H2
+243	CkIIα-i1	-	ZF-C2H2
+244	Clamp	-	ZF-C2H2
+245	Cp190	Rb188, DMAP190, Cen190, CP-190, Bx63	ZF-C2H2
+246	crol	-	ZF-C2H2
+247	CTCF	dCTCF, CCCTC-binding factor	ZF-C2H2
+248	D19A	-	ZF-C2H2
+249	D19B	-	ZF-C2H2
+250	dar1	-	ZF-C2H2
+251	dati	Lin29	ZF-C2H2
+252	dbr	EP456, BcDNA:LD26519	ZF-C2H2
+253	disco	-	ZF-C2H2
+254	disco-r	bae, batone	ZF-C2H2
+255	Dlip1	dip1	ZF-C2H2
+256	Dref	DRE-binding factor, dDREF, DNA replication-related element-binding factor, DNA replication-related element binding factor	ZF-C2H2
+257	drm	drum	ZF-C2H2
+258	dwg	zw5, l(1)zw5, zw-5, EG:95B7.6, zeste-white 5	ZF-C2H2
+259	erm	dFezf, dfezl	ZF-C2H2
+260	esg	l(2)35Ce, dgl, l(2)br43, Fusion-1, fleabag	ZF-C2H2
+261	fru	satori, sat, BTB-VI	ZF-C2H2
+262	gl	none	ZF-C2H2
+263	Glut4EF	stretch, stretched out, BcDNA:GH25505, BcDNA:GM06804	ZF-C2H2
+264	grau	-	ZF-C2H2
+265	ham	-	ZF-C2H2
+266	hang	BcDNA:LD22118	ZF-C2H2
+267	hb	Rg-pbx	ZF-C2H2
+268	her	l(2)mat	ZF-C2H2
+269	hkb	gurt, gurtelchen	ZF-C2H2
+270	ich	ichorous	ZF-C2H2
+271	jim	ovfc.K, ovk	ZF-C2H2
+272	jing	1.28, l(2)01094, l(2)22F3, rhumba	ZF-C2H2
+273	Kah	-	ZF-C2H2
+274	ken	Ken & Barbie, okina, ok	ZF-C2H2
+275	Klf15	Bteb2	ZF-C2H2
+276	klu	l(3)09036, l(3)10052	ZF-C2H2
+277	kmg	-	ZF-C2H2
+278	Kr	If	ZF-C2H2
+279	Kr-h1	Kr-h, Pow, Passion of white, l(2)10642	ZF-C2H2
+280	l(3)neo38	-	ZF-C2H2
+281	Lime	-	ZF-C2H2
+282	lmd	minc, gfl, myoblasts incompetent, gleeful	ZF-C2H2
+283	lola	eyeful, longitudinal lacking, btb, misguided, BTB-IV	ZF-C2H2
+284	luna	KLF, lincRNA.284	ZF-C2H2
+285	M1BP	-	ZF-C2H2
+286	mamo	lincRNA.990	ZF-C2H2
+287	MBD-R2	dMBD-R2	ZF-C2H2
+288	Meics	zinc-finger-motif-protein	ZF-C2H2
+289	MESR4	EP0386	ZF-C2H2
+290	mld	DTS-3, l(3)3DTS	ZF-C2H2
+291	MTA1-like	MTA-like, dMTA1-like, MTA	ZF-C2H2
+292	MTF-1	dMTF-1, metal responsive transcription factor	ZF-C2H2
+293	nerfin-1	Nerfin	ZF-C2H2
+294	nerfin-2	-	ZF-C2H2
+295	Neu2	-	ZF-C2H2
+296	noc	l(2)35Ba, l(2)br22, nocA, br22, BG:DS04641.1	ZF-C2H2
+297	nom	-	ZF-C2H2
+298	Oaz	l(2)03563, Dm_2R:42259	ZF-C2H2
+299	odd	l(2)01863	ZF-C2H2
+300	Odj	-	ZF-C2H2
+301	opa	-	ZF-C2H2
+302	Opbp	Obp	ZF-C2H2
+303	ouib	-	ZF-C2H2
+304	ovo	svb, shavenbaby, shaven baby, ovo/svb, ovoD	ZF-C2H2
+305	pad	-	ZF-C2H2
+306	peb	hnt, Hindsight, EP55	ZF-C2H2
+307	pho	l(4)29, YY1, l(4)BU-2, polyhomeotic, l(4)102EFc	ZF-C2H2
+308	phol	Pho-like	ZF-C2H2
+309	Phs	-	ZF-C2H2
+310	pita	spdk	ZF-C2H2
+311	Plzf	-	ZF-C2H2
+312	Prdm13	-	ZF-C2H2
+313	prg	fu2	ZF-C2H2
+314	pzg	Z4, p160, Pzg/Z4	ZF-C2H2
+315	ranshi	-	ZF-C2H2
+316	rgr	-	ZF-C2H2
+317	rn	roe, roughened eye, P5.3, tod, tot	ZF-C2H2
+318	salm	sal, spalt, l(2)03602	ZF-C2H2
+319	salr	spalt, sal, sal-r	ZF-C2H2
+320	scrt	lincRNA.S4061	ZF-C2H2
+321	sens	Ly, Sensless, sense, sen	ZF-C2H2
+322	sens-2	sens2	ZF-C2H2
+323	seq	vr5, l(2)vr5, l(2)49Fc	ZF-C2H2
+324	shn	quo, l(2)04738, EP2359	ZF-C2H2
+325	sna	Sco, l(2)br28, l(2)br29, l(2)35Db, br29	ZF-C2H2
+326	sob	-	ZF-C2H2
+327	Sp1	D-Sp1	ZF-C2H2
+328	Spps	-	ZF-C2H2
+329	sqz	l(3)02102	ZF-C2H2
+330	sr	-	ZF-C2H2
+331	Sry-β	sryβ, sry β	ZF-C2H2
+332	Sry-δ	sryδ, serendipity delta, sry δ, EH8, sry	ZF-C2H2
+333	ssp	-	ZF-C2H2
+334	su(Hw)	suHw	ZF-C2H2
+335	sug	-	ZF-C2H2
+336	tef	l(2)k15914	ZF-C2H2
+337	term	ter	ZF-C2H2
+338	tio	-	ZF-C2H2
+339	topi	-	ZF-C2H2
+340	trem	-	ZF-C2H2
+341	Trl	GAF, GAGA, GAGA factor, Nc70F, GAGA-factor	ZF-C2H2
+342	tsh	ae	ZF-C2H2
+343	ttk	Ttk69, oversensitive, Tramtrack69, Ttk88, FTZ-F2	ZF-C2H2
+344	ush	FOG, dFOG	ZF-C2H2
+345	wdn	pqp, pourquoi-pas, sry-h1	ZF-C2H2
+346	wek	l(2)35Ea, BG:DS09217.5	ZF-C2H2
+347	wor	l(2)br35, l(2)35Da, br35, BG:DS03023.1	ZF-C2H2
+348	zf30C	l(2)k02506, C282	ZF-C2H2
+349	zfh1	zfh-1, Zinc-finger homeodomain protein 1, zinc finger homeodomain 1, l(3)00865	ZF-C2H2
+350	zfh2	zfh-2, zinc finger homeodomain 2	ZF-C2H2
+351	Zif	-	ZF-C2H2
+352	ZIPIC	-	ZF-C2H2
+353	zld	vfl, vielfaltig, EP1344	ZF-C2H2
+354	Nf-YA	dNF-YA	CBFTF
+355	Nf-YB	dNF-YB	CBFTF
+356	Nf-YC	-	CBFTF
+357	ct	kf, kinked-femur	CUT
+358	dve	l(2)01738	CUT
+359	onecut	-	CUT
+360	dmrt11E	-	DMRT
+361	dmrt93B	-	DMRT
+362	dmrt99B	-	DMRT
+363	dsx	Dmdsx	DMRT
+364	Dp	dDP, DP1, l(2)vr10	E2FTF
+365	E2f1	E2F, dE2F1, dE2F, E(var)3-93E, drosE2F1	E2FTF
+366	E2f2	dE2F2, E2f	E2FTF
+367	aop	yan, pokkuri, pok, DROYANETSB, aop/yan	ETSTF
+368	Eip74EF	E74, E74A, E74B, Eip74, ECIP	ETSTF
+369	Ets21C	D-ets-6	ETSTF
+370	Ets65A	D-ets-3, Ets	ETSTF
+371	Ets96B	-	ETSTF
+372	Ets97D	D-elg, Delg, elg	ETSTF
+373	Ets98B	D-ets-4, D-ets4	ETSTF
+374	pnt	PntP1, PntP2, D-ets-2, pointed-P1, pointedP2	ETSTF
+375	bin	FoxF	FOX
+376	CG32006	-	FOX
+377	CHES-1-like	anon-EST:Posey7	FOX
+378	Crg-1	crg1	FOX
+379	croc	FD1, FoxC	FOX
+380	fd3F	-	FOX
+381	fd19B	-	FOX
+382	fd59A	FD3	FOX
+383	fd96Ca	FD4	FOX
+384	fd96Cb	FD5	FOX
+385	fd102C	-	FOX
+386	fkh	Secretion enhancer-binding protein 2, Sebp2	FOX
+387	FoxK	Mnf, fd68A	FOX
+388	FoxL1	fd64A, FD2	FOX
+389	foxo	dFOXO, Forkhead box O, forkhead box sub-group O, FKHR, forkhead transcription factor	FOX
+390	FoxP	fd85E, forkhead domain 85E	FOX
+391	jumu	Dom, jumeaux, Domina, l(3)06439, l(3)06142	FOX
+392	slp1	slp, sloppy-paired, sloppy paired, FD6, slp-1	FOX
+393	slp2	slp, sloppy-paired, sloppy paired, FD7, FoxG	FOX
+394	GATAd	dGATAd	GATA
+395	GATAe	dGATAe	GATA
+396	grn	GATAc, gra, dGATAc, l(3)84Fa, Gata-c	GATA
+397	pnr	dGATAa, GATA	GATA
+398	srp	dGATAb, GATAb, GATA, l(3)01549, ABF	GATA
+399	gcm	glide/gcm, glide, glial cell missing, glial cell deficient	GCM
+400	gcm2	glide2, glial cells missing 2	GCM
+401	Bap111	dalao, BAF57	HMGBTF
+402	bbx	-	HMGBTF
+403	CG4617	-	HMGBTF
+404	CG12104	-	HMGBTF
+405	cic	fettucine, fet, E(Dl)D49	HMGBTF
+406	D	fish, fish-hook, DM23, DM10, DM33	HMGBTF
+407	Dsp1	Hmg14B	HMGBTF
+408	Hmg-2	BEST:LD07122	HMGBTF
+409	HmgD	HMG-D, HMG D, HMG1	HMGBTF
+410	HmgZ	HMG-Z	HMGBTF
+411	Lpt	cmi, cara mitad	HMGBTF
+412	pan	dTCF, TCF, l(4)13, LEF-1, T cell factor	HMGBTF
+413	polybromo	PB, bap180, baf180	HMGBTF
+414	Sox14	DSox14	HMGBTF
+415	Sox15	SoxE, SoxF	HMGBTF
+416	Sox21a	-	HMGBTF
+417	Sox21b	sox-like	HMGBTF
+418	Sox100B	SoxB	HMGBTF
+419	Sox102F	-	HMGBTF
+420	SoxN	DM64	HMGBTF
+421	Ssrp	SSRP1, dSSRP1	HMGBTF
+422	TFAM	mtTFA, d-TFAM	HMGBTF
+423	tHMG1	-	HMGBTF
+424	tHMG2	-	HMGBTF
+425	abd-A	abdA, iab-2, iab-4, iab-3, Hab	HOXL
+426	Abd-B	AbdB, Mcp, iab-7, iab-6, Fab-7	HOXL
+427	Antp	ANT-C, Hu, DmAntp, Scx, Antennapaedia	HOXL
+428	bcd	-	HOXL
+429	btn	-	HOXL
+430	cad	38E.19, cd	HOXL
+431	Dfd	DmDfd	HOXL
+432	eve	E(eve), Complementation group F, l(2)46Ce	HOXL
+433	ftz	Dm-Ftz	HOXL
+434	ind	-	HOXL
+435	lab	F90-2, F24	HOXL
+436	pb	l(3)04498, proposcipedia	HOXL
+437	ro	-	HOXL
+438	Scr	Msc, Multiple sex comb	HOXL
+439	Ubx	bx, pbx, Cbx, bithorax, bxd	HOXL
+440	zen	z1, zerknult	HOXL
+441	zen2	z2	HOXL
+442	ap	-	LIM
+443	Awh	l(3)63Ea	LIM
+444	CG4328	-	LIM
+445	Lim1	dlim1, dlim-1, BcDNA:GH04929, Lim kinase	LIM
+446	Lim3	l(2)37Bd	LIM
+447	Lmx1a	-	LIM
+448	tup	islet, isl	LIM
+449	Adf1	Adf-1, nal, nalyot, l(2)01349, l(2)k14805	MADF-BESS-TF
+450	Dlip3	Dip3	MADF-BESS-TF
+451	stwl	-	MADF-BESS-TF
+452	Mad	pMad, Mothers Against Decapentaplegic, Mother against decapentaplegic, dMad, Smad	MHTF
+453	Med	l(3)SG70, dSmad4, l(3)11m-254	MHTF
+454	NfI	-	MHTF
+455	Smox	dSmad2, Smad2, l(1)G0348, Sad	MHTF
+456	bs	DSRF, SRF, pruned, D-SRF, serum response factor	MADSTF
+457	Mef2	Dmef2, D-mef2, Myocyte enhancing factor 2, Mef-2, Dmef	MADSTF
+458	bap	NK3, NK-3, bgp	NKL
+459	B-H1	Bar	NKL
+460	B-H2	Bar	NKL
+461	bsh	E86	NKL
+462	C15	clawless, cll	NKL
+463	CG11085	-	NKL
+464	CG15696	-	NKL
+465	CG18599	-	NKL
+466	CG34031	BP1068	NKL
+467	Dbx	-	NKL
+468	Dll	Ba, l(2)01092, Brista, Distall-less	NKL
+469	Dr	msh, muscle segment homeobox, muscle specific homeobox, msh1, Msx	NKL
+470	E5	-	NKL
+471	ems	-	NKL
+472	en	Eng, spt, spermatheca, en1	NKL
+473	exex	Hb9, dHb9	NKL
+474	H2.0	-	NKL
+475	HGTX	Nkx6, Nk6	NKL
+476	HHEX	-	NKL
+477	Hmx	-	NKL
+478	inv	in, engrailed-related	NKL
+479	lbe	ladybird, lb	NKL
+480	lbl	ladybird, lb	NKL
+481	lms	-	NKL
+482	NK7.1	-	NKL
+483	scro	l7, l(3)Lh7	NKL
+484	slou	S59, NK-1, S59/NK-1, Nk1	NKL
+485	tin	NK-4, msh-2, NK4/msh-2, msh2, NK4	NKL
+486	unpg	unp, upg	NKL
+487	vnd	NK-2, vnd/NK-2, NK2, EC6, EG:118B3.1	NKL
+488	Dif	-	NF-KB
+489	dl	NFκB, GSd447	NF-KB
+490	Rel	NF-κB, ird4, NFκB, l(3)neo36	NF-KB
+491	NFAT	EP1335, MESR1, Misexpression Suppressor of Ras 1, Rel domain protein	NFAT
+492	dsf	-	NR
+493	EcR	EcR-B1, EcRB1, DmEcR, EcR-A, ecdysteroid receptor	NR
+494	Eip75B	E75, E75A, E75B, E75C, l(3)neo25	NR
+495	Eip78C	E78, E78B, E78A, Eip78, nuclear hormone receptor	NR
+496	ERR	dERR	NR
+497	ftz-f1	βFTZ-F1, ftzf1, ftz-f1α, β-Ftz-F1, l(3)03649	NR
+498	Hnf4	dHNF4, dHNF-4, HNF-4(D), Hnf-4, NHF4	NR
+499	Hr3	DHR3, Hr46, Hormone receptor-like in 46, NR1F4, Complementation group D	NR
+500	Hr4	DHR4, EP1232, EG:BACH61I5.1, EG:133E12.2, NR6A2	NR
+501	Hr38	DHR38, 38E.7, 38E.3, NR4A4	NR
+502	Hr39	DHR39, ftz-F1β, fs(2)neo8, fs(2)04443, NR5B1	NR
+503	Hr51	unf, DHR51, unfulfilled, Nr2e3	NR
+504	Hr78	DHR78, XR78E/F, NR2D1	NR
+505	Hr83	DHR83, NR2E5	NR
+506	Hr96	DHR96, NR1J1	NR
+507	svp	ck16, NR2F3, l(3)ck16, don, SVP1	NR
+508	tll	NR2E2	NR
+509	usp	DmUSP, CF1, EG:22E5.1, dUSP, NR2B4	NR
+510	eg	egon, egl, spy	NR0
+511	kni	ri, radius incompletus	NR0
+512	knrl	knirps-related, knirps related	NR0
+513	brk	ssg-1	ODBDTF
+514	bun	shs, l(2)00255, Dm_2L:60722, TSC-22	ODBDTF
+515	Camta	croaker, dCAMTA, cro, Calmodulin-binding transcription factor, DmCAMTA	ODBDTF
+516	CG9727	-	ODBDTF
+517	CG11970	BcDNA:LD23876	ODBDTF
+518	CG12659	-	ODBDTF
+519	CG15011	-	ODBDTF
+520	CG32772	-	ODBDTF
+521	D1	-	ODBDTF
+522	dac	dachsund, dacshund, l(2)36Ae, Dach, BG:DS02780.3	ODBDTF
+523	Deaf1	DEAF-1	ODBDTF
+524	E(bx)	NURF301, NURF, p301, dNURF, Nurf-215	ODBDTF
+525	elB	el, elbow, BG:DS06238.3	ODBDTF
+526	ewg	EC3, EG:BACR37P7.7, l(1)1Ag, l(1)EC3	ODBDTF
+527	fs(1)h	fsh, Fs(1)h-L, fs(1)1456, fs(1)M16, l(1)G0093	ODBDTF
+528	fuss	CORL, dCORL	ODBDTF
+529	gem	-	ODBDTF
+530	grh	NTF-1, Elf-1, Gh, l(2)06850, Elf1	ODBDTF
+531	Hsf	dHSF, l(2)03091, HSF1, heat-shock transcription factor, Dm-Hsf	ODBDTF
+532	insv	-	ODBDTF
+533	lilli	l(2)00632, Su(Raf)2A, l(2)23Cc, AFF4, SY2-1	ODBDTF
+534	Mabi	-	ODBDTF
+535	mod(mdg4)	E(var)3-93D, doom, mnm, Mod(mdg4)2.2, Mod(mdg4)67.2	ODBDTF
+536	Mrtf	DMRTF, mal-d, mal	ODBDTF
+537	NC2α	Drap1	ODBDTF
+538	NC2β	BG:DS00929.3, Dr1, NC2 beta	ODBDTF
+539	p53	Dmp53, dp53	ODBDTF
+540	Rfx	dRFX, Regulatory factor X	ODBDTF
+541	row	-	ODBDTF
+542	Snoo	dSno, SnoN, dSki, l(2)SH1402	ODBDTF
+543	Stat92E	STAT, marelle, mrl, D-STAT, Dstat	ODBDTF
+544	stc	l(2)35Cb, l(2)br33, br33, BG:DS04929.4	ODBDTF
+545	Su(H)	SuH, l(2)br7, Supressor of Hairless, l(2)35Bh, CSL	ODBDTF
+546	TfAP-2	dAP-2, AP-2, l(3)1215, AP-2α	ODBDTF
+547	Thd1	G/T-mismatch-specific-thymine-DNA-glycosylase	ODBDTF
+548	woc	-	ODBDTF
+549	z	EG:BACH59J11.3	ODBDTF
+550	Poxm	Pox-m	PRD
+551	Poxn	Pox-n	PRD
+552	sv	D-Pax2, spa, sparkling, Pax2, dPax2	PRD
+553	ey	Pax6, l(4)33, Pax-6, eye	PRDH
+554	eyg	lune, lun, BK27, Eygone	PRDH
+555	gsb	gsb-d, BSH9, l(2)01155	PRDH
+556	gsb-n	gsb-p, gsb, gsbn, BSH4, gsb-neuro	PRDH
+557	prd	-	PRDH
+558	toe	twin of eyegone	PRDH
+559	toy	l(4)8, l(4)102CDg	PRDH
+560	al	L13-4	PRDL
+561	CG9876	-	PRDL
+562	CG11294	-	PRDL
+563	CG32532	-	PRDL
+564	CG34367	-	PRDL
+565	Drgx	-	PRDL
+566	Gsc	D-gsc, 60Mun2, l(2)05341, Muenster 72	PRDL
+567	hbn	-	PRDL
+568	oc	otd, orthodenticle, Otx, ort, orthodentical	PRDL
+569	OdsH	-	PRDL
+570	otp	W26, bk24	PRDL
+571	PHDP	-	PRDL
+572	Pph13	Munster, hazy, Mu	PRDL
+573	Ptx1	D-Ptx1	PRDL
+574	repo	RK2, reverse polarity	PRDL
+575	Rx	DRx, E97, PPH17, bk50	PRDL
+576	unc-4	Dunc-4	PRDL
+577	Vsx1	dChx1, Chx1, dVsx1, lincRNA.S8688	PRDL
+578	Vsx2	Chx2, dVsx2	PRDL
+579	bab1	bab, bric-a-brac, bric a brac, bab-I, bric a brac I	PSQ
+580	bab2	bab, bab-II, bric-a-brac, bric a brac, BTB-II	PSQ
+581	BtbVII	BTB-VII	PSQ
+582	CG3726	-	PSQ
+583	CG8924	-	PSQ
+584	CG15812	piefke, pfk	PSQ
+585	dan	fernandez	PSQ
+586	danr	hernandez	PSQ
+587	dany	-	PSQ
+588	Eip93F	E93, lincRNA.833, l(3)ry93, l(3)93, psg11	PSQ
+589	lov	Tkr, BTB-III, dTKR, 91Y, Tyrosine kinase-related protein	PSQ
+590	psq	eyeful, rumpf, zep, BTB-V, rum	PSQ
+591	rib	-	PSQ
+592	acj6	I-POU	POU
+593	nub	pdm-1, Pdm1, Pdm, dPOU-19, POU domain protein 1	POU
+594	pdm2	pdm-2, pdm, miti, dPOU-28, dPOU28	POU
+595	pdm3	-	POU
+596	vvl	drifter, dfr, Cf1a, ventral veinless, Drf	POU
+597	pros	Voila, DROPROSA, pro, a la voile et a la vapeur, DMPROSPER	PROS
+598	lz	fs(1)M69	RUNT
+599	run	leg, AA33	RUNT
+600	RunxA	-	RUNT
+601	RunxB	-	RUNT
+602	apt	tdf, tracheae defective, l(2)06369, l(2)59Ea, l(2)09049	SANT-MYB-TF
+603	Bdp1	-	SANT-MYB-TF
+604	Myb	Dm-Myb, Dm myb, D-myb, dMyb, c-Myb	SANT-MYB-TF
+605	Pbp95	DmSNAP190, DmPBP	SANT-MYB-TF
+606	Optix	opt, D-Six3, Six3, Dsix3	SIX
+607	Six4	DSix4, D-Six4	SIX
+608	so	Drl, mda, medusa	SIX
+609	achi	zaa	TALE
+610	ara	iro, iroquois, Iro-C, IroC	TALE
+611	caup	iro, iroquois, Iro-C	TALE
+612	CG11617	-	TALE
+613	exd	Dpbx, lincRNA.S9404	TALE
+614	hth	dorsotonals, dtl, P53, anon-EST:Liang-2.13	TALE
+615	mirr	Iro-C, iro, iroquois, mrr, Sail	TALE
+616	vis	zaa, achi/vis	TALE
+617	bi	omb, optomotor-blind, optomotor blind, Qd, l(1)omb	TBX
+618	byn	Trg	TBX
+619	Doc1	Doc, Dorsocross, Tb66F2	TBX
+620	Doc2	Doc, Dorsocross, Doc-2	TBX
+621	Doc3	Doc	TBX
+622	H15	nmr, nmr1, neuromancer, neuromancer1, neuromancer 1	TBX
+623	mid	nmr2, extra, neuromancer2, neuromancer 2, lost in space	TBX
+624	org-1	-	TBX
+625	sd	sp, l(1)G0309, l(1)G0239, l(1)G0262, l(1)G0483	TEATF
+626	CG13894	-	THAPTF
+627	CG14860	-	THAPTF
+628	CG14965	-	THAPTF
+629	Dlip2	Dip2	THAPTF
+630	zfh1	zfh-1, Zinc-finger homeodomain protein 1, zinc finger homeodomain 1, l(3)00865	ZFH
+631	zfh2	zfh-2, zinc finger homeodomain 2	ZFH
