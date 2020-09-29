@@ -614,8 +614,8 @@ def run_assess(score_function, summary_output, raw_output, user_motif_details, c
 
 score_extensions = {"gomeroccupancyscore": 'gomer', "energyscore": 'energy', "amaoccupancyscore": 'ama',
                     "maxoccupancyscore": 'maxoc', "sumlogoddsscore": 'sumlog', "maxlogoddsscore": 'maxlog',
-                    "sumoccupancyscore": 'sumoc', "energy_score_kmer": 'energymer',
-                    "max_score_kmer": 'max_kmer', "max_score_kmer_pos": 'max_kmer_pos'}
+                    "sumoccupancyscore": 'sumoc'}#, "energy_score_kmer": 'energymer',
+                    #"max_score_kmer": 'max_kmer', "max_score_kmer_pos": 'max_kmer_pos'}
 
 
 def get_tf_names(user_motif):
@@ -635,8 +635,8 @@ def run_all(tf, scoring_function, user_motif, chip_seq_list, results_folder_path
         chip_seq_list = random.sample(chip_seq_list, 10)
 
     score_option = scoring_function
-    summary_output_file = "%s/%s.%s" % (results_folder_path, tf.lower(), score_extensions[scoring_function])
-    raw_output_file = "%s/%s_raw.%s" % (results_folder_path, tf.lower(), score_extensions[scoring_function])
+    summary_output_file = "%s/%s.%s" % (results_folder_path, tf, score_extensions[scoring_function])
+    raw_output_file = "%s/%s_raw.%s" % (results_folder_path, tf, score_extensions[scoring_function])
     pr = "%s\t%s\t%s\t%s\t%s\n" % ("Motif", "AUC", "MNCP", "Pearson", "Spearman")
 
     file_header = "%s\t%s\t%s\t%s\t%s\t%s\n" % ("ChIP_file", "Motif", "AUC", "MNCP", "Pearson", "Spearman")
