@@ -45,6 +45,7 @@ Using an automated job creator and submitter tool and the yaml file, edit the [`
   - json files directory
   - log files directory 
   - path to the script used to run analysis
+  - output batch number
   
  This tool will create job scripts and submit them automatically to the job scheduler by running;
  
