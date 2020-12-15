@@ -1,0 +1,25 @@
+#!/bin/bash
+# SPECIFY JOB SUBMISSION PARAMETERS
+
+#SBATCH --job-name={{job_name}}
+#SBATCH --cpus-per-task=8
+#SBATCH --mem={{job_memory}}
+#SBATCH --time={{job_walltime}}
+#SBATCH --partition=htc
+
+#SBATCH --output={{logs_folder}}/{{job_name}}.%j.out # Stdout (%j expands to jobId)
+#SBATCH --error={{logs_folder}}/{{job_name}}.%j.err # Stderr (%j expands to jobId)
+
+# SPECIFY LOGGING BEHAVIOR
+
+# FOR THINGS LIKE 'module load ...' OR 'conda activate ...'
+{{ setup }}
+
+echo "`date` Starting"
+
+{{ command }} \
+{{ argument_1 }} \
+{{ argument_2 }} 
+
+
+echo "`date` Exiting"

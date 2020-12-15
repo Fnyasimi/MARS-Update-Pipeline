@@ -1,0 +1,58 @@
+---
+definitions:
+
+  # command and template must always be specified.
+  command: "bash /mnt/exports/shared/home/festus.nyasismi/chip_analysis.sh"
+  template: SLURM_example_template.jinja
+
+  copy_to_item: true
+
+  default_arguments:
+    job_memory: "55gb"
+    job_walltime: "3000:00:00"
+    logs_folder: /mnt/exports/shared/home/festus.nyasismi/logs/sbatch27
+
+  # This specifies what the script does once an individual file is generated.
+  submission:
+    !SLURMQueue
+      jobs_folder: /mnt/exports/shared/home/festus.nyasismi/Batch2/sbatch7
+      job_name_key: job_name # Jobs will be written to job_name.sh files with the generated job_name argument filled in.
+      fake_submission: false # Specifying this just writes the files and does not run a submission command.
+
+  # You can use YAML's built-in & and * things to make everything more neat
+  constants:
+    prefix_dir: &PREFIX_DIR /mnt/exports/shared/home/festus.nyasismi/MARS_update/hg-jsonfiles/Batch2/sub-batch7/
+    config_file: &CONFIG_FILE /mnt/exports/shared/home/festus.nyasismi/batch27-jobs.yaml
+
+  # Right now, this is how we make sure the necessary directories are in place.
+  # This is a great candidate for feature upgrade.
+  pre_command:
+  - 'mkdir -p /mnt/exports/shared/home/festus.nyasismi/logs/sbatch27'
+
+sub_configuration:
+  -
+    how: before_arguments
+    path: *CONFIG_FILE
+
+# There are a lot of different types of arguments, and only a few are shown here.
+arguments:
+
+  - !Range
+    name: json_file
+    keys_from_metadata_path: __configuration/json_index
+    metadata_rules: [ !SaveValueInMetadata { path: json }]
+
+  - !ArgumentFromMetadata
+    name: argument_1
+    prefix: ""
+    prepend: *PREFIX_DIR
+    format_rule: "{json}.json"
+    sources: [ { path: json, destination: json } ]
+
+  - !Scalar { name: argument_2, prefix: "", value: "hg2.7" }
+
+  - !ArgumentFromMetadata
+    name: job_name
+    format_rule: "{json}"
+    sources: [ { path: json, destination: json } ]
+
