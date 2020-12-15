@@ -62,5 +62,12 @@ Using an automated job creator and submitter tool and the yaml file, edit the [`
    - Collecting the peak files in a specific location
    - Cleaning up the raw reads and working directory to save on space
    
-
-  
+## Summary of all the steps
+```
+~$ bash change-resources-p.sh MARS_update/hg-jsonfiles/Batch2/sub-batch7 8 8
+~$ cp batch-template-jobs.yaml batch27-jobs.yaml
+~$ ls /work/MARS_update/hg-jsonfiles/Batch2/sub-batch7/ >> batch27-jobs.yaml
+~$ sed -i -e 's/GSE/ GSE/g' -e 's/.json/ : .json/g' batch27-jobs.yaml
+~$ vim example_submission.yaml
+~$ python3 badger/src/badger.py -yaml_configuration_file example_submission.yaml -parsimony 9
+```
