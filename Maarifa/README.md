@@ -17,12 +17,12 @@ The reference genome was downloaded based on the encode pipeline description
 
 ### Change absolute paths
 First we need to change the absolute files in our json files as they were created on a different machine. 
-To do this I updated the paths to the input files in the json files using a modified version of the [`change-resources-p.sh`]() script.
+To do this I updated the paths to the input files in the json files using a modified version of the [`change-resources-p.sh`](./change-resources-p.sh) script.
 Inside that script is where I changed the absolute paths. To run the script;
 
 `change-resources-p.sh <path to json files dir> <align cpus> <peakcall cpus>`
 
-Ensure the absolute paths I am using in the [`links-parallel-p.sh`]() and [`dumper-p.sh`]() are the same ones I am using in the `change-resources-p.sh` script.
+Ensure the absolute paths I am using in the [`links-parallel-p.sh`](./links-parallel-p.sh) and [`dumper-p.sh`](./dumper-p.sh) are the same ones I am using in the [`change-resources-p.sh`](./change-resources-p.sh) script.
 These scripts are used in the analysis script to download and dump reads.
 
 ### Create a jobs yaml file
@@ -39,7 +39,7 @@ Edit it to fit a yaml style format while removing the suffix
 `sed -i -e 's/GSE/    GSE/g' -e 's/.json/ : .json/g' batch24-jobs.yaml`
 
 ### Create a job template
-Using an automated job creator and submitter tool and the yaml file, edit the [`template_submission.yaml`]() with correct path to;
+Using an automated job creator and submitter tool and the yaml file, edit the [`template_submission.yaml`](./example_submission.yaml) with correct path to;
   - jobs yaml file
   - job directory
   - json files directory
@@ -55,7 +55,7 @@ Using an automated job creator and submitter tool and the yaml file, edit the [`
  
  `for file in $(ls Batch2/sbatch3/); do sbatch Batch2/sbatch3/$file ; sleep 30; done`
  
- The jobs are executed using [`chip_analysis.sh`]() script which embeds the following tasks;
+ The jobs are executed using [`chip_analysis.sh`](./chip_analysis.sh) script which embeds the following tasks;
    - Downloading raw reads
    - Dumping raw reads into the `.sra` format
    - Running the Encode chip-seq analysis pipeline
