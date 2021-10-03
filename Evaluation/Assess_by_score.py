@@ -159,7 +159,7 @@ def gomeroccupancyscore(pwm_dictionary, seq):
     Takes as input a PWM dictionary, and a sequences and
     computes the gomer score
     """
-    if "N" in seq:
+    if "N" in seq or "Y" in seq or "R" in seq or "K" in seq or "M" in seq or "S" in seq or "W" in seq:
         return 0
     else:
         # pwm_length = len(pwm_dictionary)
@@ -203,7 +203,7 @@ def sumoccupancyscore(pwm_dictionary, seq):
     Takes as input a PWM dictionary, and a sequences and
     computes the sum occupancy score.
     """
-    if "N" in seq:
+    if "N" in seq or "Y" in seq or "R" in seq or "K" in seq or "M" in seq or "S" in seq or "W" in seq:
         return 0
     else:
         # pwm_length = len(pwm_dictionary)
@@ -234,7 +234,7 @@ def sumlogoddsscore(pwm_dictionary, seq):
     
     This is the scoring approach that is used by MEME Suite
     """
-    if "N" in seq:
+    if "N" in seq or "Y" in seq or "R" in seq or "K" in seq or "M" in seq or "S" in seq or "W" in seq:
         return 0
     else:
         # pwm_length = len(pwm_dictionary)
@@ -273,7 +273,7 @@ def maxlogoddsscore(pwm_dictionary, seq):
     computes the max of the log odds scores.
 
     """
-    if "N" in seq:
+    if "N" in seq or "Y" in seq or "R" in seq or "K" in seq or "M" in seq or "S" in seq or "W" in seq:
         return 0
     else:
         # pwm_length = len(pwm_dictionary)
@@ -315,7 +315,7 @@ def maxoccupancyscore(pwm_dictionary, seq):
     Takes as input a PWM dictionary, and a sequences and
     computes the sum occupancy score.
     """
-    if "N" in seq:
+    if "N" in seq or "Y" in seq or "R" in seq or "K" in seq or "M" in seq or "S" in seq or "W" in seq:
         return 0
     else:
         # pwm_length = len(pwm_dictionary)
@@ -346,7 +346,7 @@ def amaoccupancyscore(pwm_dictionary, seq):
     Score sequences using AMA scoring uses average occupancy scores
 
     """
-    if "N" in seq:
+    if "N" in seq or "Y" in seq or "R" in seq or "K" in seq or "M" in seq or "S" in seq or "W" in seq:
         return 0
     else:
         # pwm_length = len(pwm_dictionary)
@@ -389,7 +389,7 @@ def energyscore(pwm_dictionary, seq):
     This is currently showing some promise but further testing is
     needed to ensure that I have a robust algorithm.
     """
-    if "N" in seq:
+    if "N" in seq or "Y" in seq or "R" in seq or "K" in seq or "M" in seq or "S" in seq or "W" in seq:
         return 0
     else:
         pwm_length = len(pwm_dictionary["A"])
@@ -676,12 +676,12 @@ def plot_info(tf, score_method, results_folder):
     score_ext = score_extensions[score_method]
 
     plot_histogram_assess(files_path + "." + score_ext,
-                          files_path + '_assess')
+                          files_path + "_" + score_ext +'_assess')
 #     plot_histogram_assess(files_path + "." + score_ext,
 #                           files_path + '_assess.eps')
-    plot_raw_assess(files_path + "_raw." + score_ext, files_path + '_assess_raw.png', 'AUC')
-    plot_raw_assess(files_path + "_raw." + score_ext, files_path + '_assess_raw.eps', 'AUC')
-    rotate_image(files_path + '_assess.png', files_path + '_assess_rot.png')
+    plot_raw_assess(files_path + "_raw." + score_ext, files_path + "_" + score_ext + '_assess_raw.png', 'AUC')
+    plot_raw_assess(files_path + "_raw." + score_ext, files_path + "_" + score_ext +'_assess_raw.eps', 'AUC')
+    rotate_image(files_path + "_" + score_ext + '_assess.png', files_path + "_" + score_ext +'_assess_rot.png')
 
 
 def plot_raw_assess(raw_data, figure_output, stat):
