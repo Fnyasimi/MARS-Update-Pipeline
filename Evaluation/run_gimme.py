@@ -45,8 +45,8 @@ def run_gimme(tf, user_motif, chip_seq_list, results_path, genome, figure=False)
     if figure:
         plot_histogram_gimme(gimme_in, gimme_out, "%s/%s_gimme.png" % (results_path, tf))
         plot_histogram_gimme(gimme_in, gimme_out, "%s/%s_gimme.eps" % (results_path, tf))
-
-        rotate_image("%s/%s_gimme.png" % (results_path, tf), "%s/%s_gimme_rot.png" % (results_path, tf))
+        if os.path.isfile((f'{results_path}/{tf}_gimme.png')):
+            rotate_image("%s/%s_gimme.png" % (results_path, tf), "%s/%s_gimme_rot.png" % (results_path, tf))
 
 
 def clean_gimme(gimme_in, gimme_out):
@@ -76,35 +76,39 @@ def plot_histogram_gimme(gimme_in, gimme_out, figure_out):
 
     clean_gimme(gimme_in, gimme_out)
     gimme = pd.read_table(gimme_out)
-    new_gimme = pd.pivot_table(gimme, index=['Motif'])
-    new_gimme = new_gimme.sort_values(by="ROC AUC", axis=0, ascending=False)
-    labels = new_gimme.index
-    x = 10
-    if len(labels) > 50:
-        x = 15
-    elif len(labels) < 10:
-        x = 5
+    if gimme.shape[0] == 0:
+        print("No results")
+        pass
+    else:
+        new_gimme = pd.pivot_table(gimme, index=['Motif'])
+        new_gimme = new_gimme.sort_values(by="ROC AUC", axis=0, ascending=False)
+        labels = new_gimme.index
+        x = 10
+        if len(labels) > 50:
+            x = 15
+        elif len(labels) < 10:
+            x = 5
 
-    f, (ax1, ax2, ax3, ax4, ax5) = plt.subplots(5, 1, figsize=(x, 10), sharex=True, dpi=100)
-    a = sns.barplot(x=labels, y=new_gimme["ROC AUC"],
-                    palette='colorblind', order=labels, ax=ax1)
-    b = sns.barplot(x=labels, y=new_gimme["PR AUC"],
-                    palette="colorblind", order=labels, ax=ax2)
-    c = sns.barplot(x=labels, y=new_gimme["Enr. at 1% FPR"],
-                    palette="colorblind", order=labels, ax=ax3)
-    d = sns.barplot(x=labels, y=new_gimme["Recall at 10% FDR"],
-                    palette="colorblind", order=labels, ax=ax4)
-    e = sns.barplot(x=labels, y=new_gimme["P-value"],
-                     palette="colorblind", order=labels, ax=ax5)
+        f, (ax1, ax2, ax3, ax4, ax5) = plt.subplots(5, 1, figsize=(x, 10), sharex=True, dpi=100)
+        a = sns.barplot(x=labels, y=new_gimme["ROC AUC"],
+                        palette='colorblind', order=labels, ax=ax1)
+        b = sns.barplot(x=labels, y=new_gimme["PR AUC"],
+                        palette="colorblind", order=labels, ax=ax2)
+        c = sns.barplot(x=labels, y=new_gimme["Enr. at 1% FPR"],
+                        palette="colorblind", order=labels, ax=ax3)
+        d = sns.barplot(x=labels, y=new_gimme["Recall at 10% FDR"],
+                        palette="colorblind", order=labels, ax=ax4)
+        e = sns.barplot(x=labels, y=new_gimme["P-value"],
+                         palette="colorblind", order=labels, ax=ax5)
 
-    a.set_xlabel("")
-    b.set_xlabel("")
-    c.set_xlabel("")
-    d.set_xlabel("")
-    e.set_xticklabels(labels, rotation=90)
-    e.set_xlabel("Motif",fontdict={'fontsize': 12, 'fontweight': 'semibold'})
-    sns.despine()
-    f.savefig(figure_out, bbox_inches='tight')
+        a.set_xlabel("")
+        b.set_xlabel("")
+        c.set_xlabel("")
+        d.set_xlabel("")
+        e.set_xticklabels(labels, rotation=90)
+        e.set_xlabel("Motif",fontdict={'fontsize': 12, 'fontweight': 'semibold'})
+        sns.despine()
+        f.savefig(figure_out, bbox_inches='tight')
 
 
 def meme2gimme(meme, gimme):
