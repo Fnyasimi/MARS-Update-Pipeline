@@ -2153,7 +2153,7 @@ GSE23784	CTCF	anti-CTCF	Pancreatic islets	-	-	GSE23784_anti-CTCF	GSE23784_CTCF
 GSE23792	IGF-I	IGF-I Receptor beta Antibody	-	-	DFB malignant melanoma cell line	GSE23792_IGF-I_Receptor_beta_Antibody	GSE23792_IGF-I
 GSE23795	SOX2	Sox2 antibody	-	LN229 glioma cancer cells	-	GSE23795_Sox2_antibody	GSE23795_SOX2
 GSE23839	SOX2	Sox2 antibody	-	LN229 glioma cancer cells	-	GSE23839_Sox2_antibody	GSE23839_SOX2
-GSE23852	AP-2γ	anti-AP-2γ	-	MCF-7 breast cancer cell line	-	GSE23852_anti-AP-2γ	GSE23852_AP-2γ
+GSE23852	AP-2γ	anti-AP-2γ	-	MCF-7 breast cancer cell line	-	GSE23852_anti-AP-2γ	GSE23852_AP-2gamma
 GSE23852	FOXA1	anti-FoxA1	-	MCF-7 breast cancer cell line	-	GSE23852_anti-FoxA1	GSE23852_FOXA1
 GSE23893	ERa	ERα	-	T47D breast cancer cells	-	GSE23893_ERα	GSE23893_ERa
 GSE24326	CEBPa	C/EBPα	-	-	Mesenchymal stem cells-derived adipocytes	GSE24326_CEBPα	GSE24326_CEBPa
@@ -3262,7 +3262,7 @@ GSE55064	BRD3	BRD3	-	PC3	prostate cancer cells	GSE55064_BRD3	GSE55064_BRD3
 GSE55064	BRD4	BRD4	-	PC3	prostate cancer cells	GSE55064_BRD4	GSE55064_BRD4
 GSE55064	ERG	ERG	-	PC3	prostate cancer cells	GSE55064_ERG	GSE55064_ERG
 GSE55105	c-Rel	Santa Cruz Biotechnology #sc-71	-	GM12878	-	GSE55105_Santa_Cruz_Biotechnology_#sc-71	GSE55105_c-Rel
-GSE55105	NF-κB_p50	Santa Cruz Biotechnology #sc-1190	-	GM12878	-	GSE55105_Santa_Cruz_Biotechnology_#sc-1190	GSE55105_NF-κB_p50
+GSE55105	NF-κB_p50	Santa Cruz Biotechnology #sc-1190	-	GM12878	-	GSE55105_Santa_Cruz_Biotechnology_#sc-1190	GSE55105_NF-kB_p50
 GSE55105	p52_p50	Bethyl Laboratories #A300-BL7039	-	GM12878	-	GSE55105_Bethyl_Laboratories_#A300-BL7039	GSE55105_p52_p50
 GSE55105	RelB	Santa Cruz Biotechnology #sc-226	-	GM12878	-	GSE55105_Santa_Cruz_Biotechnology_#sc-226	GSE55105_RelB
 GSE55279	WDR5	WDR5, Bethyl Labs	-	LNCaP cells	-	GSE55279_WDR5_Bethyl_Labs	GSE55279_WDR5
